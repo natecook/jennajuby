@@ -2,6 +2,9 @@
 title: 'Tulum, Mexico'
 date: Tue, 01 May 2018 19:53:17 +0000
 draft: false
+description: >-
+  Every winter Nate and I try to take a long weekend trip somewhere warm to get away from the cold. This year we picked Tulum, Mexico!
+image: https://djh82r8xhqebh.cloudfront.net/uploads/2018/05/Tulum_Blog-2.jpg
 ---
 
 Every winter Nate and I try to take a long weekend trip somewhere warm to get away from the cold. This year we picked Tulum, Mexico! It's less than a 3 hour flight from New York, and it seemed like everyone and their mother has been going, so we figured we would check it out! I also wanted to see Tulum before it got TOO touristy, since it's famous for it's uncommercialized feel, aka hipster-ville. We were there 4 nights and 4 full days but easily could have stayed a week! There were so many more places I wanted to eat and explore, I wish we had more time!

@@ -2,6 +2,9 @@
 title: 'Anniversary Photo Shoot!'
 date: Thu, 26 Feb 2015 21:23:47 +0000
 draft: false
+description: >-
+  When Nate proposed, he had set up a mini engagement photo shoot to happen right afterwards with W + E Photographie
+image: https://djh82r8xhqebh.cloudfront.net/uploads/2015/02/AnnForBlog-24.jpg
 ---
 
 When Nate proposed, he had set up a mini engagement photo shoot to happen right afterwards with W + E Photographie, seen [here](http://wephotographie.com/jenna-nate-a-surprise-filled-proposal-mini-engagement-charleston-sc/) and [here](http://www.jennajuby.com/proposal-day/) (which was so fun!). Through the next 4 short months of wedding planning, we ended up not doing our "official" engagement session with our wedding photographers, [Mason and Megan](http://masonandmegan.com/). Since they are the sweetest humans, and good friends of ours, they let us have a rain check on the shoot. That ended up being a year later, just a few days before our 1 year anniversary. Hence, the 1 year anniversary photos : ) We did the shoot in San Luis Obispo, where Megan and Mason are based, and where Nate went to college. It's an incredibly beautiful city, and one of my favorite places in California. We started the shoot at [Scout Coffee](http://scoutcoffeeco.com/), a place we love enough to have named our bunny after it (sort of, also it's just a cute name). We all grabbed some pour over because, whoa, it was 7am. Megan and Mason, you two are saints for letting us do this a year later and waking up so early to do so. We love you guys and are forever obsessed with your work, thank you for these photos that we adore so so much.

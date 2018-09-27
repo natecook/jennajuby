@@ -2,6 +2,9 @@
 title: 'The Very Grand Canyon'
 date: Fri, 20 Feb 2015 05:25:20 +0000
 draft: false
+description: >-
+  Our month of weekend travel has been really really fun and also exhausting. But so worth it : ) The weekend after Vegas, Nate and I went on a short 2 day trip to the Grand Canyon!
+image: https://djh82r8xhqebh.cloudfront.net/uploads/2015/02/GrandCanyon_Blog-73.jpg
 ---
 
 Our month of weekend travel has been really really fun and also exhausting. But so worth it : ) The weekend after Vegas, Nate and I went on a short 2 day trip to the Grand Canyon! Our friends, Afton and Gerrit, met us in Palm Springs to drive the rest of the 6 hours to AZ with us. We packed all we could into the short time we were there and loved every minute! We hiked down [Bright Angel Trail](http://en.wikipedia.org/wiki/Bright_Angel_Trail), drove around to all the look out points on [Desert View Drive](http://www.nps.gov/grca/planyourvisit/desert-view-drive.htm), and biked the rim with [Bright Angel Bike Rentals](http://bikegrandcanyon.com/). The rental place was also a cafe with grab and go food and good coffee, which is hard to come by in this very very very small town with a lack of options. So, if you take a trip here and you're feeling desperate for food in the park- this is my only suggestion. They shockingly had gluten free bread too- whaaa whatt??

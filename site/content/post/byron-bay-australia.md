@@ -2,6 +2,9 @@
 title: 'Byron Bay, Australia'
 date: Wed, 06 Sep 2017 14:09:15 +0000
 draft: false
+description: >-
+  The last few days of our time in Australia, we spent in Byron Bay with Lauren and Andrew! Byron Bay is the cutest little hippie town, just an hour flight north of Sydney.
+image: https://djh82r8xhqebh.cloudfront.net/uploads/2017/08/ByronBay_Blog-40.jpg
 ---
 
 The last few days of our time in Australia, we spent in Byron Bay with Lauren and Andrew! Byron Bay is the cutest little hippie town, just an hour flight north of Sydney. It sits on the eastern shore, and is actually the most easterly part of the entire country (fun fact). Lauren grew up near Byron and her and Andrew got married there a few years ago. So we were honored that they wanted to show us around a place so dear to them! Also, another fun fact is that Iggy Azalea also grew up in this area sooooo that's pretty cool too.

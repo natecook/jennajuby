@@ -2,6 +2,9 @@
 title: 'Southern California'
 date: Wed, 25 Jul 2018 23:39:17 +0000
 draft: false
+description: >-
+  Nate and I went back to Southern California a few weeks ago for a friend's wedding in LA and also to visit his family that lives in Orange County!
+image: https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Cali_Blog-10.jpg
 ---
 
 Nate and I went back to Southern California a few weeks ago for a friend's wedding in LA and also to visit his family that lives in Orange County! I love visiting, we have such fun memories of dating and being newly married there, it holds such a special place in my heart. I was also excited to visit again because it's been a year and a half since we were last in SoCal and I wanted to see all my friends and check out the new places that have been popping up! It was great to try new restaurants and also go back to our tried-and-true first loves (...we take food very seriously). The week went way too fast. Sigh. Anyway, this list constantly changes, but these are the places to eat and things I recommend to do in Los Angeles and Orange County!

@@ -2,6 +2,9 @@
 title: 'watchin'' some whales.'
 date: Tue, 05 May 2015 21:09:48 +0000
 draft: false
+description: >-
+  I love Orange County. It seems like it's over looked sometimes since it's sandwiched between LA and San Diego, two seemingly bigger vacation destinations.
+image: https://djh82r8xhqebh.cloudfront.net/uploads/2015/05/WhaleWatching_Blog-1.jpg
 ---
 
 I love Orange County. It seems like it's over looked sometimes since it's sandwiched between LA and San Diego, two seemingly bigger vacation destinations. But there is SO much to do here, and I've loved every minute I've been able to live in this sunshine filled county. Eventually I'd like to do a blog post on all my favorite things to do, see, and eat in OC but until then I'll throw out some random weekend activities we've done here!

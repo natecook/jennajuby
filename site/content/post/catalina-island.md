@@ -2,6 +2,9 @@
 title: 'Catalina Island'
 date: Sat, 24 Oct 2015 15:04:18 +0000
 draft: false
+description: >-
+  2 months ago, Nate and I went on a short vacation to Catalina Island for his 26th birthday. We had the getaway planned for a while, not knowing at the time that we would be moving to New York City just a day after getting back from the trip (whaaaaat!?)
+image: https://djh82r8xhqebh.cloudfront.net/uploads/2015/10/Catalina_Blog-1.jpg
 ---
 
 2 months ago, Nate and I went on a short vacation to Catalina Island for his 26th birthday. We had the getaway planned for a while, not knowing at the time that we would be moving to New York City just a day after getting back from the trip (whaaaaat!?) Our time there ended up being a great last "hoorah" in southern California. It was so bitter sweet getting to spend one of our last days there. The island seemed like a little oasis, a little pocket of all the things we loved so dearly about California. The beach, the never ending sunshine, and the all together laid back "brah" attitude that everyone has and uses as an excuse to use dry shampoo day after day after day (this is not ok).

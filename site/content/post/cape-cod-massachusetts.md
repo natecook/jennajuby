@@ -2,6 +2,9 @@
 title: 'Cape Cod, Massachusetts'
 date: Thu, 08 Feb 2018 19:53:21 +0000
 draft: false
+description: >-
+  This summer, instead of doing a big trip somewhere, Nate and I decided to do a few small local trips to check out more of the east coast.
+image: https://djh82r8xhqebh.cloudfront.net/uploads/2018/02/CapeCod_Blog-3.jpg
 ---
 
 This summer, instead of doing a big trip somewhere, Nate and I decided to do a few small local trips to check out more of the east coast. I have been to a few places, having grown up not too far from New England, but being the Californian he is, Nate hadn't seen much at all! It was the perfect excuse to do a couple long weekends here and there to visit all the east coast towns and cities we could. On the top on my list was Cape Cod, Massachusetts. I had been as a kid but don't remember a ton, and wanted to go back and explore it all. We went in August and spent the long weekend staying in Chatham and visiting the other small towns on the cape. I'm glad we stayed in Chatham, it was definitely the cutest of all the big towns, but I will say we found that Provincetown had the best food and coffee scene. We had such a fun weekend on Cape Cod and would definitely recommend it for a summer getaway! Here are my recs for food and activities : )

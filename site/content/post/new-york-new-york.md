@@ -2,6 +2,9 @@
 title: 'New York, New York'
 date: Fri, 17 Oct 2014 16:24:23 +0000
 draft: false
+description: >-
+  What can you say about the best city in the world, that's not already been said? New York, New York, there's a reason so many songs...movies...shows...and dreams have had you as their subject.
+image: https://djh82r8xhqebh.cloudfront.net/uploads/2014/09/newyork_blog-9.jpg
 ---
 
 What can you say about the best city in the world, that's not already been said? New York, New York, there's a reason so many songs...movies...shows...and dreams have had you as their subject.

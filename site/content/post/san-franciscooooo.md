@@ -2,6 +2,9 @@
 title: 'San Franciscooooo!'
 date: Tue, 23 Jun 2015 16:39:07 +0000
 draft: false
+description: >-
+  Life has been full lately but we're finally back in Orange County for at least another month and soaking up this summer weather (no more June gloom, yeeeeeeaah!) So here's short photo blog on our weekend up north!
+image: https://djh82r8xhqebh.cloudfront.net/uploads/2015/06/SanFran_Blog-1.jpg
 ---
 
 Hey blog world! Life has been full lately but we're finally back in Orange County for at least another month and soaking up this summer weather (no more June gloom, yeeeeeeaah!) So here's short photo blog on our weekend up north!

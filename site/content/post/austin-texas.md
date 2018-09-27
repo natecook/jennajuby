@@ -2,6 +2,9 @@
 title: 'Austin, Texas'
 date: Fri, 10 Jul 2015 22:15:43 +0000
 draft: false
+description: >-
+  TEXAS! This was both Nate and I's first time visiting the lone star state. We've heard (like every other 20 something year old) Austin was a cool city to explore so we planned a trip there with our good friends, Nikki and David! : )
+image: https://djh82r8xhqebh.cloudfront.net/uploads/2015/07/Austin_Blog-3.jpg
 ---
 
 TEXAS! This was both Nate and I's first time visiting the lone star state. We've heard (like every other 20 something year old) Austin was a cool city to explore so we planned a trip there with our good friends, Nikki and David! : )

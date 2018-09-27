@@ -2,9 +2,12 @@
 title: 'Georgetown'
 date: Tue, 31 Jan 2017 18:50:29 +0000
 draft: false
+description: >-
+  Last spring, Nate and I decided to explore some more of the east coast that is mostly new to him. I grew up visiting the Goergetown/DC area every year and thought it would be fun to meet my parents there for a weekend away!
+image: https://djh82r8xhqebh.cloudfront.net/uploads/2017/01/Georgetown-22.jpg
 ---
 
-Last spring, Nate and I decided to explore some more of the east coast that is \[mostly\] new to him. I grew up visiting the Goergetown/DC area every year and thought it would be fun to meet my parents there for a weekend away! We planned our trip for late April because we knew the cherry blossoms would be in bloom then. Spring is the best time to visit this area in my opinion, although you can get caught in the rain, it's worth it to not have to deal with the humidity. Plus the entire city is blooming around you. It's magical.
+Last spring, Nate and I decided to explore some more of the east coast that is *mostly* new to him. I grew up visiting the Goergetown/DC area every year and thought it would be fun to meet my parents there for a weekend away! We planned our trip for late April because we knew the cherry blossoms would be in bloom then. Spring is the best time to visit this area in my opinion, although you can get caught in the rain, it's worth it to not have to deal with the humidity. Plus the entire city is blooming around you. It's magical.
 
 We stayed in Georgetown and split our time between there and downtown DC to visit all the monuments and such. I got a lot of recommendations of where to eat from friends and did some research of my own, and came up with a list of our favorites. If I did it all again, I would go to Founding Farmers for all three meals at some point during the trip. It was that good. Also, end every evening in the garden at the Fairmont, we sat and sipped for hours (see last photo, plz.)
 

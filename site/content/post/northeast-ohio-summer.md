@@ -2,6 +2,9 @@
 title: 'Northeast Ohio: Summer'
 date: Wed, 31 Jan 2018 16:26:40 +0000
 draft: false
+description: >-
+  I've always wanted to do a blog post on my hometown of Akron, Ohio!
+image: https://djh82r8xhqebh.cloudfront.net/uploads/2018/01/OhioSummer_Blog-77.jpg
 ---
 
 I've always wanted to do a blog post on my hometown of Akron, Ohio! But once I started listing all my favorite things to do, see, and eat, I realized I was going to need to do a few blog posts on it. I thought a fun way to separate them all would be to do them by season. So this past July, Nate and I went to Ohio for a long weekend and tried to check off some of our favorite summer Ohio activities.

@@ -2,6 +2,9 @@
 title: 'Sydney, Australia'
 date: Fri, 25 Aug 2017 23:46:42 +0000
 draft: false
+description: >-
+  In March, Nate and I took a trip to Australia to visit my sister Jillian and brother-in-law Andrew, plus some of our New York friends moved back to Sydney last year as well!
+image: https://djh82r8xhqebh.cloudfront.net/uploads/2017/08/SydneyAustralia-8.jpg
 ---
 
 In March, Nate and I took a trip to Australia to visit my sister Jillian and brother-in-law Andrew, plus some of our New York friends moved back to Sydney last year as well! Suddenly, Sydney has given me a lot of good reasons to visit the beautiful island every year ; )

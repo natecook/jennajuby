@@ -2,6 +2,9 @@
 title: 'almost home!'
 date: Tue, 21 May 2013 20:57:43 +0000
 draft: false
+description: >-
+  Well, I'm headed home. (for a week that is). Trying to take advantage of my layover here in DEN.
+image: https://djh82r8xhqebh.cloudfront.net/uploads/2013/05/photo-12.jpg
 ---
 
 Well, I'm headed home. (for a week that is). Trying to take advantage of my layover here in DEN.
@@ -32,6 +35,6 @@ Before I forget, HOLY MOLY I AM SO EXCITED TO SEE MY FAMILY AND FRIENDS.
 
 seriously this is what i'm coming home to.
 
-[![Image](http://jennajuby.files.wordpress.com/2013/05/photo-12.jpg?w=650)](http://jennajuby.files.wordpress.com/2013/05/photo-12.jpg)[![Image](http://jennajuby.files.wordpress.com/2013/05/photo-10.jpg?w=650)](http://jennajuby.files.wordpress.com/2013/05/photo-10.jpg)[![Image](http://jennajuby.files.wordpress.com/2013/05/photo-11.jpg?w=650)](http://jennajuby.files.wordpress.com/2013/05/photo-11.jpg)
+![Image](https://djh82r8xhqebh.cloudfront.net/uploads/2013/05/photo-12.jpg)![Image](https://djh82r8xhqebh.cloudfront.net/uploads/2013/05/photo-10.jpg)![Image](https://djh82r8xhqebh.cloudfront.net/uploads/2013/05/photo-11.jpg)
 
 when people say babies are "just so cute i could eat them!" i still feel that way about my 6 year old brother.

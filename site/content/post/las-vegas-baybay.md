@@ -2,6 +2,9 @@
 title: 'Las Vegas, baybay!'
 date: Wed, 11 Feb 2015 20:02:02 +0000
 draft: false
+description: >-
+  If you know me at all, Las Vegas seems like...sort of the last place on earth I would want to vacation. BUT we live 4 hours from it, I've never been, and it's like an american past time!
+image: https://djh82r8xhqebh.cloudfront.net/uploads/2015/02/LasVegas_Blog-24.jpg
 ---
 
 If you know me at all, Las Vegas seems like...sort of the last place on earth I would want to vacation. BUT we live 4 hours from it, I've never been, and it's like an american past time! I had tried once before to road trip there with my best friend, but enough people convinced us that we would be kidnapped and killed that we opted for Palm Springs instead. All that to say, I still needed to live out my college girl day dreams of prancing around Sin City with George Clooney in Oceans 11. So the weekend before last, Nate (hello, so much better than George) and I decided to spend one night in Las Vegas and see all we could within the 24 hours we would spend there.

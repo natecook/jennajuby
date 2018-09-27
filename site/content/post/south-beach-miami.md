@@ -2,6 +2,9 @@
 title: 'South Beach, Miami'
 date: Sat, 22 Jul 2017 05:00:05 +0000
 draft: false
+description: >-
+  This past winter, Nate and I wanted to go on another warm weather escape and chose Miami Florida. It's a running joke that Miami is New York's 6th borough because so many of us vacation there in the winter.
+image: https://djh82r8xhqebh.cloudfront.net/uploads/2017/07/Miami_Blog-18.jpg
 ---
 
 This past winter, Nate and I wanted to go on another warm weather escape and chose Miami Florida. It's a running joke that Miami is New York's 6th borough because so many of us vacation there in the winter. In actuality, we went to South Beach, which is very different from downtown Miami, but it's definitely where you go for the beach get-away you've been picturing. And being NYC's 6th borough, it, of course, has a loooot of amazing food and even a few sister restaurants to some favorites in Manhattan. Here is my complete list of the best places to chow down in South Beach!

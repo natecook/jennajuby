@@ -2,6 +2,9 @@
 title: 'Portland, Oregon.'
 date: Fri, 13 Mar 2015 06:25:41 +0000
 draft: false
+description: >-
+  Last week I posted about our trip to the Pacific Northwest. We went to Seattle for the first 2 days, and the last three were spent in Portland.
+image: https://djh82r8xhqebh.cloudfront.net/uploads/2015/03/Portland_Blog-6.jpg
 ---
 
 Last week I posted about our trip to the Pacific Northwest. We went to Seattle for the first 2 days, and the last three were spent in Portland. There was so much anticipation and expectation leading up to our days in Portland...and I have to say, it didn't disappoint. I think I even prefered Portland over Seattle...which is saying a lot.

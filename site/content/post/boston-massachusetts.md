@@ -2,6 +2,9 @@
 title: 'Boston, Massachusetts'
 date: Thu, 12 Apr 2018 16:27:48 +0000
 draft: false
+description: >-
+  Early last year, Nate and I were writing down all the places we hoped to visit that year and Boston in the fall was at the top of my list!
+image: https://djh82r8xhqebh.cloudfront.net/uploads/2018/03/Boston_Blog-7.jpg
 ---
 
 Early last year, Nate and I were writing down all the places we hoped to visit that year and Boston in the fall was at the top of my list! I had been to Boston before, but it's been a long time, and Nate hasn't been for more than a quick work trip, so we were excited to spend some quality time there. We went for a weekend in November, and thankfully all the trees were in their peak color still. The colonial style buildings up against the brilliantly colored foliage, and the smell of autumn in the air...it could nearly knock me out with joy! So here's a list of all our favorite things we did and yums we ate!
