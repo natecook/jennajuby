@@ -13,7 +13,7 @@ Last weekend Nate surprised me with a getaway trip to Colorado with some of our 
 
 ![Travel photography, LA photography, Boulder Tourism, Boulder CO](https://djh82r8xhqebh.cloudfront.net/uploads/2014/07/co_blog-8.jpg)
 
-![Travel photography, LA photography, Boulder Tourism, Boulder CO](http://jennajuby.com/wp-content/uploads/2017/01/co_blog-4.jpg)
+![Travel photography, LA photography, Boulder Tourism, Boulder CO](https://djh82r8xhqebh.cloudfront.net/uploads/uploads/2017/01/co_blog-4.jpg)
 
 ![Travel photography, LA photography, Boulder Tourism, Boulder CO](https://djh82r8xhqebh.cloudfront.net/uploads/2014/07/co_blog-7.jpg) ![Travel photography, LA photography, Boulder Tourism, Boulder CO](https://djh82r8xhqebh.cloudfront.net/uploads/2014/07/co_blog-9.jpg) ![Travel photography, LA photography, Boulder Tourism, Boulder CO](https://djh82r8xhqebh.cloudfront.net/uploads/2014/07/co_blog-16.jpg)
 
