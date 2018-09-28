@@ -126,6 +126,8 @@
 .ma6 {  margin: var(--spacing-extra-extra-large); }
 .ma7 { margin: var(--spacing-extra-extra-extra-large); }
 
+.ma-center { margin: 0 auto; }
+
 .ml0  {  margin-left: var(--spacing-none); }
 .ml1 {  margin-left: var(--spacing-extra-small); }
 .ml2  {  margin-left: var(--spacing-small); }
