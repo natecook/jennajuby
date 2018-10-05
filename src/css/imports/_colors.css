@@ -32,6 +32,10 @@
   color: var(--grey-4);
 }
 
+.grey-alt {
+  color: var(--grey-alt);
+}
+
 .black {
   color: var(--black);
 }
