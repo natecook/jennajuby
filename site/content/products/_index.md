@@ -5,24 +5,24 @@ heading: Travel Photography
 description: List of places we've loved and great things to see at each place.
 intro:
   blurbs:
-    - url: /post/southern-california
-      image: /img/cali-blog.jpg
+    - image: /img/cali-blog.jpg
       text: Southern California
-    - url: /post/southern-california
-      image: /img/illustrations-coffee-gear.svg
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - url: /post/southern-california
-      image: /img/illustrations-tutorials.svg
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+      url: /post/southern-california/
+    - image: /img/travel-paris.jpg
+      text: 'Paris, France'
+      url: /post/paris-france/
+    - image: /img/travel-zion.jpg
+      text: 'Zion National Park, Utah'
+      url: /post/zion-national-park-utah/
+    - image: /img/travel-tulum.jpg
+      text: 'Tulum, Mexico'
+      url: /post/tulum-mexico/
+    - image: /img/travel-boston.jpg
+      text: Boston Massachusetts
+      url: /post/boston-massachusetts/
+    - image: /img/travel-hamptons.jpg
+      text: 'The Hamptons, New York'
+      url: /post/the-hamptons-new-york/
   heading: Explored
   description: Here's some of the places we've loved
 main:
@@ -37,11 +37,5 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
-testimonials: []
-full_image: /img/about-shade-grown.jpg
-pricing:
-  heading: ''
-  description: ''
-  plans: []
 ---
 
