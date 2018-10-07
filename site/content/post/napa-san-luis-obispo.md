@@ -4,7 +4,7 @@ date: Wed, 20 Dec 2017 01:37:05 +0000
 draft: false
 description: >-
   This past spring Nate and I flew out to California for two weddings that happened to be a week apart! During the time in-between the weddings we did a little west coast tour.
-image: https://djh82r8xhqebh.cloudfront.net/uploads/2017/12/NapaSlo_Blog-3.jpg
+image: https://djh82r8xhqebh.cloudfront.net/uploads/2017/12/NapaSlo_Blog-22.jpg
 ---
 
 This past spring Nate and I flew out to California for two weddings that happened to be a week apart! During the time in-between the weddings we did a little west coast tour. We flew into LA and then drove north to visit family in Chico, spent 2 days in Napa, and a few days in [San Luis Obispo](https://jennajuby.com/post/a-little-bit-of-central-coast/). I didn't take a ton of photos during our trip except for a few while we were wine tasting in Napa and then also on a beautiful hike we took in SLO with friends. The only new place we visited was wine country but I'll go ahead and add our favorites places we ate in both SLO and Napa!

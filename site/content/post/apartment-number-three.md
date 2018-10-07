@@ -4,7 +4,7 @@ date: Thu, 20 Aug 2015 17:55:43 +0000
 draft: false
 description: >-
   Two years ago, Nate and I moved into our first apartment together. It's a small flat in the Orange Circle sitting just above an ice cream shop.
-image: https://djh82r8xhqebh.cloudfront.net/uploads/2015/07/Apartment_Blog-49.jpg
+image: https://djh82r8xhqebh.cloudfront.net/uploads/2015/07/Apartment_Blog-4.jpg
 ---
 
 Two years ago, Nate and I moved into our first apartment together. It's a small flat in the Orange Circle sitting just above an ice cream shop. It was a miracle we got it, considering we weren't even on the wait list for the building. We actually signed the lease on our flat before we even SAW it. I realize now how ballsy that was, and I would never do it again. BUT HEY! Thankfully it worked out and we got this cute little apartment we love so much.

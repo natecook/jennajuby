@@ -4,7 +4,7 @@ date: Fri, 01 Aug 2014 15:32:51 +0000
 draft: false
 description: >-
   Today I am missing my people. My family. So I thought it an appropriate time to finally post our family photos from this year in South Carolina.
-image: https://djh82r8xhqebh.cloudfront.net/uploads/2014/07/stoufferfamily_blog-18.jpg
+image: https://djh82r8xhqebh.cloudfront.net/uploads/2014/07/stoufferfamily_blog-28.jpg
 ---
 
 Today I am missing my people. My family. So I thought it an appropriate time to finally post our family photos from this year in South Carolina. I took most of them, with the help of Nate and Honey (my sister, Jillian's, nickname). Oh and not to forget, Benny, my younger brother, Matt's, best friend who I used as a human tripod for our big group photo. You guys are the best : )

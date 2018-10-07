@@ -4,7 +4,7 @@ date: Wed, 12 Jul 2017 20:42:59 +0000
 draft: false
 description: >-
   As I said in my last entry about Paris, I think it is one of God's greatest gift to mankind and because of that it deserves two blog posts.
-image: https://djh82r8xhqebh.cloudfront.net/uploads/2017/07/Paris_Blog-85.jpg
+image: https://djh82r8xhqebh.cloudfront.net/uploads/2017/07/Paris_Blog-141.jpg
 ---
 
 As I said in my last entry about Paris, I think it is one of God's greatest gift to mankind and because of that it deserves two blog posts. First, because I have too many photos from our trip. Second, because I wanted to make a list of all the fun activities and things to do while there and there wasn't enough room in the first entry. So, I'll jump right in with a list of must do's while in Paris.

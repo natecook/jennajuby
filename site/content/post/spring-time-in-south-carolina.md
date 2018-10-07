@@ -4,7 +4,7 @@ date: Wed, 20 May 2015 22:47:42 +0000
 draft: false
 description: >-
   Nate and I spent this past Easter in Charleston, South Carolina. A city my family has now made a habit of going to, not once, but twice a year because we love it that much.
-image: https://djh82r8xhqebh.cloudfront.net/uploads/2015/05/Charleston_Spring-1.jpg
+image: https://djh82r8xhqebh.cloudfront.net/uploads/2015/05/Charleston_Spring-19.jpg
 ---
 
 Nate and I spent this past Easter in Charleston, South Carolina. A city my family has now made a habit of going to, not once, but twice a year because we love it that much. And since we just got our plane tickets today to go back in June, it seemed like a perfect time to post these photos from last months trip.

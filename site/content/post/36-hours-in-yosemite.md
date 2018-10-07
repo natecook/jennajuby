@@ -4,7 +4,7 @@ date: Fri, 10 Apr 2015 20:09:53 +0000
 draft: false
 description: >-
   A few weeks ago, Nate and I took a short trip to Yosemite for the weekend! We spent a day and a half in the national park that all Californians are required to take a pilgrimage to eventually.
-image: https://djh82r8xhqebh.cloudfront.net/uploads/2015/04/Yosemite_Blog-45.jpg
+image: https://djh82r8xhqebh.cloudfront.net/uploads/2015/04/Yosemite_Blog-61.jpg
 ---
 
 Hello photo blog world! And if we're being honest- hi mom, and various aunts and cousins.

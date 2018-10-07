@@ -4,7 +4,7 @@ date: Wed, 28 Feb 2018 01:56:17 +0000
 draft: false
 description: >-
   For labor day weekend last year we took a trip to the Hamptons with 16 of our friends from New York and various countries, aka Australia.
-image: https://djh82r8xhqebh.cloudfront.net/uploads/2018/02/SouthHampton_Blog-1.jpg
+image: https://djh82r8xhqebh.cloudfront.net/uploads/2018/02/SouthHampton_Blog-24.jpg
 ---
 
 For labor day weekend last year we took a trip to the Hamptons with 16 of our friends from New York and various countries, aka Australia. It was my first time being there and I already can't wait to go back : ) We were planning on it being a beach going weekend but the weather turned out to be a loooot colder than it usually is in the summer, with the high at a wopping 65 degrees, haha. Even though we had to wear jeans instead of bikinis, there was still a ton of fun things to do and we had a blast! Here are some of the things to do and places to eat in East Hampton, Montauk, and Amagansett.

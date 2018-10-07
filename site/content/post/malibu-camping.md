@@ -4,7 +4,7 @@ date: Wed, 03 Jun 2015 16:43:55 +0000
 draft: false
 description: >-
   So...I've never been camping before. Not, _really_. You know...pitching a tent, fireside cooking, being in the middle of no where.
-image: https://djh82r8xhqebh.cloudfront.net/uploads/2015/06/MalibuCamping-5.jpg
+image: https://djh82r8xhqebh.cloudfront.net/uploads/2015/06/MalibuCamping-4.jpg
 ---
 
 So...I've never been camping before. Not, _really_. You know...pitching a tent, fireside cooking, being in the middle of no where. I've wanted to try it out since we got married, knowing that Nate loves it so much. So, camping in Malibu seemed ideal, being that it's on the beach and wedged in the middle of canyons with some great hiking trails. We went with two of our close couple friends, who both have children under 2 years old (in other words, they're badass for trying out camping with kiddos).

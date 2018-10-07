@@ -4,7 +4,7 @@ date: Mon, 22 Sep 2014 20:49:55 +0000
 draft: false
 description: >-
   Since today is the last day of summer (sobs), I thought it appropriate to post some photos of one of my very favorite summer evenings.
-image: https://djh82r8xhqebh.cloudfront.net/uploads/2014/09/middleton_blog-14.jpg
+image: https://djh82r8xhqebh.cloudfront.net/uploads/2014/09/middleton_blog-39.jpg
 ---
 
 Since today is the last day of summer (sobs), I thought it appropriate to post some photos of one of my very favorite summer evenings.

@@ -4,7 +4,7 @@ date: Thu, 10 May 2018 16:39:16 +0000
 draft: false
 description: >-
   We have always wanted to take a trip with our friends Meghan and Taylor, and this year it finally happened!
-image: https://djh82r8xhqebh.cloudfront.net/uploads/2018/05/ZionBlog-1.jpg
+image: https://djh82r8xhqebh.cloudfront.net/uploads/2018/05/ZionBlog-7.jpg
 ---
 
 We have always wanted to take a trip with our friends Meghan and Taylor, and this year it finally happened! Meghan and I were chatting about where we should go together and it turned out Zion National Park was on both of our lists to see! We flew in to Las Vegas and they drove in from LA and picked us up on the way to Zion. It was a 3 hour drive from Vegas to our camp in Utah, which all together made getting there from New York pretty easy considering where it is! Thank goodness for Las Vegas being in the middle of the desert, eh?

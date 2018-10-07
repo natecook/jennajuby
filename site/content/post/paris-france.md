@@ -4,7 +4,7 @@ date: Thu, 19 Jul 2018 20:08:17 +0000
 draft: false
 description: >-
   Anyone who knows me knows that Paris is one of my favorite places in the entire world and I will jump at any opportunity to go!
-image: https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-4.jpg
+image: https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-35.jpg
 ---
 
 Anyone who knows me knows that Paris is one of my favorite places in the entire world and I will jump at any opportunity to go! This spring, our friends Kate and Sam, needed to renew their visa (they're Australian), and decided to do it in Paris, and Nate and I, plus Haley and Ryan, joined them! Our little crew explored the city for the first couple days together. And then Nate and I met up with our friends Kayleigh and Josh, who happened to be in Paris at the same time! It was really fun getting to explore a city I love with friends, and it made the experience that much sweeter. The last few days of the trip (we were only there a week), was just Nate and I, and we took a day trip to Versailles. Our week was full of a lot of food, and a lot of exploring. I loved every minute of it and can't wait to go back to Paris again, because we all know I can't stay away. Also, I beat my record of croissants (last time I had 17 in 5 days) and this trip I had 22 in 7 days. NOOOOT bad.

@@ -4,7 +4,7 @@ date: Tue, 12 Apr 2016 17:11:45 +0000
 draft: false
 description: >-
   Welp, Nate and I survived our first winter together in New York. Everyone in the city is telling us we didn't get a "real" winter because...well, we didn't really.
-image: https://djh82r8xhqebh.cloudfront.net/uploads/2016/03/Mexico-67.jpg
+image: https://djh82r8xhqebh.cloudfront.net/uploads/2016/03/Mexico-71.jpg
 ---
 
 Welp, Nate and I survived our first winter together in New York. Everyone in the city is telling us we didn't get a "real" winter because...well, we didn't really. It was never _that_ cold and it only snowed a handful of times. But coming from California, it was still an adjustment! We still deserve a medal, ALRIGHT!? (We actually preemptively planned this trip forever ago because I was so afraid Nate would hate the winter and in turn hate New York and in turn hate everything...turns out he doesn't! My husband still likes everything).

@@ -4,7 +4,7 @@ date: Sat, 07 Mar 2015 01:52:58 +0000
 draft: false
 description: >-
   For Valentines Day weekend, Nate and I decided to take a 5 day trip to Washington and Oregon! We flew into Seattle first and spent 2 days there.
-image: https://djh82r8xhqebh.cloudfront.net/uploads/2015/03/Seattle_Blog-90.jpg
+image: https://djh82r8xhqebh.cloudfront.net/uploads/2015/03/Seattle_Blog-672.jpg
 ---
 
 For Valentines Day weekend, Nate and I decided to take a 5 day trip to Washington and Oregon! We flew into Seattle first and spent 2 days there. The city was filled with unbeatable food and coffee, exquisite urban parks, and darling neighborhoods. I loved it more than I thought I would actually, and encourage anyone who can, to visit this seriously awesome city!

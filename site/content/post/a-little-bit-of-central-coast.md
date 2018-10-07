@@ -4,7 +4,7 @@ date: Wed, 22 Apr 2015 23:28:14 +0000
 draft: false
 description: >-
   Here's a little blabber and a few photos from one of my personal favorite places on earth.
-image: https://djh82r8xhqebh.cloudfront.net/uploads/2015/04/SLOApril_Blog-1.jpg
+image: https://djh82r8xhqebh.cloudfront.net/uploads/2015/04/SLOApril_Blog-4.jpg
 ---
 
 Happy Earth Day ya'll! (that always sounds better in your head)

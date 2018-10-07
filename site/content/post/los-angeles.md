@@ -4,7 +4,7 @@ date: Wed, 09 Jul 2014 03:08:55 +0000
 draft: false
 description: >-
   I'm a firm believer in living it up where you are. I know, I know, I live in Southern California. But I have not always lived in the land of beaches and entertainment.
-image: https://djh82r8xhqebh.cloudfront.net/uploads/2014/07/ladaytrip_blog-14.jpg
+image: https://djh82r8xhqebh.cloudfront.net/uploads/2014/07/ladaytrip_blog-9.jpg
 ---
 
 I'm a firm believer in living it up where you are. I know, I know, I live in Southern California. But I have not always lived in the land of beaches and entertainment. And I've visited a lot of places that aren't considered destinations, by any means. But I think everywhere you go or live has it's own personality and whether it's "cool" or mundane, explore it regardless.

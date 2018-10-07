@@ -4,7 +4,7 @@ date: Tue, 28 Mar 2017 22:33:11 +0000
 draft: false
 description: >-
   This past August, Nate and I took our first trip to Europe together, my first time ever! We were there for 10 days, spending the first 5 days in London and the last 5 in Paris.
-image: https://djh82r8xhqebh.cloudfront.net/uploads/2017/03/London-6.jpg
+image: https://djh82r8xhqebh.cloudfront.net/uploads/2017/03/Caption-1.jpg
 ---
 
 This past August, Nate and I took our first trip to Europe together, my first time ever! We were there for 10 days, spending the first 5 days in London and the last 5 in Paris. I wanted to spend a good amount of time in each place instead of squeezing more cities in during our time there. I'm glad we did this because we got a good feel for the cities and all their charm. My only regret is that we couldn't stay in London longer so that we could do a few day trips to some surrounding areas like Oxford and Cotswolds. With that said, we did have an entire day planned to Oxford (aka Hogwarts) that we ended up canceling because of bad weather, womp womp. I figured London was a bit cloudy since it has such a reputation but...whoa. It really was. And not only cloudy but it drizzled almost everyday we were there (sunny for an hour, pouring the next, you know the drill). So prepare for this if you plan to visit, because even in the summer you'll need pants and a sweater most days (at least in my experience).

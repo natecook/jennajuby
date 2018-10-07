@@ -4,7 +4,7 @@ date: Thu, 07 Dec 2017 22:33:51 +0000
 draft: false
 description: >-
   My family has started a little tradition of spending a few days in Asheville North Carolina after our week in Charleston together.
-image: https://djh82r8xhqebh.cloudfront.net/uploads/2017/11/Asheville_Blog-5.jpg
+image: https://djh82r8xhqebh.cloudfront.net/uploads/2017/11/Asheville_Blog-16.jpg
 ---
 
 My family has started a little tradition of spending a few days in Asheville North Carolina after our week in Charleston together. Because the rest of my fam drives in from Ohio, the stop in Asheville breaks up the 11 hour drive home which is really nice. This was the first year Nate and I joined them there and it was so fun! I've heard a looooot a lot about Asheville, so it was great to finally see it myself! We only got to spend a day there so I can't pretend to know a ton about this beautiful city but I'll throw some suggestions out there anyway based on what we did in the 36 hours we got to bop around. The city is surrounded by the Blue Ridge Mountains. It's famous for it's beautiful sights, hikes, southern food, breweries, and gettin' a little Portland-esque in the last few years. We really only got to eat and visit the famous [Biltmore](http://www.biltmore.com/) estate while we were there, and I would definitely recommend doing that! We will find ourselves back in Asheville soon, I hope : ) Here are some of the places we tried...

@@ -4,7 +4,7 @@ date: Thu, 05 Feb 2015 22:41:49 +0000
 draft: false
 description: >-
   After the madness of the holidays this winter, Nate and I decided to make a little travel itinerary for the spring. Our first weekend destination was Malibu.
-image: https://djh82r8xhqebh.cloudfront.net/uploads/2015/02/MalibuHike_Blog-1.jpg
+image: https://djh82r8xhqebh.cloudfront.net/uploads/2015/02/MalibuHike_Blog-15.jpg
 ---
 
 After the madness of the holidays this winter, Nate and I decided to make a little travel itinerary for the spring. Our first weekend destination was Malibu.

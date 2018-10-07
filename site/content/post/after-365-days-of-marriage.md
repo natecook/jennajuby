@@ -4,7 +4,7 @@ date: Sun, 09 Nov 2014 16:50:05 +0000
 draft: false
 description: >-
   Today is Nate and I's one year anniversary. In ways it feels like a life time ago, as if I can't believe there was a time when I wasn't married. And then part of me feels like it happened yesterday, and I just want it all to slow down and not rush by so quickly.
-image: https://djh82r8xhqebh.cloudfront.net/uploads/2014/06/Cook-66.jpg
+image: https://djh82r8xhqebh.cloudfront.net/uploads/2014/06/Cook-519.jpg
 ---
 
 Today is Nate and I's one year anniversary. In ways it feels like a life time ago, as if I can't believe there was a time when I wasn't married. And then part of me feels like it happened yesterday, and I just want it all to slow down and not rush by so quickly.

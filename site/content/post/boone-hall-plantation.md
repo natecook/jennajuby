@@ -4,7 +4,7 @@ date: Wed, 02 Jul 2014 18:57:15 +0000
 draft: false
 description: >-
   On our last day in Charleston we got to visit Boone Hall Plantation. If that sounds at all familiar to you, it may be because THE NOTEBOOK WAS FILMED HERE.
-image: https://djh82r8xhqebh.cloudfront.net/uploads/2014/06/charlestonsc_blog-51.jpg
+image: https://djh82r8xhqebh.cloudfront.net/uploads/2014/06/charlestonsc_blog-54.jpg
 ---
 
 On our last day in Charleston we got to visit Boone Hall Plantation. If that sounds at all familiar to you, it may be because THE NOTEBOOK WAS FILMED HERE. Which is obviously not a big deal... ..... ..... Which is why we bought the movie in Charleston and watched it at 1 in the afternoon (on vacation) (on the beach, mind you) to recap on all the best parts filmed at this particular location. And it was worth it. If you are watching the Notebook anytime in the near future, the Boone Hall Plantation, is Allie's summer home in the movie, and where Ryan Gosling famously runs his car into the gate and realizes she has left town to go back to school, thus basically breaking his heart. Why Allie? Why? Contrary to that sad scene, the day we spent there was full of happy. It met all of our ridiculously high expectations. And the last few photos are where we ended our last night in downtown Charleston. Cheers to a perfect week ending in some tasty cocktails. ps. The theater pictured somewhere below is also where Allie and Noah had their first date. Remember that? Sigh.
