@@ -24,3 +24,7 @@
 a:hover .overlay-sq {
 	opacity: 1;
 }
+.hover-special:hover {
+  opacity: 0.2;
+  transition: 0.2s all;
+}
