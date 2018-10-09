@@ -28,3 +28,8 @@ a:hover .overlay-sq {
   opacity: 0.2;
   transition: 0.2s all;
 }
+.about-page img {
+  marign: 10px auto;
+  max-width: 400px;
+  width: 100%;
+}
