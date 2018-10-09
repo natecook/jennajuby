@@ -58,3 +58,11 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
           - {label: Body, name: body, widget: markdown}
+      - file: "site/content/subscribe/_index.md"
+        label: "Subscribe Page"
+        name: "subscribe"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Subimage, name: subimage, widget: image}
+          - {label: Body, name: body, widget: markdown}
