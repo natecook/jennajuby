@@ -33,3 +33,6 @@ a:hover .overlay-sq {
   max-width: 400px;
   width: 100%;
 }
+.about-page p {
+  margin: 15px auto;
+}
