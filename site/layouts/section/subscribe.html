@@ -1,0 +1,14 @@
+{{ define "main" }}
+
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
+
+<div class="mw7 center ph3 pt4">
+  <div class="mb4 mw6 center"><img src="{{ .Params.subimage}}" /></div>
+
+  {{ .Content }}
+
+  {{ partial "newsletter-form" . }}
+
+</div>
+
+{{ end }}
