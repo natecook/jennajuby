@@ -65,7 +65,7 @@ intro:
     - image: 'https://djh82r8xhqebh.cloudfront.net/uploads/2015/07/Austin_Blog-22.jpg'
       text: 'Austin, Texas'
       url: /post/austin-texas/
-  heading: Explored
-  description: Here's some of the places I love
+  heading: ''
+  description: ''
 ---
 
