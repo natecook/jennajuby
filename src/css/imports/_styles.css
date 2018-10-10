@@ -57,9 +57,9 @@ a:hover .overlay-sq {
 .top-back {
   border: 1px solid;
   border-radius: 50%;
-  height: 50px;
-  margin: 30px 0;
-  max-width: 50px;
+  height: 30px;
+  margin: 20px 0;
+  max-width: 30px;
   position: absolute;
   right: 0;
   top: 0;
