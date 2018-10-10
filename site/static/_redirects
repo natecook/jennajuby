@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://test-nate.netlify.com/* https://www.jennajuby.com/:splat 301!
