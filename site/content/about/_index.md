@@ -11,11 +11,9 @@ image: /img/about-header.jpg
 * launched the NYC chapter of A Cup Of Tea Photography in 2015.
 * loving life as a photographer and admirer of all things sparkly.
 
-<div class="flex-ns mhn2-ns mb3"><div class="ph2-ns w-50-ns">
+
 
 ![jenna on bike](/img/about-bio.jpg)
-
-</div> 
 
 <h3 class="f4 b lh-title mb2">Fancies</h3><br/>
 
@@ -29,5 +27,3 @@ image: /img/about-header.jpg
 * traveling.
 * watermelon.
 * also Mindy Kaling and Taylor Swift.
-
- </div>
