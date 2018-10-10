@@ -4,7 +4,7 @@
 
 /* Used in the navbar */
 .divider-grey {
-  box-shadow: inset 0 -4px 0 var(--grey-1);
+  box-shadow: inset 0 -1px 0 #000;
   /* Link hover states */
   & a {
     transition: var(--hover-transition);
@@ -13,7 +13,9 @@
     box-shadow: inset 0 -4px 0 var(--primary);
   }
 }
-
+.font-special li {
+  font-size: 11px;
+}
 .overlay-sq {
   left: 0;
   position: absolute;
