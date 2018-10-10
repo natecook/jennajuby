@@ -15,11 +15,13 @@
 }
 
 .overlay-sq {
-	left: 10%;
-	opacity: 0.5;
-	position: fixed;
-	top: 10px;
-	width: 83%;
+  left: 0;
+  position: absolute;
+  top: 10px;
+  background: #FFF;
+  width: 100%;
+  text-align: center;
+  text-transform: lowercase;
 }
 a:hover .overlay-sq {
 	opacity: 1;

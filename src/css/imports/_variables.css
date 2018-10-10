@@ -1,6 +1,6 @@
 :root {
 	/* Colors */
-	--primary: #d81f47;
+	--primary: #e690a3;
 	--highlight: rgba(254, 213, 198, 1);
 	--white: rgba(255, 255, 255, 1);
 	--off-white: rgba(255, 253, 252, 1);
@@ -13,12 +13,12 @@
 
 	/* Typography */
 	--font-family-title: Playfair Display, -apple-system, BlinkMacSystemFont, 'avenir next', avenir, helvetica, 'helvetica neue', ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
-	--font-family-body: Roboto, -apple-system, BlinkMacSystemFont, 'avenir next', avenir, helvetica, 'helvetica neue', ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
+	--font-family-body: 'Open Sans', -apple-system, BlinkMacSystemFont, 'avenir next', avenir, helvetica, 'helvetica neue', ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
 	--line-height: 1.5;
 
-	--font-size: 18px;
-	--font-size-m: 20px;
-	--font-size-l: 22px;
+	--font-size: 12px;
+	--font-size-m: 13px;
+	--font-size-l: 14px;
 
 	--body-font-weight: 400;
 	--bold-font-weight: 700;
