@@ -57,12 +57,16 @@ a:hover .overlay-sq {
 .top-back {
   border: 1px solid;
   border-radius: 50%;
+  display: none;
   height: 30px;
   margin: 20px 0;
   max-width: 30px;
   position: absolute;
   right: 0;
   top: 0;
+}
+.top-back.active {
+  display: block;
 }
 .top-back a {
   display: block;
