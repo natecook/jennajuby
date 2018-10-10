@@ -1,12 +1,12 @@
 {{ define "main" }}
 
-<div class="mw7 center ph3 pt4">
-  <div class="mb4 mw6 center"><img src="{{ .Params.subimage}}" /></div>
+<div class="flex-ns mhn2-ns mb3">
+	<div class="ph2-ns w-50-ns pt4"><img src="{{ .Params.subimage}}" /></div> 
+	<div class="ph2-ns w-50-ns pt7 tc">
+		{{ .Content }}
 
-  {{ .Content }}
-
-  {{ partial "newsletter-form" . }}
-
+  		{{ partial "newsletter-form" . }}
+	</div>
 </div>
 
 {{ end }}
