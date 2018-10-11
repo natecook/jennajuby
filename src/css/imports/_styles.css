@@ -34,11 +34,15 @@ a:hover .overlay-sq {
 }
 .about-page img {
   margin: 10px auto;
-  max-width: 400px;
+  max-width: 240px;
   width: 100%;
 }
+.about-page .lh-title {
+  text-align: center;
+}
 .about-page p {
-  margin: 15px auto;
+  margin: 0 auto;
+  text-align: center;
 }
 .no-underline.pa3.br1.mb2.db.raise.w-100 button {
   color: black;

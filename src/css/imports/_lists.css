@@ -1,1 +1,11 @@
 .list { list-style-type: none; }
+.about-page ul {
+	margin-left: 1.33rem;
+	position: relative;
+	& >li:before {
+		content: '✱';
+		left: -1.3rem;
+		position: absolute;
+		color: var(--primary);
+	}
+}
