@@ -7,6 +7,7 @@ image: /img/about-header.jpg
 * 28, documenting life through dah lens.
 * born in the perfectly cloudy tree-filled state of Ohio.
 * graduated a Zip, moved to CA to be a Bruin, currently napping in Manhattan.
+* married to <a href="https://instagram.com/natemitchcook" target="_blank">@natemitchcook</a>
 * loving life as a photographer and admirer of all things sparkly.
 
 ![jenna in paris](/img/jenna-about.jpg)
