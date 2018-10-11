@@ -11,7 +11,7 @@ image: /img/about-header.jpg
 
 ![jenna in paris](/img/jenna-about.jpg)
 
-<h3 class="f4 b lh-title mb2">Fancies</h3>
+<h3 class="f4 b lh-title mb2">fancies</h3>
 
 * lavender lattes.
 * running.
@@ -22,4 +22,4 @@ image: /img/about-header.jpg
 * Gryffindor.
 * traveling.
 * watermelon.
-* also Mindy Kaling and Taylor Swift.
+* also Lebron James and Taylor Swift.
