@@ -15,11 +15,11 @@ image: /img/about-header.jpg
 
 * lavender lattes.
 * running.
-* Anthropologie.
+* Sézane.
 * our pet cat, Luna Lovegood.
-* Jeni’s Splendid Ice Cream.
+* traveling.
+* Jeni’s Splendid Ice Creams.
 * anything pink.
 * Gryffindor.
-* traveling.
 * watermelon.
-* also Lebron James and Taylor Swift.
+* also, Lebron James and Taylor Swift.
