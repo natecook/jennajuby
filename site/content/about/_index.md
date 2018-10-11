@@ -11,7 +11,7 @@ image: /img/about-header.jpg
 
 ![jenna in paris](/img/jenna-about.jpg)
 
-<h3 class="f4 b lh-title mb2">Fancies</h3><br/>
+<h3 class="f4 b lh-title mb2">Fancies</h3>
 
 * lavender lattes.
 * running.
