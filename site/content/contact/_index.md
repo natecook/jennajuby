@@ -1,6 +1,6 @@
 ---
-title: "Contact"
-logo: "https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-93.jpg"
+title: Contact
+logo: /img/jenna-hey.jpg
 ---
 
 This is text you can add here.
