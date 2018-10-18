@@ -2,7 +2,7 @@
 title: About
 image: /img/about-header.jpg
 ---
-<h3 class="f4 b lh-title mb2">i'm jenna</h3>
+<h3 class="f2 b lh-title mb2">i'm jenna</h3>
 
 * 28, documenting life through dah lens.
 * born in the perfectly cloudy tree-filled state of Ohio.

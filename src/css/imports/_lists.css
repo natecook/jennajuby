@@ -1,11 +1,9 @@
 .list { list-style-type: none; }
 .about-page ul {
-	margin-left: 1.33rem;
-	position: relative;
+	text-align: center;
 	& >li:before {
 		content: '✱';
-		left: -1.3rem;
-		position: absolute;
 		color: var(--primary);
+		padding-right: 5px;
 	}
 }
