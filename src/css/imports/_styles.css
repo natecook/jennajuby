@@ -15,6 +15,7 @@
 }
 .font-special li {
   font-size: 11px;
+  letter-spacing: 1px;
 }
 .overlay-sq {
   left: 0;
