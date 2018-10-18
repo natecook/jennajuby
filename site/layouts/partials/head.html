@@ -24,7 +24,7 @@
 	<meta property="og:title" content="{{ .Title }}">
 	<meta property="og:description" content="{{ .Params.description }}">
 	<meta property="og:url" content="https://www.jennajuby.com{{ .Permalink }}">
-	{{ if .Params.image }}
+	{{ if hasPrefix .Params.image "/img" }}
 	<meta property="og:image" content="https://www.jennajuby.com{{ .Params.image }}">
 	{{ else }}
 	<meta property="og:image" content="{{ .Params.image }}">
