@@ -9,3 +9,6 @@ svg {
 	margin: 7px;
 	position: absolute;
 }
+.ig-special a:hover svg {
+	fill: var(--primary);
+}
