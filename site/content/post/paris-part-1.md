@@ -1,10 +1,11 @@
 ---
-title: 'Paris: Part 1'
-date: Tue, 09 May 2017 18:39:39 +0000
-draft: false
+title: 'Paris, France (part 1)'
+date: 'Tue, 09 May 2017 18:39:39 +0000'
 description: >-
-  I...am a cliche. And I can't express how much I don't care that I am. I. Love. Paris. I love Paris so much. I love it so much that I would trade my first born for a bite of croissant.
-image: https://djh82r8xhqebh.cloudfront.net/uploads/2017/05/Paris_Blog-54.jpg
+  I...am a cliche. And I can't express how much I don't care that I am. I. Love.
+  Paris. I love Paris so much. I love it so much that I would trade my first
+  born for a bite of croissant.
+image: 'https://djh82r8xhqebh.cloudfront.net/uploads/2017/05/Paris_Blog-54.jpg'
 ---
 
 I...am a cliche. And I can't express how much I don't care that I am. I. Love. Paris. I love Paris so much. I love it so much that I would trade my first born for a bite of croissant. For a glimpse of the sparkling Eiffel tower. For a stroll through Le Jardin du Luxembourg.
