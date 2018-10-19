@@ -5,7 +5,7 @@ intro:
   blurbs:
     - image: >-
         https://d33wubrfki0l68.cloudfront.net/2007561133f005ae3396aaa568e1c0bbe53cffa0/5a152/img/travel-socal.jpg
-      text: 'OC, California'
+      text: 'OC & LA, California'
       url: /post/southern-california/
     - image: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-35.jpg'
       text: 'Paris, France'
