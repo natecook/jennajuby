@@ -1,10 +1,11 @@
 ---
-title: 'Charleston, SC'
-date: Mon, 30 Oct 2017 16:48:41 +0000
-draft: false
+title: 'Charleston, South Carolina'
+date: 'Mon, 30 Oct 2017 16:48:41 +0000'
 description: >-
-  I've been to the beautiful city of Charleston South Carolina over 20 times and needless to say I'm yet to get sick of it!
-image: https://djh82r8xhqebh.cloudfront.net/uploads/2017/10/CharlestonSpring2017_Blog-35.jpg
+  I've been to the beautiful city of Charleston South Carolina over 20 times and
+  needless to say I'm yet to get sick of it!
+image: >-
+  https://djh82r8xhqebh.cloudfront.net/uploads/2017/10/CharlestonSpring2017_Blog-35.jpg
 ---
 
 I've been to the beautiful city of Charleston South Carolina over 20 times and needless to say I'm yet to get sick of it! We started going when I was around 9 years old, and for the last few years I've gone once in the spring and once in the summer. This particular post is from a girls trip I took this past April with my mom, sister, and sister-in-law. In March and April, Charleston puts on home and garden tours, which are special peaks inside the hidden gems of the city. The tours are filled with stunning historic homes and gardens and I highly recommend it! Not to mention the spring time is my favorite season in Charleston, it's always mid 70's, sunny, and not humid (like it is in the summer). The flowers are in bloom and they match the pastel homes that line the cobblestone streets. It really is such a unique place in the world...the perfect combination of beautiful old historic homes, peaceful beaches, and also boasts some of the best food in the country. Charleston is an unexpected foodie city and the amount of good restaurants in such a small place is astounding! When my family first started taking trips there, there wasn't the food scene that there is now. I don't know what sparked it, but in the last 6-8 years new restaurants and bars have sprung up downtown and we are so glad they did! My food and activity list might be a little more on the "classic" Charleston side, if you will, because these are the things I have loved to do before Charleston was so trendy. With that said, you might find someone else's to eat or to do list a tad cooler than mine but the classics are tried and true! Also, I might add that I get more people asking me what to do, see, and eat in Charleston than any other place I've been. So this post is waaaay over do, but I will say, it's given me time to perfect it! Here's my go to places and things : )
