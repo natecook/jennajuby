@@ -10,5 +10,6 @@ gallery:
     - image: /img/about-bio.jpg
       size: true
     - image: /img/about-direct-sourcing.jpg
+      size: false
 ---
 afsdfasd
