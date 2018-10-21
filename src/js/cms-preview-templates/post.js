@@ -20,7 +20,7 @@ export default class PostPreview extends React.Component {
         { image && <img src={ image } alt={ entry.getIn(["data", "title"])} /> }
         <div className="flex flex-wrap mhn1">
           {(entry.getIn(["data", "gallery", "photos"]) || []).map((photo, index) => <div className="w-100 w-50-ns ph1-ns" key={index}>
-            <img src={photo.get("image") && getAsset(photo.get("image"))} alt="" className="center db mb3"/>
+            <img src={photo.get("imagenew") && getAsset(photo.get("imagenew"))} alt="" className="center db mb3"/>
           </div>)}
         </div>
         { widgetFor("body") }
@@ -28,16 +28,3 @@ export default class PostPreview extends React.Component {
     </div>;
   }
 }
-
-
-<div className="flex flex-wrap mhn1">
-if true -->
-  <div className="w-100 w-50-ns ph1-ns">
-    <img src={getAsset(entry.getIn(["data", "main", "image1", "image"]))}/>
-  </div>
-else --> 
-
-  <div className="w-100 ph1-ns">
-    <img src={getAsset(entry.getIn(["data", "main", "image3", "image"]))}/>
-  </div>
-</div>
