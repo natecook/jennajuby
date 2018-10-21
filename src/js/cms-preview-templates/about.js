@@ -31,9 +31,8 @@ export default class aboutPreview extends React.Component {
     
     const entryAbout = entry.getIn(["data", "about"]);
     const about = entryAbout ? entryAbout.toJS() : [];
-    
+
     return <div>
-      <Jumbotron image={image} title={entry.getIn(["data", "title"])} />
       <div className="bg-off-white pv4">
         <div className="mw7 center ph3 pt4">
           {about.map(({text, heading, imageUrl}, i) =>
