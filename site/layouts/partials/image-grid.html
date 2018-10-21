@@ -2,15 +2,9 @@
 
 	<div class="flex flex-wrap mhn1">
 		{{ range .photos }}
-			{{ if eq .size "true" }}
 				<div class="w-100 w-50-ns ph1-ns">
 					<img src="{{ .image }}">
 				</div>
-			{{ else }}
-				<div class="w-100 ph1-ns">
-					<img src="{{ .image }}"}">
-				</div>
-			{{ end }}
 		{{ end }}
 	</div>
 
