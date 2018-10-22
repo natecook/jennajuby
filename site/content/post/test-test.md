@@ -6,10 +6,8 @@ image: /img/about-reinvest-profits.jpg
 gallery:
   photos:
     - imagenew: /img/about-bio.jpg
-      size: false
     - imagenew: /img/about-header.jpg
-      size: false
-    - imagenew: /img/cali-blog.jpg
-      size: true
+    - boosize: true
+      imagenew: /img/cali-blog.jpg
 ---
 afsdfasd
