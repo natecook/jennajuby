@@ -7,7 +7,7 @@ gallery:
   photos:
     - imagenew: /img/about-bio.jpg
     - imagenew: /img/about-header.jpg
-    - boosize: true
-      imagenew: /img/cali-blog.jpg
+    - imagenew: /img/cali-blog.jpg
+      size: true
 ---
 afsdfasd
