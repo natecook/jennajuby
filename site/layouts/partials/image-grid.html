@@ -1,10 +1,16 @@
-<div class="mw7 center ph3 pv4">
+<div class="mw7 center ph1 pv4">
 
 	<div class="flex flex-wrap mhn1">
 		{{ range .photos }}
+			{{ if eq .boosize "true" }}
+				<div class="w-100 ph1-ns">
+					<img src="{{ .imagenew }}">
+				</div>
+			{{ else }}
 				<div class="w-100 w-50-ns ph1-ns">
 					<img src="{{ .imagenew }}">
 				</div>
+			{{ end }}
 		{{ end }}
 	</div>
 
