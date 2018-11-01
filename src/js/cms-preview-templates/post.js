@@ -18,12 +18,12 @@ export default class PostPreview extends React.Component {
       <div className="cms mw6">
         <p>{ entry.getIn(["data", "description"]) }</p>
         { image && <img src={ image } alt={ entry.getIn(["data", "title"])} /> }
+        { widgetFor("body") }
         <div className="flex flex-wrap mhn1">
           {(entry.getIn(["data", "gallery", "photos"]) || []).map((photo, index) => <div className={photo.get("size") ? "w-100 ph1-ns" : "w-100 w-50-ns ph1-ns" } key={index}>
             <img src={photo.get("imagenew") && getAsset(photo.get("imagenew"))} alt="" className="center db mb3"/>
           </div>)}
         </div>
-        { widgetFor("body") }
       </div>
     </div>;
   }
