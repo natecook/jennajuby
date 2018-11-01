@@ -8,9 +8,10 @@
     <div class="cms mw6">
       {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
 
+        {{ .Content }}
+
         {{ partial "image-grid" .Params.gallery }}
 
-      {{ .Content }}
     </div>
   </div>
 {{ end }}
