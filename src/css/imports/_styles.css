@@ -11,7 +11,7 @@
   }
   & ul a:hover, & ul a:focus {
     box-shadow: inset 0 -4px 0 transparent;
-    color: var(--primary);
+    color: #333;
   }
 }
 .font-special li {
@@ -52,7 +52,7 @@ a:hover .overlay-sq {
 }
 .no-underline.pa3.br1.mb2.db.raise.w-100:hover button {
   box-shadow: inset 0 0 0 1px #333;
-  color: var(--primary);
+  color: #333;
 }
 .no-underline.pa3.br1.mb2.db.raise.w-100 .primary {
   color: var(--primary);
