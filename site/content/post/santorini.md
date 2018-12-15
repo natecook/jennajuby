@@ -62,6 +62,7 @@ gallery:
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-47.jpg'
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-48.jpg'
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-49.jpg'
+      size: true
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-50.jpg'
       size: true
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-51.jpg'
