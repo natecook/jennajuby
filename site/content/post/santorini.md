@@ -43,7 +43,9 @@ gallery:
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-32.jpg'
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-33.jpg'
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-34.jpg'
+    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-48.jpg'
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-35.jpg'
+      size: true
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-36.jpg'
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-37.jpg'
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-38.jpg'
@@ -60,9 +62,8 @@ gallery:
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-46.jpg'
       size: true
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-47.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-48.jpg'
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-49.jpg'
-      size: true
+      size: false
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-50.jpg'
       size: true
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-51.jpg'
@@ -88,6 +89,7 @@ gallery:
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-70.jpg'
       size: true
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-71.jpg'
+      size: true
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-72.jpg'
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-73.jpg'
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-74.jpg'
