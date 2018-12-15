@@ -2,7 +2,7 @@
 title: Santorini
 date: 2014-01-02T01:12:25.012Z
 description: intro blurb for santorini. Used for description on home page
-image: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-22.Jjpg
+image: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-22.jpg'
 gallery:
   photos:
     - imagenew: >-
