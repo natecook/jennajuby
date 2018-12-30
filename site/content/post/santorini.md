@@ -1,7 +1,10 @@
 ---
 title: Santorini
 date: 2018-12-31T01:00:25.012Z
-description: Hello
+description: >-
+  Santorini was the first stop on our Grecian holiday!  This island is such a
+  dreamy place...it felt like being in "Sisterhood of the Traveling Pants" and
+  I'm not going to pretend it didn't.
 image: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-22.jpg'
 gallery:
   photos:
@@ -95,7 +98,7 @@ gallery:
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-74.jpg'
       size: true
 ---
-Santorini was the first stop on our Grecian holiday!  This island is such a dreamy place...it really did feel like "Sisterhood of the Traveling Pants" in every single way and I'm not going to pretend it didn't.  And even though I made a list of dozens of things I wanted to do on the island, my favorite thing ended up being our time just wandering the paths of the island and taking in the beauty.  The charm of Santorini, and the village of Oia especially, are what draws you in.  I hope that comes through in my photos because there is really no place like it. So here’s a list of all my travel recommendations for this incredible greek island!
+And even though I made a list of dozens of things I wanted to do on the island, my favorite thing ended up being our time just wandering the paths of the island and taking in the beauty.  The charm of Santorini, and the village of Oia especially, are what draws you in.  I hope that comes through in my photos because there is really no place like it. So here’s a list of all my travel recommendations for this incredible greek island!
 
 **Where to Stay**
 
@@ -129,7 +132,7 @@ Also great…[Katharos Lounge](https://www.google.com/maps/place/Katharos+Lounge
 
 **Things To Do**
 
-* _Boat Cruise_. We took a half day boat cruise around the island with Santorini Gems. I did a LOT of research on what boat cruise to take because there are dozens of options. I picked this one because it only allowed 22 people max on each boat (compared to 50+ people on the same size boat for other cruises), so the boat wasn’t crowded at all, and it felt much more like a private boat cruise.  It also gave the option for a half day cruise (5 hours) instead of only offering a full day cruise (9 hours) which I preferred because I didn’t want to spend the entire day on the boat since we only had 3 full days in Santorini. It also got great reviews for the lunch that they bbq on board (the food was very very good). It was a litter pricier than the average cruise but worth it for the nice clean boat and accommodating staff. 
+* _Boat Cruise_. We took a half day boat cruise around the island with Santorini Gems. I did a LOT of research on what boat cruise to take because there are dozens of options. I picked this one because it only allowed 22 people max on each boat (compared to 50+ people on the same size boat for other cruises), so the boat wasn’t crowded at all, and it felt much more like a private boat cruise.  It also gave the option for a half day cruise (5 hours) instead of only offering a full day cruise (9 hours) which I preferred because I didn’t want to spend the entire day on the boat since we only had 3 full days in Santorini. It also got great reviews for the lunch that they bbq on board (the food was very very good). It was a little pricier than the average cruise but worth it for the nice clean boat and accommodating staff. 
 
 
 
@@ -137,7 +140,7 @@ Also great…[Katharos Lounge](https://www.google.com/maps/place/Katharos+Lounge
 
 
 
-* Hike Fire to Oia, it takes a couple of hours and the views are amazing. Plan to do this in the morning before it get too hot in the afternoon.
+* Hike Fire to Oia, it takes a couple of hours and the views are amazing. Plan to do this in the morning before it gets too hot in the afternoon.
 
 
 
@@ -145,7 +148,7 @@ Also great…[Katharos Lounge](https://www.google.com/maps/place/Katharos+Lounge
 
 
 
-* Visit [Atlantis Books](https://www.google.com/maps/place/Atlantis+Books+E.E./@36.461436,25.3723273,17z/data=!3m1!4b1!4m5!3m4!1s0x1499cb81b40c1931:0x37017ab015c5c79e!8m2!3d36.461436!4d25.374516) in Oia, it’s one of the most famous books stores in the world, and for good reason. It’s honestly incredible to walk around, even if you aren’t a reader!
+* Visit [Atlantis Books](https://www.google.com/maps/place/Atlantis+Books+E.E./@36.461436,25.3723273,17z/data=!3m1!4b1!4m5!3m4!1s0x1499cb81b40c1931:0x37017ab015c5c79e!8m2!3d36.461436!4d25.374516) in Oia, it’s one of the most famous books stores in the world, and you'll see why! It’s honestly incredible to walk around, even if you aren’t a reader.
 
 
 
