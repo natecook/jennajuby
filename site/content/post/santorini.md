@@ -98,7 +98,7 @@ gallery:
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-74.jpg'
       size: true
 ---
-And even though I made a list of dozens of things I wanted to do on the island, my favorite thing ended up being our time just wandering the paths of the island and taking in the beauty.  The charm of Santorini, and the village of Oia especially, are what draws you in.  I hope that comes through in my photos because there is really no place like it. So here’s a list of all my travel recommendations for this incredible greek island!
+Santorini was the first stop on our Grecian holiday!  This island is such a dreamy place...it felt like being in "Sisterhood of the Traveling Pants" and I'm not going to pretend it didn't. And even though I made a list of dozens of things I wanted to do on the island, my favorite thing ended up being our time just wandering the paths of the island and taking in the beauty.  The charm of Santorini, and the village of Oia especially, are what draws you in.  I hope that comes through in my photos because there is really no place like it. So here’s a list of all my travel recommendations for this incredible greek island!
 
 **Where to Stay**
 
