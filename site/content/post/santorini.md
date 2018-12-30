@@ -104,9 +104,9 @@ And even though I made a list of dozens of things I wanted to do on the island, 
 
 _Oia_
 
-Oia is easily the most famous village in Santorini and because of that, the most expensive. Even with it being pricey, I thought it was worth staying there because we would have spent the most time sightseeing in Oia regardless. The views there were some of the most beautiful I’ve ever seen and even though it can get very crowded in the summer, it really is the perfect little village.
+Oia is easily the most famous village in Santorini and because of that, the most expensive. Even with it being pricey, I thought it was worth staying there because we would have spent the most time sightseeing in Oia anyway. The views there were some of the most beautiful I’ve ever seen and even though it can get very crowded in the summer, it really is the perfect little village.
 
-There are small hotels and resorts to stay in, but we decided to stay in an airbnb because I wanted to stay in one of the traditional cave houses. We stayed at “Evilio’s House” and it was one of the best parts of our entire Greece trip. The listing has jaw dropping views and a patio that overlooks the small portion of the village that has a view of the sunset (you’ll see “Watch the sunset in Oia” on about every list of things to do in the Greek islands.) It was amazing to spend every evening there with a glass of wine. I would stay here again the next time we go, which I very rarely say about any accommodation. 
+There are small hotels and resorts to stay in, but we decided to stay in an airbnb because I wanted to stay in one of the traditional cave houses. We stayed at “[Evilio’s House](https://www.booking.com/hotel/gr/evilio-houses.html)” and it was one of the best parts of our entire Greece trip. The listing has jaw dropping views and a patio that overlooks the small portion of the village that has a view of the sunset (you’ll see “Watch the sunset in Oia” on about every list of things to do in the Greek islands.) It was amazing to spend every evening there with a glass of wine. I would stay here again the next time we go, which I very rarely say about any accommodation. 
 
 **Eats & Treats**
 
