@@ -16,8 +16,8 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Intro Blurb", name: "description", widget: "text"}
       - {label: "Image", name: "image", widget: "image", required: false}
-      - {label: "Image Layout", name: "gallery", widget: "object", fields: [{label: Photo, name: photos, widget: list, fields: [{label: Size Trigger on for 100, name: size, widget: boolean}, {label: Image, name: imagenew, widget: image}]}]}
       - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Image Layout", name: "gallery", widget: "object", fields: [{label: Photo, name: photos, widget: list, fields: [{label: Size Trigger on for 100, name: size, widget: boolean}, {label: Image, name: imagenew, widget: image}]}]}
   - name: "pages"
     label: "Pages"
     files:

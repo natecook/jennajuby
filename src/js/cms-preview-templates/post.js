@@ -16,8 +16,6 @@ export default class PostPreview extends React.Component {
         <p>{ format(entry.getIn(["data", "date"]), "ddd, MMM D, YYYY") }</p>
       </div>
       <div className="cms mw6">
-        <p>{ entry.getIn(["data", "description"]) }</p>
-        { image && <img src={ image } alt={ entry.getIn(["data", "title"])} /> }
         { widgetFor("body") }
         <div className="flex flex-wrap mhn1">
           {(entry.getIn(["data", "gallery", "photos"]) || []).map((photo, index) => <div className={photo.get("size") ? "w-100 ph1-ns" : "w-100 w-50-ns ph1-ns" } key={index}>
