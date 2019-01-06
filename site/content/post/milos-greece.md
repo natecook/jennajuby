@@ -2,6 +2,7 @@
 title: 'Milos, Greece'
 date: 2019-01-08T16:00:35.688Z
 description: This is my intro blurb that will only show up on the home page.
+image: /img/milos_blog-1.jpg
 gallery:
   photos:
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-1.jpg'
