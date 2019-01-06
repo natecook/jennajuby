@@ -4,6 +4,10 @@ description: List of places we've loved and great things to see at each place.
 intro:
   blurbs:
     - image: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-22.jpg
+      text: 'Santorini, Greece'
+      url: /post/santorini/
+    - image: >-
         https://d33wubrfki0l68.cloudfront.net/2007561133f005ae3396aaa568e1c0bbe53cffa0/5a152/img/travel-socal.jpg
       text: 'OC & LA, California'
       url: /post/southern-california/
