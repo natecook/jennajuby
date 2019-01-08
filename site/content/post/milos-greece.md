@@ -10,20 +10,32 @@ description: >-
 image: /img/milos_blog-10.jpg
 gallery:
   photos:
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-1.jpg'
+    - imagedescription: Mandrakia Beach
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-1.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-2.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-3.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-4.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-5.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-6.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-7.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-8.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-9.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-10.jpg'
+    - imagedescription: Furry friend at our guest house.
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-2.jpg'
+    - imagedescription: Our bed at Kapetan Tasos Suites.
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-3.jpg'
+    - imagedescription: Kapetan Tasos Suites in Pollonia.
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-4.jpg'
+    - imagedescription: Kapetan Tasos Suites in Pollonia.
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-5.jpg'
+    - imagedescription: Room service breakfast at Kapetan Tasos Suites.
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-6.jpg'
+    - imagedescription: Room service breakfast at Kapetan Tasos Suites.
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-7.jpg'
+    - imagedescription: The flowers outside our guest room door.
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-8.jpg'
+    - imagedescription: Medousa Restaurant.
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-9.jpg'
+    - imagedescription: Firiplaka Beach.
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-10.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-11.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-12.jpg'
+    - imagedescription: Firiplaka offers daybed rentals like these!
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-11.jpg'
+    - imagedescription: Firiplaka Beach.
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-12.jpg'
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-13.jpg'
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-14.jpg'
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-15.jpg'
