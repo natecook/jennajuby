@@ -172,4 +172,22 @@ Honorable mentions: [Astakas Klima](https://www.instagram.com/explore/locations/
 * Explore [Sarakiniko](https://www.google.com/maps/place/Sarak%C3%ADniko/@36.7415649,24.4198447,15.02z/data=!4m13!1m7!3m6!1s0x149920ab9f323f3b:0x7846dcf6ac34c198!2sMilos!3b1!8m2!3d36.6914464!4d24.3935655!3m4!1s0x1498e099a99968d1:0x5d7b410fc19e9c1a!8m2!3d36.7427272!4d24.4582915). This is a beach but think of it more as a...land formation? It’s a beach with these incredible rock formations shaped by the high winds in Milos and it honestly looks like you’re walking on the moon. It’s such a unique place and you cannot go to Milos without seeing it. We went at sunset and it was a really pretty time of day to explore around the rock!
 * Walk around the town of Plaka and see the Archeological Museum of Milos, get a snack at [Archontoula](https://www.google.com/maps/place/Archontoula/@36.7439182,24.4197723,17z/data=!3m1!4b1!4m5!3m4!1s0x1498d8ce60d4e34f:0xdc8456854647132!8m2!3d36.7439182!4d24.421961), something sweet at [Palaios Bakery](https://www.google.com/maps/place/PALAIOS+COFFEE+%26+PASTRY/@36.7439182,24.4197723,17z/data=!4m12!1m6!3m5!1s0x1498d8ce60d4e34f:0xdc8456854647132!2sArchontoula!8m2!3d36.7439182!4d24.421961!3m4!1s0x0:0x54cf8b8d1a193397!8m2!3d36.7441501!4d24.4218054), and have a sunset drink at Utopia Cafe overlooking the water. 
 * See the colorful seaside town of [Klima](https://www.instagram.com/explore/locations/262348619/klima/) and grab a drink of lunch at Astakas, right on the water. 
-* Drive to [Firopotomas Beach](https://www.google.com/maps/place/Firopotamos+Beach/@36.7578094,24.425125,17z/data=!3m1!4b1!4m5!3m4!1s0x1498d92b1de0b2bb:0x7329821b0f9cc6a8!8m2!3d36.7578094!4d24.4273137), take a dip, see Agios Nikolaos church, or just stop to take a few photos of the beautiful water and charming bay.
+* Drive to [Firopotomas Beach](https://www.google.com/maps/place/Firopotamos+Beach/@36.7578094,24.425125,17z/data=!3m1!4b1!4m5!3m4!1s0x1498d92b1de0b2bb:0x7329821b0f9cc6a8!8m2!3d36.7578094!4d24.4273137), take a dip, see Agios Nikolaos church, or just stop to take a few photos of the beautiful water and charming bay. 
+
+**Best Beaches**
+
+**_For a beach day..._**
+
+* Firiplaka and Paliochori
+
+**_To explore..._**
+
+* Sarakiniko, Agios Sostis, Tsigrado
+
+**_See by boat..._**
+
+* Kleftiko, Kalamos, Tsigrado
+
+**_For a photo opt..._**
+
+* Klima Bay and Firopotamos
