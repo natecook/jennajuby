@@ -95,7 +95,7 @@ a:hover .overlay-sq {
 }
 @media (--breakpoint-not-small) {
   .w-100.w-50-ns .img-desc {
-    width: 97%;
+    width: 97.75%;
   }
   .w-100 .img-desc {
     width: 99%;
