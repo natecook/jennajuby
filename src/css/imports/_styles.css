@@ -49,12 +49,12 @@ a:hover .overlay-sq {
 .img-desc {
   border-radius: 4px;
   bottom: 14px;
-  background: rgba(23, 20, 20, 0.5);
+  background: rgb(235, 172, 171);
   color: #fff;
   display: none;
   position: absolute;
   text-align: center;
-  width: 97%;
+  width: 100%;
 }
 .w-100.ph1-ns {
   position: relative;
@@ -92,4 +92,9 @@ a:hover .overlay-sq {
 }
 .top-back a {
   display: block;
+}
+@media (--breakpoint-not-small) {
+  .img-desc {
+    width: 97%;
+  }
 }
