@@ -23,18 +23,18 @@ gallery:
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-5.jpg'
     - imagedescription: Room service breakfast at Kapetan Tasos Suites
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-6.jpg'
-    - imagedescription: Room service breakfast at Kapetan Tasos Suites.
+    - imagedescription: Room service breakfast at Kapetan Tasos Suites
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-7.jpg'
-    - imagedescription: The flowers outside our guest room door.
+    - imagedescription: The flowers outside our guest room door
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-8.jpg'
-    - imagedescription: Medousa Restaurant.
+    - imagedescription: Medousa Restaurant
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-9.jpg'
-    - imagedescription: Firiplaka Beach.
+    - imagedescription: Firiplaka Beach
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-10.jpg'
       size: true
-    - imagedescription: Firiplaka offers daybed rentals like these!
+    - imagedescription: Firiplaka offers daybed rentals like these
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-11.jpg'
-    - imagedescription: Firiplaka Beach.
+    - imagedescription: Firiplaka Beach
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-12.jpg'
     - imagedescription: 'The beach cafe that offers drinks, food, and coffee'
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-13.jpg'
