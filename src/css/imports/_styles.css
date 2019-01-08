@@ -56,6 +56,9 @@ a:hover .overlay-sq {
   text-align: center;
   width: 97%;
 }
+.w-100.ph1-ns {
+  position: relative;
+}
 .w-100.ph1-ns:hover .img-desc {
   display: block;
 }
