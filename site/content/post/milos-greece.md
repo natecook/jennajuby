@@ -13,15 +13,15 @@ gallery:
     - imagedescription: Mandrakia Beach
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-1.jpg'
       size: true
-    - imagedescription: Furry friend at our guest house.
+    - imagedescription: Furry friend at our guest house
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-2.jpg'
-    - imagedescription: Our bed at Kapetan Tasos Suites.
+    - imagedescription: Our bed at Kapetan Tasos Suites
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-3.jpg'
     - imagedescription: Kapetan Tasos Suites in Pollonia.
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-4.jpg'
-    - imagedescription: Kapetan Tasos Suites in Pollonia.
+    - imagedescription: ''
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-5.jpg'
-    - imagedescription: Room service breakfast at Kapetan Tasos Suites.
+    - imagedescription: Room service breakfast at Kapetan Tasos Suites
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-6.jpg'
     - imagedescription: Room service breakfast at Kapetan Tasos Suites.
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-7.jpg'
@@ -36,7 +36,8 @@ gallery:
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-11.jpg'
     - imagedescription: Firiplaka Beach.
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-12.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-13.jpg'
+    - imagedescription: 'The beach cafe that offers drinks, food, and coffee'
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-13.jpg'
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-14.jpg'
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-15.jpg'
       size: true
@@ -57,52 +58,81 @@ gallery:
       size: true
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-26.jpg'
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-27.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-28.jpg'
+    - imagedescription: Agios Sostis Beach
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-28.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-29.jpg'
+    - imagedescription: Agios Sostis Beach dock
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-29.jpg'
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-30.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-31.jpg'
+    - imagedescription: Agios Sostis Beach
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-31.jpg'
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-32.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-33.jpg'
+    - imagedescription: Agios Sostis Beach
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-33.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-34.jpg'
+    - imagedescription: Downtown Trypiti
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-34.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-35.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-36.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-37.jpg'
+    - imagedescription: Sunset dinner at Barriello
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-35.jpg'
+    - imagedescription: Sunset dinner at Barriello
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-36.jpg'
+    - imagedescription: Sunset dinner at Barriello
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-37.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-38.jpg'
+    - imagedescription: Paliochori Beach
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-38.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-39.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-40.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-41.jpg'
+    - imagedescription: Paliochori Beach
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-39.jpg'
+    - imagedescription: Paliochori Beach
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-40.jpg'
+    - imagedescription: Diving off the boat into Kalamos Beach
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-41.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-42.jpg'
+    - imagedescription: Snorkeling with Volcano Boat Cruises
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-42.jpg'
       size: true
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-44.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-43.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-45.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-46.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-47.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-48.jpg'
+    - imagedescription: Swimming at Kalamos Beach
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-43.jpg'
+    - imagedescription: 'Kalamos Beach, only accessible by boat'
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-45.jpg'
+    - imagedescription: Kleftiko Caves
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-46.jpg'
+    - imagedescription: 'Kleftiko Caves snorkeling '
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-47.jpg'
+    - imagedescription: Kleftiko Caves
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-48.jpg'
       size: false
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-49.jpg'
+    - imagedescription: Kleftiko Caves
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-49.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-50.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-51.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-52.jpg'
+    - imagedescription: Kleftiko Caves
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-50.jpg'
+    - imagedescription: Tsigrado Beach
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-51.jpg'
+    - imagedescription: Kleftiko Caves
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-52.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-53.jpg'
+    - imagedescription: Tsigrado Beach
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-53.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-54.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-55.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-56.jpg'
+    - imagedescription: Kleftiko Caves
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-54.jpg'
+    - imagedescription: View from our table at Sirocco Restaurant
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-55.jpg'
+    - imagedescription: Sarakiniko Beach
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-56.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-57.jpg'
+    - imagedescription: Sarakiniko Beach
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-57.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-58.jpg'
+    - imagedescription: Sarakiniko Beach
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-58.jpg'
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-59.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-60.jpg'
+    - imagedescription: Sarakiniko Beach
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-60.jpg'
       size: true
 ---
 The amazing island of Milos was the second stop on our Greek Island tour. There are so so SO many islands to choose from, and other than Santorini, I wasn’t positive of what other ones I wanted to visit when we started planning. After doing a lot of research, I decided that Milos was on the top of our list. I thought I would like it...I didn’t think that I would love it like I did. I loved Milos as much as Santorini, which is saying a lot. It’s much less touristy, which is welcomed after the crowds of our last island. It’s a much more relaxed place, a bit more untouched, if you will. A lot of the locals don’t speak english, and google maps cannot be trusted there, haha. It was a perfect change from Santorini, especially because Milos is famous for it’s beaches, and the beaches in Santorini aren’t much to write home about. I wanted us to have a few relaxing days on some Grecian beaches and Milos was the perfect place for it. This island is filled with the bluest water I have ever seen, and the world’s most pristine beaches. The sea water is calm and crystal clear and shallow and everything you have ever wanted.  We spent our days there just exploring different parts of the island and again, eating our way through every town. If you are planning a trip to the Greek Islands, Milos should absolutely not be missed!
