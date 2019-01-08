@@ -135,7 +135,7 @@ gallery:
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-60.jpg'
       size: true
 ---
-The amazing island of Milos was the second stop on our Greek Island tour. There are so so SO many islands to choose from, and other than Santorini, I wasn’t positive of what other ones I wanted to visit when we started planning. After doing a lot of research, I decided that Milos was on the top of our list. I thought I would like it...I didn’t think that I would love it like I did. I loved Milos as much as Santorini, which is saying a lot. It’s much less touristy, which is welcomed after the crowds of our last island. It’s a much more relaxed place, a bit more untouched, if you will. A lot of the locals don’t speak english, and google maps cannot be trusted there, haha. It was a perfect change from Santorini, especially because Milos is famous for it’s beaches, and the beaches in Santorini aren’t much to write home about. I wanted us to have a few relaxing days on some Grecian beaches and Milos was the perfect place for it. This island is filled with the bluest water I have ever seen, and the world’s most pristine beaches. The sea water is calm and crystal clear and shallow and everything you have ever wanted.  We spent our days there just exploring different parts of the island and again, eating our way through every town. If you are planning a trip to the Greek Islands, Milos should absolutely not be missed!
+The amazing island of Milos was the second stop on our Greek Island tour. There are so so SO many islands to choose from, and other than Santorini, I wasn’t positive of what other ones I wanted to visit when we started planning. After doing a lot of research, I decided that Milos was on the top of our list. I loved Milos as much as Santorini, which I wasn't expecting! It’s much less touristy, a welcomed break after the crowds on Santorini. It’s a much more relaxed place, a bit more untouched, if you will. A lot of the locals don’t speak english, and google maps cannot be trusted there, haha. It was a perfect change from our previous island, especially because Milos is famous for it’s beaches, and the beaches in Santorini aren’t much to write home about. I wanted us to have a few relaxing days on some Grecian beaches and Milos was the perfect place for it. This island is filled with the bluest water I have ever seen, and the world’s most pristine beaches. The sea water is calm and crystal clear and shallow and everything you have ever wanted.  We spent our days there just exploring different parts of the island and again, eating our way through every town. If you are planning a trip to the Greek Islands, Milos should absolutely not be missed!
 
 **Where To Stay**
 
@@ -176,18 +176,18 @@ Honorable mentions: [Astakas Klima](https://www.instagram.com/explore/locations/
 
 **Best Beaches**
 
-**_For a beach day..._**
+_For a beach day..._
 
-* Firiplaka and Paliochori
+* [Firiplaka](https://www.google.com/maps/place/Firiplaka+Beach/@36.6657089,24.4636066,17z/data=!3m1!4b1!4m5!3m4!1s0x149920fd58f8f497:0x6055e73995079901!8m2!3d36.6657089!4d24.4657953) and [Paliochori](https://www.google.com/maps/place/Paliochori+Beach/@36.6749799,24.519188,3a,75y,90t/data=!3m8!1e2!3m6!1shttps:%2F%2Fwww.paliochori.com%2Findex_files%2Fstacks-image-2187b02.jpg!2e7!3e27!6s%2F%2Flh3.googleusercontent.com%2Fproxy%2Frj5mpOiIHz_lEadepr4mNbVKTbx6HIYKBklJLV8NvTxJ_cTYy3Ufc_lQTCI11K1tWicnK8m8HN_lmLZm6g1g7pUimWiTEqhc3LsVwxpgyRe6E_ku__g4SFedZ-lbJN12fpWlhZnXgdQgUAbe5YVytZck30my8w%3Dw153-h86-k-no!7i1380!8i776!4m5!3m4!1s0x1499201f451a483f:0x11df632e3f879223!8m2!3d36.6749552!4d24.5192149)
 
-**_To explore..._**
+_To explore..._
 
-* Sarakiniko, Agios Sostis, Tsigrado
+* [Sarakiniko](https://www.google.com/maps/place/Sarak%C3%ADniko/@36.7427272,24.4561028,17z/data=!3m1!4b1!4m5!3m4!1s0x1498e099a99968d1:0x5d7b410fc19e9c1a!8m2!3d36.7427272!4d24.4582915), [Agios Sostis](https://www.google.com/maps/place/Agios+Sostis+Beach/@36.6698395,24.4423353,17z/data=!3m1!4b1!4m5!3m4!1s0x149920d89f8a93f7:0xa0fb038af4ed7509!8m2!3d36.6698395!4d24.444524), [Tsigrado](https://www.google.com/maps/place/Tsigrado+Beach,+Milos/@36.6619789,24.4671089,17z/data=!3m1!4b1!4m5!3m4!1s0x14992103b2dbc733:0xac6ceb8a70263c09!8m2!3d36.6619789!4d24.4692976)
 
-**_See by boat..._**
+_See by boat..._
 
-* Kleftiko, Kalamos, Tsigrado
+* [Kleftiko](https://www.google.com/maps/place/Kleftiko+Caves/@36.6506566,24.3302658,17z/data=!3m1!4b1!4m5!3m4!1s0x14992f55cee0899b:0x47b3691f334334a1!8m2!3d36.6506566!4d24.3324545), [Kalamos](https://www.google.com/maps/place/Kalamos+Beach/@36.6665091,24.4797253,17z/data=!3m1!4b1!4m5!3m4!1s0x14992054393cbe9d:0x655c6abca7bf14bb!8m2!3d36.6665091!4d24.481914), [Tsigrado](https://www.google.com/maps/place/Tsigrado+Beach,+Milos/@36.6619789,24.4671089,17z/data=!3m1!4b1!4m5!3m4!1s0x14992103b2dbc733:0xac6ceb8a70263c09!8m2!3d36.6619789!4d24.4692976)
 
-**_For a photo opt..._**
+_For a photo opt..._
 
-* Klima Bay and Firopotamos
+* [Klima Bay](https://www.google.com/maps/place/Klima,+Greece/@36.7349519,24.418587,18z/data=!3m1!4b1!4m5!3m4!1s0x1498d8b7cb30f5a3:0xa8ed0d5676dc6e85!8m2!3d36.7347278!4d24.4204951) and [Firopotamos](https://www.google.com/maps/place/Firopotamos+Beach/@36.7578094,24.425125,17z/data=!3m1!4b1!4m5!3m4!1s0x1498d92b1de0b2bb:0x7329821b0f9cc6a8!8m2!3d36.7578094!4d24.4273137)
