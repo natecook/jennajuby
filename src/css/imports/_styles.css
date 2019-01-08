@@ -46,6 +46,19 @@ a:hover .overlay-sq {
   margin: 0 auto;
   text-align: center;
 }
+.img-desc {
+  border-radius: 4px;
+  bottom: 14px;
+  background: rgba(23, 20, 20, 0.5);
+  color: #fff;
+  display: none;
+  position: absolute;
+  text-align: center;
+  width: 97%;
+}
+.w-100.ph1-ns:hover .img-desc {
+  display: block;
+}
 .no-underline.pa3.br1.mb2.db.raise.w-100 button {
   color: var(--primary);
   box-shadow: inset 0 0 0 1px var(--primary);
