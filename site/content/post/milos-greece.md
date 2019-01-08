@@ -110,13 +110,11 @@ Lunch: [Medousa](https://www.instagram.com/explore/locations/825035811/medousa-m
 
 Liner: [Sirocco](https://www.instagram.com/explore/locations/316901261718682/sirocco-restaurant/)
 
-Dinner: O! Hamos! Tavern
+Dinner: [O! Hamos Tavern](https://www.instagram.com/explore/locations/270014034/o-hamos/)
 
-Dessert: Mouratos Bakery
+Drinks: [Utopia Cafe](https://www.instagram.com/explore/locations/225644387455126/utopia-cafemilos/)
 
-Drinks: Utopia Caffe
-
-Honorable mentions: Astakas Klima, 
+Honorable mentions: [Astakas Klima](https://www.instagram.com/explore/locations/1002858849769554/astakas-klima/), [Mouratos Bakery](https://www.instagram.com/explore/locations/296712020/mouratos-bakery/), [Aggeliki Ice Cream Shop](https://www.instagram.com/explore/locations/301570181/aggeliki-ice-cream-and-desserts-milos-greece/), [Gialos](https://www.instagram.com/explore/locations/376053213/gialos-restaurant/), [Enalion](https://www.instagram.com/explore/locations/307840323/enalion/)
 
 
 
