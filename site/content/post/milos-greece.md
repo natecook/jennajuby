@@ -19,7 +19,7 @@ gallery:
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-3.jpg'
     - imagedescription: Kapetan Tasos Suites in Pollonia
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-4.jpg'
-    - imagedescription: ''
+    - imagedescription: Kapetan Tasos Suites in Pollonia
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-5.jpg'
     - imagedescription: Room service breakfast at Kapetan Tasos Suites
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-6.jpg'
