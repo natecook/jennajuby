@@ -36,37 +36,53 @@ gallery:
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-11.jpg'
     - imagedescription: Firiplaka Beach
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-12.jpg'
-    - imagedescription: 'The beach cafe that offers drinks, food, and coffee'
+    - imagedescription: The beach cafe that offers food and drinks
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-13.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-14.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-15.jpg'
+    - imagedescription: 'Firiplaka Beach, view from the beach bar'
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-14.jpg'
+    - imagedescription: Firiplaka Beach
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-15.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-16.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-17.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-18.jpg'
+    - imagedescription: Firiplaka Beach
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-16.jpg'
+    - imagedescription: Firiplaka Beach
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-17.jpg'
+    - imagedescription: Firiplaka Beach
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-18.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-19.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-20.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-21.jpg'
+    - imagedescription: Firiplaka Beach
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-19.jpg'
+    - imagedescription: Firiplaka Beach
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-20.jpg'
+    - imagedescription: Firiplaka Beach
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-21.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-22.jpg'
+    - imagedescription: Firiplaka Beach
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-22.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-23.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-24.jpg'
+    - imagedescription: Firiplaka Beach
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-23.jpg'
+    - imagedescription: ''
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-24.jpg'
       size: false
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-25.jpg'
+    - imagedescription: Firiplaka Beach entrance
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-25.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-26.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-27.jpg'
+    - imagedescription: Firiplaka Beach entrance
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-26.jpg'
+    - imagedescription: Firiplaka Beach entrance
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-27.jpg'
     - imagedescription: Agios Sostis Beach
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-28.jpg'
       size: true
-    - imagedescription: Agios Sostis Beach dock
+    - imagedescription: Agios Sostis Beach
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-29.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-30.jpg'
+    - imagedescription: Agios Sostis Beach
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-30.jpg'
     - imagedescription: Agios Sostis Beach
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-31.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-32.jpg'
+    - imagedescription: Agios Sostis Beach
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-32.jpg'
     - imagedescription: Agios Sostis Beach
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-33.jpg'
       size: true
@@ -93,10 +109,11 @@ gallery:
     - imagedescription: Snorkeling with Volcano Boat Cruises
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-42.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-44.jpg'
+    - imagedescription: Kleftiko Caves
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-44.jpg'
     - imagedescription: Swimming at Kalamos Beach
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-43.jpg'
-    - imagedescription: 'Kalamos Beach, only accessible by boat'
+    - imagedescription: Kalamos Beach
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-45.jpg'
     - imagedescription: Kleftiko Caves
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-46.jpg'
