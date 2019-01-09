@@ -17,7 +17,7 @@ gallery:
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-2.jpg'
     - imagedescription: Our bed at Kapetan Tasos Suites
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-3.jpg'
-    - imagedescription: Kapetan Tasos Suites in Pollonia.
+    - imagedescription: Kapetan Tasos Suites in Pollonia
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-4.jpg'
     - imagedescription: ''
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-5.jpg'
@@ -25,7 +25,7 @@ gallery:
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-6.jpg'
     - imagedescription: Room service breakfast at Kapetan Tasos Suites
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-7.jpg'
-    - imagedescription: The flowers outside our guest room door
+    - imagedescription: The flowers outside our guest room
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-8.jpg'
     - imagedescription: Medousa Restaurant
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Milos_Blog-9.jpg'
@@ -188,6 +188,6 @@ _See by boat..._
 
 * [Kleftiko](https://www.google.com/maps/place/Kleftiko+Caves/@36.6506566,24.3302658,17z/data=!3m1!4b1!4m5!3m4!1s0x14992f55cee0899b:0x47b3691f334334a1!8m2!3d36.6506566!4d24.3324545), [Kalamos](https://www.google.com/maps/place/Kalamos+Beach/@36.6665091,24.4797253,17z/data=!3m1!4b1!4m5!3m4!1s0x14992054393cbe9d:0x655c6abca7bf14bb!8m2!3d36.6665091!4d24.481914), [Tsigrado](https://www.google.com/maps/place/Tsigrado+Beach,+Milos/@36.6619789,24.4671089,17z/data=!3m1!4b1!4m5!3m4!1s0x14992103b2dbc733:0xac6ceb8a70263c09!8m2!3d36.6619789!4d24.4692976)
 
-_For a photo opt..._
+_For a photo op..._
 
 * [Klima Bay](https://www.google.com/maps/place/Klima,+Greece/@36.7349519,24.418587,18z/data=!3m1!4b1!4m5!3m4!1s0x1498d8b7cb30f5a3:0xa8ed0d5676dc6e85!8m2!3d36.7347278!4d24.4204951) and [Firopotamos](https://www.google.com/maps/place/Firopotamos+Beach/@36.7578094,24.425125,17z/data=!3m1!4b1!4m5!3m4!1s0x1498d92b1de0b2bb:0x7329821b0f9cc6a8!8m2!3d36.7578094!4d24.4273137)
