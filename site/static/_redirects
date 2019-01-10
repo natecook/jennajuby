@@ -1,3 +1,8 @@
 # Redirect default Netlify subdomain to primary domain
 https://test-nate.netlify.com/* https://www.jennajuby.com/:splat 301!
 https://www.jennajuby.com/2015/05/20/spring-time-in-south-carolina* https://www.jennajuby.com/post/spring-time-in-south-carolina/:splat 301!
+https://www.jennajuby.com/tag/glamping* https://www.jennajuby.com/post/zion-national-park-utah/:splat 301!
+https://www.jennajuby.com/tag/relationships* https://www.jennajuby.com/post/after-365-days-of-marriage/:splat 301!
+https://www.jennajuby.com/tag/love* https://www.jennajuby.com/post/after-365-days-of-marriage/:splat 301!
+https://www.jennajuby.com/tag/north-carolina* https://www.jennajuby.com/post/asheville-nc/:splat 301!
+https://www.jennajuby.com/tag/* https://www.jennajuby.com/:splat 301!
