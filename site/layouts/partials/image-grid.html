@@ -4,15 +4,19 @@
 		{{ range .photos }}
 			{{ if ne .size true }}
 				<div class="w-100 w-50-ns ph1-ns">
-					<img src="{{ .imagenew }}" alt="" >
-					{{ if .imagedescription }}
+					{{ if eq .imagedescription "" }}
+						<img src="{{ .imagenew }}" alt="" >
+					{{ else }}
+						<img src="{{ .imagenew }}" alt="{{ .imagedescription }}" >
 						<div class="img-desc">{{ .imagedescription }}</div>
 					{{ end }}
 				</div>
 			{{ else }}
 				<div class="w-100 ph1-ns">
-					<img src="{{ .imagenew }}" alt="" >
-					{{ if .imagedescription }}
+					{{ if eq .imagedescription "" }}
+						<img src="{{ .imagenew }}" alt="" >
+					{{ else }}
+						<img src="{{ .imagenew }}" alt="{{ .imagedescription }}" >
 						<div class="img-desc">{{ .imagedescription }}</div>
 					{{ end }}
 				</div>
