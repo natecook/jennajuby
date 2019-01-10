@@ -3,8 +3,10 @@ heading: Travel Photography
 description: List of places we've loved and great things to see at each place.
 intro:
   blurbs:
-    - image: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-22.jpg
+    - image: /img/milos_blog-10.jpg
+      text: 'Milos, Greece'
+      url: 'https://www.jennajuby.com/post/milos-greece/'
+    - image: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-22.jpg'
       text: 'Santorini, Greece'
       url: /post/santorini/
     - image: >-
