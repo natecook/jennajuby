@@ -4,15 +4,15 @@
 		{{ range .photos }}
 			{{ if ne .size true }}
 				<div class="w-100 w-50-ns ph1-ns">
-					{{ if .imagedescription }}
 					<img src="{{ .imagenew }}" alt="{{ .imagedescription }}" >
+					{{ if .imagedescription }}
 						<div class="img-desc">{{ .imagedescription }}</div>
 					{{ end }}
 				</div>
 			{{ else }}
 				<div class="w-100 ph1-ns">
-					{{ if .imagedescription }}
 					<img src="{{ .imagenew }}" alt="{{ .imagedescription }}" >
+					{{ if .imagedescription }}
 						<div class="img-desc">{{ .imagedescription }}</div>
 					{{ end }}
 				</div>
