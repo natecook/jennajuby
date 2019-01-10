@@ -1,6 +1,6 @@
 ---
 title: jennajuby
-subtitle: >-
+description: >-
   A travel guide blog, written from the perspective of a photographer/sugar
   addict. Featuring places as far as Australia and as close as Cape Cod. Based
   in NYC.
