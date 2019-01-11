@@ -1,7 +1,12 @@
 ---
 title: 'Mykonos, Greece'
 date: 2019-01-11T02:50:22.500Z
-description: Intro blurb yo
+description: >-
+  And now onto the last island of our trip, Mykonos! Mykonos was so different
+  from Santorini and Milos, and I’m glad we got to experience such variety in
+  the islands that we visited. If Santorini was your beautiful and popular older
+  sister, and Milos was younger brother who sleeps on the beach and does hair
+  modeling, then Mykonos is for SURE your rich ass uncle with a yacht.
 gallery:
   photos:
     - imagenew: >-
@@ -150,4 +155,49 @@ gallery:
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/mykonos/Mykonos-63.jpg
 ---
-body text
+And now onto the last island of our trip, Mykonos! Mykonos was so different from Santorini and Milos, and I’m glad we got to experience such variety in the islands that we visited. If Santorini was your beautiful and popular older sister, and Milos was younger brother who sleeps on the beach and does hair modeling, then Mykonos is for SURE your rich ass uncle with a yacht. Get my drift? This place was SNNNAAZZZYYY. It’s by the far the most accommodating island, meaning, yes it still feels like Greece, but it also wouldn’t be hard to find gluten free bread and a almond milk matcha in the morning. Speaking of food, Mykonos had really really good food, some of the best of our whole trip! The island is known for their beach clubs and yacht filled coast line and it was really fun to experience such a different greek island vibe. We also met our close friends Lauren and Andrew there and it was really fun having another couple to explore with for the week! We rented a house with them, which I recommend doing. I think it’s probably the most cost effective way to stay on the island and most houses come with a pool which is awesome! Here are some recommendations on planning your trip to Mykonos!
+
+
+
+**Eats & Treats**
+
+Coffee: [Bowl](https://www.google.com/maps/place/Bowl+Restaurant%2FCafe/@37.4254655,25.321024,17z/data=!3m1!4b1!4m5!3m4!1s0x14a2be5db16adcd5:0x24a33ca6f124912a!8m2!3d37.4254655!4d25.3232127) or [Liberty](https://www.google.com/maps/place/The+Liberty+Breakfast+Room/@37.4398833,25.3311433,17z/data=!3m1!4b1!4m5!3m4!1s0x14a2bf0030f6c709:0xb55fdcca627cd955!8m2!3d37.4398833!4d25.333332) listed below
+
+Bakery: [Choriatiko](https://www.google.com/maps/place/Ch%C5%8Driatiko/@37.4254101,25.3206968,17z/data=!3m1!4b1!4m5!3m4!1s0x14a2be5c67a825c3:0x5947a1f84fcd1439!8m2!3d37.4254101!4d25.3228855)
+
+Breakfast: [Bowl](https://www.instagram.com/bowlmykonos/)
+
+Brunch: [The Liberty Breakfast Room](https://www.instagram.com/thelibertybreakfastroom/)
+
+Lunch: [Spilia Restaurant](https://spiliarestaurant.gr/)
+
+Dinner: [Avra Restaurant](https://www.google.com/maps/place/Avra+Restaurant/@37.4458997,25.3261172,17z/data=!3m1!4b1!4m5!3m4!1s0x14a2bfa9783d436d:0xa014dc53e2e275e8!8m2!3d37.4458997!4d25.3283059)
+
+Drinks: [Scorpios](https://www.instagram.com/scorpiosmyk/)
+
+Dessert: [The Taste Diaries](https://www.google.com/maps/place/The+Taste+Diaries/@37.447202,25.3252213,17z/data=!3m1!4b1!4m5!3m4!1s0x14a2bfa910ef78c5:0x6af96d971d07a51e!8m2!3d37.447202!4d25.32741)
+
+
+
+Honorable mentions...Joanna’s Nikos Place Taverna, Hippie Fish, Kiki’s Tavern, Caprice Bar
+
+
+
+**Beach Clubs**
+
+[Scorpios](https://www.scorpiosmykonos.com/)
+
+Nammos
+
+[Kalua Beach Bar and Restaurant](https://www.instagram.com/kaluamykonos/) 
+
+Lia Beach
+
+
+
+**Things To Do**
+
+* Explore downtown Mykonos, have a drink overlooking Little Venice on the water, window shop...and really shop, and eat all the gelato and crepes! Walking in this area is where I took the majority of my photos, it’s truly the cutest part filled with twisting and turning alleyways filled with flowers and pops of color everywhere. It’s is quintessential Greece and you can’t not love it!
+* Spend the day at a beach club! A club can range from blaring music and people doing coke to like....lounging in really plush beach chairs while children run around you making sandcastles. I’m probably way off here but how I see beach clubs as a way to spend the day on the beach, usually renting lounge chairs, and getting beach side service of drinks and food. We did a little mix of both. One day we rented lounge chairs at Lia Beach, which was super chill and pretty affordable. The chairs were really comfy, the water was beautiful, and there was great drinks/service. We also went to Scorpios for the day which was like stepping onto a different planet. This beach club was absolutely over the top and amazing. Everyone there looked like an instagram model but like...not the kind from the bachelor, way richer than that. The food was mind blowingly good. At one point Lauren and I ordered a giant warm chocolate chip cookie with ice cream on it and we sat there eating it in our bathing suits looking at the ocean- does life get any better? This resort is stunning and you have to reserve pretty far ahead and it’s not cheap but it is 100% worth every penny. 
+* Spend an afternoon at Spilia. This restaurant/hotel/club is stunning, you will never want to leave. We had a late lunch there full of fresh fish and white wine, looking right out to the ocean as the biggest yacht’s you’ve ever seen floated around. I can’t figure out if the food or the view was better! After lunch we noticed that some people were swimming in the cove nearby so we explored and saw they were cliff jumping into the water. The whole thing was so scenic and surreal that I felt like it could have been a part in Sisterhood Of The Traveling Pants.  Blake Lively would happen upon something spontaneous and dangerous and impress whatever hot boy was around by throwing her tanned body off the highest part of the cliff and crash into the water like a beautiful exotic fish. I, however, was too afraid to go full on Blake in this scenario, so Andrew and I cheered on Lauren and Nate.  ALL THAT TO SAY, you should really do all of this because it was hella fun. ^^^^^
+* Spend the day at wherever you're staying...because most likely it was really expensive and you gotta get all you can outta that baby! We rented a house with a pool and a great outdoor area where we spent most of our time. We played cards for hours, floated around on those food floaties that every millennial has, and drank a lot a lot a lot of delicious wine. Mykonos is all about relaxation and consumption, baby. Lounge and eat and tan to your hearts desire!
