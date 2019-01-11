@@ -38,6 +38,10 @@ gallery:
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/mykonos/Mykonos-14.jpg
     - imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/mykonos/Mykonos-63.jpg
+    - imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/mykonos/Mykonos-64.jpg
+    - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/mykonos/Mykonos-15.jpg
       size: true
     - imagenew: >-
