@@ -7,6 +7,7 @@ description: >-
   the islands that we visited. If Santorini was your beautiful and popular older
   sister, and Milos was younger brother who sleeps on the beach and does hair
   modeling, then Mykonos is for SURE your rich ass uncle with a yacht.
+image: /img/mykonos-43.jpg
 gallery:
   photos:
     - imagenew: >-
@@ -179,7 +180,7 @@ Dessert: [The Taste Diaries](https://www.google.com/maps/place/The+Taste+Diaries
 
 
 
-Honorable mentions...Joanna’s Nikos Place Taverna, Hippie Fish, Kiki’s Tavern, Caprice Bar
+Honorable mentions...[Joanna’s Nikos Place Taverna](https://www.google.com/maps/place/Joanna's+Nikos+Place+Taverna/@37.4397805,25.3251608,17z/data=!3m1!4b1!4m5!3m4!1s0x14a2be54c51242cd:0xdf7973ead19fb03!8m2!3d37.4397805!4d25.3273495), [Hippie Fish](https://www.instagram.com/hippiefishmykonos/), [Kiki’s Tavern](https://www.google.com/maps/place/Kiki's+Tavern/@37.4859138,25.3583474,17z/data=!3m1!4b1!4m5!3m4!1s0x14a2c0bc7bc0a8f9:0x574604d051fb2318!8m2!3d37.4859138!4d25.3605361), [Caprice Bar](https://www.google.com/maps/place/Caprice+Bar+Mykonos/@37.4456776,25.3240184,17z/data=!3m1!4b1!4m5!3m4!1s0x14a2bfabf7019ab3:0xdab7e89e9ef4b855!8m2!3d37.4456776!4d25.3262071)
 
 
 
@@ -187,11 +188,11 @@ Honorable mentions...Joanna’s Nikos Place Taverna, Hippie Fish, Kiki’s Taver
 
 [Scorpios](https://www.scorpiosmykonos.com/)
 
-Nammos
+[Nammos](https://www.nammos.gr/)
 
 [Kalua Beach Bar and Restaurant](https://www.instagram.com/kaluamykonos/) 
 
-Lia Beach
+[Lia Beach](https://www.google.com/maps/place/Lia+Beach/@37.4448762,25.4345724,17z/data=!3m1!4b1!4m5!3m4!1s0x14a2b8654f3a4de9:0x2da197d90205d0c7!8m2!3d37.4448762!4d25.4367611)
 
 
 
