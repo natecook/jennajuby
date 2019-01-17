@@ -93,6 +93,20 @@ a:hover .overlay-sq {
 .top-back a {
   display: block;
 }
+a.pin-custom {
+    display: none;
+}
+.cms .w-100.ph1-ns:hover a.pin-custom {
+  cursor: pointer;
+  display: block;
+  max-width: 30px;
+  position: absolute;
+  right: 15px;
+  top: 10px;
+}
+.cms .w-100.ph1-ns:hover a.pin-custom:hover {
+  background: transparent;
+}
 @media (--breakpoint-not-small) {
   .w-100.w-50-ns .img-desc {
     width: 97.75%;
