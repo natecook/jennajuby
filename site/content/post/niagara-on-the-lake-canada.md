@@ -74,10 +74,12 @@ gallery:
     - imagedescription: Walking around the NOTL neighborhood
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-25.jpg
-    - imagenew: >-
+    - imagedescription: Walking around the NOTL neighborhood
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-28.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: The town of Niagara-On-The-Lake
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-27.jpg
     - imagedescription: Walking around the NOTL neighborhood
       imagenew: >-
@@ -132,7 +134,8 @@ gallery:
     - imagedescription: Balzac's Coffee Roasters
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-44.jpg
-    - imagenew: >-
+    - imagedescription: Walking around the NOTL neighborhood
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-45.jpg
     - imagedescription: Walking around the NOTL neighborhood
       imagenew: >-
@@ -147,7 +150,7 @@ gallery:
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-49.jpg
       size: true
-    - imagedescription: Outside Prince Of Wales Hotel
+    - imagedescription: Prince Of Wales Hotel
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-50.jpg
     - imagedescription: Prince Of Wales Hotel
@@ -163,7 +166,7 @@ gallery:
     - imagedescription: The town of Niagara-On-The-Lake
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-58.jpg
-    - imagedescription: Greaves Jams & Marmalades
+    - imagedescription: Greaves Jams & Marmalades shop
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-60.jpg
       size: true
@@ -205,7 +208,7 @@ gallery:
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-70.jpg
       size: true
 ---
-Every autumn my family takes a weekend trip to Canada together. This may seem a bit random to some people but the little town of Niagara-On-The-Lake is only a 4 hour drive from my hometown of Akron, Ohio.  And even though I live in New York now, Nate and I take the 7 hour drive through upstate New York to meet my family in Canada every October. The middle of October is the perfect time of year to visit NOTL because it's usually peak autumn. The temperature is in the 60's during the day and the leaves are vibrantly changing colors, making the town feel like you're walking through a movie set!
+Every autumn my family takes a weekend trip to Canada together. This may seem a bit random to some people but the little town of Niagara-On-The-Lake is only a 4 hour drive from my hometown of Akron, Ohio.  And even though I live in New York, Nate and I take the 7 hour drive through upstate New York to meet my family in Canada every October. The middle of October is the perfect time of year to visit NOTL because it's usually peak autumn. The temperature is in the 60's during the day and the leaves are vibrantly changing colors, making the town feel like you're walking through a movie set!
 
 Niagara-On-The-Lake is a beautiful historical town just outside of Niagara Falls. It has a lot of Mississauga, British, and naturally...Canadian history.  Although it's known for it's over all charm, NOTL also brings in tourists for it's Theatre, wineries, and stunning location right on Lake Ontario. It's a perfect weekend getaway! When my family is all there together we stay in a rental house close to Queen St. where all the shops and restaurants are.  I recommend doing this if you're staying with a big group.  If you're going for more of a romantic getaway I would consider staying in one of the bed and breakfasts or cute Inn's!
 
