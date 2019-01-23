@@ -9,140 +9,199 @@ description: >+
 image: /img/canada-62.jpg
 gallery:
   photos:
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-1.jpg'
+    - imagedescription: Walking around the NOTL neighborhood
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-1.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-4.jpg'
+    - imagedescription: Walking around the NOTL neighborhood
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-4.jpg'
       size: false
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-2.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-6.jpg'
+    - imagedescription: Walking around the NOTL neighborhood
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-2.jpg'
+    - imagedescription: Prince of Wales Hotel
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-6.jpg'
       size: false
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-7.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-8.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-9.jpg'
-    - imagenew: >-
+    - imagedescription: There's incredible flowers like this all throughout the town
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-7.jpg'
+    - imagedescription: Balzac's Coffee Roasters
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-8.jpg'
+    - imagedescription: Balzac's Coffee Roasters
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-9.jpg'
+    - imagedescription: Walking around the NOTL neighborhood
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-11.jpg
-    - imagenew: >-
+    - imagedescription: Walking around the NOTL neighborhood
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-12.jpg
-    - imagenew: >-
+    - imagedescription: Walking around the NOTL neighborhood
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-13.jpg
-    - imagenew: >-
+    - imagedescription: Walking around the NOTL neighborhood
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-14.jpg
-    - imagenew: >-
+    - imagedescription: Walking around the NOTL neighborhood
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-15.jpg
-    - imagenew: >-
+    - imagedescription: Walking around the NOTL neighborhood
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-16.jpg
-    - imagenew: >-
+    - imagedescription: Walking around the NOTL neighborhood
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-17.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Walking around the NOTL neighborhood
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-18.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Walking around the NOTL neighborhood
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-19.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Walking around the NOTL neighborhood
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-20.jpg
-    - imagenew: >-
+    - imagedescription: Walking around the NOTL neighborhood
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-21.jpg
-    - imagenew: >-
+    - imagedescription: Walking around the NOTL neighborhood
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-22.jpg
-    - imagenew: >-
+    - imagedescription: Walking around the NOTL neighborhood
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-23.jpg
-    - imagenew: >-
+    - imagedescription: Walking around the NOTL neighborhood
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-24.jpg
-    - imagenew: >-
+    - imagedescription: Walking around the NOTL neighborhood
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-25.jpg
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-28.jpg
       size: false
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-27.jpg
-    - imagenew: >-
+    - imagedescription: Walking around the NOTL neighborhood
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-29.jpg
-    - imagenew: >-
+    - imagedescription: Walking around the NOTL neighborhood
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-30.jpg
-    - imagenew: >-
+    - imagedescription: The town of Niagara-On-The-Lake
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-34.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: The Olde Angel Inn
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-31.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: The town of Niagara-On-The-Lake
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-32.jpg
-    - imagenew: >-
+    - imagedescription: The town of Niagara-On-The-Lake
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-33.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Niagara Home Bakery
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-35.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Niagara Home Bakery
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-36.jpg
-    - imagenew: >-
+    - imagedescription: Niagara Home Bakery
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-37.jpg
-    - imagenew: >-
+    - imagedescription: The town of Niagara-On-The-Lake
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-38.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: The Old Niagara Bookshop
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-39.jpg
-    - imagenew: >-
+    - imagedescription: The Old Niagara Bookshop
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-40.jpg
-    - imagenew: >-
+    - imagedescription: The Olde Angel Inn
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-41.jpg
-    - imagenew: >-
+    - imagedescription: The Olde Angel Inn
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-42.jpg
-    - imagenew: >-
+    - imagedescription: Walking around the NOTL neighborhood
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-43.jpg
-    - imagenew: >-
+    - imagedescription: Balzac's Coffee Roasters
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-44.jpg
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-45.jpg
-    - imagenew: >-
+    - imagedescription: Walking around the NOTL neighborhood
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-46.jpg
-    - imagenew: >-
+    - imagedescription: Walking around the NOTL neighborhood
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-47.jpg
-    - imagenew: >-
+    - imagedescription: Walking around the NOTL neighborhood
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-48.jpg
-    - imagenew: >-
+    - imagedescription: Walking around the NOTL neighborhood
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-49.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Outside Prince Of Wales Hotel
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-50.jpg
-    - imagenew: >-
+    - imagedescription: Prince Of Wales Hotel
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-51.jpg
-    - imagenew: >-
+    - imagedescription: 'Lake Ontario, view from Queen''s Royal Park'
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-55.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Walking around Queen's Royal Park
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-57.jpg
-    - imagenew: >-
+    - imagedescription: The town of Niagara-On-The-Lake
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-58.jpg
-    - imagenew: >-
+    - imagedescription: Greaves Jams & Marmalades
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-60.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: The town of Niagara-On-The-Lake
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-59.jpg
-    - imagenew: >-
+    - imagedescription: The town of Niagara-On-The-Lake
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-61.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: The town of Niagara-On-The-Lake
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-62.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Walking around the NOTL neighborhood
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-66.jpg
-    - imagenew: >-
+    - imagedescription: Walking around the NOTL neighborhood
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-65.jpg
-    - imagenew: >-
+    - imagedescription: Walking around the NOTL neighborhood
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-63.jpg
-    - imagenew: >-
+    - imagedescription: Walking around the NOTL neighborhood
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-64.jpg
-    - imagenew: >-
+    - imagedescription: Sunset view of Lake Ontario
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-67.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Sunset view of Lake Ontario
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-68.jpg
-    - imagenew: >-
+    - imagedescription: Sunset view of Lake Ontario
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-69.jpg
-    - imagenew: >-
+    - imagedescription: Sunset view of Lake Ontario
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Canada/Canada-70.jpg
       size: true
 ---
