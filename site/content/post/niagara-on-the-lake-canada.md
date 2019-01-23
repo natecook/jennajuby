@@ -167,3 +167,13 @@ Afternoon Tea: [Victorian Drawing Room at Prince Of Wales Hotel](https://www.vin
 Dinner: [Backhouse Restaurant](https://backhouse.xyz/)
 
 Dessert & Drinks: [The Olde Angel Inn](https://www.google.com/maps/place/The+Olde+Angel+Inn/@43.2549769,-79.0749636,17z/data=!3m1!4b1!4m5!3m4!1s0x89d35f7106dfb89b:0x83ba91e0b43ab10a!8m2!3d43.2549769!4d-79.0727749)
+
+**Things To Do**
+
+* Spend the afternoon walking around all the shops in downtown. Don't forget to test taste some fudge or stop into the old candy shop, and most importantly get a jar of the famous Greaves Jams & Marmalades to take home with you!
+* Grab a coffee at Balzac's and walk around the neighborhood to see all the historical houses adorned for autumn and to admire the brightly colored trees.
+* Rent electric scooters or bikes and ride through the wine country and along the lake side path to admire Lake Ontario. Then grab lunch at the NOTL Golf Course Clubhouse with seats right over the water.
+* See a play at The Shaw Festival Theatre and get drinks and dessert at the Olde Angel Inn afterwards and enjoy the live music and fun vibe.
+* Spend the afternoon outside wine tasting at Two Sister's Winery or the Riverbend Inn & Vineyard. They are very different from each other and it's worth it to check out both wineries!
+* Watch the sunset in the park overlooking the water near the "Battlefield of Fort Mississauga" (I would go as far west as you can until the parking lot ends). You could even bring a picnic here or wine and cheese, it's a stunning place to watch the sun go down over the lake. 
+* If you're there during the warmer months you can rent kayak's in the lake, the water is incredibly beautiful and crystal clear!
