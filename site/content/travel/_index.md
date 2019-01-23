@@ -3,12 +3,18 @@ heading: Travel Photography
 description: List of places we've loved and great things to see at each place.
 intro:
   blurbs:
+    - image: /img/mykonos-43.jpg
+      text: 'Mykonos, Greece'
+      url: /post/mykonos-greece/
     - image: /img/milos_blog-10.jpg
       text: 'Milos, Greece'
-      url: 'https://www.jennajuby.com/post/milos-greece/'
+      url: /post/milos-greece/
     - image: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-22.jpg'
       text: 'Santorini, Greece'
       url: /post/santorini/
+    - image: /img/canada-62.jpg
+      text: 'Niagara-On-The-Lake, Canada'
+      url: /post/niagara-on-the-lake-canada/
     - image: >-
         https://d33wubrfki0l68.cloudfront.net/2007561133f005ae3396aaa568e1c0bbe53cffa0/5a152/img/travel-socal.jpg
       text: 'OC & LA, California'
