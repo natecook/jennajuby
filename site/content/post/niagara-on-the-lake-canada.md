@@ -207,9 +207,9 @@ gallery:
 ---
 Every autumn my family takes a weekend trip to Canada together. This may seem a bit random to some people but the little town of Niagara-On-The-Lake is only a 4 hour drive from my hometown of Akron, Ohio.  And even though I live in New York now, Nate and I take the 7 hour drive through upstate New York to meet my family in Canada every October. The middle of October is the perfect time of year to visit NOTL because it's usually peak autumn. The temperature is in the 60's during the day and the leaves are vibrantly changing colors, making the town feel like you're walking through a movie set!
 
-When my family is all there together we stay in rental house close to Queen St. where all the shops and restaurants are.  I recommend doing this if you're staying with a big group.  If you're going for more of a romantic get away I would consider staying in one of the bed and breakfasts or cute Inn's!
+Niagara-On-The-Lake is a beautiful historical town just outside of Niagara Falls. It has a lot of Mississauga, British, and naturally...Canadian history.  Although it's known for it's over all charm, NOTL also brings in tourists for it's Theatre, wineries, and stunning location right on Lake Ontario. It's a perfect weekend getaway! When my family is all there together we stay in a rental house close to Queen St. where all the shops and restaurants are.  I recommend doing this if you're staying with a big group.  If you're going for more of a romantic getaway I would consider staying in one of the bed and breakfasts or cute Inn's!
 
-Niagara-On-The-Lake is a very beautiful historical town just outside of Niagara Falls. It has a lot of Mississauga, British, and naturally...Canadian history.  Although it's known for it's over all charm, NOTL also brings in tourists for it's Theatre, wineries, and stunning location right on Lake Ontario. Here are my list of things to do and places to eat!
+ Here are my list of things to do and places to eat!
 
 **Eats & Treats**
 
