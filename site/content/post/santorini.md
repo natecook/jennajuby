@@ -8,94 +8,167 @@ description: >-
 image: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-22.jpg'
 gallery:
   photos:
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-1.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-3.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-2.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-4.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-5.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-6.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-7.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-8.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-9.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-10.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-11.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-12.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-13.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-14.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-15.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-16.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-17.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-18.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-19.jpg'
+    - imagedescription: The entrance to our airbnb
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-1.jpg'
+    - imagedescription: The view from our kitchen window
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-3.jpg'
+    - imagedescription: The view from our bedroom window
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-2.jpg'
+    - imagedescription: The view from right outside our airbnb
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-4.jpg'
+    - imagedescription: Walking around Oia
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-5.jpg'
+    - imagedescription: Walking around Oia
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-6.jpg'
+    - imagedescription: Walking around Oia
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-7.jpg'
+    - imagedescription: Walking around Oia
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-8.jpg'
+    - imagedescription: Walking around Oia
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-9.jpg'
+    - imagedescription: Gyro from "Pitogyros"
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-10.jpg'
+    - imagedescription: Walking around Oia
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-11.jpg'
+    - imagedescription: Walking around Oia
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-12.jpg'
+    - imagedescription: Walking around Oia
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-13.jpg'
+    - imagedescription: Walking around Oia
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-14.jpg'
+    - imagedescription: Having wine on the terrace of our airbnb
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-15.jpg'
+    - imagedescription: Sunset view from our terrace
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-16.jpg'
+    - imagedescription: Sunrise from our terrace
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-17.jpg'
+    - imagedescription: Sunrise view from our bedroom window
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-18.jpg'
+    - imagedescription: Sunrise view from our bedroom window
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-19.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-20.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-21.jpg'
+    - imagedescription: Morning espresso on our terrace
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-20.jpg'
+    - imagedescription: Walking around Oia
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-21.jpg'
       size: false
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-22.jpg'
+    - imagedescription: Morning view from our terrace
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-22.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-23.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-24.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-25.jpg'
+    - imagedescription: Morning view at Vitrin Cafe
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-23.jpg'
+    - imagedescription: 'Walking around Oia, Vitrin Cafe is on the left'
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-24.jpg'
+    - imagedescription: Walking around Oia
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-25.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-26.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-27.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-28.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-29.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-30.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-31.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-32.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-33.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-34.jpg'
+    - imagedescription: Famous windmill in Oia
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-26.jpg'
+    - imagedescription: Walking around Oia
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-27.jpg'
+    - imagedescription: 'Walking around Oia, Vitrin Cafe is to the left'
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-28.jpg'
+    - imagedescription: Famous blue domes in Oia
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-29.jpg'
+    - imagedescription: Gelato from "Lolita's"
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-30.jpg'
+    - imagedescription: Walking around Oia
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-31.jpg'
+    - imagedescription: Walking around Oia
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-32.jpg'
+    - imagedescription: Atlantis Books from the outside
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-33.jpg'
+    - imagedescription: Walking around Oia
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-34.jpg'
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-48.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-35.jpg'
+    - imagedescription: Me inside our airbnb
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-35.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-36.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-37.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-38.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-39.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-40.jpg'
+    - imagedescription: Kastro Oia Restaurant
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-36.jpg'
+    - imagedescription: Walking around Oia
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-37.jpg'
+    - imagedescription: Amoudi Bay
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-38.jpg'
+    - imagedescription: Amoudi Bay
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-39.jpg'
+    - imagedescription: Exploring the coast around Amoudi Bay
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-40.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-41.jpg'
+    - imagedescription: Amoudi Bay
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-41.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-42.jpg'
+    - imagedescription: Amoudi Bay water
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-42.jpg'
       size: false
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-43.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-45.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-44.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-46.jpg'
+    - imagedescription: Amoudi Bay
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-43.jpg'
+    - imagedescription: Watching cliff jumpers around Amoudi Bay
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-45.jpg'
+    - imagedescription: Exploring the coast around Amoudi Bay
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-44.jpg'
+    - imagedescription: View from our table at Dimitris Amoudi Bay
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-46.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-47.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-49.jpg'
+    - imagedescription: Getting ready to spend the day cruising around the island
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-47.jpg'
+    - imagedescription: View from outside our airbnb
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-49.jpg'
       size: false
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-50.jpg'
+    - imagedescription: At the hot springs on our boat cruise
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-50.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-51.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-52.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-53.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-54.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-55.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-56.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-57.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-58.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-59.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-60.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-61.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-62.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-63.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-64.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-65.jpg'
+    - imagedescription: At the hot springs on our boat cruise
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-51.jpg'
+    - imagedescription: Snorkeling at "White Beach"
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-52.jpg'
+    - imagedescription: Swimming at "White Beach"
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-53.jpg'
+    - imagedescription: Cruising around on the boat
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-54.jpg'
+    - imagedescription: Cruising around on the boat
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-55.jpg'
+    - imagedescription: Swimming at "White Beach"
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-56.jpg'
+    - imagedescription: Kitty in Oia
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-57.jpg'
+    - imagedescription: Walking around Oia
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-58.jpg'
+    - imagedescription: Walking around Fira
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-59.jpg'
+    - imagedescription: Walking around Fira
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-60.jpg'
+    - imagedescription: Walking around Fira
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-61.jpg'
+    - imagedescription: Walking around Fira
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-62.jpg'
+    - imagedescription: Walking around Fira
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-63.jpg'
+    - imagedescription: Sunset view at Volkan On The Rocks Cafe
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-64.jpg'
+    - imagedescription: Sunset view at Volkan On The Rocks Cafe
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-65.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-66.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-67.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-68.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-69.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-70.jpg'
+    - imagedescription: Walking around Oia
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-66.jpg'
+    - imagedescription: Walking around Oia
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-67.jpg'
+    - imagedescription: Kitty in Oia
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-68.jpg'
+    - imagedescription: View in front of our airbnb
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-69.jpg'
+    - imagedescription: Walking around Oia
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-70.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-71.jpg'
+    - imagedescription: Walking around Oia
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-71.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-72.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-73.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-74.jpg'
+    - imagedescription: Sunset view from our terrace
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-72.jpg'
+    - imagedescription: Sunset view from our terrace
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-73.jpg'
+    - imagedescription: Sunset view from our terrace
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2018/10/Santorini-74.jpg'
       size: true
 ---
 Santorini was the first stop on our Grecian holiday!  This island is such a dreamy place...it felt like being in "Sisterhood of the Traveling Pants" and I'm not going to pretend it didn't. And even though I made a list of dozens of things I wanted to do on the island, my favorite thing ended up being our time just wandering the paths of the island and taking in the beauty.  The charm of Santorini, and the village of Oia especially, are what draws you in.  I hope that comes through in my photos because there is really no place like it. So here’s a list of all my travel recommendations for this incredible greek island!
