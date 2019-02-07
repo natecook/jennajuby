@@ -61,8 +61,6 @@ After our two week trip to Greece, like most places you take a holiday to, you l
 
 **Eats & Treats In Athens**
 
-Recommendations for Athens
-
 Coffee: [Taf Coffee](https://www.instagram.com/tafcoffee/)
 
 Bakery: [Stani](https://www.traveltoathens.eu/item/taste-stani/)
