@@ -1,5 +1,5 @@
 ---
-title: 8 Tips For Planning A Holiday In Greece
+title: Tips For Planning A Holiday In Greece
 date: 2019-01-31T21:00:00.000Z
 description: >-
   After our two week trip to Greece, like most places you take a holiday to, you
