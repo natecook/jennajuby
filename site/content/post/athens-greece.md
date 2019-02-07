@@ -23,7 +23,7 @@ gallery:
     - imagedescription: Exploring the Plaka neighborhood in Athens
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Athens/Athens-4.jpg'
       size: true
-    - imagedescription: 'Athens was so romantic as the sunset, a perfect time to explore'
+    - imagedescription: 'Athens was so romantic as the sunset, a perfect time to take a stroll'
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/01/Athens/Athens-2.jpg'
       size: false
     - imagedescription: >-
