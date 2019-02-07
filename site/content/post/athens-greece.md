@@ -35,6 +35,10 @@ After our two week trip to Greece, like most places you take a holiday to, you l
 
 * Everyone told me Athens wasn't great and that it wasn't worth our time so my expectations were low. But you most likely will fly into Athens on your way in our out of the islands anyway so why not spend a day there! We only had half a day but we seriously had a blast in Athens. It was so pretty and romantic and unexpected. We had a candle lit dinner on a stoop in between these beautiful old buildings while we watched the sunset. We sat around and drank wine for hours people watching and it felt more like Paris than Greece. The rooftops of every building were covered in flowers and hanging greenery and it was gorgeous. We ended the evening at a rooftop bar overlooking the Acropolis lit up at night. It was magical! I'll add a list of the places we went in Athens at the end of this post.
 
+**Book as far ahead as possible**
+
+* This is good advice when planning a trip anywhere, but we found the farther out we booked for our plane tickets, accommodations, and activities in Greece the cheaper prices we got. It's such a popular place to vacation to that I would do all this as soon as you can, especially because the good airbnb's get booked out even a year in advance (we booked our trip 10 months ahead of time!)
+
 **Rent a car on the islands**
 
 * Having a car gave us the ultimate flexibility and freedom.  So many people on travel blogs disagree about needing a car but I was so happy we did. The other options are public transit, or renting an atv or scooter. Public transit was slow and unreliable. ATV's scare the shit out of me, but if that's your thing, go for it! It's definitely cheaper. Also you can't fit your luggage on an atv or scooter which makes getting to the airport or port pretty annoying. I think of an ATV or scooter as more of a one day activity to do and less your sole mode of transportation. I also liked having a car because Greece is very dusty and I didn't want to be covered in dirt every time we left for the day. With that said, renting a car isn't cheap, and sometimes parking was hard, but it was a great convenience to have that flexibility one! 
@@ -57,7 +61,7 @@ After our two week trip to Greece, like most places you take a holiday to, you l
 
 **Make meal reservations**
 
-* To get into the best restaurants in Santorini and Mykonos we made reservations and I was SO happy we did because we wouldn't have gotten in without them! Milos was relaxed enough that we didn't really need them and I assume other small islands would be similar. 
+* To get into the best restaurants in Santorini and Mykonos we made reservations and I was SO happy we did because we wouldn't have gotten in without them! Milos was relaxed enough that we didn't really need them and I assume other small islands would be similar. (Also, I recommend making a list of all the traditional greek food and pastries you want to try beforehand and check them off as you go, this made me try so many new delicious things on the menu that I wouldn't have paid attention to other wise!)
 
 **Eats & Treats In Athens**
 
