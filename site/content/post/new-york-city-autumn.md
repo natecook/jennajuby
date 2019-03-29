@@ -384,7 +384,7 @@ _**If you're on a budget...**_
 
 
 
-* **The MET garden rooftop** is amazing anytime of the year but in the fall it is majestic! The rooftop is open early April until late October. Last year it was only open till October 28th and I would dare to see it’s worth coming before then, just so you can experience it. Have a glass of red wine or warm cider as you look out onto the gleaming orange and yellow trees against stunning contrast of the downtown skyline.
+* **The MET garden rooftop** is amazing anytime of the year but in the fall it is majestic! The rooftop is open early April until late October. Last year it was only open until October 28th and I would dare to say it’s worth coming before then, just so you can experience it. Have a glass of red wine or warm cider as you look out onto the gleaming orange and yellow trees against the stunning contrast of the downtown skyline.
 
 
 
@@ -396,23 +396,23 @@ _**If you're on a budget...**_
 
 
 
-* **W 69th St. Halloween Block Party** is NYC best kept Halloween secret. On trick-or-treat night hundreds join this celebration on the best decorated block in the city. The pristine 19th townhouses are covered in extravagant halloween decor, each house a different theme. My favorite two years ago was one made up like Hogwarts! Even if you don’t have kids, it’s fun to grab a hot cocoa and walk around to see all the decor and costumes! If you aren’t there on the night of trick-or-treat, the block is usually dressed up and ready the week leading up to it.
+* **W 69th St. Halloween Block Party** is NYC best kept Halloween secret. On trick-or-treat night hundreds join this celebration on the best decorated block in the city. The pristine 19th century townhouses are covered in extravagant halloween decor, each house a different theme. My favorite two years ago was one made up like Hogwarts! Even if you don’t have kids, it’s fun to grab a hot cocoa and walk around to see all the decor and costumes! If you aren’t there on the night of trick-or-treat, the block is usually dressed up and ready the week leading up to it.
 
 
 
-* **Levain Bakery** __gets its own bullet point. [Levain](https://www.instagram.com/levainbakery/) is home of the best cookies ever...warm gooey and giant...it’s the perfect fall treat and a must have! The original Leavin on 74th St. usually has a line down the block all weekend but thankfully they opened another location just two blocks away near 76th St. where the line is much shorter and faster. I suggest ordering a glass of cold milk along with one of each kind of cookie so you get to taste them all!
+* **Levain Bakery** gets its own bullet point. [Levain](https://www.instagram.com/levainbakery/) is home of the best cookies ever...warm gooey and giant...it’s the perfect fall treat and a must have! The original Levain on W 74th usually has a line down the block but thankfully they opened a location just blocks away where the line is much shorter and faster. I suggest ordering a glass of cold milk along with one of each kind of cookie so you get to taste them all!
 
 
 
-* **The Village Halloween Parade** is the world’s largest Halloween parade and is the only parade that takes place at night. It brings in millions of people every year and the costumes seen here will blow your mind! This is a really unique and fun thing that the city puts on in October and worth the trek!
+* **The Village Halloween Parade** is the world’s largest Halloween parade! It brings in millions of people every year and the costumes seen here will blow your mind! This is a really unique and fun thing that the city puts on in October and worth the trek.
 
 
 
-* **The New York Coffee Festival** is the city’s flagship coffee event that takes place every year in October. You can get a taste from all the best roasters, have some food, enjoy live music, art, and cocktails! What says fall more than a hot cup o joe?!
+* **The New York Coffee Festival** is the city’s flagship coffee event that takes place every year in October. You can get a taste from all the best roasters, have some food, enjoy live music, art, and cocktails! What says fall more than a hot cup o jo?!
 
 
 
-* **Take a fall foliage boat cruise**! __[These cruises](https://www.timeout.com/newyork/blog/four-amazing-fall-foliage-cruises-you-can-take-up-the-hudson-river-this-fall-100617) sail up the Hudson River showing you the fall colors along the Hudson, taking you by the cliffs of the Palisades, while some cruises go even farther up to to Bear Mountain State Park! There are lot of different options for a cruise during autumn, one even offers brunch on a 1920’s style yacht!
+* **Take a fall foliage boat cruise**! [These cruises](https://www.timeout.com/newyork/blog/four-amazing-fall-foliage-cruises-you-can-take-up-the-hudson-river-this-fall-100617) sail up the Hudson River showing you the fall colors along the Hudson, taking you by the cliffs of the Palisades, while some cruises go even farther up to to Bear Mountain State Park! There are lot of different options for a cruise during autumn, one even offers brunch on a 1920’s style yacht!
 
 
 
