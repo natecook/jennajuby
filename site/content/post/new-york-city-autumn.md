@@ -364,23 +364,23 @@ You may think that peak fall foliage in NY is the middle of October. ER-wrong. T
 
 _**If you're on a budget...**_
 
-* I’m not going to sugarcoat this for you, October and November are two of the most expensive months to visit NYC. The weekend of the marathon will definitely be more expensive than the surrounding weeks but, trust me, visiting during this time is worth it! If you’re looking to save some money, book an airbnb on the Upper West Side or Upper East Side. These two affordable neighborhoods in Manhattan are affordable and BONUS, the UWS and UES border Central Park so they are the perfect location in autumn! And if you’re looking for the very cheapest option in NYC, consider an airbnb in Brooklyn or Queens. Both these boroughs are enormous (3-4 times the size of Manhattan itself) so make sure you research the neighborhood you’ll be in and get as close to a train station as possible for easy travel!
+* I’m not going to sugarcoat this for you, October and November are two of the most expensive months to visit NYC. The weekend of the marathon will definitely be more expensive than the surrounding time to try to avoid those days. If you’re looking to save some money, **_book an airbnb_** on the Upper West Side or Upper East Side. These two affordable neighborhoods in Manhattan are affordable and BONUS, the UWS and UES border Central Park so they are the perfect location in autumn! And if you’re looking for the very cheapest option in NYC, consider an airbnb in Brooklyn or Queens. Both these boroughs are enormous (3-4 times the size of Manhattan itself) so make sure you research the neighborhood you’ll be in and get as close to a train station as possible for easy travel!
 
 **_If you're feeling fancy..._**
 
-* If money isn’t an issue then the my favorite neighborhoods to suggest for a fall trip would be the West Village, Upper West Side, and Upper East Side. You’ll find the most variety (and fanciest!) of hotels on the UES. In contrast, the West Village is full of beautiful boutique hotels that are downright dreamy. And although the Upper West Side doesn’t have a lot of hotel options, there are beautiful penthouses and homes to rent that will make you feel like you're in "You've Got Mail". My dream accommodations would be The Greenwich Hotel in West Village, any fancy hotel on 5th or Park Ave, or a townhouse rental on the UWS. Obviously if you’re not going full on baller status, just look for a reasonably priced hotel or airbnb in these neighborhoods, there are so many options!
+* If money isn’t an issue then the my favorite neighborhoods to suggest for a fall trip would be the West Village, Upper West Side, and Upper East Side. You’ll find the most variety (and fanciest!) of hotels on the UES. In contrast, the West Village is full of beautiful boutique hotels that are downright dreamy. And although the Upper West Side doesn’t have a lot of hotel options, there are beautiful penthouses and homes to rent that will make you feel like you're in "You've Got Mail". My dream accommodations would be [The Greenwich Hotel](https://www.thegreenwichhotel.com/) in West Village, any fancy hotel on 5th or Park Ave, or a townhouse rental on the UWS. Obviously if you’re not going full on baller status, just look for a reasonably priced hotel or airbnb in these neighborhoods, there are so many options!
 
 **Things To Do**
 
-* **Explore Central Park,** the queen of autumn in New York! Grab a cup of coffee at Joe’s Coffee on Columbus and 69th and head into the park. CP highlights of fall colors are the Gapstow Bridge, Umpire Rock, The Mall, Bathesda Terrace & Fountain, Cherry Hill & Bow Bridge, and Conservatory Water. Stop for a snack at Le Pain Quotidien cafe near Sheep’s Meadow or Conservatory Water, or lunch to go from Zucker’s Bagels just outside the park. Set aside a lot of time to explore these beautiful areas, Central Park is over 900 acres and needs a whole day for you to bath in it’s fall glory!
+* **Explore Central Park,** the queen of autumn in New York! Grab a cup of coffee at Joe’s Coffee on Columbus and 69th and head into the park. CP highlights of fall colors are the Gapstow Bridge, Umpire Rock, The Mall, Bathesda Terrace & Fountain, Cherry Hill & Bow Bridge, and Conservatory Water. Stop for a snack at Le Pain Quotidien cafe near [Sheep’s Meadow](https://www.google.com/maps/place/Le+Pain+Quotidien/@40.7745287,-73.9744717,17.63z/data=!4m5!3m4!1s0x0:0xd84cc631d91d2adc!8m2!3d40.7730323!4d-73.9742947) or [Conservatory Water](https://www.google.com/maps/place/Le+Pain+Quotidien/@40.7740792,-73.9671919,20.04z/data=!4m5!3m4!1s0x89c258936be95a89:0x17a14742045e399b!8m2!3d40.7740226!4d-73.966525), or lunch to go from Zucker’s Bagels just outside the park. Set aside a lot of time to explore these beautiful areas, Central Park is over 900 acres and needs a whole day for you to bath in it's fall glory!
 
 
 
-* **Walk up Riverside Park** to see the fall foliage. Riverside is often overlooked by tourists because Central Park is just a few blocks away from it but Riverside is so wonderful it should not be missed! It runs for miles along the Hudson River and the view you get of the colorful trees across the water in New Jersey are like out of a movie! I would start from the bottom and walk your way to the very top, my favorite area being around 90th and 105th St. Stop by Irving Farm Coffee roasters for a warm drink and By The Way Bakery for a yummy gf treat!
+* **Walk up Riverside Park** to see the fall foliage. Riverside is often overlooked by tourists because Central Park is just a few blocks away from it but Riverside is so wonderful it should not be missed! It runs for miles along the Hudson River and the view you get of the colorful trees across the water in New Jersey are like out of a movie! I would start from the bottom and walk your way to the very top, my favorite area being around 90th and 105th St. Stop by [Irving Farm Coffee Roasters](https://www.instagram.com/irvingfarm/) for a warm drink and [By The Way Bakery](https://www.instagram.com/bythewaybakery/) for a yummy gf treat!
 
 
 
-* **“Top Of The Rock” observatory** is an amazing way to see the fall foliage in Central Park from above! The best time of day to see the colors would be in the middle of the day when the sun is bright although watching the sunset from up there is stunning as well!
+* **“Top Of The Rock” observatory** is an amazing way to see the fall foliage in Central Park from above!
 
 
 
@@ -388,11 +388,11 @@ _**If you're on a budget...**_
 
 
 
-* **Bookshops bookshops bookshops!** What says fall like wandering a charming bookstore and pretending you’re about to have a meet cute with Tom Hanks or Meg Ryan? There are so many adorable independent bookshops in NYC but here are my favorites...Book Culture on Columbus, Albertine, Three Lives & Company, Westsider Rare & Used Books, and Shakespeare & Company. Go! Sniff! Read! Fall in love!
+* **Bookshops bookshops bookshops!** What says fall like wandering a charming bookstore and pretending you’re about to have a meet cute with Tom Hanks or Meg Ryan? There are so many adorable independent bookshops in NYC but here are my favorites...[Book Culture on Columbus](https://www.google.com/maps/place/Book+Culture+on+Columbus/@40.783776,-73.9767211,17z/data=!3m1!4b1!4m5!3m4!1s0x89c25885814bfdcb:0x1d0ee08e95bbcdfb!8m2!3d40.783776!4d-73.9745324), [Albertine](https://www.google.com/maps/place/Albertine/@40.7765759,-73.9659559,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2589422f0c47b:0x6a51f4920a58956d!8m2!3d40.7765759!4d-73.9637672), [Three Lives & Company](https://www.google.com/maps/place/Three+Lives+%26+Company/@40.734355,-74.0036767,17z/data=!3m1!4b1!4m5!3m4!1s0x89c259943d2226e1:0xc68449b7fff5f133!8m2!3d40.734355!4d-74.001488), [Westsider Rare & Used Books](https://www.google.com/maps/place/Westsider+Rare+%26+Used+Books/@40.7846539,-73.981153,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2588624ba253b:0xec73e3934d4db5a6!8m2!3d40.7846539!4d-73.9789643), and [Shakespeare & Company](https://www.google.com/maps/place/Shakespeare+%26+Co/@40.7751366,-73.9871542,16.04z/data=!4m12!1m6!3m5!1s0x89c258ebc6c03d09:0x2288c6aa819e5041!2sShakespeare+%26+Co!8m2!3d40.7681457!4d-73.9634465!3m4!1s0x89c259de3a7297f5:0x97811be6859f042c!8m2!3d40.7764437!4d-73.9818317). 
 
 
 
-* **Walk Brooklyn Heights & Cobble Hill** neighborhood! They are the sweetest neighborhoods filled with beautiful townhouses and darling cafe’s. They also serve one of the best views of Manhattan from the water nearby, it’s a must see! Grab a drink or snack at Libertador (snag a window seat!) and then a famous ice cream sundae at Brooklyn Farmacy & Soda Fountain.
+* **Walk Brooklyn Heights & Cobble Hill** neighborhood! They are the sweetest neighborhoods filled with beautiful townhouses and darling cafe’s. They also serve one of the best views of Manhattan from the water nearby, it’s a must see! Grab a drink or snack at [Libertador](https://www.google.com/maps/place/Libertador/@40.687375,-74.0001887,17z/data=!3m1!4b1!4m5!3m4!1s0x89c25a5b2f9c72a9:0xc7b94417eb22a5b!8m2!3d40.687375!4d-73.998) (snag a window seat!) and then a famous ice cream sundae at [Brooklyn Farmacy & Soda Fountain](https://www.google.com/maps/place/Brooklyn+Farmacy+%26+Soda+Fountain/@40.6840071,-74.0014813,17z/data=!3m1!4b1!4m5!3m4!1s0x89c25a5be83cf411:0xb8a383ea7216912f!8m2!3d40.6840071!4d-73.9992926).
 
 
 
@@ -400,7 +400,7 @@ _**If you're on a budget...**_
 
 
 
-* **Levain Bakery** __gets its own bullet point. Levain is home of the best cookies ever...warm gooey and giant...it’s the perfect fall treat and a must have! The original Leavin on 74th St. usually has a line down the block all weekend but thankfully they opened another location just two blocks away near 76th St. where the line is much shorter and faster. I suggest ordering a glass of cold milk along with one of each kind of cookie so you get to taste them all!
+* **Levain Bakery** __gets its own bullet point. [Levain](https://www.instagram.com/levainbakery/) is home of the best cookies ever...warm gooey and giant...it’s the perfect fall treat and a must have! The original Leavin on 74th St. usually has a line down the block all weekend but thankfully they opened another location just two blocks away near 76th St. where the line is much shorter and faster. I suggest ordering a glass of cold milk along with one of each kind of cookie so you get to taste them all!
 
 
 
@@ -412,27 +412,27 @@ _**If you're on a budget...**_
 
 
 
-* **Take a fall foliage boat cruise**! __These cruises sail up the Hudson River showing you the fall colors along the Hudson, taking you by the cliffs of the Palisades, while some cruises go even farther up to to Bear Mountain State Park! There are lot of different options for a cruise during autumn, one even offers brunch on a 1920’s style yacht!
+* **Take a fall foliage boat cruise**! __[These cruises](https://www.timeout.com/newyork/blog/four-amazing-fall-foliage-cruises-you-can-take-up-the-hudson-river-this-fall-100617) sail up the Hudson River showing you the fall colors along the Hudson, taking you by the cliffs of the Palisades, while some cruises go even farther up to to Bear Mountain State Park! There are lot of different options for a cruise during autumn, one even offers brunch on a 1920’s style yacht!
 
 
 
-* **Visit Tarrytown & Sleepy Hollow** for the day. Take the 1 hour scenic train ride from Grand Central station to Tarrytown and experience the many Halloween events that these charmingly spooky towns put on! Haunted hay rides, fall decorations galore, a haunted manor, murder mystery parties, a tour of Washington Irving’s home, guided walking history tours, Poe and Irving literary events in the Sleepy Hollow Cemetery, and this area’s biggest attraction “The Great Jack O’Lantern Blaze” just 3 train stations away in Cronton-On-Hudson. This festival has over 10,000 hand carved jack o'lanterns and sells out super fast!
+* **Visit Tarrytown & Sleepy Hollow** for the day. Take the 1 hour scenic train ride from Grand Central station to Tarrytown and experience the many [Halloween events](https://hudsonvalley.org/halloween-in-sleepy-hollow-country/) that these charmingly spooky towns put on! Haunted hay rides, fall decorations galore, a haunted manor, murder mystery parties, a tour of Washington Irving’s home, guided walking history tours, Poe and Irving literary events in the Sleepy Hollow Cemetery, and this area’s biggest attraction “The Great Jack O’Lantern Blaze” just 3 train stations away in Cronton-On-Hudson. This festival has over 10,000 hand carved jack o'lanterns and sells out super fast!
 
 
 
-* **See the Storm King Art Center**, just an hour drive from the city, this 500 acre outdoor museum is best scene in autumn! It’s art structures are stunning against the bright colors of the trees surrounding it and even though it’s not in the city, it’s worth the drive to get to this amazing display in the Hudson Valley!
+* **See the Storm King Art Center**, just an hour drive from the city, this 500 acre [outdoor museum](https://stormking.org/) is best scene in autumn! It’s art structures are stunning against the bright colors of the trees surrounding it and even though it’s not in the city, it’s worth the drive to get to this amazing display in the Hudson Valley!
 
 **Eats & Treats**
 
-Coffee: Cafe Grumpy (W 20th), Stumptown (W 8th)
+Coffee: [Cafe Grumpy](https://www.google.com/maps/place/Caf%C3%A9+Grumpy/@40.7426,-74.0005864,17z/data=!3m1!4b1!4m5!3m4!1s0x89c259bb802d1eed:0x6a1373199661cb33!8m2!3d40.7426!4d-73.9983977) (W 20th), [Stumptown](https://www.google.com/maps/place/Stumptown+Coffee+Roasters/@40.7328281,-74.0001272,17z/data=!3m1!4b1!4m5!3m4!1s0x89c25996d46ccfed:0x3034ad801dc5fcb3!8m2!3d40.7328281!4d-73.9979385) (W 8th)
 
-Bakery: Levain, Chip, Dominique Ansel, Maman
+Bakery: [Levain Bakery](https://www.instagram.com/levainbakery/), [Chip](https://www.instagram.com/chipnewyorkcity/), [Dominique Ansel Bakery](https://www.google.com/maps/place/Dominique+Ansel+Bakery/@40.725161,-74.0051508,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2598c5a8e423f:0x501f1a0240e2f39a!8m2!3d40.725161!4d-74.0029621), [Maman](https://www.instagram.com/_mamannyc_/)
 
-Breakfast: Blue Stone Lane (5th Ave), Buvette
+Breakfast: [Bluestone Lane](https://www.instagram.com/bluestonelane/) (5th Ave), [Buvette](https://www.instagram.com/buvettenyc/)
 
-Brunch: Two Hands (Broadway), Sadelle’s
+Brunch: [Two Hands ](https://www.instagram.com/twohandsnyc/)(Church St.), [Sadelle’s](https://www.instagram.com/explore/locations/1002914115/sadelles/)
 
-Lunch: Prince St. Pizza, Shake Shack, Tacombi
+Lunch: [Prince St. Pizza](https://www.instagram.com/psp_nyc/), [Shake Shack](https://www.instagram.com/shakeshack/), Tacombi
 
 Pre-dinner drinks: The Boathouse Outdoor Bar, Vin Sur Vingt (w 84th location), Petite Boucherie
 
