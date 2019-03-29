@@ -372,19 +372,19 @@ _**If you're on a budget...**_
 
 **Things To Do**
 
-* **Explore Central Park**, she is the queen of autumn in New York City! Grab a cup of coffee at Joe’s Coffee on Columbus and 69th and head into the park. CP highlights of fall colors are the Gapstow Bridge, Umpire Rock, The Mall, Bathesda Terrace & Fountain, Cherry Hill & Bow Bridge, and Conservatory Water. Stop for a snack at Le Pain Quotidien cafe near [Sheep’s Meadow](https://www.google.com/maps/place/Le+Pain+Quotidien/@40.7745287,-73.9744717,17.63z/data=!4m5!3m4!1s0x0:0xd84cc631d91d2adc!8m2!3d40.7730323!4d-73.9742947) or [Conservatory Water](https://www.google.com/maps/place/Le+Pain+Quotidien/@40.7740792,-73.9671919,20.04z/data=!4m5!3m4!1s0x89c258936be95a89:0x17a14742045e399b!8m2!3d40.7740226!4d-73.966525), or lunch to go from Zucker’s Bagels just outside the park. Set aside a lot of time to explore these beautiful areas, Central Park is over 900 acres and needs a whole day for you to bath in it's fall glory!
+* **Explore Central Park**, she is the queen of autumn in New York City! Grab a cup of coffee at [Joe’s Coffee](https://www.google.com/maps/place/Joe+Coffee+Company/@40.7859808,-73.9854814,15z/data=!4m8!1m2!2m1!1sjoe+coffee+near+Columbus+Avenue,+New+York!3m4!1s0x0:0xbab4be71a5c0e1ab!8m2!3d40.7750168!4d-73.9802974) on Columbus and 69th and head into the park. CP's highlights of fall colors are the Gapstow Bridge, Umpire Rock, The Mall, Bathesda Terrace & Fountain, Cherry Hill & Bow Bridge, and Conservatory Water. Stop for a snack at Le Pain Quotidien near [Sheep’s Meadow](https://www.google.com/maps/place/Le+Pain+Quotidien/@40.7745287,-73.9744717,17.63z/data=!4m5!3m4!1s0x0:0xd84cc631d91d2adc!8m2!3d40.7730323!4d-73.9742947) or [Conservatory Water](https://www.google.com/maps/place/Le+Pain+Quotidien/@40.7740792,-73.9671919,20.04z/data=!4m5!3m4!1s0x89c258936be95a89:0x17a14742045e399b!8m2!3d40.7740226!4d-73.966525), or lunch to-go from [Zucker’s Bagels](https://www.instagram.com/zuckersbagels/) just outside the park. Set aside a lot of time to explore these beautiful areas, Central Park is over 800 acres and needs a whole day for you to bath in it's fall glory!
 
 
 
-* **Walk up Riverside Park** to see the fall foliage. Riverside is often overlooked by tourists because Central Park is just a few blocks away from it but Riverside is so wonderful it should not be missed! It runs for miles along the Hudson River and the view you get of the colorful trees across the water in New Jersey are like out of a movie! I would start from the bottom and walk your way to the very top, my favorite area being around 90th and 105th St. Stop by [Irving Farm Coffee Roasters](https://www.instagram.com/irvingfarm/) for a warm drink and [By The Way Bakery](https://www.instagram.com/bythewaybakery/) for a yummy gf treat!
+* **Walk up Riverside Park** to see the fall foliage and views of the water. Riverside is often overlooked by tourists because Central Park is just a few blocks away from it but Riverside is so wonderful it should not be missed! It runs for miles along the Hudson River and the view you get of the colorful trees across the water in New Jersey are like out of a movie! I would start from the bottom and walk your way to the very top, my favorite area being around 90th and 105th St. Stop by [Irving Farm Coffee Roasters](https://www.instagram.com/irvingfarm/) for a warm drink and [By The Way Bakery](https://www.instagram.com/bythewaybakery/) for a yummy gf treat!
 
 
 
-* **“Top Of The Rock” observatory** is an amazing way to see the fall foliage in Central Park from above!
+* **“Top Of The Rock” observatory** is an amazing way to see the colors in Central Park from above as well as the best view of the Empire State Building!
 
 
 
-* **The MET garden rooftop** is amazing anytime of the year but in the fall it is majestic! The rooftop is open early April till late October. Last year it was only open till October 28th and I would dare to see it’s worth coming before then, just so you can experience it. Have a glass of red wine or warm cider as you look out onto the gleaming orange and yellow trees against stunning contrast of the downtown skyline.
+* **The MET garden rooftop** is amazing anytime of the year but in the fall it is majestic! The rooftop is open early April until late October. Last year it was only open till October 28th and I would dare to see it’s worth coming before then, just so you can experience it. Have a glass of red wine or warm cider as you look out onto the gleaming orange and yellow trees against stunning contrast of the downtown skyline.
 
 
 
