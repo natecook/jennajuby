@@ -1,7 +1,8 @@
 ---
 title: 'New York City: Autumn'
 date: 2019-03-29T00:00:00.000Z
-description: Intro blurb
+description: >-
+  This is the example description. This is the example description. This is the example description. This is the example description. This is the example description. This is the example description. 
 image: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-1.jpg'
 gallery:
   photos:
