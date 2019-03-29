@@ -436,8 +436,8 @@ Lunch: [Prince St. Pizza](https://www.instagram.com/psp_nyc/), [Shake Shack](htt
 
 Pre-dinner drinks: [The Boathouse Outdoor Bar](https://www.google.com/maps/place/The+Boathouse+Outdoor+Bar/@40.7744115,-73.9708227,17.68z/data=!4m12!1m6!3m5!1s0x89c2598e7111c53f:0x52f80ad77c5d5a84!2sSadelle's!8m2!3d40.7262999!4d-74.0002541!3m4!1s0x89c25892fa680723:0x5b83a09e9d2de7d9!8m2!3d40.7750052!4d-73.9687948), [Vin Sur Vingt](https://www.google.com/maps/place/Vin+Sur+Vingt+Wine+Bar/@40.7848882,-73.9749876,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2588516f4b857:0x8566e52aa374f15e!8m2!3d40.7848882!4d-73.9727989) (w 84th location), [Petite Boucherie](https://www.google.com/maps/place/Petite+Boucherie/@40.7338274,-74.0026093,17z/data=!3m1!4b1!4m5!3m4!1s0x89c259941967edc9:0xb134b1b0991fdfa6!8m2!3d40.7338274!4d-74.0004206)
 
-Dinner: Dante, Jacobs Pickles, Emily (Downing)
+Dinner: [Dante](https://www.instagram.com/dantenewyorkcity/), [Jacob's Pickles](https://www.instagram.com/jacobspickles/), [Emily](https://www.instagram.com/pizzalovesemily/) (Downing St.)
 
-After-dinner drinks: Dear Irving (Gramercy), Little Branch
+After-dinner drinks: [Dear Irving](https://www.instagram.com/dearirving/) (Gramercy), [Little Branch](https://www.google.com/maps/place/Little+Branch/@40.730118,-74.0072337,17z/data=!3m1!4b1!4m5!3m4!1s0x89c25992e9f28e8d:0xe297f8f503425e5c!8m2!3d40.730118!4d-74.005045)
 
-Dessert: Cafe Lalo, Serendipity, Blue Stripes Cacao Shop
+Dessert: [Cafe Lalo](https://www.google.com/maps/place/Cafe+Lalo/@40.7859812,-73.9789153,17z/data=!3m1!4b1!4m5!3m4!1s0x89c25885d136b767:0x1692e5aaf7245c87!8m2!3d40.7859812!4d-73.9767266), Serendipity, Blue Stripes Cacao Shop
