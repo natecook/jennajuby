@@ -350,7 +350,7 @@ gallery:
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-62.jpg
       size: true
 ---
-**_"Don't you love New York in the fall? It makes me want to buy school supplies. I would send you a bouquet of newly sharpened pencils if I knew your name and address."_**
+**_"Don't you love_** [**_New York_**](https://www.youtube.com/watch?v=vViMeAkOsv8) **_in the fall? It makes me want to buy school supplies. I would send you a bouquet of newly sharpened pencils if I knew your name and address."_** 
 
 New York City in the fall. Period. This is a sentence that says a million things even though it is in fact...a fragment. Because there is no place like NYC in autumn, it is perfection. It’s like Paris in the spring time, and Greece in the middle of summer. It sounds like crunching leaves under your boots, and feels like the coziest scarf across your cheek...it tastes like a warm cup of coffee held with both hands, and it smells like a new book. It feels like shopping for school supplies and baking a pumpkin pie. If you only ever visit New York City once, this is it.
 
