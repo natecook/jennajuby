@@ -432,9 +432,9 @@ Breakfast: [Bluestone Lane](https://www.instagram.com/bluestonelane/) (5th Ave),
 
 Brunch: [Two Hands ](https://www.instagram.com/twohandsnyc/)(Church St.), [Sadelle’s](https://www.instagram.com/explore/locations/1002914115/sadelles/)
 
-Lunch: [Prince St. Pizza](https://www.instagram.com/psp_nyc/), [Shake Shack](https://www.instagram.com/shakeshack/), Tacombi
+Lunch: [Prince St. Pizza](https://www.instagram.com/psp_nyc/), [Shake Shack](https://www.instagram.com/shakeshack/), [Tacombi](https://www.instagram.com/tacombi/)
 
-Pre-dinner drinks: The Boathouse Outdoor Bar, Vin Sur Vingt (w 84th location), Petite Boucherie
+Pre-dinner drinks: [The Boathouse Outdoor Bar](https://www.google.com/maps/place/The+Boathouse+Outdoor+Bar/@40.7744115,-73.9708227,17.68z/data=!4m12!1m6!3m5!1s0x89c2598e7111c53f:0x52f80ad77c5d5a84!2sSadelle's!8m2!3d40.7262999!4d-74.0002541!3m4!1s0x89c25892fa680723:0x5b83a09e9d2de7d9!8m2!3d40.7750052!4d-73.9687948), [Vin Sur Vingt](https://www.google.com/maps/place/Vin+Sur+Vingt+Wine+Bar/@40.7848882,-73.9749876,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2588516f4b857:0x8566e52aa374f15e!8m2!3d40.7848882!4d-73.9727989) (w 84th location), [Petite Boucherie](https://www.google.com/maps/place/Petite+Boucherie/@40.7338274,-74.0026093,17z/data=!3m1!4b1!4m5!3m4!1s0x89c259941967edc9:0xb134b1b0991fdfa6!8m2!3d40.7338274!4d-74.0004206)
 
 Dinner: Dante, Jacobs Pickles, Emily (Downing)
 
