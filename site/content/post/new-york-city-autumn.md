@@ -440,4 +440,4 @@ Dinner: [Dante](https://www.instagram.com/dantenewyorkcity/), [Jacob's Pickles](
 
 After-dinner drinks: [Dear Irving](https://www.instagram.com/dearirving/) (Gramercy), [Little Branch](https://www.google.com/maps/place/Little+Branch/@40.730118,-74.0072337,17z/data=!3m1!4b1!4m5!3m4!1s0x89c25992e9f28e8d:0xe297f8f503425e5c!8m2!3d40.730118!4d-74.005045)
 
-Dessert: [Cafe Lalo](https://www.google.com/maps/place/Cafe+Lalo/@40.7859812,-73.9789153,17z/data=!3m1!4b1!4m5!3m4!1s0x89c25885d136b767:0x1692e5aaf7245c87!8m2!3d40.7859812!4d-73.9767266), Serendipity, Blue Stripes Cacao Shop
+Dessert: [Cafe Lalo](https://www.google.com/maps/place/Cafe+Lalo/@40.7859812,-73.9789153,17z/data=!3m1!4b1!4m5!3m4!1s0x89c25885d136b767:0x1692e5aaf7245c87!8m2!3d40.7859812!4d-73.9767266), [Serendipity](https://www.instagram.com/serendipity3nyc/), [Blue Stripes Cacao Shop](https://www.instagram.com/bluestripescacao/)
