@@ -350,76 +350,40 @@ gallery:
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-62.jpg
       size: true
 ---
-_**"Don't you love**_ [_**New York**_](https://www.youtube.com/watch?v=vViMeAkOsv8) _**in the fall? It makes me want to buy school supplies. I would send you a bouquet of newly sharpened pencils if I knew your name and address."**_ 
+**_"Don't you love_** [**_New York_**](https://www.youtube.com/watch?v=vViMeAkOsv8) **_in the fall? It makes me want to buy school supplies. I would send you a bouquet of newly sharpened pencils if I knew your name and address."_** 
 
-New York City in the fall. Period. This is a sentence that says a million things even though it is in fact...a fragment. Because there is no place like NYC in autumn, it is perfection. It’s like Paris in the spring time, and Greece in the middle of summer. It sounds like crunching leaves under your boots, and feels like the coziest scarf across your cheek...it tastes like a warm cup of coffee held with both hands, and it smells like a new book. It feels like shopping for school supplies and your mom baking you a pumpkin pie. If you only ever visit New York City once in your life, this is it.
+New York City in the fall. Period. This is a sentence that says a million things even though it is, in fact...a fragment. Because there is no place like NYC in autumn, it is perfection. It’s like Paris in the spring time, and Greece in the middle of summer. It sounds like crunching leaves under your boots, and feels like the coziest scarf across your cheek...it tastes like a warm cup of coffee held with both hands, and it smells like a new book. It feels like shopping for school supplies and your mom baking you a pumpkin pie. If you only ever visit New York City once in your life, this is it.
 
 Eventually, I hope to write about all four seasons in New York. Nate and I always say that every coming season brings what feels like a brand new city. There are so many different things to do, see, and eat with each passing season. And in the fall, the stars of the city are the city parks, coffee shops, bakeries, and bookshops! I’ll list my favorites places to go in autumn, where to eat, along with tips on traveling in the city during this season : )
 
 **When To Visit**
 
-You may think that peak fall foliage in NY is in the middle of October. ER-wrong. The city’s trees change color much later than the rest of the east coast. And while the weather and foliage will be beautiful anytime after mid October...the ideal weeks to see autumn are the last week of October and the first two weeks in November. The very brightest colors always come the first week in November...which is when the New York City marathon takes place. I would not suggest staying in the city that weekend unless you're running in it or love watching marathons.  Marathon weekend is wonderful but also really expensive, crowded, and chaotic. So _I would suggest visiting the last week in October or the second week in November, after the marathon_.
+You may think that peak fall foliage in NY is in the middle of October. ERRR-wrong. The city’s trees change color much later than the rest of the east coast. And while the weather and foliage will be beautiful anytime after mid October...the ideal weeks to see autumn are the last week of October and the first two weeks in November. The very brightest colors always come the first week in November...which is when the New York City marathon takes place. I would not suggest staying in the city that weekend unless you're running in it or love watching marathons.  Marathon weekend is wonderful but also really expensive, crowded, and chaotic. So _I would suggest visiting the last week in October or the second week in November, after the marathon_.
 
 **Where To Stay**
 
-**_If you're on a budget..._**
+_**If you're on a budget...**_
 
 * I’m not going to sugarcoat this for you, October and November are two of the most expensive months to visit NYC. The weekend of the marathon will definitely be more expensive than the surrounding time so try to avoid those days. If you’re looking to save some money, _book an airbnb_ on the Upper West Side or Upper East Side. These two neighborhoods in Manhattan are affordable and BONUS, the UWS and UES border Central Park so they are the perfect location for fall! And if you’re looking for the very cheapest option in NYC, consider an airbnb in Brooklyn or Queens. Both these boroughs are enormous (3-4 times the size of Manhattan) so make sure you research the neighborhood you’ll be in and get as close to a train station as possible for easy travel!
 
-_**If you're feeling fancy...**_
+**_If you're feeling fancy..._**
 
 * If money isn’t an issue then my favorite neighborhoods to suggest for a fall trip would be the West Village, Upper West Side, and Upper East Side. You’ll find the most variety (and fanciest!) of hotels on the UES. In contrast, the West Village is full of beautiful boutique hotels that are downright dreamy. And although the Upper West Side doesn’t have a lot of hotel options, there are beautiful penthouses and homes to rent that will make you feel like you're in "You've Got Mail". My dream accommodations would be [The Greenwich Hotel](https://www.thegreenwichhotel.com/) in West Village, any fancy hotel on 5th or Park Ave, or a townhouse rental on the UWS. Obviously if you’re not going full on baller status, just look for a reasonably priced hotel or airbnb in these neighborhoods, there are so many options!
 
 ## **Things To Do**
 
-* **Explore Central Park**, she is the queen of autumn in New York City! Grab a cup of coffee at [Joe’s Coffee](https://www.google.com/maps/place/Joe+Coffee+Company/@40.7859808,-73.9854814,15z/data=!4m8!1m2!2m1!1sjoe+coffee+near+Columbus+Avenue,+New+York!3m4!1s0x0:0xbab4be71a5c0e1ab!8m2!3d40.7750168!4d-73.9802974) on Columbus and 69th and head into the park. CP's highlights of fall colors are the Gapstow Bridge, Umpire Rock, The Mall, Bathesda Terrace & Fountain, Cherry Hill & Bow Bridge, and Conservatory Water. Stop for a snack at Le Pain Quotidien near [Sheep’s Meadow](https://www.google.com/maps/place/Le+Pain+Quotidien/@40.7745287,-73.9744717,17.63z/data=!4m5!3m4!1s0x0:0xd84cc631d91d2adc!8m2!3d40.7730323!4d-73.9742947) or [Conservatory Water](https://www.google.com/maps/place/Le+Pain+Quotidien/@40.7740792,-73.9671919,20.04z/data=!4m5!3m4!1s0x89c258936be95a89:0x17a14742045e399b!8m2!3d40.7740226!4d-73.966525), or lunch to-go from [Zucker’s Bagels](https://www.instagram.com/zuckersbagels/) just outside the park. Set aside a lot of time to explore these beautiful areas, Central Park is over 800 acres and needs a whole day for you to bath in it's fall glory!
-
-
-
-* **Walk up Riverside Park** to see the fall foliage and views of the water. Riverside is often overlooked by tourists because Central Park is just a few blocks away from it but Riverside is so wonderful it should not be missed! It runs for miles along the Hudson River and the view you get of the colorful trees across the water in New Jersey are like out of a movie! I would start from the bottom and walk your way to the very top, my favorite area being around 90th and 105th St. Stop by [Irving Farm Coffee Roasters](https://www.instagram.com/irvingfarm/) for a warm drink and [By The Way Bakery](https://www.instagram.com/bythewaybakery/) for a yummy gf treat!
-
-
-
+* **Explore Central Park**, she is the queen of autumn in New York City! Grab a cup of coffee at [Joe’s Coffee](https://www.google.com/maps/place/Joe+Coffee+Company/@40.7859808,-73.9854814,15z/data=!4m8!1m2!2m1!1sjoe+coffee+near+Columbus+Avenue,+New+York!3m4!1s0x0:0xbab4be71a5c0e1ab!8m2!3d40.7750168!4d-73.9802974) on Columbus and 69th and head into the park. CP's highlights of fall colors are the Gapstow Bridge, Umpire Rock, The Mall, Bathesda Terrace & Fountain, Cherry Hill & Bow Bridge, and Conservatory Water. Stop for a snack at Le Pain Quotidien near [Sheep’s Meadow](https://www.google.com/maps/place/Le+Pain+Quotidien/@40.7745287,-73.9744717,17.63z/data=!4m5!3m4!1s0x0:0xd84cc631d91d2adc!8m2!3d40.7730323!4d-73.9742947) or [Conservatory Water](https://www.google.com/maps/place/Le+Pain+Quotidien/@40.7740792,-73.9671919,20.04z/data=!4m5!3m4!1s0x89c258936be95a89:0x17a14742045e399b!8m2!3d40.7740226!4d-73.966525), or lunch to-go from [Zucker’s Bagels](https://www.instagram.com/zuckersbagels/) just outside the park. Set aside a lot of time to explore these beautiful areas, Central Park is over 800 acres and needs a whole day for you to bathe in it's fall glory!
+* **Walk up Riverside Park** to see the fall foliage and views of the water. Riverside is often overlooked by tourists because Central Park is just a few blocks away from it, but Riverside is so wonderful that it should not be missed! It runs for miles along the Hudson River and the view of the colorful trees across the water in New Jersey are like out of a movie! I would start from the bottom and walk your way to the very top, my favorite area being around 90th and 105th St. Stop by [Irving Farm Coffee Roasters](https://www.instagram.com/irvingfarm/) for a warm drink and [By The Way Bakery](https://www.instagram.com/bythewaybakery/) for a yummy gf treat!
 * **“Top Of The Rock” observatory** is an amazing way to see the colors in Central Park from above as well as the best view of the Empire State Building!
-
-
-
 * **The MET garden rooftop** is amazing anytime of the year but in the fall it is majestic! The rooftop is open early April until late October. Last year it was only open until October 28th and I would dare to say it’s worth coming before then, just so you can experience it. Have a glass of red wine or warm cider as you look out onto the gleaming orange and yellow trees against the stunning contrast of the downtown skyline.
-
-
-
 * **Bookshops bookshops bookshops!** What says fall like wandering a charming bookstore and pretending you’re about to have a meet cute with Tom Hanks or Meg Ryan? There are so many adorable independent bookshops in NYC but here are my favorites...[Book Culture on Columbus](https://www.google.com/maps/place/Book+Culture+on+Columbus/@40.783776,-73.9767211,17z/data=!3m1!4b1!4m5!3m4!1s0x89c25885814bfdcb:0x1d0ee08e95bbcdfb!8m2!3d40.783776!4d-73.9745324), [Albertine](https://www.google.com/maps/place/Albertine/@40.7765759,-73.9659559,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2589422f0c47b:0x6a51f4920a58956d!8m2!3d40.7765759!4d-73.9637672), [Three Lives & Company](https://www.google.com/maps/place/Three+Lives+%26+Company/@40.734355,-74.0036767,17z/data=!3m1!4b1!4m5!3m4!1s0x89c259943d2226e1:0xc68449b7fff5f133!8m2!3d40.734355!4d-74.001488), [Westsider Rare & Used Books](https://www.google.com/maps/place/Westsider+Rare+%26+Used+Books/@40.7846539,-73.981153,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2588624ba253b:0xec73e3934d4db5a6!8m2!3d40.7846539!4d-73.9789643), and [Shakespeare & Company](https://www.google.com/maps/place/Shakespeare+%26+Co/@40.7751366,-73.9871542,16.04z/data=!4m12!1m6!3m5!1s0x89c258ebc6c03d09:0x2288c6aa819e5041!2sShakespeare+%26+Co!8m2!3d40.7681457!4d-73.9634465!3m4!1s0x89c259de3a7297f5:0x97811be6859f042c!8m2!3d40.7764437!4d-73.9818317). 
-
-
-
 * **Walk Brooklyn Heights & Cobble Hill** neighborhood! They are the sweetest neighborhoods filled with beautiful townhouses and darling cafe’s. They also serve one of the best views of Manhattan from the water nearby, it’s a must see! Grab a drink or snack at [Libertador](https://www.google.com/maps/place/Libertador/@40.687375,-74.0001887,17z/data=!3m1!4b1!4m5!3m4!1s0x89c25a5b2f9c72a9:0xc7b94417eb22a5b!8m2!3d40.687375!4d-73.998) (snag a window seat!) and then a famous ice cream sundae at [Brooklyn Farmacy & Soda Fountain](https://www.google.com/maps/place/Brooklyn+Farmacy+%26+Soda+Fountain/@40.6840071,-74.0014813,17z/data=!3m1!4b1!4m5!3m4!1s0x89c25a5be83cf411:0xb8a383ea7216912f!8m2!3d40.6840071!4d-73.9992926).
-
-
-
-* **W 69th St. Halloween Block Party** is NYC best kept Halloween secret. On trick-or-treat night hundreds join this celebration on the best decorated block in the city. The pristine 19th century townhouses are covered in extravagant halloween decor, each house a different theme. My favorite two years ago was one made up like Hogwarts! Even if you don’t have kids, it’s fun to grab a hot cocoa and walk around to see all the decor and costumes! If you aren’t there on the night of trick-or-treat, the block is usually dressed up and ready the week leading up to it.
-
-
-
-* **Levain Bakery** gets its own bullet point. [Levain](https://www.instagram.com/levainbakery/) is home of the best cookies ever...warm gooey and giant...it’s the perfect fall treat and a must have! The original Levain on W 74th usually has a line down the block but thankfully they opened a location just blocks away where the line is much shorter and faster. I suggest ordering a glass of cold milk along with one of each kind of cookie so you get to taste them all!
-
-
-
+* **W 69th St. Halloween Block Party** is NYC best kept Halloween secret. On trick-or-treat night hundreds join this celebration on the best decorated block in the city. The pristine 19th century townhouses are covered in extravagant halloween decor, each house a different theme. Two years ago, my favorite one was made up like Hogwarts! Even if you don’t have kids, it’s fun to grab a hot cocoa and walk around to see all of the decor and costumes! If you aren’t there on the night of trick-or-treat, the block is usually dressed up and ready the week leading up to it.
+* **Levain Bakery** gets its own bullet point. [Levain](https://www.instagram.com/levainbakery/) is home of the best cookies ever...warm, gooey, and giant...it’s the perfect fall treat and a must have! The original Levain on W 74th usually has a line down the block but thankfully they opened a location just blocks away where the line is much shorter and faster. I suggest ordering a glass of cold milk along with one of each kind of cookie so you get to taste them all!
 * **The Village Halloween Parade** is the world’s largest Halloween parade! It brings in millions of people every year and the costumes seen here will blow your mind! This is a really unique and fun thing that the city puts on in October and worth the trek.
-
-
-
 * **The New York Coffee Festival** is the city’s flagship coffee event that takes place every year in October. You can get a taste from all the best roasters, have some food, enjoy live music, art, and cocktails! What says fall more than a hot cup o jo?!
-
-
-
 * **Take a fall foliage boat cruise**! [These cruises](https://www.timeout.com/newyork/blog/four-amazing-fall-foliage-cruises-you-can-take-up-the-hudson-river-this-fall-100617) sail up the Hudson River showing you the fall colors along the water, taking you by the cliffs of the Palisades, and some even go as far as Bear Mountain State Park!
-
-
-
-* **Visit Tarrytown & Sleepy Hollow** for the day. Take the 1 hour scenic train ride from Grand Central station to Tarrytown and experience the many [Halloween events](https://hudsonvalley.org/halloween-in-sleepy-hollow-country/) that these charmingly spooky towns put on! Haunted hay rides, fall decorations galore, a haunted manor, murder mystery parties, a tour of Washington Irving’s home, guided walking history tours, Poe and Irving literary events in the Sleepy Hollow Cemetery, and this area’s biggest attraction “The Great Jack O’Lantern Blaze”. This festival has over 10,000 hand carved jack o'lanterns and sells out super fast!
-
-
-
+* **Visit Tarrytown & Sleepy Hollow** for the day. Take the 1 hour scenic train ride from Grand Central station to Tarrytown and experience the many [Halloween events](https://hudsonvalley.org/halloween-in-sleepy-hollow-country/) that these charmingly spooky towns put on! Haunted hay rides, fall decorations galore, a haunted manor, murder mystery parties, a tour of Washington Irving’s home, guided walking history tours, Poe and Irving literary events in the Sleepy Hollow Cemetery, and this area’s biggest attraction “The Great Jack O’Lantern Blaze”. This festival has over 10,000 hand-carved jack o'lanterns and sells out super fast!
 * **See the Storm King Art Center**, just an hour drive from the city, this 500 acre [outdoor museum](https://stormking.org/) is best scene in autumn! It’s art structures are stunning against the bright colors of the trees surrounding it and even though it’s not in the city, it’s worth the drive to get to this amazing display in the Hudson Valley!
 
 ## **Eats & Treats**
