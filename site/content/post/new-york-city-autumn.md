@@ -329,23 +329,23 @@ gallery:
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-86.jpg
       size: false
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, Bathesda Fountain'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-88.jpg
       size: false
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, Bathesda Fountain'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-90.jpg
       size: true
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, Daniel Webster Monument'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-91.jpg
       size: false
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, Bethesda Fountain'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-89.jpg
       size: false
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, The Mall'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-62.jpg
       size: true
