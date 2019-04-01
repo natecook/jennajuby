@@ -354,29 +354,29 @@ _**"Don't you love**_ [_**New York**_](https://www.youtube.com/watch?v=vViMeAkOs
 
 New York City in the fall. Period. This is a sentence that says a million things even though it is, in fact...a fragment. Because there is no place like NYC in autumn, it is perfection. It’s like Paris in the spring time, and Greece in the middle of summer. It sounds like crunching leaves under your boots, and feels like the coziest scarf across your cheek...it tastes like a warm cup of coffee held with both hands, and it smells like a new book. It feels like shopping for school supplies and your mom baking you a pumpkin pie. If you only ever visit New York City once in your life, this is it.
 
-Eventually, I hope to write about all four seasons in New York. Nate and I always say that every coming season brings what feels like a brand new city. There are so many different things to do, see, and eat with each passing season. And in the fall, the stars of the city are the city parks, coffee shops, bakeries, and bookshops! I’ll list my favorites places to go in autumn, where to eat, along with tips on traveling in the city during this season : )
+Eventually, I hope to write about all four seasons in New York. Nate and I always say that every coming season brings what feels like a brand new city. There are so many different things to do, see, and eat with each passing month. And in the fall, the stars of the city are the city parks, coffee shops, bakeries, and bookshops! I’ll list my favorite places to go in autumn, where to eat, along with tips on traveling in the city during this time : )
 
 **When To Visit**
 
-You may think that peak fall foliage in NY is in the middle of October. ERRR-wrong. The city’s trees change color much later than the rest of the east coast. And while the weather and foliage will be beautiful anytime after mid October...the ideal weeks to see autumn are the last week of October and the first two weeks in November. The very brightest colors always come the first week in November...which is when the New York City marathon takes place. I would not suggest staying in the city that weekend unless you're running in it or love watching marathons.  Marathon weekend is wonderful but also really expensive, crowded, and chaotic. So _I would suggest visiting the last week in October or the second week in November, after the marathon_.
+Most people think that peak fall foliage in NY is in the middle of October, like most other northeastern cities. But New York's trees change color later than the rest of the east coast. And while the weather and foliage will be beautiful anytime after mid October...the ideal weeks to see fall foliage are the last week of October and the first two weeks in November. The very brightest colors always come the first week in November...which is when the New York City marathon takes place. I would not suggest staying in the city that weekend unless you're running in it or love watching marathons.  Marathon weekend is wonderful but also really expensive, crowded, and chaotic. So _I would suggest visiting the last week in October or the second week in November, after the marathon_.
 
 **Where To Stay**
 
 **_If you're on a budget..._**
 
-* I’m not going to sugarcoat this for you, October and November are two of the most expensive months to visit NYC. The weekend of the marathon will definitely be more expensive than the surrounding time so try to avoid those days. If you’re looking to save some money, _book an airbnb_ on the Upper West Side or Upper East Side. These two neighborhoods in Manhattan are affordable and BONUS, the UWS and UES border Central Park so they are the perfect location for fall! And if you’re looking for the very cheapest option in NYC, consider an airbnb in Brooklyn or Queens. Both these boroughs are enormous (3-4 times the size of Manhattan) so make sure you research the neighborhood you’ll be in and get as close to a train station as possible for easy travel!
+* I’m not going to sugarcoat this for you, October and November are two of the most expensive months to visit NYC. If you’re looking to save some money, _book an airbnb_ on the Upper West Side or Upper East Side. These two neighborhoods in Manhattan are affordable and BONUS, the UWS and UES border Central Park so they are the perfect location for fall! And if you’re looking for the very cheapest option in NYC, consider an airbnb in Brooklyn or Queens. Both these boroughs are enormous (3-4 times the size of Manhattan) so make sure you research the neighborhood you’ll be in and get as close to a train station as possible for easy travel!
 
 _**If you're feeling fancy...**_
 
-* If money isn’t an issue then my favorite neighborhoods to suggest for a fall trip would be the West Village, Upper West Side, and Upper East Side. You’ll find the most variety (and fanciest!) of hotels on the UES. In contrast, the West Village is full of beautiful boutique hotels that are downright dreamy. And although the Upper West Side doesn’t have a lot of hotel options, there are beautiful penthouses and homes to rent that will make you feel like you're in "You've Got Mail". My dream accommodations would be [The Greenwich Hotel](https://www.thegreenwichhotel.com/) in West Village, any fancy hotel on 5th or Park Ave, or a townhouse rental on the UWS. Obviously if you’re not going full on baller status, just look for a reasonably priced hotel or airbnb in these neighborhoods, there are so many options!
+* If money isn’t an issue then my favorite neighborhoods to suggest for a fall trip would be the West Village, Upper West Side, and Upper East Side. You’ll find the most variety (and fanciest!) of hotels on the UES. In contrast, the West Village is full of beautiful boutique hotels that are [downright dreamy](https://www.thegreenwichhotel.com/). And although the Upper West Side doesn’t have a lot of hotel options, there are beautiful penthouses and homes to rent that will make you feel like you're in "You've Got Mail".  Obviously if you’re not going full on baller status, just look for a reasonably priced hotel or airbnb in these neighborhoods, there are so many options!
 
 ## **Things To Do**
 
-* **Explore Central Park**, she is the queen of autumn in New York City! Grab a cup of coffee at [Joe’s Coffee](https://www.google.com/maps/place/Joe+Coffee+Company/@40.7859808,-73.9854814,15z/data=!4m8!1m2!2m1!1sjoe+coffee+near+Columbus+Avenue,+New+York!3m4!1s0x0:0xbab4be71a5c0e1ab!8m2!3d40.7750168!4d-73.9802974) on Columbus and 69th and head into the park. CP's highlights of fall colors are the Gapstow Bridge, Umpire Rock, The Mall, Bathesda Terrace & Fountain, Cherry Hill & Bow Bridge, and Conservatory Water. Stop for a snack at Le Pain Quotidien near [Sheep’s Meadow](https://www.google.com/maps/place/Le+Pain+Quotidien/@40.7745287,-73.9744717,17.63z/data=!4m5!3m4!1s0x0:0xd84cc631d91d2adc!8m2!3d40.7730323!4d-73.9742947) or [Conservatory Water](https://www.google.com/maps/place/Le+Pain+Quotidien/@40.7740792,-73.9671919,20.04z/data=!4m5!3m4!1s0x89c258936be95a89:0x17a14742045e399b!8m2!3d40.7740226!4d-73.966525), or lunch to-go from [Zucker’s Bagels](https://www.instagram.com/zuckersbagels/) just outside the park. Set aside a lot of time to explore these beautiful areas, Central Park is over 800 acres and needs a whole day for you to bathe in it's fall glory!
+* **Explore Central Park**, she is the queen of autumn in New York City! Grab a cup of coffee at [Joe’s Coffee](https://www.google.com/maps/place/Joe+Coffee+Company/@40.7859808,-73.9854814,15z/data=!4m8!1m2!2m1!1sjoe+coffee+near+Columbus+Avenue,+New+York!3m4!1s0x0:0xbab4be71a5c0e1ab!8m2!3d40.7750168!4d-73.9802974) on Columbus and 69th and head into the park. My favorite places in CP to spot the fall leaves are the Gapstow Bridge, Umpire Rock, The Mall, Bathesda Terrace & Fountain, Cherry Hill & Bow Bridge, and Conservatory Water. Stop for a snack at Le Pain Quotidien near [Sheep’s Meadow](https://www.google.com/maps/place/Le+Pain+Quotidien/@40.7745287,-73.9744717,17.63z/data=!4m5!3m4!1s0x0:0xd84cc631d91d2adc!8m2!3d40.7730323!4d-73.9742947) or [Conservatory Water](https://www.google.com/maps/place/Le+Pain+Quotidien/@40.7740792,-73.9671919,20.04z/data=!4m5!3m4!1s0x89c258936be95a89:0x17a14742045e399b!8m2!3d40.7740226!4d-73.966525), or grab lunch to-go from [Zucker’s Bagels](https://www.instagram.com/zuckersbagels/) just outside the park. Set aside a lot of time to explore these beautiful areas, Central Park is over 800 acres and needs a whole day for you to bathe in it's fall glory!
 
 
 
-* **Walk up Riverside Park** to see the fall foliage and views of the water. Riverside is often overlooked by tourists because Central Park is just a few blocks away from it, but Riverside is so wonderful that it should not be missed! It runs for miles along the Hudson River and the view of the colorful trees across the water in New Jersey are like out of a movie! I would start from the bottom and walk your way to the very top, my favorite area being around 90th and 105th St. Stop by [Irving Farm Coffee Roasters](https://www.instagram.com/irvingfarm/) for a warm drink and [By The Way Bakery](https://www.instagram.com/bythewaybakery/) for a yummy gf treat!
+* **Walk up Riverside Park** to see the fall foliage and views of the Hudson River. Riverside is often overlooked by tourists because Central Park is just a few blocks away from it, but Riverside is so wonderful that it should not be missed! It runs for miles along the Hudson River and the view of the colorful trees across the water in New Jersey are like out of a movie! I would start from the bottom and walk your way to the very top, my favorite area being around 90th and 105th St. Stop by [Irving Farm Coffee Roasters](https://www.instagram.com/irvingfarm/) for a warm drink and [By The Way Bakery](https://www.instagram.com/bythewaybakery/) for a yummy gf treat along your way!
 
 
 
@@ -384,7 +384,7 @@ _**If you're feeling fancy...**_
 
 
 
-* **The MET garden rooftop** is amazing anytime of the year but in the fall it is majestic! The rooftop is open early April until late October. Last year it was only open until October 28th and I would dare to say it’s worth coming before then, just so you can experience it. Have a glass of red wine or warm cider as you look out onto the gleaming orange and yellow trees against the stunning contrast of the downtown skyline.
+* **The MET garden rooftop** is awesome anytime of the year but in the fall it is especially majestic! The rooftop is open early April until late October. Last year it was only open until October 28th and I would dare to say it’s worth coming before then, just so you can experience it. Have a glass of red wine or warm cider as you look out onto the gleaming orange and yellow trees against the stunning contrast of the downtown skyline.
 
 
 
@@ -397,15 +397,18 @@ _**If you're feeling fancy...**_
 
 
 * **W 69th St. Halloween Block Party** is NYC best kept Halloween secret. On trick-or-treat night hundreds join this celebration on the best decorated block in the city. The pristine 19th century townhouses are covered in extravagant halloween decor, each house a different theme. Two years ago, my favorite one was made up like Hogwarts! Even if you don’t have kids, it’s fun to grab a hot cocoa and walk around to see all of the decor and costumes! If you aren’t there on the night of trick-or-treat, the block is usually dressed up and ready the week leading up to it.
+
+
+
 * **Levain Bakery** gets its own bullet point. [Levain](https://www.instagram.com/levainbakery/) is home of the best cookies ever...warm, gooey, and giant...it’s the perfect fall treat and a must have! The original Levain on W 74th usually has a line down the block but thankfully they opened a location just blocks away where the line is much shorter and faster. I suggest ordering a glass of cold milk along with one of each kind of cookie so you get to taste them all!
 
 
 
-* **The Village Halloween Parade** is the world’s largest Halloween parade! It brings in millions of people every year and the costumes seen here will blow your mind! This is a really unique and fun thing that the city puts on in October and worth the trek.
+* **The Village Halloween Parade** is the world’s largest Halloween parade! It brings in millions of people every year and the costumes seen here are such a cool sight to see! This is a really unique and fun thing that the city puts on in October and worth the trek.
 
 
 
-* **The New York Coffee Festival** is the city’s flagship coffee event that takes place every year in October. You can get a taste from all the best roasters, have some food, enjoy live music, art, and cocktails! What says fall more than a hot cup o jo?!
+* **The New York Coffee Festival** is NY's flagship coffee event that takes place every year in October. You can get a taste from all the best roasters, have some food, enjoy live music, art, and cocktails! What says fall more than a hot cup o jo?!
 
 
 
