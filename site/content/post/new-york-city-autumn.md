@@ -57,15 +57,15 @@ gallery:
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-13.jpg
       size: false
-    - imagedescription: Central Park
+    - imagedescription: Theodore Roosevelt Park
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-15.jpg
       size: false
-    - imagedescription: Central Park
+    - imagedescription: Brownstone on W 69th St.
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-12.jpg
       size: false
-    - imagedescription: Central Park
+    - imagedescription: 'Upper West Side, near W 80th St.'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-14.jpg
       size: true
@@ -77,67 +77,67 @@ gallery:
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-17.jpg
       size: false
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, near the MET'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-18.jpg
       size: false
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, near The Great Lawn'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-19.jpg
       size: false
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, near The MET'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-20.jpg
       size: false
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, near The MET'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-21.jpg
       size: false
-    - imagedescription: Central Park
+    - imagedescription: ': )'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-22.jpg
       size: false
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, Cedar Hill'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-23.jpg
       size: false
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, on Glade Arch'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-24.jpg
       size: false
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, Glade Arch'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-25.jpg
       size: false
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, view looking down from Glade Arch'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-26.jpg
       size: true
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, Bathesda Fountain'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-27.jpg
       size: false
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, The Lake'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-28.jpg
       size: false
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, The Lake'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-29.jpg
       size: true
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, The Lake'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-30.jpg
       size: false
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, The Lake'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-31.jpg
       size: false
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, The Mall'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-32.jpg
       size: false
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, The Mall'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-33.jpg
       size: false
@@ -149,19 +149,19 @@ gallery:
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-36.jpg
       size: false
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, The Mall'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-35.jpg
       size: true
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, The Mall'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-38.jpg
       size: false
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, view from above Wollman Rink'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-37.jpg
       size: false
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, Hallett Nature Sanctuary'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-39.jpg
       size: true
@@ -169,31 +169,31 @@ gallery:
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-40.jpg
       size: false
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, near The Pond'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-41.jpg
       size: false
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, near The Pond'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-43.jpg
       size: false
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, The Pond'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-49.jpg
       size: false
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, The Pond'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-53.jpg
       size: true
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, near The Pond'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-44.jpg
       size: false
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, near Cop Cot'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-45.jpg
       size: false
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, near the Pond'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-46.jpg
       size: false
@@ -201,11 +201,11 @@ gallery:
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-47.jpg
       size: false
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, The Pond'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-52.jpg
       size: true
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, near the Pond'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-48.jpg
       size: false
@@ -213,7 +213,7 @@ gallery:
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-51.jpg
       size: false
-    - imagedescription: Central Park
+    - imagedescription: 'Riverside Park, view of New Jersey'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-54.jpg
       size: true
@@ -221,39 +221,39 @@ gallery:
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-56.jpg
       size: false
-    - imagedescription: Central Park
+    - imagedescription: 'Me running in Riverside Park, Hudson River Greenway'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-59.jpg
       size: false
-    - imagedescription: Central Park
+    - imagedescription: 'Riverside Park, near W 100th St.'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-55.jpg
       size: true
-    - imagedescription: Central Park
+    - imagedescription: 'Riverside Park, near W 100th St.'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-58.jpg
       size: false
-    - imagedescription: Central Park
+    - imagedescription: 'Riverside Park, near W 100th St.'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-57.jpg
       size: false
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, The Mall'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-61.jpg
       size: true
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, getting churro''s near The Mall'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-60.jpg
       size: false
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, The Mall'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-64.jpg
       size: false
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, The Mall'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-63.jpg
       size: true
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, The Boathouse Outdoor Bar'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-67.jpg
       size: false
@@ -261,15 +261,15 @@ gallery:
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-68.jpg
       size: false
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, The Lake'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-71.jpg
       size: true
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, view of The San Remo'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-69.jpg
       size: false
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, row boating on The Lake'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-72.jpg
       size: false
