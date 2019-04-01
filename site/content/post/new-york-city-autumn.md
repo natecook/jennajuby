@@ -277,55 +277,55 @@ gallery:
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-2.jpg
       size: true
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, view of The Loeb Boathouse'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-73.jpg
       size: false
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, Nate rowing us around The Lake'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-70.jpg
       size: false
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, row-boating in The Lake'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-76.jpg
       size: true
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, row-boating in The Lake'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-75.jpg
       size: false
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, view of Bathesda Fountain from our boat'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-74.jpg
       size: false
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, view of the San Remo from the boat'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-80.jpg
       size: true
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, row-boating on The Lake'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-78.jpg
       size: true
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, Bow Bridge'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-77.jpg
       size: true
-    - imagedescription: Central Park
+    - imagedescription: ': )'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-85.jpg
       size: false
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, row-boating on The Lake'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-82.jpg
       size: false
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, Bow Bridge'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-79.jpg
       size: true
-    - imagedescription: Central Park
+    - imagedescription: ': )'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-87.jpg
       size: true
-    - imagedescription: Central Park
+    - imagedescription: 'Central Park, row-boating'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-86.jpg
       size: false
