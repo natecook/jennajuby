@@ -7,7 +7,49 @@ description: >-
   between Thanksgiving and New Years. 
 gallery:
   photos:
-    - imagenew: /img/cali-blog.jpg
+    - imagenew: https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-1.jpg
+      size: false
+    - imagenew: https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-2.jpg
+      size: false
+    - imagenew: https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-3.jpg
+      size: false
+    - imagenew: https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-4.jpg
+      size: false
+    - imagenew: https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-5.jpg
+      size: false
+    - imagenew: https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-6.jpg
+      size: false
+    - imagenew: https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-7.jpg
+      size: false
+    - imagenew: https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-8.jpg
+      size: false
+    - imagenew: https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-9.jpg
+      size: false
+    - imagenew: https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-10.jpg
+      size: false
+    - imagenew: https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-11.jpg
+      size: false
+    - imagenew: https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-12.jpg
+      size: false
+    - imagenew: https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-13.jpg
+      size: false
+    - imagenew: https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-14.jpg
+      size: false
+    - imagenew: https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-15.jpg
+      size: false
+    - imagenew: https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-16.jpg
+      size: false
+    - imagenew: https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-17.jpg
+      size: false
+    - imagenew: https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-18.jpg
+      size: false
+    - imagenew: https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-19.jpg
+      size: false
+    - imagenew: https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-20.jpg
+      size: false
+    - imagenew: https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-21.jpg
+      size: false
+    - imagenew: https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-22.jpg
       size: false
 ---
 Christmas time is the most popular season to visit New York, and for good reason! I don’t know if there is anywhere in the world more festive than NYC between Thanksgiving and New Years. Every year it feels like Christmas has taken over the city and I LOVE it. There are countless holiday activities to do, so I’ll list my favorites below and put an * next to the ones I feel you absolutely cannot miss! There are also a lot of restaurants and bars that decorate for Christmas, making it feel oh-so festive. I’ll list the best places to eat and drink that have decked themselves out Elf-style.
