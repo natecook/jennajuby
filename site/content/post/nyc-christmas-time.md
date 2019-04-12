@@ -48,7 +48,7 @@ gallery:
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-9.jpg
       size: false
-    - imagedescription: The famous lion statue's outside of New York Public Library
+    - imagedescription: The famous lion statue outside of New York Public Library
       imagenew: /img/nycxmas-3.jpg
       size: true
     - imagedescription: 'Haley, Kate, and I outside of La Mercerie'
@@ -59,7 +59,7 @@ gallery:
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-8.jpg
       size: false
-    - imagedescription: The famous lion statue's outside of New York Public Library
+    - imagedescription: The famous lion statue outside of New York Public Library
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-17.jpg
       size: false
@@ -72,7 +72,7 @@ gallery:
       size: true
     - imagedescription: Central Park South hotels decorated for the holidays
       imagenew: /img/nycxmas-6.jpg
-    - imagedescription: Horse Carriage in Central Park
+    - imagedescription: Horse carriage in Central Park
       imagenew: /img/nycxmas-5.jpg
       size: false
     - imagedescription: Christmas tree stand on Broadway and W 72nd St
@@ -103,7 +103,8 @@ gallery:
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-16.jpg
       size: false
-    - imagenew: /img/nycxmas-31.jpg
+    - imagedescription: An Upper East Side elementary school decorated for Christmas
+      imagenew: /img/nycxmas-31.jpg
       size: true
 ---
 Christmas time is the most popular season to visit New York, and for good reason! I don’t know if there is anywhere in the world more festive than NYC between Thanksgiving and New Years. Every year it feels like Christmas has taken over the city and I LOVE it. There are countless holiday activities to do, so I’ll list my favorites below and put an * next to the ones I feel you absolutely cannot miss! There are also a lot of restaurants and bars that decorate for Christmas, making it feel oh-so festive. I’ll list the best places to eat and drink that have decked themselves out Elf-style.
@@ -119,7 +120,7 @@ Christmas time is the most popular season to visit New York, and for good reason
 * The MET [Christmas tree](https://www.metmuseum.org/exhibitions/listings/2018/christmas-tree)
 * Take one of the fun [Holiday Cruises](https://www.sail-nyc.com/browse-by-theme/holiday-cruises/)
 * Christmas concert at [Carnegie Hall](https://www.carnegiehall.org/)
-* Visit the famous [FAO Shwarz](https://faoschwarz.com/)
+* Visit the famous [FAO Schwarz](https://faoschwarz.com/)
 * Grab a drink at [The Plaza Hotel ](https://www.theplazany.com/dining/the-champagne-bar-nyc/)
 * See [Macy’s](https://www.google.com/search?q=macy%27s&npsic=0&rflfq=1&rlha=0&rllag=40738551,-73954226,7114&tbm=lcl&ved=2ahUKEwi17YeM-MPhAhWBl-AKHf4IBoMQtgN6BAgFEAQ&tbs=lrf:!2m4!1e17!4m2!17m1!1e2!2m1!1e3!2m1!1e16!3sIAE,lf:1,lf_ui:4&rldoc=1#rlfi=hd:;si:15791927748256334511,l,CgZtYWN5J3MiA4gBAVoICgZtYWN5J3M;mv:!1m2!1d40.979256!2d-73.8132443!2m2!1d40.5898499!2d-74.0903989) Christmas craziness
 * [Christmas Spectacular](https://www.rockettes.com/christmas/) (Rockettes) Show at Radio City Music Hall
