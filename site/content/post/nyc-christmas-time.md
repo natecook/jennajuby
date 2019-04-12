@@ -8,73 +8,99 @@ description: >-
 image: /img/nycxmas-8.jpg
 gallery:
   photos:
-    - imagenew: >-
+    - imagedescription: Sant Ambrose in West Village
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-1.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: '"John Derian West" shop window on Christopher St'
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-3.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Festive townhouse on W 4th St. near Perry St.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-2.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: 'Saks Fifth Avenue '
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-4.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Cafe Select on Lafayette St
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-11.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: 'My dad and I after ice skating in Central Park : )'
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-13.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Cartier on 5th Ave
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-5.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Nate and I ice skating in Central Park
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-14.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: 'Nate, Nicholas, and I ice skating in Central Park'
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-10.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Christmas wreaths for sale in Theodore Roosevelt Park
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-9.jpg
       size: false
-    - imagenew: /img/nycxmas-3.jpg
+    - imagedescription: The famous lion statue's outside of New York Public Library
+      imagenew: /img/nycxmas-3.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: 'Haley, Kate, and I outside of La Mercerie'
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-7.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: La Mercerie
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-8.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: The famous lion statue's outside of New York Public Library
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-17.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Boats decorated for Christmas at South Street Seaport
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-18.jpg
       size: false
-    - imagenew: /img/nycxmas-2.jpg
+    - imagedescription: The Christmas tree and ice skating at Bryant Park
+      imagenew: /img/nycxmas-2.jpg
       size: true
-    - imagenew: /img/nycxmas-6.jpg
-    - imagenew: /img/nycxmas-5.jpg
+    - imagedescription: Central Park South hotels decorated for the holidays
+      imagenew: /img/nycxmas-6.jpg
+    - imagedescription: Horse Carriage in Central Park
+      imagenew: /img/nycxmas-5.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Christmas tree stand on Broadway and W 72nd St
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-19.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: 'Haley, Kate, and I in front of the Christmas tree in Lincoln Square'
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-20.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: The New York fam in front of the Christmas Tree in Lincoln Square
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-21.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Nate and I in front of the Christmas tree in Lincoln Square
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-22.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Christmas tree at Lotte New York Palace
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-15.jpg
       size: false
-    - imagenew: /img/nycxmas-7.jpg
-    - imagenew: /img/nycxmas-1.jpg
-    - imagenew: >-
+    - imagedescription: Giant Christmas wreaths on the Plaza Hotel
+      imagenew: /img/nycxmas-7.jpg
+    - imagedescription: Christmas window at Cafe Lalo
+      imagenew: /img/nycxmas-1.jpg
+    - imagedescription: My mom and I at Lotte New York Palace
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-16.jpg
       size: false
 ---
