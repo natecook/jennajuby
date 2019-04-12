@@ -3,7 +3,8 @@ title: 'Charleston, South Carolina'
 date: 'Mon, 30 Oct 2017 16:48:41 +0000'
 description: >-
   I've been to the beautiful city of Charleston South Carolina over 20 times and
-  needless to say I'm yet to get sick of it!
+  needless to say I'm yet to get sick of it. This city is not only beautiful and
+  charming but it's food scene is unreal!
 image: >-
   https://djh82r8xhqebh.cloudfront.net/uploads/2017/10/CharlestonSpring2017_Blog-35.jpg
 ---
