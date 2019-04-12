@@ -52,6 +52,8 @@ Nate and I went back to Southern California a few weeks ago for a friend's weddi
 * Get fish tacos at Bear Flag and walk over to Newport Beach to enjoy on one of the lifeguard stands on the beach.
 * Explore the historic district of Old Town Orange. This is the neighborhood Nate and I used to live in and we love it so much! Get amazing tacos and marg's at Gabbi's and walk around exploring all the different antique shops, boutiques, and grab a coffee at Aussie Bean or an ice cream at A La Minute.
 * Definitely go to Lido Village to get a coffee at Honor, browse the cute little bookstore and high end boutiques...and finish off your time there with a glass of wine overlooking the harbor.
+* Whale watching in Dana Point! 
+* Disneyland, duh.
 
 **Tips & Tricks to LA and OC**
 
