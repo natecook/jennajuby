@@ -130,6 +130,7 @@ Christmas time is the most popular season to visit New York, and for good reason
 * [Dyker Heights neighborhood ](https://www.timeout.com/newyork/things-to-do/dyker-heights-christmas-lights)Christmas lights
 * [Columbus Circle Holiday Market](https://www.urbanspacenyc.com/columbus-circle-holiday-market/)
 * See a classic Christmas movie screening at [Nitehawk](https://nitehawkcinema.com/), [IFC Center](http://www.ifccenter.com/), etc. 
+* Google Christmas events happening the week you are in town, there's different ones every year!
 
 ## Eats & Treats
 
