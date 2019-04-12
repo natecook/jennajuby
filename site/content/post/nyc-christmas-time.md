@@ -1,5 +1,5 @@
 ---
-title: 'NYC: Christmas Time'
+title: 'New York City: Christmas Time'
 date: 2019-04-09T20:59:02.265Z
 description: >-
   Christmas time is the most popular season to visit New York, and for good
