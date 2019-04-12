@@ -3,7 +3,9 @@ title: Southern California
 date: 'Wed, 25 Jul 2018 23:39:17 +0000'
 description: >-
   Nate and I went back to Southern California a few weeks ago for a friend's
-  wedding in LA and also to visit his family that lives in Orange County!
+  wedding in LA and also to visit his family that lives in Orange County! And
+  this is the trip I finally decided to make a list of all my favorite southern
+  California things. 
 image: /img/travel-socal.jpg
 gallery:
   photos: []
@@ -24,7 +26,7 @@ Nate and I went back to Southern California a few weeks ago for a friend's weddi
 
 * Malibu Beach day, I recommend Zuma or Surfrider beach! Take a surf lesson at Malibu Surf Shack, get lunch or dinner at Malibu Farms...stay until sunset and get a cocktail overlooking the beach. So. Dreamy.
 * Explore downtown LA arts district! Shop around the art show rooms, boutiques, and market. Get ice cream at Salt & Straw, lunch at Urth Cafe (Taylor Swift was once spotted at that location of Urth, JUST sayin'), get dinner at Manuela, and drinks at Wolf & Crane.
-* Get the most boujee lunch of your life at the Ivy in Beverly Hills, look intensely for celebrities the whole time, and then shop around the Beverly Hills at the Grove or on Beverly Dr. after! Also it's fun to drive around some of the amazing neighborhoods and see some Beverly Hill's mansions!
+* Get the fanciest lunch of your life at the Ivy in Beverly Hills, look intensely for celebrities the whole time, and then shop around the Beverly Hills at the Grove or on Beverly Dr. after! Also it's fun to drive around some of the amazing neighborhoods and see some Beverly Hill's mansions!
 * See the new and improved Venice, which is way more than just the boardwalk. Walk along the Venice canals, grab some food at Rose Cafe or Great White, and then treat yourself to some Jeni's. Make sure to try out one of the motorized scooters they have lying around everywhere, they are pretty fun and actually super convenient.
 * Go to a Dodger's game or Laker's game depending on when you're there! Sports in LA are more like a show...the stadium/arena's are really nice and obviously iconic in their own right, lots of celebs go to the games, and it's one of the most LA things you can do! Go....Lakers....\*sobs\*.
 * See an outdoor movie in the summer, they are playing almost every night, all in really cool locations, some even on the beach! Take lots of blankets or bundle up, it gets cold at night.
@@ -52,6 +54,8 @@ Nate and I went back to Southern California a few weeks ago for a friend's weddi
 * Get fish tacos at Bear Flag and walk over to Newport Beach to enjoy on one of the lifeguard stands on the beach.
 * Explore the historic district of Old Town Orange. This is the neighborhood Nate and I used to live in and we love it so much! Get amazing tacos and marg's at Gabbi's and walk around exploring all the different antique shops, boutiques, and grab a coffee at Aussie Bean or an ice cream at A La Minute.
 * Definitely go to Lido Village to get a coffee at Honor, browse the cute little bookstore and high end boutiques...and finish off your time there with a glass of wine overlooking the harbor.
+* Whale watching in Dana Point! 
+* Disneyland, duh.
 
 **Tips & Tricks to LA and OC**
 
