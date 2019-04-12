@@ -3,6 +3,12 @@ heading: Travel Photography
 description: List of places we've loved and great things to see at each place.
 intro:
   blurbs:
+    - image: /img/nyc-autumn.jpg
+      text: 'NYC: Autumn'
+      url: /post/new-york-city-autumn/
+    - image: /img/athens-greece.jpg
+      text: Traveling Tips For Greece
+      url: /post/athens-greece/
     - image: /img/canada-62.jpg
       text: 'Niagara-On-The-Lake, Canada'
       url: /post/niagara-on-the-lake-canada/
