@@ -5,6 +5,7 @@ description: >-
   Christmas time is the most popular season to visit New York, and for good
   reason! I don’t know if there is anywhere in the world more festive than NYC
   between Thanksgiving and New Years. 
+image: /img/nycxmas-8.jpg
 gallery:
   photos:
     - imagenew: >-
@@ -37,9 +38,8 @@ gallery:
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-9.jpg
       size: false
-    - imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-17.jpg
-      size: false
+    - imagenew: /img/nycxmas-3.jpg
+      size: true
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-7.jpg
       size: false
@@ -47,7 +47,15 @@ gallery:
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-8.jpg
       size: false
     - imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-17.jpg
+      size: false
+    - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-18.jpg
+      size: false
+    - imagenew: /img/nycxmas-2.jpg
+      size: true
+    - imagenew: /img/nycxmas-6.jpg
+    - imagenew: /img/nycxmas-5.jpg
       size: false
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-19.jpg
@@ -64,13 +72,13 @@ gallery:
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-15.jpg
       size: false
+    - imagenew: /img/nycxmas-7.jpg
+    - imagenew: /img/nycxmas-1.jpg
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Christmas/NYCChristmas-16.jpg
       size: false
 ---
 Christmas time is the most popular season to visit New York, and for good reason! I don’t know if there is anywhere in the world more festive than NYC between Thanksgiving and New Years. Every year it feels like Christmas has taken over the city and I LOVE it. There are countless holiday activities to do, so I’ll list my favorites below and put an * next to the ones I feel you absolutely cannot miss! There are also a lot of restaurants and bars that decorate for Christmas, making it feel oh-so festive. I’ll list the best places to eat and drink that have decked themselves out Elf-style.
-
-
 
 ## What To Do
 
@@ -95,8 +103,6 @@ Christmas time is the most popular season to visit New York, and for good reason
 * [Columbus Circle Holiday Market](https://www.urbanspacenyc.com/columbus-circle-holiday-market/)
 * See a classic Christmas movie screening at [Nitehawk](https://nitehawkcinema.com/), [IFC Center](http://www.ifccenter.com/), etc. 
 
-
-
 ## Eats & Treats
 
 **Brunch:** [Buvette](https://www.instagram.com/buvettenyc/)*, [Augustine](https://augustineny.com/), [SERRA by Birreria](https://www.instagram.com/explore/locations/539806993088247/serra-by-birreria/), [Rosemary’s](https://www.instagram.com/rosemarysnyc/)
@@ -105,11 +111,7 @@ Christmas time is the most popular season to visit New York, and for good reason
 
 **Drink:** [The Library Room at the Nomad](https://www.thenomadhotel.com/new-york/dining/spaces/library)*, [Sunday In Brooklyn](https://www.instagram.com/sundayinbrooklyn/), [Refinery Rooftop](https://www.instagram.com/refineryrooftop/), [Lillie’s Victorian Establishment](https://www.lilliesnyc.com/#lillies)
 
-**Sweets:** [Cafe Grumpy](https://www.google.com/maps/place/Caf%C3%A9+Grumpy/@40.7332112,-74.0006404,14.07z/data=!4m5!3m4!1s0x89c259bb802d1eed:0x6a1373199661cb33!8m2!3d40.7426!4d-73.9983977) (maple spice latte)*, [Maman](https://www.instagram.com/_mamannyc_/) (lavendar hot cocoa), [Joe Coffee](https://www.google.com/maps/place/Joe+Coffee+Company/@40.7332112,-74.0006404,14.07z/data=!4m8!1m2!2m1!1sjoe+coffee!3m4!1s0x0:0x3b0059e22944d06c!8m2!3d40.7332954!4d-74.0005642) (pumpkin spice latte), [Magnolia Bakery](https://www.instagram.com/magnoliabakery/) (hot apple cider)
-
-
-
-
+**Sweets:** [Cafe Lalo](https://www.instagram.com/explore/locations/129859/cafe-lalo/) (hot cocoa), [Cafe Grumpy](https://www.google.com/maps/place/Caf%C3%A9+Grumpy/@40.7332112,-74.0006404,14.07z/data=!4m5!3m4!1s0x89c259bb802d1eed:0x6a1373199661cb33!8m2!3d40.7426!4d-73.9983977) (maple spice latte), [Maman](https://www.instagram.com/_mamannyc_/) (lavendar hot cocoa), [Joe Coffee](https://www.google.com/maps/place/Joe+Coffee+Company/@40.7332112,-74.0006404,14.07z/data=!4m8!1m2!2m1!1sjoe+coffee!3m4!1s0x0:0x3b0059e22944d06c!8m2!3d40.7332954!4d-74.0005642) (pumpkin spice latte), [Magnolia Bakery](https://www.instagram.com/magnoliabakery/) (hot apple cider)
 
 ## Tips & Tricks
 
