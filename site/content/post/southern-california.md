@@ -3,7 +3,9 @@ title: Southern California
 date: 'Wed, 25 Jul 2018 23:39:17 +0000'
 description: >-
   Nate and I went back to Southern California a few weeks ago for a friend's
-  wedding in LA and also to visit his family that lives in Orange County!
+  wedding in LA and also to visit his family that lives in Orange County! And
+  this is the trip I finally decided to make a list of all my favorite southern
+  California things. 
 image: /img/travel-socal.jpg
 gallery:
   photos: []
