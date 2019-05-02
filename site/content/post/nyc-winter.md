@@ -32,11 +32,11 @@ Even though New York gets a bad rep for it’s winter weather, it’s still such
 
 **Eats & Treats**
 
-Breakfast: Clinton St. Baking Company, Empire Diner, Russ & Daughters
+Breakfast: [Clinton St. Baking Company](https://www.instagram.com/clintonstbakingco/), [Empire Diner](https://www.instagram.com/empire_diner/), [Russ & Daughters](https://www.instagram.com/russanddaughters/)
 
-Brunch: Sadelle’s, The Fat Radish, Storico, ABC V, Sweet Chick
+Brunch: [Sadelle’s](https://www.sadelles.com/), [The Fat Radish](https://www.instagram.com/thefatradish/), [Storico](http://storicorestaurant.com/), [abcV](http://www.abchome.com/dine/abcv/), [Sweet Chick](https://www.instagram.com/sweetchicklife/)
 
-Lunch: Keste, Dig Inn
+Lunch: [Keste](https://www.instagram.com/kestepizza/), Dig Inn
 
 Dinner: Freemans, ABC Kitchen, Tiny’s and The Bar Upstairs, The Spaniard, Jacob’s Pickles
 
