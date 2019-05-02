@@ -9,7 +9,7 @@ gallery:
 ---
 Even though New York gets a bad rep for it’s winter weather, it’s still such a fun city to visit no matter what month you come! And to be honest, the winter’s here are not that bad. We’ll get a cold spell for a week or so, we may get one or two snow storms (if we’re lucky!), but most of the time you can plan on it being 38 degrees and partly sunny through winter. It’s nothing to write home about but it’s far from being miserable. Plus, there are so many unique indoor activities that it makes the winter bearable! Usually in the winter, we hibernate for most of January and February and then take a trip to the beach to warm up. But this year (for the first time) we didn't go on any warm weather trips. SO, I decided to double down on all the fun winter activities we could do since we were staying in town. There are a lot of fun things to see indoors that I wouldn’t usually do during the other seasons because I want to take advantage of being outside. So this was the perfect excuse to check them all of my new york bucket list! Here is my list of the best winter (non Christmas related) activities to do inside and a list of NYC coziest winter restaurants. 
 
-**Things To Do**
+## **Things To Do**
 
 * [The Metropolitan Museum Of Art](https://www.metmuseum.org/) (The Met), this is one of my favorite places in the city regardless of season. It’s one of the most amazing museums in the world!
 * See a [Broadway](https://www.broadway.com/) show, I have loved so many...but some of my favorites were _Beautiful_, _Hello Dolly_, _Waitress_, _Lion King_, and _Pretty Woman_
@@ -30,18 +30,16 @@ Even though New York gets a bad rep for it’s winter weather, it’s still such
 * Shop in [Soho](https://www.nycgo.com/itineraries/essential-soho-shopping-guide), this is fun to do any time of year but it's nice to do in winter so that you can warm up in the shops.
 * [Flim Forum](http://filmforum.org/) and [IFC Center](http://www.ifccenter.com/), see an independent, foreign, or classic film at either of these theaters or even a documentary!
 
-**Eats & Treats**
+## **Eats & Treats**
 
 Breakfast: [Clinton St. Baking Company](https://www.instagram.com/clintonstbakingco/), [Empire Diner](https://www.instagram.com/empire_diner/), [Russ & Daughters](https://www.instagram.com/russanddaughters/)
 
 Brunch: [Sadelle’s](https://www.sadelles.com/), [The Fat Radish](https://www.instagram.com/thefatradish/), [Storico](http://storicorestaurant.com/), [abcV](http://www.abchome.com/dine/abcv/), [Sweet Chick](https://www.instagram.com/sweetchicklife/)
 
-Lunch: [Keste](https://www.instagram.com/kestepizza/), Dig Inn
+Lunch: [Keste](https://www.instagram.com/kestepizza/), [Dig Inn](https://www.instagram.com/diginn/)
 
-Dinner: Freemans, ABC Kitchen, Tiny’s and The Bar Upstairs, The Spaniard, Jacob’s Pickles
+Dinner: [Freemans](https://www.instagram.com/freemansrestaurant/), [ABC Kitchen](http://www.abchome.com/dine/abc-kitchen/), [Tiny’s and The Bar Upstairs](https://www.instagram.com/tinysnyc/), [The Spaniard](https://www.instagram.com/thespaniardnyc/), [Jacob’s Pickles](https://www.instagram.com/jacobspickles/)
 
-Desserts: Serendpity
+Desserts: [Serendipity 3](https://www.instagram.com/serendipity3nyc/)
 
-Speakeasies: Attaboy, Dear Irving, NiteCap, Little Branch, Raines Law Room, Please Don’t Tell, Death & Company, The Backroom
-
-Jazz Clubs: St. Mazie Supper Club, The Django, Mezzrow Jazz Club, The Village Vanguard
+Speakeasies: [Attaboy](https://www.instagram.com/attaboy134/), [Dear Irving](https://www.instagram.com/dearirving/), [Nitecap](https://www.instagram.com/nitecapnyc/), [Little Branch](https://www.google.com/maps/place/Little+Branch/@40.730122,-74.0072337,17z/data=!3m1!4b1!4m5!3m4!1s0x89c25992e9f28e8d:0xe297f8f503425e5c!8m2!3d40.730118!4d-74.005045), [Raines Law Room](https://www.instagram.com/raineslawroom/), [Please Don’t Tell](https://www.worldsbestbars.com/bar/new-york-city/lower-east-manhattan/pdt-please-dont-tell/), [Death & Company](https://www.instagram.com/deathandcompany/), [The Backroom](https://www.instagram.com/explore/locations/219737435/the-backroom/)
