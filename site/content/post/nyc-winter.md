@@ -14,6 +14,7 @@ Even though New York gets a bad rep for it’s winter weather, it’s still such
 * [The Metropolitan Museum Of Art](https://www.metmuseum.org/) (The Met), this is one of my favorite places in the city regardless of season. It’s one of the most amazing museums in the world!
 * See a [Broadway](https://www.broadway.com/) show, I have loved so many...but some of my favorites were _Beautiful_, _Hello Dolly_, _Waitress_, _Lion King_, and _Pretty Woman_
 * Visit [One World Observatory](https://oneworldobservatory.com/en-US) at the World Trade Center, this is a perfect observatory to visit in the winter because it's completely enclosed, there's even a bar at the top!
+* [Comedy Cellar](https://www.comedycellar.com/), this is one of the most famous comedy clubs in the world; you should plan on getting reservations weeks ahead of time!
 * Walk around [Grand Central Terminal](https://www.grandcentralterminal.com/), the ceiling here is mesmerizing. But explore more than the main atrium; there’s a whole food court and even a Cafe Grumpy (some of nyc’s best coffee), Magnolia Bakery, and some of the most famous oysters in the city at Grand Central Oyster Bar.
 * [9/11 Museum](https://www.911memorial.org/museum). The memorial is an open courtyard outside and open to the public year round, but the museum inside is vast and you’ll want to spend at least a few hours there (I would allow yourself 3 at least, it’s an unforgettable experience). 
 * Go inside [St. Patrick’s Cathedral](https://saintpatrickscathedral.org/), [The Cathedral Church of St. John The Divine](https://www.stjohndivine.org/), and [The Riverside Church](https://www.trcnyc.org/) to see the amazing cathedrals of NYC
@@ -22,13 +23,12 @@ Even though New York gets a bad rep for it’s winter weather, it’s still such
 * [The Whitney](https://www.whitney.org/) and [MOMA](https://www.moma.org/), both showcase mostly modern art, both are incredible. The Whitney does boast a great observation deck if you can’t decide between the two!
 * See a movie at [IPIC Theaters](https://www.ipic.com/), a super fancy movie theater that has all you could ever want! Order champagne (or an ice cream sandwich or pizza or burger) from your private lounge chair area.
 * [The Morgan Library & Museum](https://www.themorgan.org/), is such a fascinating place and much like the Frick (both used to be personal residences that were turned into museums) it feels like you’re in the best kept secret of the city. 
-* See a performance at [Lincoln Center](http://www.lincolncenter.org/), this entire center is incredible and offers so many different kinds of performances (opera, jazz, plays, dance, film, etc.)
-* Museum of Natural History
-* Comedy Cellar, this is one of the most famous comedy houses in the world, and you should plan on getting reservations weeks ahead of time!
-* The Frick Collection, one of my favorite places in the city!
-* Get high tea at the Plaza Hotel, this speaks for itself I think.
-* Shop in Soho, although exploring the shops in this area isn’t totally inside, it’s a great time of year to shop!
-* Fim Forum and IFC Theater
+* See a performance at [Lincoln Center](http://www.lincolncenter.org/); it's world renowned and offers so many different kinds of performances (opera, jazz, plays/musicals, ballet, film, etc.)
+* Visit the [American Museum of Natural History](https://www.amnh.org/), there are so many cool exhibits to see here!
+* [The Frick Collection](https://www.frick.org/), this stunning art museum is one of my favorite places in the city!
+* Get high tea at [The Plaza](https://www.theplazany.com/dining/the-palm-court/), this speaks for itself I think.
+* Shop in [Soho](https://www.nycgo.com/itineraries/essential-soho-shopping-guide), this is fun to do any time of year but it's nice to do in winter so that you can warm up in the shops.
+* [Flim Forum](http://filmforum.org/) and [IFC Center](http://www.ifccenter.com/), see an independent, foreign, or classic film at either of these theaters or even a documentary!
 
 **Eats & Treats**
 
