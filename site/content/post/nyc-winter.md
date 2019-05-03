@@ -7,7 +7,22 @@ description: >-
 image: /img/nycwinter-16.jpg
 gallery:
   photos:
-    - imagenew: /img/nycwinter-16.jpg
+    - imagenew: https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-1.jpg
+    - imagenew: https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-2.jpg
+    - imagenew: https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-3.jpg
+    - imagenew: https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-4.jpg
+    - imagenew: https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-5.jpg
+    - imagenew: https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-6.jpg
+    - imagenew: https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-7.jpg
+    - imagenew: https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-8.jpg
+    - imagenew: https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-9.jpg
+    - imagenew: https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-10.jpg
+    - imagenew: https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-11.jpg
+    - imagenew: https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-12.jpg
+    - imagenew: https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-13.jpg
+    - imagenew: https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-14.jpg
+    - imagenew: https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-15.jpg
+    - imagenew: https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-16.jpg
 ---
 Even though New York gets a bad rep for it’s winter weather, it’s still such a fun city to visit no matter what month you come! And to be honest, the winter’s here are not that bad. We’ll get a cold spell for a week or so, we may get one or two snow storms (if we’re lucky!), but most of the time you can plan on it being 38 degrees and partly sunny through winter. It’s nothing to write home about but it’s far from being miserable. Plus, there are so many unique indoor activities that it makes the winter bearable! Usually in the winter, we hibernate for most of January and February and then take a trip to the beach to warm up. But this year (for the first time) we didn't go on any warm weather trips. SO, I decided to double down on all the fun winter activities we could do since we were staying in town. There are a lot of fun things to see indoors that I wouldn’t usually do during the other seasons because I want to take advantage of being outside. So this was the perfect excuse to check them all of my new york bucket list! Here is my list of the best winter (non Christmas related) activities to do inside and a list of NYC coziest winter restaurants. 
 
