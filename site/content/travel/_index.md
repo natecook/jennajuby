@@ -3,6 +3,9 @@ heading: Travel Photography
 description: List of places we've loved and great things to see at each place.
 intro:
   blurbs:
+    - image: /img/nycwinter-16.jpg
+      text: 'NYC: Winter'
+      url: /post/nyc-winter/
     - image: /img/nycxmas-8.jpg
       text: 'NYC: Christmas'
       url: /post/nyc-christmas-time/
