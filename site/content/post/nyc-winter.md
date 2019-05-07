@@ -1,5 +1,5 @@
 ---
-title: 'NYC: Winter'
+title: 'New York City: Winter'
 date: 2019-05-01T23:26:24.206Z
 description: >-
   Even though New York gets a bad rep for it’s winter weather, it’s still such a
