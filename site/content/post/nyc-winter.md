@@ -50,7 +50,7 @@ Even though New York gets a bad rep for it’s winter weather, it’s still such
 * [The Frick Collection](https://www.frick.org/), this stunning art museum is one of my favorite places in the city!
 * Get high tea at [The Plaza](https://www.theplazany.com/dining/the-palm-court/), this speaks for itself I think.
 * Shop in [Soho](https://www.nycgo.com/itineraries/essential-soho-shopping-guide), this is fun to do any time of year but it's nice to do in winter so that you can warm up in the shops.
-* [Flim Forum](http://filmforum.org/) and [IFC Center](http://www.ifccenter.com/), see an independent, foreign, or classic film at either of these theaters or even a documentary!
+* [Flim Forum](http://filmforum.org/) and [IFC Center](http://www.ifccenter.com/), see an independent, foreign, or classic film at either of these theaters or even a documentary! 
 
 ## **Eats & Treats**
 
