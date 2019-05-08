@@ -7,7 +7,8 @@ description: >-
 image: /img/nycwinter-16.jpg
 gallery:
   photos:
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-1.jpg'
+    - imagedescription: Lutheran Church
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-1.jpg'
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-2.jpg'
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-6.jpg'
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-5.jpg'
@@ -45,14 +46,18 @@ Even though New York gets a bad rep for it’s winter weather, it’s still such
 * [The Whitney](https://www.whitney.org/) and [MOMA](https://www.moma.org/), both showcase mostly modern art, both are incredible. The Whitney does boast a great observation deck if you can’t decide between the two!
 * See a movie at [IPIC Theaters](https://www.ipic.com/), a super fancy movie theater that has all you could ever want! Order champagne (or an ice cream sandwich or pizza or burger) from your private lounge chair area.
 * [The Morgan Library & Museum](https://www.themorgan.org/), is such a fascinating place and much like the Frick (both used to be personal residences that were turned into museums) it feels like you’re in the best kept secret of the city. 
+* The [Chelsea Market](http://chelseamarket.com/), is an urban food hall which also has great shopping! It's inside a historic old biscuit factory, making the architecture really cool! It's fun to just walk around even if you don't want to eat or shop. 
 * See a performance at [Lincoln Center](http://www.lincolncenter.org/); it's world renowned and offers so many different kinds of performances (opera, jazz, plays/musicals, ballet, film, etc.)
 * Visit the [American Museum of Natural History](https://www.amnh.org/), there are so many cool exhibits to see here!
 * [The Frick Collection](https://www.frick.org/), this stunning art museum is one of my favorite places in the city!
 * Get high tea at [The Plaza](https://www.theplazany.com/dining/the-palm-court/), this speaks for itself I think.
+* [The Oculus](https://www.instagram.com/oculuswtc/), is one of the most unique buildings to ever lay eyes on...it's a train station, shopping mall, and cost 4 billion dollars to make, it's a must see!
 * Shop in [Soho](https://www.nycgo.com/itineraries/essential-soho-shopping-guide), this is fun to do any time of year but it's nice to do in winter so that you can warm up in the shops.
 * [Flim Forum](http://filmforum.org/) and [IFC Center](http://www.ifccenter.com/), see an independent, foreign, or classic film at either of these theaters or even a documentary! 
 
 ## **Eats & Treats**
+
+Coffee: 
 
 Breakfast: [Clinton St. Baking Company](https://www.instagram.com/clintonstbakingco/), [Empire Diner](https://www.instagram.com/empire_diner/), [Russ & Daughters](https://www.instagram.com/russanddaughters/)
 
