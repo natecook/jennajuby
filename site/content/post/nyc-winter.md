@@ -7,42 +7,57 @@ description: >-
 image: /img/nycwinter-16.jpg
 gallery:
   photos:
-    - imagedescription: Lutheran Church
+    - imagedescription: The doors of Holy Trinity Lutheran Church
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-1.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-2.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-6.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-5.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-4.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-9.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-3.jpg'
+    - imagedescription: Walking around my favorite streets in West Village (near Perry St.)
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-2.jpg'
+    - imagedescription: Walking around my favorite streets in West Village (near Perry St.)
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-6.jpg'
+    - imagedescription: Walking around my favorite streets in West Village (near Perry St.)
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-5.jpg'
+    - imagedescription: The doors of Holy Trinity Lutheran Church
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-4.jpg'
+    - imagedescription: Walking around my favorite streets in West Village (near Perry St.)
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-9.jpg'
+    - imagedescription: Walking around my favorite streets in West Village (near Perry St.)
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-3.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-7.jpg'
+    - imagedescription: Walking around my favorite streets in West Village (near Perry St.)
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-7.jpg'
       size: false
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-8.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-10.jpg'
+    - imagedescription: Walking around my favorite streets in West Village (near Perry St.)
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-8.jpg'
+    - imagedescription: Walking around my favorite streets in West Village (near Perry St.)
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-10.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-11.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-12.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-13.jpg'
+    - imagedescription: Visiting "Three Lives & Company" bookshop in West Village
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-11.jpg'
+    - imagedescription: '"Three Lives & Company" bookshop'
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-12.jpg'
+    - imagedescription: Admiring the beautiful buildings in Soho
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-13.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-16.jpg'
+    - imagedescription: 'Cute houses on MacDougal St. '
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-16.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-14.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-15.jpg'
+    - imagedescription: Admiring the beautiful buildings in Soho
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-14.jpg'
+    - imagedescription: Admiring the beautiful buildings in Soho
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/NYCwinter-15.jpg'
 ---
-Even though New York gets a bad rep for it’s winter weather, it’s still such a fun city to visit no matter what month you come! And, to be honest, the winter’s here are not that bad. We’ll get a cold spell for a week or so, and we may get one or two snow storms (if we’re lucky!), but most of the time you can plan on it being 38 degrees and partly sunny through winter. It’s nothing to write home about but it’s far from being miserable. Plus, there are so many unique indoor activities that it makes the winter bearable! Usually in the winter, we hibernate for most of January and February and then take a trip to the beach to warm up. But this year (for the first time) we didn't go on any warm weather trips. SO, I decided to double down on all the fun winter activities we could do since we were staying in town. There are a lot of fun things to see indoors that I wouldn’t usually do during the other seasons because I want to take advantage of being outside. So this was the perfect excuse to check them all off my new york bucket list! Here is my list of the best winter (non Christmas related) activities to do inside and a list of NYC coziest winter restaurants. 
+Even though New York gets a bad rep for it’s winter weather, it’s still such a fun city to visit no matter what month you come! And, to be honest, the winter’s here are not that bad. We’ll get a cold spell for a week or so, and we may get one or two snow storms (if we’re lucky!), but most of the time you can plan on it being 38 degrees and partly sunny through winter. It’s nothing to write home about but it’s far from being miserable. Plus, there are so many unique indoor activities that it make the winter bearable! Usually in the winter, we hibernate for most of January and February and then take a trip to the beach to warm up. But this year we didn't go on any warm weather trips. SO, I decided to double down on all the fun winter activities we could do since we were staying in town. There are a lot of fun things to see indoors that I wouldn’t usually do during the other seasons because I want to take advantage of being outside. So this was the perfect excuse to check them all off my New York bucket list! Here is my list of the best winter (non-Christmas related) activities to do inside and a list of NYC's best winter restaurants. 
 
 ## **Things To Do**
 
-* [The Metropolitan Museum Of Art](https://www.metmuseum.org/) (The Met), this is one of my favorite places in the city regardless of season. It’s one of the most amazing museums in the world!
-* See a [Broadway](https://www.broadway.com/) show, I have loved so many...but some of my favorites were _Beautiful_, _Hello Dolly_, _Waitress_, _Lion King_, and _Pretty Woman_
+* [The Metropolitan Museum Of Art](https://www.metmuseum.org/) (The Met), this is one of my favorite places in the city and one of the most amazing museums in the world!
+* See a [Broadway](https://www.broadway.com/) show, I have loved so many...but some of my favorites were _Beautiful_, _Hello Dolly_, _Waitress_, _Lion King_, and _Pretty Woman._
 * Visit [One World Observatory](https://oneworldobservatory.com/en-US) at the World Trade Center, this is a perfect observatory to visit in the winter because it's completely enclosed, there's even a bar at the top!
 * [Comedy Cellar](https://www.comedycellar.com/), this is one of the most famous comedy clubs in the world; you should plan on getting reservations weeks ahead of time!
-* Walk around [Grand Central Terminal](https://www.grandcentralterminal.com/), the ceiling here is mesmerizing. But explore more than the main atrium; there’s a whole food court and even a Cafe Grumpy (some of nyc’s best coffee), Magnolia Bakery, and some of the most famous oysters in the city at Grand Central Oyster Bar.
+* Walk around [Grand Central Terminal](https://www.grandcentralterminal.com/), the ceiling here is mesmerizing. But explore more than the main atrium; there’s a whole food court and even a Cafe Grumpy (some of NYC’s best coffee), Magnolia Bakery, and some of the most famous oysters in the city at Grand Central Oyster Bar.
 * [9/11 Museum](https://www.911memorial.org/museum). The memorial is an open courtyard outside and open to the public year-round, but the museum inside is vast and you’ll want to spend at least a few hours there (I would allow yourself 3 at least, it’s an unforgettable experience). 
-* Go inside [St. Patrick’s Cathedral](https://saintpatrickscathedral.org/), [The Cathedral Church of St. John The Divine](https://www.stjohndivine.org/), and [The Riverside Church](https://www.trcnyc.org/) to see the amazing cathedrals of NYC
+* Go inside [St. Patrick’s Cathedral](https://saintpatrickscathedral.org/), [The Cathedral Church of St. John The Divine](https://www.stjohndivine.org/), and [The Riverside Church](https://www.trcnyc.org/) to see the amazing cathedrals of NYC.
 * Spend the evening at a jazz club! My favorites are [St. Mazie](https://www.stmazie.com/), [The Django](http://www.thedjangonyc.com/), [Mezzrow](https://www.mezzrow.com/), [Village Vanguard](https://villagevanguard.com/).
-* Bowl at [Brooklyn Bowl](https://www.brooklynbowl.com/), you can do a bowling brunch here on Saturday mornings or a more lively concert/bowling experience on weekend nights
+* Bowl at [Brooklyn Bowl](https://www.brooklynbowl.com/), you can do a bowling brunch here on Saturday mornings or a more lively concert/bowling experience on weekend nights.
 * [The Whitney](https://www.whitney.org/) and [MOMA](https://www.moma.org/), both showcase mostly modern art, both are incredible. The Whitney does boast a great observation deck if you can’t decide between the two!
 * See a movie at [IPIC Theaters](https://www.ipic.com/), a super fancy movie theater that has all you could ever want! Order champagne (or an ice cream sandwich or pizza or burger) from your private lounge chair area.
 * [The Morgan Library & Museum](https://www.themorgan.org/), is such a fascinating place and much like the Frick (both used to be personal residences that were turned into museums) it feels like you’re in the best kept secret of the city. 
@@ -57,7 +72,7 @@ Even though New York gets a bad rep for it’s winter weather, it’s still such
 
 ## **Eats & Treats**
 
-Coffee: 
+Coffee: [Irving Farm Coffee Roasters](https://www.instagram.com/irvingfarm/), [Intelligentsia](< https://www.instagram.com/intelligentsiacoffee/>), [The Elk](https://www.instagram.com/theelknyc/)
 
 Breakfast: [Clinton St. Baking Company](https://www.instagram.com/clintonstbakingco/), [Empire Diner](https://www.instagram.com/empire_diner/), [Russ & Daughters](https://www.instagram.com/russanddaughters/)
 
