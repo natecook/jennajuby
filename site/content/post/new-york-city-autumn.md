@@ -350,7 +350,7 @@ gallery:
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-62.jpg
       size: true
 ---
-**_"Don't you love_** [**_New York_**](https://www.youtube.com/watch?v=vViMeAkOsv8) **_in the fall? It makes me want to buy school supplies. I would send you a bouquet of newly sharpened pencils if I knew your name and address."_** 
+_**"Don't you love**_ [_**New York**_](https://www.youtube.com/watch?v=vViMeAkOsv8) _**in the fall? It makes me want to buy school supplies. I would send you a bouquet of newly sharpened pencils if I knew your name and address."**_ 
 
 New York City in the fall. Period. This is a sentence that says a million things even though it is, in fact...a fragment. Because there is no place like NYC in autumn, it is perfection. It’s like Paris in the spring time, and Greece in the middle of summer. It sounds like crunching leaves under your boots, and feels like the coziest scarf across your cheek...it tastes like a warm cup of coffee held with both hands, and it smells like a new book. It feels like shopping for school supplies and your mom baking you a pumpkin pie. If you only ever visit New York City once in your life, this is it.
 
@@ -362,11 +362,11 @@ Most people think that peak fall foliage in NY is in the middle of October, like
 
 **Where To Stay**
 
-_**If you're on a budget...**_
+**_If you're on a budget..._**
 
 * I’m not going to sugarcoat this for you, October and November are two of the most expensive months to visit NYC. If you’re looking to save some money, _book an airbnb_ on the Upper West Side or Upper East Side. These two neighborhoods in Manhattan are affordable and BONUS, the UWS and UES border Central Park so they are the perfect location for fall! And if you’re looking for the very cheapest option in NYC, consider an airbnb in Brooklyn or Queens. Both these boroughs are enormous (3-4 times the size of Manhattan) so make sure you research the neighborhood you’ll be in and get as close to a train station as possible for easy travel!
 
-**_If you're feeling fancy..._**
+_**If you're feeling fancy...**_
 
 * If money isn’t an issue then my favorite neighborhoods to suggest for a fall trip would be the West Village, Upper West Side, and Upper East Side. You’ll find the most variety (and fanciest!) of hotels on the UES. In contrast, the West Village is full of beautiful boutique hotels that are [downright dreamy](https://www.thegreenwichhotel.com/). And although the Upper West Side doesn’t have a lot of hotel options, there are beautiful penthouses and homes to rent that will make you feel like you're in "You've Got Mail".  Obviously if you’re not going full on baller status, just look for a reasonably priced hotel or airbnb in these neighborhoods, there are so many options!
 
@@ -388,7 +388,7 @@ _**If you're on a budget...**_
 
 ## **Eats & Treats**
 
-**Coffee**: [Cafe Grumpy](https://www.google.com/maps/place/Caf%C3%A9+Grumpy/@40.7426,-74.0005864,17z/data=!3m1!4b1!4m5!3m4!1s0x89c259bb802d1eed:0x6a1373199661cb33!8m2!3d40.7426!4d-73.9983977) (W 20th), [Stumptown](https://www.google.com/maps/place/Stumptown+Coffee+Roasters/@40.7328281,-74.0001272,17z/data=!3m1!4b1!4m5!3m4!1s0x89c25996d46ccfed:0x3034ad801dc5fcb3!8m2!3d40.7328281!4d-73.9979385) (W 8th)
+**Coffee**: [Cafe Grumpy](https://www.google.com/maps/place/Caf%C3%A9+Grumpy/@40.7426,-74.0005864,17z/data=!3m1!4b1!4m5!3m4!1s0x89c259bb802d1eed:0x6a1373199661cb33!8m2!3d40.7426!4d-73.9983977), [Stumptown](https://www.google.com/maps/place/Stumptown+Coffee+Roasters/@40.7328281,-74.0001272,17z/data=!3m1!4b1!4m5!3m4!1s0x89c25996d46ccfed:0x3034ad801dc5fcb3!8m2!3d40.7328281!4d-73.9979385) (W 8th)
 
 **Bakery**: [Levain Bakery](https://www.instagram.com/levainbakery/), [Chip](https://www.instagram.com/chipnewyorkcity/), [Dominique Ansel Bakery](https://www.google.com/maps/place/Dominique+Ansel+Bakery/@40.725161,-74.0051508,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2598c5a8e423f:0x501f1a0240e2f39a!8m2!3d40.725161!4d-74.0029621)
 
