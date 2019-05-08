@@ -69,6 +69,7 @@ Even though New York gets a bad rep for it’s winter weather, it’s still such
 * [The Oculus](https://www.instagram.com/oculuswtc/), is one of the most unique buildings to ever lay eyes on...it's a train station, shopping mall, and cost 4 billion dollars to make, it's a must see!
 * Shop in [Soho](https://www.nycgo.com/itineraries/essential-soho-shopping-guide), this is fun to do any time of year but it's nice to do in winter so that you can warm up in the shops.
 * [Flim Forum](http://filmforum.org/) and [IFC Center](http://www.ifccenter.com/), see an independent, foreign, or classic film at either of these theaters or even a documentary! 
+* Visit one of the many amazing speakeasies in Manhattan! I will list my favorites below : )
 
 ## **Eats & Treats**
 
