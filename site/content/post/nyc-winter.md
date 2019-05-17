@@ -81,7 +81,7 @@ Brunch: [Sadelle’s](https://www.sadelles.com/), [The Fat Radish](https://www.i
 
 Lunch: [Keste](https://www.instagram.com/kestepizza/), [Dig Inn](https://www.instagram.com/diginn/)
 
-Dinner: [Freemans](https://www.instagram.com/freemansrestaurant/), [ABC Kitchen](http://www.abchome.com/dine/abc-kitchen/), [Tiny’s and The Bar Upstairs](https://www.instagram.com/tinysnyc/), [The Spaniard](https://www.instagram.com/thespaniardnyc/), [Jacob’s Pickles](https://www.instagram.com/jacobspickles/), [Upland](https://www.instagram.com/upland_nyc/)
+Dinner: [Freemans](https://www.instagram.com/freemansrestaurant/), [ABC Kitchen](http://www.abchome.com/dine/abc-kitchen/), [Tiny’s and The Bar Upstairs](https://www.instagram.com/tinysnyc/), [The Spaniard](https://www.instagram.com/thespaniardnyc/), [Jacob’s Pickles](https://www.instagram.com/jacobspickles/), [Upland](https://www.instagram.com/upland_nyc/), [Rubirosa](https://www.instagram.com/rubirosa_nyc/)
 
 Desserts: [Serendipity 3](https://www.instagram.com/serendipity3nyc/)
 
