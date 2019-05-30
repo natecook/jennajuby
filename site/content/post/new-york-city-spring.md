@@ -5,6 +5,7 @@ description: >-
   Springtime in NYC is often overlooked for autumn and the winter holidays, and
   it wasn’t until I lived here that I realized how wonderful springtime is in
   the city!
+image: /img/nycspring-1.jpg
 gallery:
   photos:
     - imagenew: >-
@@ -247,13 +248,9 @@ gallery:
 ---
 Springtime in NYC is often overlooked for autumn and the winter holidays, and it wasn’t until I lived here that I realized how wonderful springtime is in the city! New York is full of gardens, as big as the rolling 250 acres of New York Botanical Gardens and as small the West Side Community Garden, tucked away between brownstones on W 89th St. Tulips and cherry blossoms grow like weeds in this city and come late April, it seems the whole city is bursting with blooms! The air smells like peonies and dew and all you need is a light jacket...can you tell I love springtime?
 
-
-
 The best time to visit New York for optimal spring weather and peak blooms are the last weekend in April or the first weekend in May. This is usually when the tulips are on their way out and the cherry blossoms are on their way in and you’ll get to see them both in all their glory! The weather this time of the year is usually mid 60’s and perfect for jeans and a t-shirt or dress and a jacket. Obviously, the best part of spring is the weather and the gardens, so below I will list the best ones to visit during your time here. And because the weather is so pleasant outside, a lot of the activities I would recommend for spring are the same that I would recommend for summer. So for this blog post I will stick to spring specific activities like the city gardens, but you should also reference my NYC summer blog post when I post it in June for a more general list as well!
 
-
-
-Activities
+**Things To Do**
 
 Brooklyn Botanic Garden is known for it’s cherry blossom season. They even have a daily update on how the blooms are coming along so you can plan your trip there accordingly. Although their cherry blossom collection is famous, BBG’s tulips are incredible and worth going for alone! Outside of the garden is one of my favorite neighborhoods, Park Slope, where you can stop for a coffee at Cafe Grumpy or brunch at Brunswick.  
 
@@ -273,7 +270,7 @@ Park Avenue, specifically on the Upper East Side (between E 65th St. & E 85th St
 
 Central Park is full of beauty year round, spring is no exception. I already mentioned two places in CP worth checking out (near the reservoir and the Conservatory Garden) but here are a few other parts of the part to check out to see all it’s spring color. Shakespeare Garden is stunning, so so many tulips! The area around the Bethesda Fountain and Bow Bridge also have flowering magnolia, crabapple, and cherry blossom trees. Most of the reservoir path itself (seperate from the Bridle Path) is surrounding by cherry blossoms and no beautiful to run or walk around. And finally, the entrance to the park called the “Women’s Gate” at W 72nd St. has a great collection of tulips and flowering trees as well. 
 
-Eats & Treats
+**Eats & Treats**
 
 Coffee: Merriweather Coffee & Kitchen, Hutch & Waldo, Loosie’s Kitchen
 
