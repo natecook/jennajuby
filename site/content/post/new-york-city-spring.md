@@ -6,10 +6,10 @@ gallery:
   photos:
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-1.jpg
-      size: false
+      size: true
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-2.jpg
-      size: false
+      size: true
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-3.jpg
       size: false
@@ -242,4 +242,4 @@ gallery:
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-79.jpg
       size: false
 ---
-This is body
+d
