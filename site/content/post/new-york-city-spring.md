@@ -272,8 +272,8 @@ Brunch: [Little Prince](https://www.instagram.com/littleprince/), [Laduree SOHO]
 
 Lunch: [Butcher’s Daughter](https://www.instagram.com/thebutchersdaughter_official/), [Bluestone Lane](https://www.instagram.com/explore/locations/1531633116924188/bluestone-lane/), [By Chloe](https://www.instagram.com/explore/locations/923317557817243/by-chloe/)
 
-Dinner: [AbcV](https://www.instagram.com/abcvnyc/), [Palma](https://www.instagram.com/palmanyc/), [Jams](https://www.instagram.com/jams_nyc/), La Pecora Bianca
+Dinner: [AbcV](https://www.instagram.com/abcvnyc/), [Palma](https://www.instagram.com/palmanyc/), [Jams](https://www.instagram.com/jams_nyc/), [La Pecora Bianca](https://www.instagram.com/lapecorabianca/)
 
-Drinks: While We Were Young Kitchen & Cocktails, Cafe Colette, The MET Rooftop Garden cocktails, Le Pain Quotidien in Central Park at Conservatory Water
+Drinks: [While We Were Young](https://www.instagram.com/whilewewereyoungnyc/), [Cafe Colette](https://www.instagram.com/cafe_colette/), [The MET Rooftop Garden & Ba](https://www.instagram.com/explore/locations/235145878/the-met-rooftop-garden-bar/)r, [Le Pain Quotidien](https://www.instagram.com/lepainquotidienusa/tagged/) in Central Park at Conservatory Water
 
-Dessert: DO Cookie Dough Confections, Laduree (Madison Ave.) Magnolia Bakery, Little Cupcake Bakeshop
+Dessert: [DO Cookie Dough Confections](https://www.instagram.com/cookiedonyc/), [Laduree](https://www.instagram.com/explore/locations/116139412428276/laduree-madison/) (Madison Ave.) [Magnolia Bakery](https://www.instagram.com/magnoliabakery/),[ Little Cupcake Bakeshop](https://www.instagram.com/littlecupcakebakeshop/)
