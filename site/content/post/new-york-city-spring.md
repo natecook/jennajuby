@@ -304,7 +304,7 @@ gallery:
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-75.jpg
       size: false
-    - imagedescription: Tulips for sale at UWS bodega
+    - imagedescription: Tulips for sale at an UWS bodega
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-79.jpg
       size: true
