@@ -8,10 +8,6 @@ description: >-
 image: /img/nycspring-1.jpg
 gallery:
   photos:
-    - imagedescription: Bridle Path cherry blossoms near the reservoir
-      imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-1.jpg
-      size: true
     - imagedescription: West Side Community Garden tulip festival
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-2.jpg
