@@ -15,25 +15,25 @@ gallery:
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-2.jpg
       size: true
     - imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-3.jpg
-      size: true
-    - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-4.jpg
       size: false
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-5.jpg
       size: false
     - imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-13.jpg
-      size: false
+        https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-3.jpg
+      size: true
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-6.jpg
       size: false
     - imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-7.jpg
+        https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-8.jpg
       size: false
     - imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-8.jpg
+        https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-13.jpg
+      size: false
+    - imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-7.jpg
       size: false
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-9.jpg
@@ -63,14 +63,14 @@ gallery:
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-18.jpg
       size: false
     - imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-21.jpg
+      size: true
+    - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-19.jpg
       size: false
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-20.jpg
       size: false
-    - imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-21.jpg
-      size: true
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-22.jpg
       size: true
@@ -93,17 +93,17 @@ gallery:
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-28.jpg
       size: false
     - imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-29.jpg
-      size: false
-    - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-30.jpg
+      size: true
+    - imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-29.jpg
       size: false
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-31.jpg
       size: false
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-32.jpg
-      size: false
+      size: true
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-33.jpg
       size: false
@@ -123,6 +123,9 @@ gallery:
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-38.jpg
       size: false
     - imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-44.jpg
+      size: true
+    - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-39.jpg
       size: false
     - imagenew: >-
@@ -135,16 +138,13 @@ gallery:
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-42.jpg
       size: false
     - imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-46.jpg
+      size: true
+    - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-43.jpg
       size: false
     - imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-44.jpg
-      size: false
-    - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-45.jpg
-      size: false
-    - imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-46.jpg
       size: false
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-47.jpg
@@ -153,11 +153,11 @@ gallery:
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-48.jpg
       size: false
     - imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-49.jpg
-      size: false
-    - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-50.jpg
       size: false
+    - imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-60.jpg
+      size: true
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-51.jpg
       size: true
@@ -166,6 +166,12 @@ gallery:
       size: false
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-53.jpg
+      size: false
+    - imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-59.jpg
+      size: true
+    - imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-58.jpg
       size: false
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-54.jpg
@@ -178,15 +184,6 @@ gallery:
       size: false
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-57.jpg
-      size: false
-    - imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-58.jpg
-      size: false
-    - imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-59.jpg
-      size: true
-    - imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-60.jpg
       size: true
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-61.jpg
@@ -195,10 +192,13 @@ gallery:
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-62.jpg
       size: false
     - imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-63.jpg
+        https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-49.jpg
       size: false
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-64.jpg
+      size: false
+    - imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-63.jpg
       size: false
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-65.jpg
