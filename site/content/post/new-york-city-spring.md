@@ -4,7 +4,7 @@ date: 2019-05-24T00:17:24.096Z
 description: >-
   Springtime in NYC is often overlooked for autumn and the winter holidays, and
   it wasn’t until I lived here that I realized how wonderful springtime is in
-  the city! 
+  the city!
 image: /img/nycspring-1.jpg
 gallery:
   photos:
