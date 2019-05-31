@@ -268,61 +268,50 @@ gallery:
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-65.jpg
       size: true
+    - imagedescription: Tulips in Shakespeare Garden in Central Park
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-67.jpg
+      size: true
     - imagedescription: Grace Church courtyard in East Village
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-66.jpg
       size: true
-    - imagedescription: Tulips in Shakespeare Garden in Central Park
-      imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-67.jpg
-      size: false
-    - imagedescription: Blooms on The Upper West Side
-      imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-68.jpg
-      size: false
     - imagedescription: Blooms on The Upper West Side
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-69.jpg
       size: false
     - imagedescription: Tulips near The Women's Gate of Central Park near W 72nd St.
       imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-70.jpg
-      size: false
-    - imagedescription: Tulips near The Women's Gate of Central Park near W 72nd St.
-      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-71.jpg
+      size: false
+    - imagedescription: Blooms on The Upper West Side
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-68.jpg
+      size: true
+    - imagedescription: Bridle Path cherry blossoms near the reservoir
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-74.jpg
       size: false
     - imagedescription: Blooms near The Women's Gate of Central Park near W 72nd St.
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-72.jpg
       size: false
-    - imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-73.jpg
-      size: false
-    - imagedescription: Bridle Path cherry blossoms near the reservoir
+    - imagedescription: Tulips near The Women's Gate of Central Park near W 72nd St.
       imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-74.jpg
+        https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-70.jpg
       size: false
     - imagedescription: Bridle Path cherry blossoms near the reservoir
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-75.jpg
       size: false
-    - imagedescription: Blooms on the Bridle Path near the reservoir
+    - imagedescription: Tulips for sale at UWS bodega
       imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-76.jpg
-      size: false
+        https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-79.jpg
+      size: true
     - imagedescription: Flowering tree in Riverside Park near W 72nd St.
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-77.jpg
       size: true
-    - imagedescription: Flowering tree in Riverside Park near W 72nd St.
-      imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-78.jpg
-      size: false
-    - imagedescription: Tulips for sale at UWS bodega
-      imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-79.jpg
-      size: false
 ---
 Springtime in NYC is often overlooked for autumn and the winter holidays, and it wasn’t until I lived here that I realized how wonderful springtime is in the city! New York is full of gardens, as big as the rolling 250 acres of New York Botanical Gardens and as small the West Side Community Garden, tucked away between brownstones on W 89th St. Tulips and cherry blossoms grow like weeds in this city and come late April, it seems the whole city is bursting with blooms! The air smells like peonies and dew and all you need is a light jacket...can you tell I love springtime?
 
