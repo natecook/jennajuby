@@ -8,241 +8,319 @@ description: >-
 image: /img/nycspring-1.jpg
 gallery:
   photos:
-    - imagenew: >-
+    - imagedescription: Bridle Path cherry blossoms near the reservoir
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-1.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: West Side Community Garden tulip festival
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-2.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: West Side Community Garden tulip festival
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-4.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: West Side Community Garden tulip festival
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-5.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: West Side Community Garden tulip festival
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-3.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: West Side Community Garden tulip festival
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-6.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: West Side Community Garden tulip festival
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-8.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: West Side Community Garden tulip festival
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-13.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: West Side Community Garden tulip festival
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-7.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: West Side Community Garden tulip festival
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-9.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: West Side Community Garden tulip festival
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-10.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: West Side Community Garden tulip festival
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-11.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: West Side Community Garden tulip festival
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-12.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: West Side Community Garden tulip festival
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-14.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Bridle Path cherry blossom trees near the reservoir
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-15.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Blooms in Theodore Roosevelt Park
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-16.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Blooms in Theodore Roosevelt Park
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-17.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Cherry Blossom trees on Columbus Ave near W 83rd St.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-18.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Blooms in Theodore Roosevelt Park
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-21.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Me in Theodore Roosevelt Park
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-19.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Tulips in Theodore Roosevelt Park
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-20.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Riverside Park near the 91st St. garden
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-22.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Riverside Park near the 91st St. garden
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-23.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Me in Riverside Park near the 91st St. garden
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-24.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Nate and I in Riverside Park near the 91st St. garden
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-25.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Riverside Park near the 91st St. garden
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-26.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Riverside Park near the 91st St. garden
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-27.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Riverside Park near the 91st St. garden
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-28.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Riverside Park near the 91st St. garden
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-30.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Riverside Park near the 91st St. garden
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-29.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Me in Riverside Park near the 91st St. garden
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-31.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Cherry blossoms in Riverside Park near 91st St.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-32.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Riverside Park near W 95th St.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-33.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Me in Riverside Park near W 95th St.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-34.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Blooms in Washington Square Park
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-35.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Flowering trees in Central Park near The Obelisk
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-36.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Blooms in Washington Square Park
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-37.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Blooms in Washington Square Park
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-38.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Blooms in Washington Square Park
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-44.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Blooms in Washington Square Park
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-39.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Blooms in Washington Square Park
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-40.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Blooms in Washington Square Park
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-41.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Blooms in Washington Square Park
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-42.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Blooms near Washington Square Park
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-46.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Flowering trees in Central Park behind the MET
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-43.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Blooms in Washington Square Park
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-45.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: On Cherry Hill in Central Park
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-47.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: 'Central Park, creek near W 77th St.'
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-48.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: On Cherry Hill in Central Park
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-50.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Tulips near The Women's Gate of Central Park near W 72nd St.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-60.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: On Cherry Hill in Central Park
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-51.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: View of daffodils and The Lake in Central Park
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-52.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Blooming trees near The Lake in Central Park
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-53.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Tulips near The Women's Gate of Central Park near W 72nd St.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-59.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Tulips near The Women's Gate of Central Park near W 72nd St.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-58.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Blooming trees near The Lake in Central Park
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-54.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Blooming trees in front of the famous San Remo building
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-55.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Magnolia trees in Central park near the Alexander Hamilton Monument
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-56.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Tulips near The Women's Gate of Central Park near W 72nd St.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-57.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Shakespeare Garden in Central Park
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-61.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Shakespeare Garden in Central Park
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-62.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Shakespeare Garden in Central Park
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-49.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Shakespeare Garden in Central Park
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-64.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Shakespeare Garden in Central Park
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-63.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Shakespeare Garden in Central Park
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-65.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Grace Church courtyard in East Village
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-66.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Tulips in Shakespeare Garden in Central Park
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-67.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Blooms on The Upper West Side
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-68.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Blooms on The Upper West Side
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-69.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Tulips near The Women's Gate of Central Park near W 72nd St.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-70.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Tulips near The Women's Gate of Central Park near W 72nd St.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-71.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Blooms near The Women's Gate of Central Park near W 72nd St.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-72.jpg
       size: false
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-73.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Bridle Path cherry blossoms near the reservoir
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-74.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Bridle Path cherry blossoms near the reservoir
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-75.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Blooms on the Bridle Path near the reservoir
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-76.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Flowering tree in Riverside Park near W 72nd St.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-77.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Flowering tree in Riverside Park near W 72nd St.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-78.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Tulips for sale at UWS bodega
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/05/Spring/NYCSpring-79.jpg
       size: false
 ---
