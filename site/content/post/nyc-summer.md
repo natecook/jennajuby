@@ -79,7 +79,7 @@ Baseball games, boat rides, beach time, dinner’s outside, rooftop bars, picnic
 * Make reservations everywhere, this goes for every season, and summer is no exception! 
 * Wear sunscreen, loose clothes, sunglasses, the whole summer get up. And then get over the fact that it’s hot and enjoy the city!
 
-## **Summer Activities** 
+## **Summer Activities**
 
 * **Bike ride around Central Park**, best to rent bikes from one of the many rental kiosks just outside of the park
 * **Sunset boat cruise** with “Schooner America 2.0 Sunset Sail”, you get two drinks with your ticket and can bring your own snacks! This cruise was so relaxing and beautiful and best of all there wasn’t a tacky thing about it (which is hard to find in a boat cruise, and trust me I’ve taken a ride on almost every boat company in Manhattan)
@@ -89,22 +89,22 @@ Baseball games, boat rides, beach time, dinner’s outside, rooftop bars, picnic
 * **Walk the Brooklyn Bridge,** yes it’s touristy, but it’s a must if you haven’t before! I like to walk from the Manhattan side, half way up the bridge, and then turn around and come back the same side. There are stunning views of the city but you might also want to do this in the morning or at sunset because it gets very hot mid day!
 * **Have a picnic with “Perfect picnic NYC”** company in Central Park. My favorite area to have a picnic is Cherry Hill, near the Bow Bridge. Picnics with this company are pricey but exceptional and definitely worth it for a special occasion!
 * **Walk The High Line** in Chelsea and get a snack at the market below, I also recommend doing this not mid day because it gets scorching on the highline.
-* **See an outdoor movie** (Central Park, Bryant park, rooftop movie club, or Brooklyn bridge park (my favorite!)
-* **Ride bikes down the Riverside** bike path/Hudson river, end your ride at Grand Banks for a drink! We just rented city bikes for this and it was an easy ride!
-* **Spend a day on Governors Island**, this little island is such a gem. It’s so unique and one of my very favorite things to do in the city at summer time! Rent a bike, see the amazing view from Outlook Hill, ride the giant slide, swing in the hammocks at Hammock Grove, get a snack at Ligget Terrace, and most important get food and drinks at Island Oyster (one of my very favorite places in NYC)
+* **See an outdoor movie** (Central Park, Bryant Park, Rooftop Movie Club, or Brooklyn Bridge Park (my favorite!)
+* **Ride bikes down the Riverside** bike path/Hudson river, end your ride at Grand Banks for a drink! We just rented "citi bikes" for this and it was an easy ride!
+* **Spend a day on Governors Island**, this little island is such a gem. It’s so unique and one of my very favorite things to do in the city at summer time! Rent a bike, see the amazing view from Outlook Hill, ride the giant slide, swing in the hammocks at Hammock Grove, get a snack at Ligget Terrace, and most importantly get food and drinks at Island Oyster (one of my very favorite places in NYC)
 * **See a Yankee’s or Met’s baseball game** (make sure to go to an evening game, not a day time game!)
 * **Spend an afternoon in a rainbow pool** at Manhattan Park Pool Club
 * **Play Tennis** at the Hudson River Park Tennis Courts
 * **See the MET Cloisters** and have dinner outside by the water at La Marina
 * **See a play at Shakespeare in the Park**, this was one of the most magical things we have ever done since living in the city. It’s very hard to get tickets and only happens a few weeks a year but it worth the effort. I suggest hiring the “Same Ole Line Dudes” like we did so that you don’t have to wait in the 6 hour line yourself!
-* **Eat on the water** at Pier I Cafe, the Brooklyn Barge, or Boat Basin. All casual spots to get food or drinks near the water for those hot summer days.
+* **Eat on the water** at Pier I Cafe, the Brooklyn Barge, Boat Basin, La Marina. All casual spots to get food or drinks near the water for those hot summer days.
 * **Stroll through any of Manhattans many farmer's markets**! Grab a snack or french produce to picnic with!
 
 ## **Eats & Treats**
 
-Coffee: Butler Bake Shop & Espresso Bar, Maman, Hardwater Coffee Co, Laughing Man, PlantShed Cafe, Bluestone
+Coffee: [Butler](https://www.instagram.com/butlerbakeshop/), [Maman](https://www.instagram.com/_mamannyc_/), [Hardwater](https://www.instagram.com/hardwatercoffee/), [Laughing Man](https://www.instagram.com/laughingmancafe/) (Tribeca location), [PlantShed Cafe,](https://www.instagram.com/plantshednyc/) [Bluestone](https://www.instagram.com/bluestonelane/)
 
-Breakfast: Bluestone Lane (my favorite location is on E 90th and 5th Ave.), Butcher’s Daughter, Modern Bread and Bakery, LPQ in the park, Egg Shop, Banter, Fairfax
+Breakfast: [Bluestone Lane](https://www.instagram.com/bluestonelane/) (my favorite location is on E 90th and 5th Ave.), [The Butcher’s Daughter](https://www.instagram.com/thebutchersdaughter_official/), [Modern Bread](https://www.instagram.com/modernbreadandbagel/), [LPQ](https://www.google.com/maps/place/Le+Pain+Quotidien/@40.7734448,-73.975728,17.12z/data=!4m5!3m4!1s0x89c258f328656319:0xd84cc631d91d2adc!8m2!3d40.7730323!4d-73.974294) in the park, [Egg Shop](https://www.instagram.com/eggshopnyc/), [Banter](https://www.instagram.com/banter_nyc/), [Fairfax](https://www.instagram.com/fairfaxnyc/)
 
 Brunch: Cafe Clover, Two Hands (Tribeca location), Hotel Chantelle rooftop, Grand Banks, Cafe Colette
 
