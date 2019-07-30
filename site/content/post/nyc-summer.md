@@ -113,10 +113,10 @@ Baseball games, boat rides, beach time, dinners outside, rooftop bars, picnics i
 
 ## **Summer Activities**
 
-* **Bike ride around Central Park**, best to rent bikes from one of the many rental kiosks just outside of the park
-* **Sunset boat cruise** with “Schooner America 2.0 Sunset Sail”, you get two drinks with your ticket and can bring your own snacks! This cruise was so relaxing and beautiful and best of all there wasn’t a tacky thing about it (which is hard to find in a boat cruise, and trust me I’ve taken a ride on almost every boat company in Manhattan)
+* **Bike ride around Central Park**, best to rent bikes from one of the many rental kiosks just outside of the park. See the highlights...Bethesda Fountain, Bow Bridge, Conservatory Water, Oak Bridge, The Mall, The Reservoir, etc. 
+* **Sunset boat cruise** with [“Schooner America 2.0 Sunset Sail”](https://sail-nyc.com/browse-by-boat/schooner-america-2-0/), you get two drinks with your ticket and can bring your own snacks! This cruise was so relaxing and beautiful and best of all there wasn’t a tacky thing about it (which is hard to find in a boat cruise, and trust me I’ve taken a ride on almost every boat company in Manhattan)
 * **Walk Brooklyn Bridge Park** along the water at sunset, I like to get dinner outside at Cecconi’s before and then walk along the water to Ample Hills Creamy for ice cream after!
-* **Central Park Zoo**, this little zoo is so much fun! It’s very small and beautiful inside, it feels like you’re in a garden or park, not a zoo. I recommend going in the morning because the animals tend to hide away in the heat of the summer days.
+* **Central Park Zoo**, this little zoo is so much fun! It’s very small and beautiful inside, it feels like you’re in a garden or park, rather than a zoo. I recommend going in the morning because the animals tend to hide away in the heat of the summer days.
 * **Walk around Washington Square Park** and grab an ice cream at Van Leeuwen or Morgenstern’s before hand!
 * **Walk the Brooklyn Bridge,** yes it’s touristy, but it’s a must if you haven’t before! I like to walk from the Manhattan side, half way up the bridge, and then turn around and come back the same side. There are stunning views of the city but you might also want to do this in the morning or at sunset because it gets very hot mid day!
 * **Have a picnic with “Perfect picnic NYC”** company in Central Park. My favorite area to have a picnic is Cherry Hill, near the Bow Bridge. Picnics with this company are pricey but exceptional and definitely worth it for a special occasion!
@@ -125,10 +125,10 @@ Baseball games, boat rides, beach time, dinners outside, rooftop bars, picnics i
 * **Ride bikes down the Riverside** bike path/Hudson river, end your ride at Grand Banks for a drink! We just rented "citi bikes" for this and it was an easy ride!
 * **Spend a day on Governors Island**, this little island is such a gem. It’s so unique and one of my very favorite things to do in the city at summer time! Rent a bike, see the amazing view from Outlook Hill, ride the giant slide, swing in the hammocks at Hammock Grove, get a snack at Ligget Terrace, and most importantly get food and drinks at Island Oyster (one of my very favorite places in NYC)
 * **See a Yankee’s or Met’s baseball game** (make sure to go to an evening game, not a day time game!)
-* **Spend an afternoon in a rainbow pool** at Manhattan Park Pool Club
+* **Spend an afternoon in a rainbow pool** at [Manhattan Park Pool Club](https://www.google.com/maps/place/Manhattan+Park+Pool+Club/@40.7665396,-73.9487782,17z/data=!3m1!4b1!4m5!3m4!1s0x89c259d1291a5e33:0x323e2495531b7b4b!8m2!3d40.7665396!4d-73.9465895)
 * **Play Tennis** at the Hudson River Park Tennis Courts
 * **See the MET Cloisters** and have dinner outside by the water at La Marina
-* **See a play at Shakespeare in the Park**, this was one of the most magical things we have ever done since living in the city. It’s very hard to get tickets and only happens a few weeks a year but it's worth the effort. I suggest hiring the “Same Ole Line Dudes” like we did so that you don’t have to wait in the 6 hour line yourself!
+* **See a play at Shakespeare in the Park**, this was one of the most magical things we have ever done since living in the city. It’s very hard to get tickets and only happens a few weeks a year but it's worth the effort. I suggest hiring the [“Same Ole Line Dudes”](http://www.sameolelinedudes.com/) like we did so that you don’t have to wait in the 6 hour line yourself!
 * **Eat on the water** at Pier I Cafe, the Brooklyn Barge, Boat Basin, La Marina. All casual spots to get food or drinks near the water for those hot summer days.
 * **Stroll through any of Manhattans many farmer's markets**! Grab a snack or french produce to picnic with!
 
