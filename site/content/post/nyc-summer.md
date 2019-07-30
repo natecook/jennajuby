@@ -9,60 +9,92 @@ description: >-
 image: /img/nycsummer-25.jpg
 gallery:
   photos:
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-1.jpg'
+    - imagedescription: American Museum of Natural History
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-1.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-3.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-4.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-5.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-6.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-2.jpg'
+    - imagedescription: 'Fresh peaches at the 79th St. Greenmarket '
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-3.jpg'
+    - imagedescription: Strolling around the 79th St. Greenmarket just outside the museum
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-4.jpg'
+    - imagedescription: Fresh flowers at the farmer's market (79th St. Greenmarket)
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-5.jpg'
+    - imagedescription: Fresh blueberries at the 79th St. Greenmarket
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-6.jpg'
+    - imagedescription: Strolling around the 79th St. Greenmarket just outside the museum
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-2.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-7.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-8.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-9.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-10.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-13.jpg'
+    - imagedescription: 'Organic tomatoes at the 79th St. Greenmarket '
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-7.jpg'
+    - imagedescription: 'Picked ourselves up some sunflowers at the 79th St. Greenmarket '
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-8.jpg'
+    - imagedescription: 'Produce tents at the 79th St. Greenmarket '
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-9.jpg'
+    - imagedescription: 'Multi colored baby tomatoes at the 79th St. Greenmarket '
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-10.jpg'
+    - imagedescription: 'The farmer''s market, the 79th St. Greenmarket, every Sunday'
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-13.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-11.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-12.jpg'
+    - imagedescription: 'Fresh flowers at the 79th St. Greenmarket '
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-11.jpg'
+    - imagedescription: Fountain and flowers on the south side of AMNH
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-12.jpg'
       size: false
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-14.jpg'
+    - imagedescription: View from Oak Bridge in Central Park
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-14.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-15.jpg'
+    - imagedescription: Me standing on Oak Bridge in Central Park
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-15.jpg'
       size: false
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-18.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-16.jpg'
+    - imagedescription: Bikers and Rollerbladers in Central Park
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-18.jpg'
+    - imagedescription: A view of Bow Bridge in Central Park
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-16.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-20.jpg'
+    - imagedescription: The famous Bethesda Fountain in Central Park
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-20.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-24.jpg'
+    - imagedescription: Me in front of the Bethesda Fountain in Central Park
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-24.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-21.jpg'
+    - imagedescription: Me in front of the Bethesda Fountain in Central Park
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-21.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-22.jpg'
+    - imagedescription: The Bethesda Fountain in Central Park
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-22.jpg'
       size: false
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-26.jpg'
-    - imagenew: ''
+    - imagedescription: Paintings for sale near the Bethesda Fountain in Central Park
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-26.jpg'
+    - imagedescription: Me in front of the Bethesda Fountain in Central Park
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-25.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-25.jpg'
+    - imagedescription: A view of the Conservatory water in Central Park
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-29.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-29.jpg'
-      size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-31.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-28.jpg'
+    - imagedescription: 'Us at the Conservatory water, one of my favorite parks of Central Park'
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-31.jpg'
+    - imagedescription: Mini sailboats at the Conservatory Water in Central Park
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-28.jpg'
       size: false
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-30.jpg'
+    - imagedescription: Mini sailboats at the Conservatory Water in Central Park
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-30.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-27.jpg'
+    - imagedescription: The Conservatory Water in Central Park
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-27.jpg'
       size: false
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-32.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-33.jpg'
+    - imagedescription: The Conservatory Water in Central Park
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-32.jpg'
+    - imagedescription: There's beautiful flowers all around the mini sailboat house
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-33.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-34.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-35.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-36.jpg'
+    - imagedescription: Grab a snack at either of the LPQ stands at The Conservatory Water
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-34.jpg'
+    - imagedescription: There's beautiful flowers all around the mini sailboat house
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-35.jpg'
+    - imagedescription: Admiring one of my favorite views of the water and sailboats
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-36.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-37.jpg'
+    - imagedescription: The Conservatory Water
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-37.jpg'
       size: true
 ---
 Summer in New York City! A lot of locals say they “hate” summer’s here and this always baffles me because my friends and I LOOOVE it, it’s so much fun! Every year I make a list in the spring of all the summer activities I want to do that year, new and old. I can honestly say that after 4 summer in the city, I have finally checked off almost all the summer activities I’ve wanted to do. Yes, the summer’s are hot (where...are summers...not hot?) but most of the time you can count on it being about 83 and sunny. We’ll get random heat waves of 90+ and gross humidity/summer storms but they are relatively rare. June, July, August, and September have pretty similar temperatures throughout the summer, but if you want to avoid heat waves, you would be safe to come sometime in June or late September. No promises though, we’ve had 80 degree days in October so better just pick whatever dates work best for your schedule!
