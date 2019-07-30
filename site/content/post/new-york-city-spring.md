@@ -327,9 +327,9 @@ The best time to visit New York for optimal spring weather and peak blooms is th
 
 # **Eats & Treats**
 
-Coffee: [Merriweather](https://www.instagram.com/merriweathernyc/), [Hutch & Waldo](https://www.instagram.com/hutchandwaldo/), [Loosie’s Kitchen](https://www.instagram.com/loosieskitchen/)
+Coffee: [Merriweather](https://www.instagram.com/merriweathernyc/), [Hutch & Waldo](https://www.instagram.com/hutchandwaldo/), [Loosie’s Kitchen](https://www.instagram.com/loosieskitchen/), [Maman](https://www.mamannyc.com/)
 
-Breakfast: [La Mercerie](https://www.instagram.com/lamerceriecafe/), [Bluebird London](https://www.instagram.com/bluebirdlondon_nyc/)
+Breakfast: [La Mercerie](https://www.instagram.com/lamerceriecafe/), [Bluebird London](https://www.instagram.com/bluebirdlondon_nyc/), [Maman](https://www.mamannyc.com/)
 
 Brunch: [Little Prince](https://www.instagram.com/littleprince/), [Laduree SOHO](https://www.instagram.com/explore/locations/342112832874282/laduree-soho/) (must sit in the courtyard), [Tartine](https://www.instagram.com/explore/locations/1017916884/tartine-restaurant/) (sit outside & BYOB) 
 
@@ -337,6 +337,6 @@ Lunch: [Butcher’s Daughter](https://www.instagram.com/thebutchersdaughter_offi
 
 Dinner: [AbcV](https://www.instagram.com/abcvnyc/), [Palma](https://www.instagram.com/palmanyc/), [Jams](https://www.instagram.com/jams_nyc/), [La Pecora Bianca](https://www.instagram.com/lapecorabianca/)
 
-Drinks: [While We Were Young](https://www.instagram.com/whilewewereyoungnyc/), [Cafe Colette](https://www.instagram.com/cafe_colette/), [The MET Rooftop Garden & Ba](https://www.instagram.com/explore/locations/235145878/the-met-rooftop-garden-bar/)r, [Le Pain Quotidien](https://www.instagram.com/lepainquotidienusa/tagged/) in Central Park at Conservatory Water
+Drinks: [While We Were Young](https://www.instagram.com/whilewewereyoungnyc/), [The MET Rooftop Garden & Ba](https://www.instagram.com/explore/locations/235145878/the-met-rooftop-garden-bar/)r, [Le Pain Quotidien](https://www.instagram.com/lepainquotidienusa/tagged/) in Central Park at Conservatory Water
 
 Dessert: [DO Cookie Dough Confections](https://www.instagram.com/cookiedonyc/), [Laduree](https://www.instagram.com/explore/locations/116139412428276/laduree-madison/) (Madison Ave.) [Magnolia Bakery](https://www.instagram.com/magnoliabakery/),[ Little Cupcake Bakeshop](https://www.instagram.com/littlecupcakebakeshop/)
