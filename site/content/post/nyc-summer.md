@@ -2,10 +2,10 @@
 title: 'New York City: Summer'
 date: 2019-07-30T14:01:12.495Z
 description: >-
-  Summer in New York City! A lot of locals say they “hate” summer’s here and
-  this always baffles me because my friends and I LOOOVE it, it’s so much fun!
-  Every year I make a list in the spring of all the summer activities I want to
-  do that year, new and old.
+  Summer in New York City! A lot of locals say they “hate” summers here and this
+  always baffles me because my friends and I LOOOVE it, it’s so much fun! Every
+  year I make a list in the spring of all the summer activities I want to do
+  that year, new and old.
 image: /img/nycsummer-25.jpg
 gallery:
   photos:
@@ -97,14 +97,14 @@ gallery:
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-37.jpg'
       size: true
 ---
-Summer in New York City! A lot of locals say they “hate” summer’s here and this always baffles me because my friends and I LOOOVE it, it’s so much fun! Every year I make a list in the spring of all the summer activities I want to do that year, new and old. I can honestly say that after 4 summer in the city, I have finally checked off almost all the summer activities I’ve wanted to do. Yes, the summer’s are hot (where...are summers...not hot?) but most of the time you can count on it being about 83 and sunny. We’ll get random heat waves of 90+ and gross humidity/summer storms but they are relatively rare. June, July, August, and September have pretty similar temperatures throughout the summer, but if you want to avoid heat waves, you would be safe to come sometime in June or late September. No promises though, we’ve had 80 degree days in October so better just pick whatever dates work best for your schedule!
+Summer in New York City! A lot of locals say they “hate” summers here and this always baffles me because my friends and I LOOOVE it, it’s so much fun! Every year I make a list in the spring of all the summer activities I want to do that year, new and old. I can honestly say that after 4 summers in the city, I have finally checked off almost all the summer activities I’ve wanted to do. Yes, the summers are hot (where...are summers...not hot?) but most of the time you can count on it being about 83 and sunny. We’ll get random heat waves of 90+ and gross humidity/summer storms but they are relatively rare. June, July, August, and September have pretty similar temperatures throughout the summer, but if you want to avoid heat waves, you would be safe to come sometime in June or late September. No promises though, we’ve had 80 degree days in October so better just pick whatever dates work best for your schedule!
 
-Baseball games, boat rides, beach time, dinner’s outside, rooftop bars, picnics in the park, there are so many fun summer things to do in the city! So, of course, I have compiled a list for you for you of all the places to check out while you’re here in the warm summer months : ) 
+Baseball games, boat rides, beach time, dinners outside, rooftop bars, picnics in the park, there are so many fun summer things to do in the city! So, of course, I have compiled a list for you of all the places to check out while you’re here in the warm summer months : ) 
 
 **Travel Tips**
 
-* You will get so much hotter and sweatier than you think you will because you’ll be walking around so much! Be prepared for this and plan a time to be home to freshen up before dinner. 
-* The subway stations are hot as balls, just accept this and let it go or else you’ll hate your life. The good news is, the subway cars have AC, but if you accidently get into one that is broke, switch cars, it’s worth it. 
+* You will get so much hotter and sweatier than you think because you’ll be walking around so much! Be prepared for this and plan a time to be home to freshen up before dinner. 
+* The subway stations are hot as balls, just accept this and let it go or else you’ll hate your life. The good news is, the subway cars have AC, but if you accidentally get into one that is broken, switch cars, it’s worth it. 
 * Think about swapping out your sandals for sneakers, it’s tempting to want to where them when it’s so hot out but it’s important to be comfortable all day walking around.
 * To take a break from the heat...get a drink on the water, pop into a museum (even if you only go in the lobby for AC), go on a boat ride, grab an iced coffee in the air conditioning, and get out early in the day before it’s super hot out!
 * People complain about the city smelling in the summer because everything is so hot, but it honestly only smells in the gross parts of the city...Times Square, Chinatown, anywhere in Midtown. I would avoid the areas any time of the year but definitely in the summer. 
@@ -115,9 +115,9 @@ Baseball games, boat rides, beach time, dinner’s outside, rooftop bars, picnic
 
 * **Bike ride around Central Park**, best to rent bikes from one of the many rental kiosks just outside of the park
 * **Sunset boat cruise** with “Schooner America 2.0 Sunset Sail”, you get two drinks with your ticket and can bring your own snacks! This cruise was so relaxing and beautiful and best of all there wasn’t a tacky thing about it (which is hard to find in a boat cruise, and trust me I’ve taken a ride on almost every boat company in Manhattan)
-* **Walk Brooklyn Bridget Park** along the water at sunset, I like to get dinner outside at Cecconi’s before and then walk along the water to Ample Hills Creamy for ice cream after!
+* **Walk Brooklyn Bridge Park** along the water at sunset, I like to get dinner outside at Cecconi’s before and then walk along the water to Ample Hills Creamy for ice cream after!
 * **Central Park Zoo**, this little zoo is so much fun! It’s very small and beautiful inside, it feels like you’re in a garden or park, not a zoo. I recommend going in the morning because the animals tend to hide away in the heat of the summer days.
-* **Walk around Washington Square Park** and grab an ice cream at Van Leewan or Morgenstern’s before hand!
+* **Walk around Washington Square Park** and grab an ice cream at Van Leeuwen or Morgenstern’s before hand!
 * **Walk the Brooklyn Bridge,** yes it’s touristy, but it’s a must if you haven’t before! I like to walk from the Manhattan side, half way up the bridge, and then turn around and come back the same side. There are stunning views of the city but you might also want to do this in the morning or at sunset because it gets very hot mid day!
 * **Have a picnic with “Perfect picnic NYC”** company in Central Park. My favorite area to have a picnic is Cherry Hill, near the Bow Bridge. Picnics with this company are pricey but exceptional and definitely worth it for a special occasion!
 * **Walk The High Line** in Chelsea and get a snack at the market below, I also recommend doing this not mid day because it gets scorching on the highline.
@@ -128,7 +128,7 @@ Baseball games, boat rides, beach time, dinner’s outside, rooftop bars, picnic
 * **Spend an afternoon in a rainbow pool** at Manhattan Park Pool Club
 * **Play Tennis** at the Hudson River Park Tennis Courts
 * **See the MET Cloisters** and have dinner outside by the water at La Marina
-* **See a play at Shakespeare in the Park**, this was one of the most magical things we have ever done since living in the city. It’s very hard to get tickets and only happens a few weeks a year but it worth the effort. I suggest hiring the “Same Ole Line Dudes” like we did so that you don’t have to wait in the 6 hour line yourself!
+* **See a play at Shakespeare in the Park**, this was one of the most magical things we have ever done since living in the city. It’s very hard to get tickets and only happens a few weeks a year but it's worth the effort. I suggest hiring the “Same Ole Line Dudes” like we did so that you don’t have to wait in the 6 hour line yourself!
 * **Eat on the water** at Pier I Cafe, the Brooklyn Barge, Boat Basin, La Marina. All casual spots to get food or drinks near the water for those hot summer days.
 * **Stroll through any of Manhattans many farmer's markets**! Grab a snack or french produce to picnic with!
 
