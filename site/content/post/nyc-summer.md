@@ -101,16 +101,6 @@ Summer in New York City! A lot of locals say they “hate” summers here and th
 
 Baseball games, boat rides, beach time, dinners outside, rooftop bars, picnics in the park, there are so many fun summer things to do in the city! So, of course, I have compiled a list for you of all the places to check out while you’re here in the warm summer months : ) 
 
-**Travel Tips**
-
-* You will get so much hotter and sweatier than you think because you’ll be walking around so much! Be prepared for this and plan a time to be home to freshen up before dinner. 
-* The subway stations are hot as balls, just accept this and let it go or else you’ll hate your life. The good news is, the subway cars have AC, but if you accidentally get into one that is broken, switch cars, it’s worth it. 
-* Think about swapping out your sandals for sneakers, it’s tempting to want to where them when it’s so hot out but it’s important to be comfortable all day walking around.
-* To take a break from the heat...get a drink on the water, pop into a museum (even if you only go in the lobby for AC), go on a boat ride, grab an iced coffee in the air conditioning, and get out early in the day before it’s super hot out!
-* People complain about the city smelling in the summer because everything is so hot, but it honestly only smells in the gross parts of the city...Times Square, Chinatown, anywhere in Midtown. I would avoid the areas any time of the year but definitely in the summer. 
-* Make reservations everywhere, this goes for every season, and summer is no exception! 
-* Wear sunscreen, loose clothes, sunglasses, the whole summer get up. And then get over the fact that it’s hot and enjoy the city!
-
 ## **Summer Activities**
 
 * **Bike ride around Central Park**, best to rent bikes from one of the many rental kiosks just outside of the park. See the highlights...Bethesda Fountain, Bow Bridge, Conservatory Water, Oak Bridge, The Mall, The Reservoir, etc. 
@@ -119,7 +109,7 @@ Baseball games, boat rides, beach time, dinners outside, rooftop bars, picnics i
 * **Central Park Zoo**, this little zoo is so much fun! It’s very small and beautiful inside, it feels like you’re in a garden or park, rather than a zoo. I recommend going in the morning because the animals tend to hide away in the heat of the summer days.
 * **Walk around Washington Square Park** and grab an ice cream at Van Leeuwen or Morgenstern’s before hand!
 * **Walk the Brooklyn Bridge,** yes it’s touristy, but it’s a must if you haven’t before! I like to walk from the Manhattan side, half way up the bridge, and then turn around and come back the same side. There are stunning views of the city but you might also want to do this in the morning or at sunset because it gets very hot mid day!
-* **Have a picnic with “Perfect picnic NYC”** company in Central Park. My favorite area to have a picnic is Cherry Hill, near the Bow Bridge. Picnics with this company are pricey but exceptional and definitely worth it for a special occasion!
+* **Have a picnic with “Perfect picnic NYC”** company in Central Park. My favorite area to have a picnic is Cherry Hill, near the Bow Bridge. Picnics with this company are pricey but exceptional and definitely worth it for a special occasion! Or even just make your own picnic and set up there or Sheep's Meadow!
 * **Walk The High Line** in Chelsea and get a snack at the market below, I also recommend doing this not mid day because it gets scorching on the highline.
 * **See an outdoor movie** (Central Park, Bryant Park, Rooftop Movie Club, or Brooklyn Bridge Park (my favorite!)
 * **Ride bikes down the Riverside** bike path/Hudson river, end your ride at Grand Banks for a drink! We just rented "citi bikes" for this and it was an easy ride!
@@ -127,7 +117,7 @@ Baseball games, boat rides, beach time, dinners outside, rooftop bars, picnics i
 * **See a Yankee’s or Met’s baseball game** (make sure to go to an evening game, not a day time game!)
 * **Spend an afternoon in a rainbow pool** at [Manhattan Park Pool Club](https://www.google.com/maps/place/Manhattan+Park+Pool+Club/@40.7665396,-73.9487782,17z/data=!3m1!4b1!4m5!3m4!1s0x89c259d1291a5e33:0x323e2495531b7b4b!8m2!3d40.7665396!4d-73.9465895)
 * **Play Tennis** at the Hudson River Park Tennis Courts
-* **See the MET Cloisters** and have dinner outside by the water at La Marina
+* **See the MET Cloisters** and have dinner outside by the water at [La Marina](http://lamarinanyc.com/)
 * **See a play at Shakespeare in the Park**, this was one of the most magical things we have ever done since living in the city. It’s very hard to get tickets and only happens a few weeks a year but it's worth the effort. I suggest hiring the [“Same Ole Line Dudes”](http://www.sameolelinedudes.com/) like we did so that you don’t have to wait in the 6 hour line yourself!
 * **Eat on the water** at Pier I Cafe, the Brooklyn Barge, Boat Basin, La Marina. All casual spots to get food or drinks near the water for those hot summer days.
 * **Stroll through any of Manhattans many farmer's markets**! Grab a snack or french produce to picnic with!
@@ -149,3 +139,13 @@ Baseball games, boat rides, beach time, dinners outside, rooftop bars, picnics i
 **Rooftop Bars (with a view):** [Mr. Purple](https://www.instagram.com/mrpurplenyc/), [Public](https://www.instagram.com/explore/locations/468751143657090/public-rooftop-garden/), [The Crown](https://www.instagram.com/thecrownnyc/), [The Jimmy](https://www.instagram.com/explore/locations/677376/the-jimmy-at-the-james-hotel/), the rooftop of [Boom Boom Room](https://www.google.com/maps/place/Boom+Boom+Room/@40.740873,-74.0079598,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNsfKmyeJljggT-php7lg9lfo9NjihlmyNmqU9w!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNsfKmyeJljggT-php7lg9lfo9NjihlmyNmqU9w%3Dw114-h86-k-no!7i4032!8i3024!4m15!1m9!3m8!1s0x89c259c06677ef37:0x505cfe96ba9da92a!2sThe+Standard,+High+Line!5m2!4m1!1i2!8m2!3d40.7409232!4d-74.008111!3m4!1s0x89c259c067842555:0x26f60ecec4112551!8m2!3d40.740873!4d-74.0079597)
 
 **Ice Cream:** [Van Leeuwan Ice Cream,](https://www.instagram.com/vanleeuwenicecream/) [Big Gay Ice Cream](https://www.instagram.com/biggayicecream/), [Morgenstern’s Finest Ice Cream](https://www.instagram.com/morgensternsnyc/), [Melt Bakery](https://www.instagram.com/meltbakery/)
+
+**Travel Tips**
+
+* You will get so much hotter and sweatier than you think because you’ll be walking around so much! Be prepared for this and plan a time to be home to freshen up before dinner. 
+* The subway stations are hot as balls, just accept this and let it go or else you’ll hate your life. The good news is, the subway cars have AC, but if you accidentally get into one that is broken, switch cars, it’s worth it. 
+* Think about swapping out your sandals for sneakers, it’s tempting to want to where them when it’s so hot out but it’s important to be comfortable all day walking around.
+* To take a break from the heat...get a drink on the water, pop into a museum (even if you only go in the lobby for AC), go on a boat ride, grab an iced coffee in the air conditioning, and get out early in the day before it’s super hot out!
+* People complain about the city smelling in the summer because everything is so hot, but it honestly only smells in the gross parts of the city...Times Square, Chinatown, anywhere in Midtown. I would avoid the areas any time of the year but definitely in the summer. 
+* Make reservations everywhere, this goes for every season, and summer is no exception! 
+* Wear sunscreen, loose clothes, sunglasses, the whole summer get up. And then get over the fact that it’s hot and enjoy the city!
