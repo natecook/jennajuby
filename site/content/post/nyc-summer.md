@@ -99,14 +99,14 @@ gallery:
     - imagedescription: Van Leeuwen Ice Cream shop on W 72nd and Columbus Ave.
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-38.jpg'
       size: true
-    - imagedescription: 'Van Leeuwen Ice Cream, they have lots of vegan and dairy options'
+    - imagedescription: They have lots of really good vegan options too
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-42.jpg'
-    - imagedescription: 'Van Leeuwen Ice Cream, there are lots of locations all over the city'
+    - imagedescription: There are lots of locations of Van Leeuwen all over the city
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-40.jpg'
       size: false
     - imagedescription: The oat milk strawberry fields flavor is only at this location!
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-39.jpg'
-    - imagedescription: Van Leeuwen Ice Cream shop on W 72nd and Columbus Ave.
+    - imagedescription: Van Leeuwen's started in Brooklyn!
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-41.jpg'
     - imagedescription: Walking around the Upper West Side with our ice cream
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-43.jpg'
@@ -114,12 +114,12 @@ gallery:
     - imagedescription: Ice cream is best enjoyed in a cone while crossing the street
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-44.jpg'
       size: true
-    - imagedescription: The seating outside of Aimé Leon Dore is adorable!
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-49.jpg'
-      size: false
     - imagedescription: Relaxing outside of Aimé Leon Dore for a coffee
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-47.jpg'
       size: true
+    - imagedescription: The seating outside of Aimé Leon Dore is adorable!
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-49.jpg'
+      size: false
     - imagedescription: Relaxing outside of Aimé Leon Dore for a coffee
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-45.jpg'
       size: false
