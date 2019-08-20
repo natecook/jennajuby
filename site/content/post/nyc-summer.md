@@ -96,7 +96,40 @@ gallery:
     - imagedescription: The Conservatory Water
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-37.jpg'
       size: true
-    - {}
+    - imagedescription: Van Leeuwen Ice Cream
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-38.jpg'
+    - imagedescription: Van Leeuwen Ice Cream
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-39.jpg'
+    - imagedescription: Van Leeuwen Ice Cream
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-40.jpg'
+    - imagedescription: Van Leeuwen Ice Cream
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-41.jpg'
+    - imagedescription: Van Leeuwen Ice Cream
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-42.jpg'
+    - imagedescription: Van Leeuwen Ice Cream
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-43.jpg'
+    - imagedescription: Van Leeuwen Ice Cream
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-44.jpg'
+    - imagedescription: Van Leeuwen Ice Cream
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-45.jpg'
+    - imagedescription: Van Leeuwen Ice Cream
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-46.jpg'
+    - imagedescription: Van Leeuwen Ice Cream
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-47.jpg'
+    - imagedescription: Van Leeuwen Ice Cream
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-48.jpg'
+    - imagedescription: Van Leeuwen Ice Cream
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-49.jpg'
+    - imagedescription: Van Leeuwen Ice Cream
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-50.jpg'
+    - imagedescription: Van Leeuwen Ice Cream
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-51.jpg'
+    - imagedescription: Van Leeuwen Ice Cream
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-52.jpg'
+    - imagedescription: Van Leeuwen Ice Cream
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-53.jpg'
+    - imagedescription: Van Leeuwen Ice Cream
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-54.jpg'
 ---
 Summer in New York City! A lot of locals say they “hate” summers here and this always baffles me because my friends and I LOOOVE it, it’s so much fun! Every year I make a list in the spring of all the summer activities I want to do that year, new and old. I can honestly say that after 4 summers in the city, I have finally checked off almost all the summer activities I’ve wanted to do. Yes, the summers are hot (where...are summers...not hot?) but most of the time you can count on it being about 83 and sunny. We’ll get random heat waves of 90+ and gross humidity/summer storms but they are relatively rare. June, July, August, and September have pretty similar temperatures throughout the summer, but if you want to avoid heat waves, you would be safe to come sometime in June or late September. No promises though, we’ve had 80 degree days in October so better just pick whatever dates work best for your schedule!
 
