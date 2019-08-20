@@ -96,40 +96,50 @@ gallery:
     - imagedescription: The Conservatory Water
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/07/NYCSummer-37.jpg'
       size: true
-    - imagedescription: Van Leeuwen Ice Cream
+    - imagedescription: Van Leeuwen Ice Cream shop on W 72nd and Columbus Ave.
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-38.jpg'
-    - imagedescription: Van Leeuwen Ice Cream
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-39.jpg'
-    - imagedescription: Van Leeuwen Ice Cream
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-40.jpg'
-    - imagedescription: Van Leeuwen Ice Cream
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-41.jpg'
-    - imagedescription: Van Leeuwen Ice Cream
+      size: true
+    - imagedescription: 'Van Leeuwen Ice Cream, they have lots of vegan and dairy options'
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-42.jpg'
-    - imagedescription: Van Leeuwen Ice Cream
+    - imagedescription: 'Van Leeuwen Ice Cream, there are lots of locations all over the city'
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-40.jpg'
+      size: false
+    - imagedescription: The oat milk strawberry fields flavor is only at this location!
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-39.jpg'
+    - imagedescription: Van Leeuwen Ice Cream shop on W 72nd and Columbus Ave.
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-41.jpg'
+    - imagedescription: Walking around the Upper West Side with our ice cream
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-43.jpg'
-    - imagedescription: Van Leeuwen Ice Cream
+      size: true
+    - imagedescription: Ice cream is best enjoyed in a cone while crossing the street
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-44.jpg'
-    - imagedescription: Van Leeuwen Ice Cream
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-45.jpg'
-    - imagedescription: Van Leeuwen Ice Cream
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-46.jpg'
-    - imagedescription: Van Leeuwen Ice Cream
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-47.jpg'
-    - imagedescription: Van Leeuwen Ice Cream
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-48.jpg'
-    - imagedescription: Van Leeuwen Ice Cream
+      size: true
+    - imagedescription: The seating outside of Aimé Leon Dore is adorable!
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-49.jpg'
-    - imagedescription: Van Leeuwen Ice Cream
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-50.jpg'
-    - imagedescription: Van Leeuwen Ice Cream
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-51.jpg'
-    - imagedescription: Van Leeuwen Ice Cream
+      size: false
+    - imagedescription: Relaxing outside of Aimé Leon Dore for a coffee
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-47.jpg'
+      size: true
+    - imagedescription: Relaxing outside of Aimé Leon Dore for a coffee
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-45.jpg'
+      size: false
+    - imagedescription: Relaxing outside of Aimé Leon Dore for a coffee
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-48.jpg'
+      size: true
+    - imagedescription: Cafe Select is a perfect for people watching in Soho
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-52.jpg'
-    - imagedescription: Van Leeuwen Ice Cream
+      size: true
+    - imagedescription: Having a glass of wine outside at Cafe Select
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-50.jpg'
+    - imagedescription: Cafe Select has great outdoor seating to grab a drink
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-53.jpg'
-    - imagedescription: Van Leeuwen Ice Cream
+      size: false
+    - imagedescription: Having a glass of wine outside at Cafe Select
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-51.jpg'
+      size: true
+    - imagedescription: 'Classic NYC, serving brunch until 5pm'
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2019/08/NYCSummer-54.jpg'
+      size: true
 ---
 Summer in New York City! A lot of locals say they “hate” summers here and this always baffles me because my friends and I LOOOVE it, it’s so much fun! Every year I make a list in the spring of all the summer activities I want to do that year, new and old. I can honestly say that after 4 summers in the city, I have finally checked off almost all the summer activities I’ve wanted to do. Yes, the summers are hot (where...are summers...not hot?) but most of the time you can count on it being about 83 and sunny. We’ll get random heat waves of 90+ and gross humidity/summer storms but they are relatively rare. June, July, August, and September have pretty similar temperatures throughout the summer, but if you want to avoid heat waves, you would be safe to come sometime in June or late September. No promises though, we’ve had 80 degree days in October so better just pick whatever dates work best for your schedule!
 
@@ -158,7 +168,7 @@ Baseball games, boat rides, beach time, dinners outside, rooftop bars, picnics i
 
 ## **Eats & Treats**
 
-**Coffee:** [Butler](https://www.instagram.com/butlerbakeshop/), [Maman](https://www.instagram.com/_mamannyc_/), [Hardwater](https://www.instagram.com/hardwatercoffee/), [Laughing Man](https://www.instagram.com/laughingmancafe/) (Tribeca location), [PlantShed Cafe,](https://www.instagram.com/plantshednyc/) [Bluestone](https://www.instagram.com/bluestonelane/)
+**Coffee:** [Butler](https://www.instagram.com/butlerbakeshop/), [Maman](https://www.instagram.com/_mamannyc_/), [Hardwater](https://www.instagram.com/hardwatercoffee/), [Laughing Man](https://www.instagram.com/laughingmancafe/) (Tribeca location), [PlantShed Cafe,](https://www.instagram.com/plantshednyc/) [Bluestone](https://www.instagram.com/bluestonelane/), [Café Leon Dore](https://www.google.com/maps/place/Caf%C3%A9+Leon+Dore/@40.7222324,-73.9963018,21z/data=!4m12!1m6!3m5!1s0x89c2598892f61cab:0x66e1fe6869aba7c!2sAim%C3%A9+Leon+Dore!8m2!3d40.7222005!4d-73.9960178!3m4!1s0x89c259c2f5e9088b:0xd95eeecc54122c5c!8m2!3d40.7221963!4d-73.9960802)
 
 **Breakfast:** [Bluestone Lane](https://www.instagram.com/bluestonelane/) (my favorite location is on E 90th and 5th Ave.), [The Butcher’s Daughter](https://www.instagram.com/thebutchersdaughter_official/), [Modern Bread](https://www.instagram.com/modernbreadandbagel/), [LPQ](https://www.google.com/maps/place/Le+Pain+Quotidien/@40.7734448,-73.975728,17.12z/data=!4m5!3m4!1s0x89c258f328656319:0xd84cc631d91d2adc!8m2!3d40.7730323!4d-73.974294) in the park, [Egg Shop](https://www.instagram.com/eggshopnyc/), [Banter](https://www.instagram.com/banter_nyc/), [Fairfax](https://www.instagram.com/fairfaxnyc/)
 
