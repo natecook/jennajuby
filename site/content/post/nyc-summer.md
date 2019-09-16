@@ -163,6 +163,7 @@ Baseball games, boat rides, beach time, dinners outside, rooftop bars, picnics i
 * **Play Tennis** at the Hudson River Park Tennis Courts
 * **See the MET Cloisters** and have dinner outside by the water at [La Marina](http://lamarinanyc.com/)
 * **See a play at Shakespeare in the Park**, this was one of the most magical things we have ever done since living in the city. It’s very hard to get tickets and only happens a few weeks a year but it's worth the effort. I suggest hiring the [“Same Ole Line Dudes”](http://www.sameolelinedudes.com/) like we did so that you don’t have to wait in the 6 hour line yourself!
+* Relax in [Bryant Park](https://bryantpark.org/), grab a coffee or snack at Le Pain Quotidien cafe and take in the city view, it's such a relaxing pretty little park!
 * **Eat on the water** at Pier I Cafe, the Brooklyn Barge, Boat Basin, La Marina. All casual spots to get food or drinks near the water for those hot summer days.
 * **Stroll through any of Manhattans many farmer's markets**! Grab a snack or french produce to picnic with!
 
