@@ -5,6 +5,10 @@ description: Example Intro Blurb
 image: /img/tennessee-blog-1-cover.jpg
 gallery:
   photos:
+    - imagedescription: first photo
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-1.jpg
+      size: true
     - imagenew: https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-1.jpg
     - imagenew: https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-2.jpg
     - imagenew: https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-3.jpg
