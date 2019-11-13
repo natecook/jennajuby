@@ -3,6 +3,12 @@ heading: Travel Photography
 description: List of places we've loved and great things to see at each place.
 intro:
   blurbs:
+    - image: /img/tennessee-blog-21.jpg
+      text: 'The Great Smoky Mountains, Tennessee'
+      url: /post/the-great-smoky-mountains-tennessee/
+    - image: /img/nycsummer-25.jpg
+      text: 'NYC: Summer'
+      url: /post/nyc-summer/
     - image: /img/nycspring-1.jpg
       text: 'NYC: Spring'
       url: /post/new-york-city-spring/
