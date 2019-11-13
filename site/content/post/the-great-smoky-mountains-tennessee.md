@@ -9,7 +9,7 @@ description: >-
 image: /img/tennessee-blog-21.jpg
 gallery:
   photos:
-    - imagedescription: Cades Cove drive
+    - imagedescription: The entrance of the Cades Cove drive
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-1.jpg
       size: true
