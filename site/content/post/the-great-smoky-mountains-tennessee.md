@@ -5,7 +5,8 @@ description: Intro Blurb edited
 image: /img/tennessee-blog-21.jpg
 gallery:
   photos:
-    - imagenew: >-
+    - imagedescription: Cades Cove drive
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-1.jpg
       size: true
     - imagenew: >-
