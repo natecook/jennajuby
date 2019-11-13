@@ -20,89 +20,121 @@ gallery:
     - imagedescription: It was so fun showing Nate parts of my childhood!
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-3.jpg
-    - imagenew: >-
+    - imagedescription: John Oliver's home in Cades Cove
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-4.jpg
-    - imagenew: >-
+    - imagedescription: John Oliver's home in Cades Cove
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-6.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: John Oliver's home in Cades Cove
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-5.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Historic Church in Cades Cove
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-7.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Cades Cove
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-8.jpg
-    - imagenew: >-
+    - imagedescription: Bridget and I in Cades Cove
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-9.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Cades Cove
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-10.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Cades Cove
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-11.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Cades Cove
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-12.jpg
-    - imagenew: >-
+    - imagedescription: My parents and us in Cades Cove!
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-15.jpg
-    - imagenew: >-
+    - imagedescription: Cades Cove
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-14.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Cades Cove
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-13.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Having morning coffee on the balcony of our cabin
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-17.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: 'We spent the day at Dollywood, it was so fun!'
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-18.jpg
-    - imagenew: >-
+    - imagedescription: 'Dollywood, this park was so beautiful!'
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-19.jpg
-    - imagenew: >-
+    - imagedescription: The view from our cabin
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-21.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Our cabin in the Smokies
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-24.jpg
-    - imagenew: >-
+    - imagedescription: The entrance to our cabin
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-23.jpg
-    - imagenew: >-
+    - imagedescription: Our cabin in the Smokies
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-25.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: The window seat in our bedroom!
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-22.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Sunset view from our cabin
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-26.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Sunset view from our cabin
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-28.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Horseback riding with Bridget
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-31.jpg
-    - imagenew: >-
+    - imagedescription: My beautiful horse
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-32.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Views on our hike
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-33.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Hiking with the family
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-35.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Laurel Falls
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-36.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Nate and I at the top of Laurel Falls
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-38.jpg
-    - imagenew: >-
+    - imagedescription: Laurel Falls
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-37.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Bridget and I pleased we were coordinating
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-39.jpg
-    - imagenew: >-
+    - imagedescription: My cute parents on our hike
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-40.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: 'The gang on the hike : )'
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-42.jpg
       size: true
 ---
