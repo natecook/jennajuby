@@ -13,10 +13,12 @@ gallery:
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-1.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: There were wild horses roaming around Cades Cove
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-2.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: It was so fun showing Nate parts of my childhood!
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-3.jpg
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-4.jpg
