@@ -90,4 +90,4 @@ gallery:
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-42.jpg
 ---
-body copy
+body copy edited
