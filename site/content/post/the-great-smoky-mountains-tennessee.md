@@ -17,10 +17,10 @@ gallery:
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-4.jpg
     - imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-5.jpg
+        https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-6.jpg
       size: true
     - imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-6.jpg
+        https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-5.jpg
       size: true
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-7.jpg
@@ -29,6 +29,7 @@ gallery:
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-8.jpg
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-9.jpg
+      size: false
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-10.jpg
       size: true
@@ -38,15 +39,13 @@ gallery:
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-12.jpg
     - imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-13.jpg
-      size: true
+        https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-15.jpg
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-14.jpg
       size: true
     - imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-15.jpg
-    - imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-16.jpg
+        https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-13.jpg
+      size: true
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-17.jpg
       size: true
@@ -55,56 +54,51 @@ gallery:
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-19.jpg
     - imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-20.jpg
-    - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-21.jpg
+      size: true
+    - imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-24.jpg
+    - imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-23.jpg
+    - imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-25.jpg
       size: true
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-22.jpg
       size: true
     - imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-23.jpg
-    - imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-24.jpg
-    - imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-25.jpg
-      size: true
-    - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-26.jpg
       size: true
-    - imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-27.jpg
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-28.jpg
       size: true
     - imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-29.jpg
-    - imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-30.jpg
-    - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-31.jpg
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-32.jpg
+      size: false
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-33.jpg
-    - imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-34.jpg
+      size: true
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-35.jpg
+      size: true
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-36.jpg
-    - imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-37.jpg
+      size: false
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-38.jpg
+    - imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-37.jpg
+      size: true
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-39.jpg
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-40.jpg
-    - imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-41.jpg
+      size: false
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-42.jpg
+      size: true
 ---
 This April, Nate and I met my family in Tennessee, in the heart of the Great Smoky Mountains! We stayed in a gorgeous cabin in Sevierville, just outside the town of Gatlinburg. I grew up visiting the Great Smoky Mountains every summer until I was about 10 years old and then once again as a teenager. My family started visiting this area because my mom actually grew up in the mountains of Tennessee, in the town of Elizabethton.  She loved returning to the place she was born and bringing her family of 7 with her.  Because of that, this beautiful area holds such a special place in my heart, some of my most dear childhood memories are in these mountains and I was so excited to show Nate!
 
