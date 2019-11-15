@@ -9,6 +9,12 @@ description: >-
 image: /img/tennessee-blog-21.jpg
 gallery:
   photos:
+    - imagedescription: Beautiful horses on our drive
+      imagenew: /img/tennessee-blog-43.jpg
+      size: true
+    - imagedescription: Bridget and I on the trail
+      imagenew: /img/tennessee-blog-44.jpg
+      size: true
     - imagedescription: The entrance of the Cades Cove drive
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/10/Tennessee+Blog-1.jpg
