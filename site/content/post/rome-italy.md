@@ -8,43 +8,64 @@ gallery:
     - imagedescription: A view fo the city from the Vatican Museums
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-9.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-3.jpg'
+    - imagedescription: I could not get enough of the beautiful Roman buildings!
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-3.jpg'
       size: false
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-12.jpg'
+    - imagedescription: Me leaning on the walls of Vatican City
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-12.jpg'
       size: false
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-7.jpg'
+    - imagedescription: Inside a Vatican Museum courtyard
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-7.jpg'
       size: false
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-4.jpg'
+    - imagedescription: A view of St. Peter's Basilica from the Vatican Museum
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-4.jpg'
       size: false
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-5.jpg'
+    - imagedescription: This was taken in the "Courtyard of the Pigna" at the Vatican Museums
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-5.jpg'
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-6.jpg'
       size: false
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-11.jpg'
+    - imagedescription: The floors in the Vatican Museum were so beautiful
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-11.jpg'
       size: false
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-8.jpg'
+    - imagedescription: 'One of my favorite ceilings at the museum '
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-8.jpg'
       size: false
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-10.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-14.jpg'
+    - imagedescription: The scale of this ceiling at the museum was unbelievable!
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-10.jpg'
+    - imagedescription: Views from St. Peter's Square
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-14.jpg'
       size: false
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-15.jpg'
+    - imagedescription: Views from St. Peter's Square
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-15.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-18.jpg'
+    - imagedescription: Walking around St. Peter's Square
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-18.jpg'
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-19.jpg'
       size: false
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-17.jpg'
+    - imagedescription: Views from inside St. Peter's Square
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-17.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-16.jpg'
+    - imagedescription: Walking around the busy and beautiful St. Peter's Square
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-16.jpg'
       size: false
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-20.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-22.jpg'
+    - imagedescription: I loved all the ancient drinking fountains around the city
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-20.jpg'
+    - imagedescription: Buildings in the Ponte neighborhood were so iconic and pretty
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-22.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-13.jpg'
+    - imagedescription: In hunt of finding the best gelato
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-13.jpg'
       size: false
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-1.jpg'
       size: false
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-21.jpg'
+    - imagedescription: Dining al fresco is one of the most charming parts of Rome
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-21.jpg'
       size: false
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-27.jpg'
+    - imagedescription: >-
+        Our favorite gelato in Rome was from Gelateria del Teatro in the Ponte
+        neighborhood. I got "peach & lavender" and "strawberry". Yes, 8 months
+        later I remember these flavors which tells you how delicious they were. 
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-27.jpg'
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-24.jpg'
       size: true
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-2.jpg'
