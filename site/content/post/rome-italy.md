@@ -66,81 +66,135 @@ gallery:
         neighborhood. I got "peach & lavender" and "strawberry". Yes, 8 months
         later I remember these flavors which tells you how delicious they were. 
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-27.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-24.jpg'
+    - imagedescription: ''
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-24.jpg'
       size: true
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-2.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-29.jpg'
+    - imagedescription: 'Nate enjoying his gelato from Teatro : )'
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-29.jpg'
       size: false
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-23.jpg'
+    - imagedescription: The doors in Rome enchanted me
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-23.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-30.jpg'
+    - imagedescription: The cobblestone alley's were delightful
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-30.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-32.jpg'
+    - imagedescription: 'This is Hotel Raphael, one of the most stunning in Rome!'
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-32.jpg'
       size: false
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-26.jpg'
       size: false
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-33.jpg'
+    - imagedescription: Views from inside Piazza Navona
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-33.jpg'
       size: true
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-25.jpg'
       size: false
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-31.jpg'
       size: false
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-35.jpg'
+    - imagedescription: This is one of my favorite pictures from Rome
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-35.jpg'
       size: true
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-36.jpg'
       size: false
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-38.jpg'
+    - imagedescription: >-
+        We got rooftop drinks at Terrazza Borromini (part of Eitch Borromini
+        hotel) that gives a gorgeous 360 degree view of the city. 
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-38.jpg'
       size: false
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-37.jpg'
+    - imagedescription: >-
+        The view of Piazza Navona from our rooftop drinks at Terrazza
+        Borromini. 
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-37.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-34.jpg'
+    - imagedescription: 'Piazza Navona, my favorite piazza in Rome'
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-34.jpg'
       size: false
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-40.jpg'
+    - imagedescription: >-
+        Espresso from one of the oldest cafe's in Rome, Sant' Eustachio Il
+        Caffè.
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-40.jpg'
       size: false
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-39.jpg'
+    - imagedescription: Pantheon!
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-39.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-41.jpg'
+    - imagedescription: '"Altar of the Fatherland"'
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-41.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-42.jpg'
+    - imagedescription: '"Altar of the Fatherland"'
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-42.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-45.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-46.jpg'
+    - imagedescription: 'The Trevi Fountain, even more beautiful than I imagined'
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-45.jpg'
+    - imagedescription: 'Stealing a kiss in front of the Trevi, this is good luck too right?'
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-46.jpg'
       size: false
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-44.jpg'
+    - imagedescription: The Trevi Fountain
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-44.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-48.jpg'
+    - imagedescription: Ending the day at the Spanish Steps
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-48.jpg'
       size: false
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-47.jpg'
+    - imagedescription: The evening light in Rome was downright magical
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-47.jpg'
       size: false
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-55.jpg'
+    - imagedescription: >-
+        One our second day in Rome we visited the Villa Borghese. Here is the
+        Temple of Asclepius where you can row boats!
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-55.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-51.jpg'
+    - imagedescription: Inside the manicured garden behind the Borghese Gallery & Museum.
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-51.jpg'
       size: false
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-50.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-52.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-49.jpg'
+    - imagedescription: Inside the manicured garden behind the Borghese Gallery & Museum.
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-50.jpg'
+    - imagedescription: A beautiful view of the Borghese Gallery & Museum from the back garden.
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-52.jpg'
+    - imagedescription: >-
+        One of my favorite things I laid eyes on in Italy. This was in the
+        Borghese Gallery & Museum, every room had ceilings like this. 
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-49.jpg'
       size: false
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-53.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-54.jpg'
+    - imagedescription: >-
+        Walking around the huge garden (which was more like a park), Villa
+        Borghese. 
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-53.jpg'
+    - imagedescription: Villa Borghese
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-54.jpg'
       size: false
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-57.jpg'
+    - imagedescription: Painters setting up in Villa Borghese.
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-57.jpg'
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-56.jpg'
       size: false
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-61.jpg'
+    - imagedescription: A cafe inside Villa Borghese
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-61.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-59.jpg'
+    - imagedescription: >-
+        Resting near one of the many amazing drinking fountains, can you spot
+        the spout? 
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-59.jpg'
       size: false
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-58.jpg'
+    - imagedescription: >-
+        Not only pleasing to the eye, but such an easy way to fill up our water
+        bottles while touristing around.
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-58.jpg'
       size: false
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-60.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-64.jpg'
+    - imagedescription: Another gelato stop while in Villa Borghese.
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-64.jpg'
       size: false
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-63.jpg'
+    - imagedescription: >-
+        There were lots of cute outdoor cafes and restaurants inside Villa
+        Borhese.
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-63.jpg'
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-62.jpg'
       size: false
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-66.jpg'
+    - imagedescription: >-
+        This was taken from Terrazza del Pincio, an observation deck inside
+        Villa Borghese with a great view of Piazza del Popolo.
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-66.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-65.jpg'
+    - imagedescription: Terrazza del Pincio.
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-65.jpg'
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-67.jpg'
       size: false
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-68.jpg'
@@ -148,32 +202,57 @@ gallery:
       size: false
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-73.jpg'
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-70.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-72.jpg'
+    - imagedescription: >-
+        We went on a tour of the Roman Forum and Colosseum and it was some of
+        the best money we spent on the trip.
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-72.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-71.jpg'
+    - imagedescription: The Colosseum.
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-71.jpg'
       size: false
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-75.jpg'
+    - imagedescription: View looking down on the Roman Forum during our tour.
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-75.jpg'
       size: false
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-76.jpg'
+    - imagedescription: Nate and I in front of the Roman Forum.
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-76.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-74.jpg'
+    - imagedescription: 'View of the Roman Forum, our tour was a few hours long and went so fast!'
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-74.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-77.jpg'
+    - imagedescription: The Colosseum tour was one of my favorite things we did in Italy.
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-77.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-78.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-79.jpg'
+    - imagedescription: Nate and I in the Colosseum.
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-78.jpg'
+    - imagedescription: View from inside the Colosseum.
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-79.jpg'
       size: false
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-80.jpg'
+    - imagedescription: View from inside the Colosseum.
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-80.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-82.jpg'
+    - imagedescription: >-
+        Yes, I got these gladiator sandals specifically for the day we would
+        toured the Colosseum.
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-82.jpg'
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-83.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-84.jpg'
+    - imagedescription: The River Tiber.
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-84.jpg'
       size: true
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-85.jpg'
+    - imagedescription: >-
+        We ended our day in the Trastevere neighborhood, the evening light and
+        vibe here was the best!
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-85.jpg'
       size: false
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-87.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-88.jpg'
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-86.jpg'
+    - imagedescription: >-
+        We got aperitivo's at Ombre Rosse in Trastevere and it was one of our
+        favorite evenings.
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-87.jpg'
+    - imagedescription: >-
+        We finished off the night with dinner at Roma Sparita, known for their
+        cacio e pepe and everything was delicious! 
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-88.jpg'
+    - imagedescription: 'Walking around the Trastevere neighborhood, a perfect night out in Roma!'
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-86.jpg'
       size: false
 ---
 this is the body text
