@@ -5,7 +5,8 @@ description: This will be the intro
 image: /img/rome_blog-cover.jpg
 gallery:
   photos:
-    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-9.jpg'
+    - imagedescription: A view fo the city from the Vatican Museums
+      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-9.jpg'
       size: true
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Rome/Rome_Blog-3.jpg'
       size: false
