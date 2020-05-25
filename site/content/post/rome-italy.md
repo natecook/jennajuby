@@ -268,17 +268,17 @@ All of the dinner and aperitivo places listed below have outdoor seating which I
 
 **Eats & Treats**
 
-Coffee: Faro, Pergamino Caffe
+Coffee: [Faro](https://www.instagram.com/farorome/), [Pergamino Caffè](https://goo.gl/maps/5y2YV2CcSKfMnisy7)
 
-Bakery: La Casetta a Monti, Antico Forno Roscioli
+Bakery: [La Casetta a Monti](https://goo.gl/maps/JcNX3aMrZAdwvgJ89), [Antico Forno Roscioli](https://goo.gl/maps/gsmZYcXeyAamdi5cA)
 
-Breakfast: Vivi Bistrot
+Breakfast: [Vivi Bistrot](https://www.instagram.com/vivibistrot/)
 
-Snack: Trapizzino, Supplizio, Forno Campo de ‘Fiori
+Snack: [Trapizzino](https://g.page/trapizzino-trastevere?share), [Supplizio](https://www.instagram.com/supplizioroma/), [Forno Campo de ‘Fiori](https://goo.gl/maps/MsNyhbZHE47UaDCJ8)
 
-Lunch: Roma Sparita, Alle Carrette
+Lunch: [Roma Sparita](https://goo.gl/maps/AA4CxcBQAWAdeeiw7), [Alle Carrette](https://goo.gl/maps/ztYhBXMPwXBmCiReA)
 
-Pizza: Pizzarium, Ai Marmi, Emma
+Pizza: [Pizzarium](https://goo.gl/maps/jT1KRXVSaAyv64eZ6), Ai Marmi, Emma
 
 Aperitivo: Ombre Rosse, Osteria delle Coppelle, Salotto42
 
