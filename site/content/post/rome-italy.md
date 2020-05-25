@@ -266,7 +266,7 @@ All that to say, I can see how someone would be easily overwhelmed by Rome but o
 
 All of the dinner and aperitivo places listed below have outdoor seating which I highly recommend. I couldn’t even tell you what the inside of any of these restaurants looked like. I picked them based on their menu/reviews and cuteness level of their outdoor dining. I also made reservations about a month ahead of time and requested an outdoor table, worth it!
 
-**Eats & Treats**
+# **Eats & Treats**
 
 Coffee: [Faro](https://www.instagram.com/farorome/), [Pergamino Caffè](https://goo.gl/maps/5y2YV2CcSKfMnisy7)
 
@@ -286,7 +286,7 @@ Dinner: [Osteria Delle Coppelle](https://www.instagram.com/osteriadellecoppelle/
 
 Gelato: [Gelateria Del Teatro](https://goo.gl/maps/afSwp4ntw48FbtyL9), [Come il Latte](https://goo.gl/maps/8ZKcwTdKyUGXiUhm8)
 
-**Activities**
+# **Activities**
 
 * **Take a tour of the Colosseum and Roman Forum**. We booked a tour guide to take us through both historical spots and it was some of the best money we spent! If we hadn’t booked the tour, we would have had no idea what we were looking at and it honestly wouldn’t have been that interesting. We booked this tour with “name of tour company” and I picked a small group (6 people or less so you didn’t need to carry around headsets) for a more personal experience. It was so chill and our tour guide was wonderful, nothing felt rushed and it felt like we had a personal tour guide. [Here is the tour we did.](https://www.viator.com/tours/Rome/Colosseum-Underground-and-Ancient-Rome-Small-Group-Tour/d511-6718COLOSSEUM?m=28353&supag=71427120475&supsc=dsa-653060334692&supai=420120885810&supap=&supdv=c&supnt=nt:g&suplp=9004077&supli=&supti=dsa-653060334692&tsem=true&supci=dsa-653060334692&supap1=&supap2=&gclid=CjwKCAjw2a32BRBXEiwAUcugiCLaCbY3dyxTVZj0NVc7_CMADdNcRQ8QRQ6IhWkJ-suVexsI1de3YRoC8HQQAvD_BwE)
 * **Spend an evening in Trastevere.** This [neighborhood](https://www.google.com/search?q=trastevere+rome&sxsrf=ALeKk01JE3VED_y8JYwlGPf6PyPoLC4LVg:1590445473342&source=lnms&tbm=isch&sa=X&ved=2ahUKEwitjOSLh9DpAhUBmnIEHUXWA-YQ_AUoAnoECBkQBA&biw=1307&bih=725) is the evening hot spot in Rome with the most popular restaurants and bars. It’s lively and beautiful and the vibe is so fun. We got aperol spritzes and watched the neighborhood come to life before dinner, this is a place you can’t miss while in Rome!
