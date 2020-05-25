@@ -278,50 +278,23 @@ Snack: [Trapizzino](https://g.page/trapizzino-trastevere?share), [Supplizio](htt
 
 Lunch: [Roma Sparita](https://goo.gl/maps/AA4CxcBQAWAdeeiw7), [Alle Carrette](https://goo.gl/maps/ztYhBXMPwXBmCiReA)
 
-Pizza: [Pizzarium](https://goo.gl/maps/jT1KRXVSaAyv64eZ6), Ai Marmi, Emma
+Pizza: [Pizzarium](https://goo.gl/maps/jT1KRXVSaAyv64eZ6), [Ai Marmi](https://goo.gl/maps/izttmjWqgGevGhgM8), [Emma](https://g.page/EMMA-RESTAURANT?share)
 
-Aperitivo: Ombre Rosse, Osteria delle Coppelle, Salotto42
+Aperitivo: [Ombre Rosse](https://goo.gl/maps/sSGbJuza7VnwNj5ZA), [Osteria Delle Coppelle](https://www.instagram.com/osteriadellecoppelle/), [Salotto42](https://g.page/salotto42?share)
 
-Dinner: Osteria delle Coppelle, Dal Bolognese, Da Carlone
+Dinner: [Osteria Delle Coppelle](https://www.instagram.com/osteriadellecoppelle/), [Dal Bolognese](https://goo.gl/maps/gjTQ9vWUJN37kMYy6), [Da Carlone](https://goo.gl/maps/2hR2CXHt5hPtqj6V9)
 
-Gelato: Gelateria Del Teatro, Come il Latte
+Gelato: [Gelateria Del Teatro](https://goo.gl/maps/afSwp4ntw48FbtyL9), [Come il Latte](https://goo.gl/maps/8ZKcwTdKyUGXiUhm8)
 
 **Activities**
 
 * **Tour of the Colosseum and Roman Forum**. We booked a tour guide to take us through both historical spots and it was some of the best money we spent! If we hadn’t booked the tour, we would have had no idea what we were looking at and it honestly wouldn’t have been that interesting. We booked this tour with “name of tour company” and I picked a small group (6 people or less so you didn’t need to carry around headsets) for a more personal experience. It was so chill and our tour guide was wonderful, nothing felt rushed and it felt like we had a personal tour guide.
-
-
-
 * **Spend an evening in Trastevere.** This neighborhood is the evening hot spot in Rome with the most popular restaurants and bars. It’s lively and beautiful and the vibe is so fun. We got aperol spritzes and watched the neighborhood come to life before dinner, this is a place you can’t miss while in Rome!
-
-
-
 * **Visit Borghese Gallery & Museum.** This museum is nice because it’s very small but packed full of gorgeous sculptures and ceilings. You could easily only spend an hour inside and see the whole thing, which is a nice break from the bigger museums in Italy that can seem daunting. 
-
-
-
 * **Spend an afternoon in Villa Borghese.** The Villa Borghese, is a “garden” but more like Rome’s version of Central Park. It’s named after the museum I just mentioned which resides inside of the garden itself. The villa is huge and you could spend a whole afternoon just walking around seeing the sights, stopping for lunch at one of the many cute cafe’s, or grabbing a gelato as you stroll around.
-
-
-
 * **See St. Peter’s Square and St. Peter’s Basilica.** Vatican City is so grand and unique and obviously a must do while in Rome. Seeing the square and going into the church could be, but doesn’t have to be, time consuming. St. Peter’s Basilica has free entry but we spent about $10 to buy a "skip the line ticket" online before hand and passed hundreds of people to walk right in.
-
-
-
 * **Visit the Vatican Museums and Sistine Chapel.** This is another place with a 3 hour line just to get tickets if you don’t book them ahead of time. We got our tickets online weeks before our trip and again, walked right in with no wait. “Skip the line” tickets are pretty much sold for every big tourist sight in Rome and worth the $ a million times over.
-
-
-
 * **Walk around and explore the Ponte neighborhood and Piazza Navona.** This is the area of Rome that you picture in your head. It’s picturesque and perfect. There are little cobblestone alley ways that open up to the beautiful Piazza Navona, and adorable gelato shops at every corner.  It is exactly what you dreamed of Rome to be.  
-
-
-
 * **See the Trevi Fountain and Spanish Steps.** I'll be straight with you, the fountain in stunning and you must see it, but there will be 1 million tourists there and it will not be a calm experience, haha. I have heard if you go first thing in the morning that it is way less crowded, so if you want a more peaceful experience head out there early! We were there at sunset, which gave beautiful light, but crowds as well. The Spanish Steps, which are near by, are also beautiful and a must see. Fun fact: you cannot sit on the spanish steps anymore, google it. We watched the sunset from the top of the steps though and it was really romantic!
-
-
-
 * **See the Pantheon** and go inside to see the amazing dome ceiling. This is free, quick, and easy and something you have to do because...it’s the pantheon…in Rome!
-
-
-
 * **Walk along the Tiber River** with some gelato. The river runs right through the middle of the city and offers some beautiful views!
