@@ -5,7 +5,7 @@ description: >-
   Last August Nate and I set off on our two week trip to Italy! I had only been
   to Milan previously and was anxious to see as much of the country this time as
   we could squeeze into a few weeks.
-image: /img/rome_blog-cover.jpg
+image: /img/rome_blog-35.jpg
 gallery:
   photos:
     - imagedescription: A view of the city from the Vatican Museums.
