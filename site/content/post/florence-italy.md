@@ -2,11 +2,11 @@
 title: 'Florence, Italy'
 date: 2020-07-01T23:00:00.000Z
 description: This will be the intro
-image: /img/nycsummer-25.jpg
+image: /img/florence_blog-16.jpg
 gallery:
   photos:
     - imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-16.jpg
+        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-1.jpg
       size: true
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-2.jpg
@@ -14,9 +14,6 @@ gallery:
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-13.jpg
       size: false
-    - imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-1.jpg
-      size: true
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-4.jpg
       size: true
@@ -37,6 +34,9 @@ gallery:
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-8.jpg
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-9.jpg
+      size: true
+    - imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-16.jpg
       size: true
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-12.jpg
