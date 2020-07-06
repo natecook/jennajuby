@@ -5,32 +5,42 @@ description: This will be the intro
 image: /img/florence_blog-16.jpg
 gallery:
   photos:
-    - imagenew: >-
+    - imagedescription: Piazza della Repubblica
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-1.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: People relaxing in Piazza della Repubblica
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-2.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Some sights walking around Florence
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-13.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: The architecture around the city center was beautiful!
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-4.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: 'The Cathedral of Florence, such a stunning facade.'
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-3.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Art selling around the Cathedral.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-5.jpg
-    - imagenew: >-
+    - imagedescription: So happy on our first day in Florence!
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-7.jpg
-    - imagenew: >-
+    - imagedescription: The Cathedral was so stunning!
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-6.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: A close up of the beautiful colors.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-10.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: ''
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-8.jpg
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-9.jpg
