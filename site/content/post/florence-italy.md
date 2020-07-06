@@ -45,140 +45,191 @@ gallery:
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-9.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Views walking along the Arno River.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-16.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Sculptures within the Piazza della Signoria.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-12.jpg
-    - imagenew: >-
+    - imagedescription: 'The Arno River, which flows through the middle of the city.'
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-17.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: The gorgeous colors of the streets of Florence.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-11.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Piazzale delgi Uffizi
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-15.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: An artist selling his pieces in Piazzale delgi Uffizi.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-14.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: People enjoying an evening on the Arno.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-18.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: The famous Ponte Vecchio!
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-19.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: View from inside Ponte Vecchio.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-24.jpg
-    - imagenew: >-
+    - imagedescription: Walking across Ponte Vecchio.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-22.jpg
-    - imagenew: >-
+    - imagedescription: View of the Arno from Ponte Vecchio.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-23.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Ponte Vecchio in evening light.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-20.jpg
-    - imagenew: >-
+    - imagedescription: Ponte Vecchio.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-21.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Views from walking around Florence.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-25.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: We watched the sunset from Piazzale Michelangelo.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-29.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: The view of sunset from Piazzale Michelangelo was beautiful.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-27.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Piazzale Michelangelo offered a great view of the Duomo.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-28.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Me in front of the Basilica di Santa Maria Novella.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-35.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: A charming book store front in the city.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-36.jpg
-    - imagenew: >-
+    - imagedescription: Fresh produce at a market around the city.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-37.jpg
-    - imagenew: >-
+    - imagedescription: 'The entrance to La Ménagère, a very cute cafe.'
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-33.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Me in front of La Ménagère.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-34.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: The florist stand inside La Ménagère.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-30.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Seating inside La Ménagère.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-32.jpg
-    - imagenew: >-
+    - imagedescription: Flowers for sale inside La Ménagère.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-31.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Views around the city center.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-26.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: A door knocker I couldn't pass up.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-38.jpg
-    - imagenew: >-
+    - imagedescription: I love the big beautiful doors in Europe.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-39.jpg
-    - imagenew: >-
+    - imagedescription: Ponte Vecchio at night.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-41.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: The Arno River in the evening light.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-40.jpg
-    - imagenew: >-
+    - imagedescription: We had a fun date at Il Santo Bevitore.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-43.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: We had drinks at Picteau Cocktail Bar on the water.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-42.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Our second day in Florence started with a walk along the Arno.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-44.jpg
-    - imagenew: >-
+    - imagedescription: A scooter tour driving around Florence.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-45.jpg
-    - imagenew: >-
+    - imagedescription: Basilica of Santa Croce
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-47.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: A darling Florence restaurant.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-48.jpg
-    - imagenew: >-
+    - imagedescription: This table charmed me!
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-49.jpg
-    - imagenew: >-
+    - imagedescription: We spent a day in the Boboli Gardens!
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-51.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: ''
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-60.jpg
-    - imagenew: >-
+    - imagedescription: Statues in the Boboli Gardens
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-55.jpg
-    - imagenew: >-
+    - imagedescription: Views from inside Boboli Gardens.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-50.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Boboli Gardens
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-54.jpg
-    - imagenew: >-
+    - imagedescription: Boboli Garden's statue
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-53.jpg
-    - imagenew: >-
+    - imagedescription: My favorite part of Boboli Gardens.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-64.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Walking around this little garden within Boboli Gardens.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-62.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Gorgeous views from within Boboli Gardens.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-52.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Statue inside Boboli Gardens.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-56.jpg
-    - imagenew: >-
+    - imagedescription: Fontana dell'Oceano inside Boboli Gardens.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-58.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Nate walking towards Fontana dell'Oceano.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-57.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Fontana dell'Oceano.
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-59.jpg
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-63.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Boboli Gardens was so vast!
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-61.jpg
       size: true
 ---
