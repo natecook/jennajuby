@@ -262,13 +262,13 @@ Dessert: [Gelateria Edoardo](https://goo.gl/maps/oEaV91aYJMW3nKeKA), [Gelateria 
 
 **Activities**
 
-* Spend the afternoon walking around Boboli Gardens, which also has beautiful views of the city from inside as well
-* See the sunset over the city at Piazzale Michelangelo and make sure get there early to beat the crowds, have dinner at Beppe Fioraia near by afterwards
-* Walk along the Arno, see Point Vecchio, and walk across to explore the other side of the city
-* See the Piazza del Duomo, Cathedral Santa Maria del Fiore, Giotto’s Bell Tower right in the center of the city, and grab gelato at Edoardo near by
-* Take an official tour of the Giardino Torrigiani private gardens
-* Walk around Piazza della Repubblica and grab a drink at one of the caffe’s inside and people watch to your hearts desire!
-* Explore one of the most famous art museum in the world, Uffizi Gallery
-* See the Piazza della Signoria, Palazzo Vecchio, and the outdoor sculptures at Loggia dei Lanzi, an icon and must see part of the city center of Florence
+* Spend the afternoon walking around [Boboli Gardens](https://goo.gl/maps/7pHmgiLME63DGJZV6), which also has beautiful views of the city from inside as well
+* See the sunset over the city at [Piazzale Michelangelo](https://goo.gl/maps/ECoP8XStcB5faR3d9) and make sure get there early to beat the crowds, have dinner at Beppe Fioraia near by afterwards
+* Walk along the Arno, see [Ponte Vecchio](https://goo.gl/maps/FfARadsNmgsmML8a9), and walk across to explore the other side of the city
+* See the famous [Piazza del Duomo](https://goo.gl/maps/i3FhiPwWMvYZcsCh7) and check out the [Cathedral Santa Maria del Fiore](https://goo.gl/maps/cuxZejSnTLSNydk9A), [Giotto’s Bell Tower](https://goo.gl/maps/W2WBd1nS3MprhDYK8) right in the center of the city, and grab gelato at [Gelateria Edoardo](https://goo.gl/maps/cevUZNrdZE5bmwpz7) nearby
+* Take an official tour of the [Giardino Torrigiani](https://goo.gl/maps/64o1WUb87ksEy2L77) private gardens (make sure to get tickets ahead of time)
+* Walk around [Piazza della Repubblica](https://goo.gl/maps/dVgaLxpG8JBzgAgr7) and grab a drink at one of the caffe’s inside and people watch to your hearts desire!
+* Explore one of the most famous art museum in the world, [Uffizi Gallery](https://g.page/uffizigalleries?share)
+* See the [Piazza della Signoria](https://goo.gl/maps/ZTT2awmRHp2sExGdA), [Palazzo Vecchio](https://goo.gl/maps/aD724UY483VDuz55A), and the outdoor sculptures at [Loggia dei Lanzi](https://goo.gl/maps/AnyGXxeiTxV9p1bQ6), an iconic and must see part of the city center of Florence
 * Take a day trip to Tuscany, the Chianti region to be exact, and visit some beautiful wineries (I’ll do a whole post on my suggestions in this area)
-* See the gardens at Giardino dell’Orticulura and have a drink in the cafe there
+* See the gardens at [Giardino dell’Orticulura](https://goo.gl/maps/pidgxysCRFCmZmKE6) and have a drink in the cafe there
