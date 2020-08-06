@@ -1,7 +1,10 @@
 ---
 title: 'Florence, Italy'
 date: 2020-07-01T23:00:00.000Z
-description: This will be the intro
+description: >-
+  Our third stop on our tour through Italy was Florence! We planned to only
+  spend 3 days there but had a change of plans due to weather and ended up in
+  Florence a few extra days.
 image: /img/florence_blog-16.jpg
 gallery:
   photos:
@@ -233,4 +236,38 @@ gallery:
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-61.jpg
       size: true
 ---
-this is the body text
+Our third stop on our tour through Italy was Florence! We planned to only spend 3 days there but had a change of plans due to weather and ended up in Florence a few extra days. The city is a lot smaller than I imagined it, especially after coming from Rome, so it was easy to see a lot of it and welcomed change of pace.  We ended up taking a day trip to the wine region of Chianti and another to the leaning tower of Piazza while we were there as well. In all we spent three days exploring Florence itself and it was such a beautiful city! It felt very relaxed and the architecture was beautiful to wander around and feast our eyes on. The city is full of so many pretty gardens and piazza’s, not to mention great food and museums. My favorite evening was our romantic dinner at Il Santo Bevitore with walk along the arno afterwards with gelato.  Speaking of gelato, some of the best we had was here in Florence, at Gelateria Edoardo, we went three times! I hope this list of places to eat, drink, be merry, and explore is helpful if you plan to visit Italy once travel is opened up again!
+
+**Eats & Treats**
+
+Coffee: [Ditta Artigianale](https://g.page/ditta-artigianale-firenze?share)
+
+Breakfast: [Melaleuca bakery + bistrot](https://g.page/Melaleucaflorence?share)
+
+Brunch: [La Ménagère](https://goo.gl/maps/VdCVCMs3AGaWHZpr9)
+
+Lunch: [Osteria All’antico Vinaio](https://goo.gl/maps/BkgMoUcxQGxzLz5L6)
+
+Pizza: [Il Pizzaiuolo](https://goo.gl/maps/2LH9754iJWNB9Uof6), [Santarpia](https://g.page/dujepizzeria?share), [Ciro and Sons](https://g.page/ciroandsons?share)
+
+Snack: [Semel](https://goo.gl/maps/BF1cw8PPHyvWANVp7), [Ino](https://g.page/inopanino?share)
+
+Aperitivo: [Santarosa Bistrot](https://goo.gl/maps/jsVj8gg7GMiq9oaM7), [Le Murate Caffe Letterario](https://goo.gl/maps/wSKZeJwWKAw8QzB6A), [Picteau Cocktail Bar](https://goo.gl/maps/b7uxKJKnfLmK4SzdA)
+
+Dinner: [Il Santo Bevitore](https://goo.gl/maps/iGZrpEi1YqPtSs798), [Beppa Fioraia](https://g.page/labeppafioraia?share)
+
+Dessert: [Gelateria Edoardo](https://goo.gl/maps/oEaV91aYJMW3nKeKA), [Gelateria Artigianale La Sorbettiera](https://g.page/gelateria-lasorbettiera?share)
+
+
+
+**Activities**
+
+* Boboli Gardens
+* Sunset at Piazzale Michelangelo
+* Walk along the Arno, see Point Vecchio, and walk across it 
+* See the Piazza del Duomo, Cathedral Santa Maria del Fiore, Giotto’s Bell Tower
+* Walk around Piazza della Repubblica and grab a drink at one of the caffe’s inside
+* See the Piazza della Signoria, Palazzo Vecchio, and the outdoor sculptures at Loggia dei Lanzi
+* Take a day trip to Tuscany, the Chianti region to be exact, and visit some beautiful wineries, that I’ll do it’s own post on!
+* See the gardens at Giardino dell’Orticulura and have a drink in the cafe there
+* Take an official tour of the Giardino Torrigiani private gardens
