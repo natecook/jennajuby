@@ -262,12 +262,12 @@ Dessert: [Gelateria Edoardo](https://goo.gl/maps/oEaV91aYJMW3nKeKA), [Gelateria 
 
 **Activities**
 
-* Boboli Gardens
-* Sunset at Piazzale Michelangelo
-* Walk along the Arno, see Point Vecchio, and walk across it 
-* See the Piazza del Duomo, Cathedral Santa Maria del Fiore, Giotto’s Bell Tower
-* Walk around Piazza della Repubblica and grab a drink at one of the caffe’s inside
-* See the Piazza della Signoria, Palazzo Vecchio, and the outdoor sculptures at Loggia dei Lanzi
-* Take a day trip to Tuscany, the Chianti region to be exact, and visit some beautiful wineries, that I’ll do it’s own post on!
-* See the gardens at Giardino dell’Orticulura and have a drink in the cafe there
+* Spend the afternoon walking around Boboli Gardens, which also has beautiful views of the city from inside as well
+* See the sunset over the city at Piazzale Michelangelo and make sure get there early to beat the crowds, have dinner at Beppe Fioraia near by afterwards
+* Walk along the Arno, see Point Vecchio, and walk across to explore the other side of the city
+* See the Piazza del Duomo, Cathedral Santa Maria del Fiore, Giotto’s Bell Tower right in the center of the city, and grab gelato at Edoardo near by
 * Take an official tour of the Giardino Torrigiani private gardens
+* Walk around Piazza della Repubblica and grab a drink at one of the caffe’s inside and people watch to your hearts desire!
+* See the Piazza della Signoria, Palazzo Vecchio, and the outdoor sculptures at Loggia dei Lanzi, an icon and must see part of the city center of Florence
+* Take a day trip to Tuscany, the Chianti region to be exact, and visit some beautiful wineries (I’ll do a whole post on my suggestions in this area)
+* See the gardens at Giardino dell’Orticulura and have a drink in the cafe there
