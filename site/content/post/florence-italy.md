@@ -236,7 +236,7 @@ gallery:
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Florence/Florence_Blog-61.jpg
       size: true
 ---
-Our third stop on our tour through Italy was Florence! We planned to only spend 3 days there but had a change of plans due to weather and ended up in Florence a few extra days. The city is a lot smaller than I imagined it, especially after coming from Rome, so it was easy to see a lot of it and welcomed change of pace.  We ended up taking a day trip to the wine region of Chianti and another to the leaning tower of Piazza while we were there as well. In all we spent three days exploring Florence itself and it was such a beautiful city! It felt very relaxed and the architecture was beautiful to wander around and feast our eyes on. The city is full of so many pretty gardens and piazza’s, not to mention great food and museums. My favorite evening was our romantic dinner at Il Santo Bevitore with walk along the arno afterwards with gelato.  Speaking of gelato, some of the best we had was here in Florence, at Gelateria Edoardo, we went three times! I hope this list of places to eat, drink, be merry, and explore is helpful if you plan to visit Italy once travel is opened up again!
+Our third stop on our tour through Italy was Florence! We planned to only spend 3 days there but had a change of plans due to weather and ended up in Florence a few extra days. The city is a lot smaller than I imagined it, especially after coming from Rome, so it was easy to see a lot of it.  We ended up taking a day trip to the wine region of Chianti and another to the leaning tower of Pisa while we were there as well. In all we spent three days exploring Florence itself and it was such a beautiful city! It felt very relaxed and the architecture was beautiful to wander around and feast our eyes on. The city is full of so many pretty gardens and piazza’s, not to mention great food and museums. My favorite evening was our romantic dinner at Il Santo Bevitore with a walk along the Arno afterwards with gelato.  Speaking of gelato, some of the best we had was here in Florence, at Gelateria Edoardo, we went three times! I hope this list of places to eat, drink, be merry, and explore is helpful if you plan to visit Italy once travel is opened up again!
 
 **Eats & Treats**
 
@@ -268,6 +268,7 @@ Dessert: [Gelateria Edoardo](https://goo.gl/maps/oEaV91aYJMW3nKeKA), [Gelateria 
 * See the Piazza del Duomo, Cathedral Santa Maria del Fiore, Giotto’s Bell Tower right in the center of the city, and grab gelato at Edoardo near by
 * Take an official tour of the Giardino Torrigiani private gardens
 * Walk around Piazza della Repubblica and grab a drink at one of the caffe’s inside and people watch to your hearts desire!
+* Explore one of the most famous art museum in the world, Uffizi Gallery
 * See the Piazza della Signoria, Palazzo Vecchio, and the outdoor sculptures at Loggia dei Lanzi, an icon and must see part of the city center of Florence
 * Take a day trip to Tuscany, the Chianti region to be exact, and visit some beautiful wineries (I’ll do a whole post on my suggestions in this area)
 * See the gardens at Giardino dell’Orticulura and have a drink in the cafe there
