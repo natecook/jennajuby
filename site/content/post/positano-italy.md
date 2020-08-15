@@ -12,57 +12,80 @@ gallery:
     - imagedescription: Walking around the charming village
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Positano/Positano_Blog-5.jpg
-    - imagenew: >-
+    - imagedescription: The village was beautiful with flowers everywhere
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Positano/Positano_Blog-6.jpg
-    - imagenew: >-
+    - imagedescription: >-
+        The Amalfi coast is known for it's lemons which are beautifully painted
+        on everything!
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Positano/Positano_Blog-2.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Our brunch at Casa e Bottega
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Positano/Positano_Blog-3.jpg
-    - imagenew: >-
+    - imagedescription: Casa e Bottega was beautiful inside and had delicious food
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Positano/Positano_Blog-4.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: This area on the pier was the perfect backdrop for photos of the village
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Positano/Positano_Blog-8.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: The view of Positano looking up from the pier
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Positano/Positano_Blog-9.jpg
-    - imagenew: >-
+    - imagedescription: This place will make you want to take 1 million photos!
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Positano/Positano_Blog-10.jpg
-    - imagenew: >-
+    - imagedescription: I even convinced Nate to pose for a few!
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Positano/Positano_Blog-13.jpg
-    - imagenew: >-
+    - imagedescription: Walking through the town on our way to get gelato
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Positano/Positano_Blog-14.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: 'As you can tell, I loved Positano'
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Positano/Positano_Blog-15.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Artwork for sale in the village
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Positano/Positano_Blog-7.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: A beautiful sight while walking around the town
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Positano/Positano_Blog-17.jpg
-    - imagenew: >-
+    - imagedescription: Gorgeous painted ceramics like these pots were everywhere
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Positano/Positano_Blog-18.jpg
-    - imagenew: >-
+    - imagedescription: 'We spent a second day in Positano, this time coming in by ferry'
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Positano/Positano_Blog-16.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Views from the ferry coming into Positano
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Positano/Positano_Blog-19.jpg
-    - imagenew: >-
+    - imagedescription: A view of Positano from the water
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Positano/Positano_Blog-20.jpg
-    - imagenew: >-
+    - imagedescription: A view of the village on our way walking to breakfast
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Positano/Positano_Blog-25.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Another view of the town from the ferry coming in
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Positano/Positano_Blog-24.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Nate enjoying his coffee with a view at Cafe Positano
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Positano/Positano_Blog-22.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Another photo from Cafe Positano
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Positano/Positano_Blog-23.jpg
-    - imagenew: >-
+    - imagedescription: A view of the beach from Cafe Positano
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Positano/Positano_Blog-21.jpg
       size: false
     - imagenew: >-
