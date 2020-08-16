@@ -192,7 +192,7 @@ gallery:
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Positano/Positano_Blog-53.jpg
       size: true
 ---
-The second place we went on our tour of Italy was the Amalfi Coast! We stayed in Sorrento and took day trips out to Capri and Positano from there. We were in the area for 3 days and ended up spending 2 of the days in Positano. The Amalfi Coast is a little complicated to navigate if you are planning a trip there, so I’ll do a separate post on planning your time in the area and how to best lay it all out. I will say that if we get to go again, I will book our stay in the town of Positano itself instead of Sorrento. Positano is definitely the place you picture yourself in when you envision a trip to the Amalfi Coast and it’s not super convenient to get to and from other places, so being able to spend the bulk of your time there would make the most sense to me! Plus, it’s gorgeous, but I’m sure you already know that.
+The second place we went on our tour of Italy was the Amalfi Coast! We stayed in Sorrento and took day trips out to Capri and Positano from there. We were in the area for 3 days and ended up spending 2 of the days in Positano. The Amalfi Coast is a little complicated to navigate if you are planning a trip there, so I’ll add some tips and tricks to navigating the area below.
 
 Our first day there we rented a car in Sorrento and drove the 50 minutes to Positano.  The drive in is all along the coast and the views are stunning the whole time! As you’ll learn, the drive is not for the faint of heart...it’s fast, busy, windy, and I had to drive it in a manual car. I wish I had gotten some cute photos of me driving because the car was an adorable white fiat convertible but alas I was distracted keeping us alive.  So, it was an interesting experience to say the least, but worth it for the ocean views! 
 
@@ -224,3 +224,11 @@ Honorable mentions: [Il Fornillo](https://goo.gl/maps/x9hihbXrAcn2XoYM7), [Da Ga
 * Take one of the many boat tours available in Positano, Blue Star is a recommended company!
 * Walk down to the pier for amazing photos and walk along the beach, grabbing a drink at one of the many cafe’s and bars along the water.
 * See the beautiful [“Church of Saint Mary of the Assumption”](https://goo.gl/maps/Jeh1afi35Kafp8qh7), which used to be part of a monastery.
+
+Tips & Tricks
+
+* Book your accommodations in Positano. There are lots of places to stay in the Amalfi Coast area...Sorrento, Capri, Amalfi, Naples, Ravello, the list goes on. You'll find different reasons people say you should stay in each place, but if you can afford it, stay in Positano. You'll want to spend the bulk of your time here anyway, it's the most quintessential place you are picturing when you think about the Amalfi Coast, and you can take ferries or buses to all the other towns. Trust me, this will make your time here so much less hectic if you just stay in Positano. 
+* The village of Positano is VERY hilly (obviously), but plan on walking up and down stairs constantly and everything taking a lot longer to get to than you anticipate. My advise it to take it slow, stop a lot to window shop or grab a drink.
+* Visit in May or September when
+
+I will say that if we get to go again, I will book our stay in the town of Positano itself instead of Sorrento. Positano is definitely the place you picture yourself in when you envision a trip to the Amalfi Coast and it’s not super convenient to get to and from other places, so being able to spend the bulk of your time there would make the most sense to me! Plus, it’s gorgeous, but I’m sure you already know that.
