@@ -88,76 +88,104 @@ gallery:
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Positano/Positano_Blog-21.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: The views just walking around the village are incredible
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Positano/Positano_Blog-26.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: 'One of the many lookouts, close to Cafe Positano'
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Positano/Positano_Blog-27.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Looking out onto the sea from the town
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Positano/Positano_Blog-43.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Some of the gorgeous ceramics for sale
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Positano/Positano_Blog-12.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: 'My favorite view of Positano, on our walk to Franco''s Bar'
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Positano/Positano_Blog-30.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Our daybed rentals at "La Scogliera" resort
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Positano/Positano_Blog-33.jpg
-    - imagenew: >-
+    - imagedescription: >-
+        Spending the day lounging at "La Scogliera" was one of the best things
+        we did in Italy
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Positano/Positano_Blog-34.jpg
-    - imagenew: >-
+    - imagedescription: Looking down on the beach on our walk to Franco's Bar
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Positano/Positano_Blog-31.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Enjoying some sparkling rose at the resort
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Positano/Positano_Blog-35.jpg
       size: false
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Positano/Positano_Blog-36.jpg
-    - imagenew: >-
+    - imagedescription: That little head floating in the water is Nate!
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Positano/Positano_Blog-41.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: 'This may be my ideal combo...a book, the ocean, and something bubbly'
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Positano/Positano_Blog-37.jpg
-    - imagenew: >-
+    - imagedescription: Nate coming in from a swim
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Positano/Positano_Blog-38.jpg
       size: false
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Positano/Positano_Blog-39.jpg
-    - imagenew: >-
+    - imagedescription: Me and my favorite travel buddy
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Positano/Positano_Blog-40.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: On our walk to Franco's Bar after our day at the resort
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Positano/Positano_Blog-42.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Lookout on the way to Franco's
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Positano/Positano_Blog-29.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: The colors of the village as the sun is going down are so stunning
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Positano/Positano_Blog-47.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Enjoying a cocktail at Franco's Bar
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Positano/Positano_Blog-45.jpg
-    - imagenew: >-
+    - imagedescription: My second drink had an actual photo of Positano on it!
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Positano/Positano_Blog-46.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: The backdrop of Franco's Bar is unreal!
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Positano/Positano_Blog-44.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: The view from our walk to dinner
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Positano/Positano_Blog-48.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: That little corner at "Il Capitano" is where we sat for dinner!
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Positano/Positano_Blog-49.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Possibly the best table we've ever snagged!
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Positano/Positano_Blog-50.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Our dinner at "Il Capitano" was magical
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Positano/Positano_Blog-51.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: >-
+        I tried to plan every dinner so that we got to watch the sunset, it was
+        worth it!
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Positano/Positano_Blog-53.jpg
       size: true
 ---
