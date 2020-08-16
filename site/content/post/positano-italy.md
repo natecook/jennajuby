@@ -217,10 +217,10 @@ Honorable mentions: [Il Fornillo](https://goo.gl/maps/x9hihbXrAcn2XoYM7), [Da Ga
 # Activities
 
 * Spend the day at [La Scogliera](https://goo.gl/maps/qF4wo6dAB3BBEH8k9) resort, you have to reserve your loungers ahead of time, it was some of the best money we spent!
-* Shop around the village, there are so many artisan vendors from clothing boutiques to ceramics
-* Get a drink at Franco’s Bar, this is an event in itself because people get VERY intense about getting there early and snagging a table with a view. I would line up 15-20 minutes before they even open to get a good stop and then take your grand old time and drink the night away!
+* Shop around the village, there are so many artisan vendors from clothing boutiques to ceramics.
+* Get a drink at [Franco’s Bar](https://goo.gl/maps/3SuvYVekKLqLJkRVA), this is an event in itself because people get VERY intense about getting there early and snagging a table with a view. I would line up 15-20 minutes before they even open to get a good stop and then take your grand old time and drink the night away!
 * Eat every single meal with a view of the village and sea, there’s no reason not to 
-* Spend the day on a private beach at Arienzo Beach Club, which is only accessible by boat!
+* Spend the day on a private beach at [Arienzo Beach Club](https://g.page/arienzobeachclub?share), which is only accessible by boat!
 * Take one of the many boat tours available in Positano, Blue Star is a recommended company!
-* Walk down to the pier for amazing photos and walk along the beach, grabbing a drink at one of the many cafe’s and bars along the water
-* See the beautiful “Church of Saint Mary of the Assumption”, which used to be part of a monastery
+* Walk down to the pier for amazing photos and walk along the beach, grabbing a drink at one of the many cafe’s and bars along the water.
+* See the beautiful [“Church of Saint Mary of the Assumption”](https://goo.gl/maps/Jeh1afi35Kafp8qh7), which used to be part of a monastery.
