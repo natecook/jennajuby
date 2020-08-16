@@ -196,29 +196,27 @@ The second place we went on our tour of Italy was the Amalfi Coast! We stayed in
 
 Our first day there we rented a car in Sorrento and drove the 50 minutes to Positano.  The drive in is all along the coast and the views are stunning the whole time! As you’ll learn, the drive is not for the faint of heart...it’s fast, busy, windy, and I had to drive it in a manual car. I wish I had gotten some cute photos of me driving because the car was an adorable white fiat convertible but alas I was distracted keeping us alive.  So, it was an interesting experience to say the least, but worth it for the ocean views! 
 
-Our first day in Positano we spent exploring the town, shopping, and eating our way around while sightseeing.  The second day we arrived in Positano by ferry and spent the day at a beach club lounging by the ocean, it was very dreamy and one of our favorite things we did while in Italy! Positano is small and you could easily combine both of these days in one, although it would be a little busier of course. As you probably already know, this place is one of the most beautiful places on the planet! The views of Positano from the water and the views of it from inside the town seem like they can’t be real, a true postcard of a place.  There are so many yummy places to eat and drink but below I listed my favorites...most of them have a view from the table, because if not, what is even the point!?
+Our first day in Positano we spent exploring the town, shopping, and eating our way around while sightseeing.  The second day we arrived in Positano by ferry and spent the day at a [beach club](https://goo.gl/maps/qF4wo6dAB3BBEH8k9) lounging by the ocean, it was very dreamy and one of our favorite things we did while in Italy! Positano is small and you could easily combine both of these days in one, although it would be a little busier of course. As you probably already know, this place is one of the most beautiful places on the planet! The views of Positano from the water and the views of it from inside the town seem like they can’t be real, a true postcard of a place.  There are so many yummy places to eat and drink but below I listed my favorites...most of them have a view from the table, because if not, what is even the point!?
 
 # Eats & Treats
 
-Bakery: Collina Positano Bakery
+Breakfast / Brunch: [Casa e Bottega](https://g.page/Casaebottegapositano?share)
 
-Breakfast / Brunch: Casa e Bottega
+Lunch: [Chez Black](https://goo.gl/maps/Q8RSbqGRZ6MYGx5A8)
 
-Lunch: Chez Black
+Gelato: [Collina Bakery](https://goo.gl/maps/iRvokrwqxNXotrJ4A)
 
-Gelato: Collina Bakery
+Aperitivo: [Franco’s Bar](https://goo.gl/maps/D5ZiXjuprS1tdiHN7), [Champagne Bar at Le Sirenuse](https://goo.gl/maps/4QifodTb4LAWvr2G6)
 
-Aperitivo: Franco’s Bar, Champagne Bar at Le Sirenuse
+Dinner: [Il Capitano](https://goo.gl/maps/cWoMyys7iBpm2nTL6), [Da Vincenzo](https://goo.gl/maps/NzUf5NR1dTMoA1Rn8)
 
-Dinner: Il Capitano, Da Vincenzo
-
-Honorable mentions: Il Fornillo, Da Gabrisa, Da Vincenzo
+Honorable mentions: [Il Fornillo](https://goo.gl/maps/x9hihbXrAcn2XoYM7), [Da Gabrisa](https://g.page/dagabrisa?share), [Cafe Positano](https://g.page/caffe-positano-positano?share) (go for the view, not the food)
 
 
 
 # Activities
 
-* Spend the day at La Scogliera resort, you have to reserve your loungers ahead of time, it was some of the best money we spent!
+* Spend the day at [La Scogliera](https://goo.gl/maps/qF4wo6dAB3BBEH8k9) resort, you have to reserve your loungers ahead of time, it was some of the best money we spent!
 * Shop around the village, there are so many artisan vendors from clothing boutiques to ceramics
 * Get a drink at Franco’s Bar, this is an event in itself because people get VERY intense about getting there early and snagging a table with a view. I would line up 15-20 minutes before they even open to get a good stop and then take your grand old time and drink the night away!
 * Eat every single meal with a view of the village and sea, there’s no reason not to 
