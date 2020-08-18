@@ -2,9 +2,8 @@
 title: 'Positano, Italy'
 date: 2020-08-13T04:00:00.000Z
 description: >-
-  The second place we went on our tour of Italy was the Amalfi Coast! We stayed
-  in Sorrento and took day trips out to Capri and Positano from there. We were
-  in the area for 3 days and ended up spending 2 of the days in Positano.
+  The second place we went on our tour of Italy was the Amalfi Coast! The town
+  of Positano was so beautiful we ended up spending 2 days there!
 image: /img/positano_blog-8.jpg
 gallery:
   photos:
@@ -194,9 +193,11 @@ gallery:
 ---
 The second place we went on our tour of Italy was the Amalfi Coast! We stayed in Sorrento and took day trips out to Capri and Positano from there. We were in the area for 3 days and ended up spending 2 of the days in Positano. The Amalfi Coast is a little complicated to navigate if you are planning a trip there, so I’ll add some tips and tricks to navigating the area below.
 
-Our first day there we rented a car in Sorrento and drove the 50 minutes to Positano.  The drive in is all along the coast and the views are stunning the whole time! As you’ll learn, the drive is not for the faint of heart...it’s fast, busy, windy, and I had to drive it in a manual car. I wish I had gotten some cute photos of me driving because the car was an adorable white fiat convertible but alas I was distracted keeping us alive.  So, it was an interesting experience to say the least, but worth it for the ocean views! 
+Our first day there we rented a car in Sorrento and drove the 50 minutes to Positano.  The drive in is all along the coast and the views are stunning the whole time! As you’ll learn, the drive is not for the faint of heart...it’s fast, busy, winding, and I had to drive it in a manual car. I wish I had gotten some cute photos of me driving because the car was an adorable white fiat convertible but alas I was distracted keeping us alive.  So, it was an interesting experience to say the least, but worth it for the ocean views! 
 
-Our first day in Positano we spent exploring the town, shopping, and eating our way around while sightseeing.  The second day we arrived in Positano by ferry and spent the day at a [beach club](https://goo.gl/maps/qF4wo6dAB3BBEH8k9) lounging by the ocean, it was very dreamy and one of our favorite things we did while in Italy! Positano is small and you could easily combine both of these days in one, although it would be a little busier of course. As you probably already know, this place is one of the most beautiful places on the planet! The views of Positano from the water and the views of it from inside the town seem like they can’t be real, a true postcard of a place.  There are so many yummy places to eat and drink but below I listed my favorites...most of them have a view from the table, because if not, what is even the point!?
+Our first day in Positano we spent exploring the town, shopping, and eating our way around while sightseeing.  The second day we arrived in Positano by ferry and spent the day at a [beach club](https://goo.gl/maps/qF4wo6dAB3BBEH8k9) lounging by the ocean.  That afternoon was so dreamy and one of our favorite things we did while in Italy! And as you can see, Positano is small, so you could easily combine both of these days in one if you needed. 
+
+The views of Positano from the water and the views of it from inside the town seem like they can’t be real, a true postcard of a place.  There are so many yummy places to eat and drink but below I listed my favorites...most of them have a view from the table, because if not, why bother!?
 
 # Eats & Treats
 
