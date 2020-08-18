@@ -3,6 +3,12 @@ heading: Travel Photography
 description: List of places we've loved and great things to see at each place.
 intro:
   blurbs:
+    - image: /img/positano_blog-8.jpg
+      text: 'Positano, Italy'
+      url: /post/positano-italy/
+    - image: /img/rome_blog-35.jpg
+      text: 'Rome, Italy'
+      url: /post/rome-italy/
     - image: /img/tennessee-blog-21.jpg
       text: 'The Great Smoky Mountains, Tennessee'
       url: /post/the-great-smoky-mountains-tennessee/
