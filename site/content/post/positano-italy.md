@@ -229,6 +229,8 @@ Tips & Tricks
 
 * Book your accommodations in Positano. There are lots of places to stay in the Amalfi Coast area...Sorrento, Capri, Amalfi, Naples, Ravello, the list goes on. You'll find different reasons people say you should stay in each place, but if you can afford it, stay in Positano. You'll want to spend the bulk of your time here anyway, it's the most quintessential place you are picturing when you think about the Amalfi Coast, and you can take ferries or buses to all the other towns. Trust me, this will make your time here so much less hectic if you just stay in Positano. 
 * The village of Positano is VERY hilly (obviously), but plan on walking up and down stairs constantly and everything taking a lot longer to get to than you anticipate. My advise it to take it slow, stop a lot to window shop or grab a drink.
-* Visit in May or September when
-
-I will say that if we get to go again, I will book our stay in the town of Positano itself instead of Sorrento. Positano is definitely the place you picture yourself in when you envision a trip to the Amalfi Coast and it’s not super convenient to get to and from other places, so being able to spend the bulk of your time there would make the most sense to me! Plus, it’s gorgeous, but I’m sure you already know that.
+* Visit in May or September when the weather is cooler and the crowds are smaller
+* Make reservations for any dinners or clubs you plan to visit. Positano is really popular and places book out far ahead of time.
+* Get to Franco's bar at least 20 minutes before they open, a line will have already formed, and you want to be as close to the front as possible to get a table with a view!
+* If you don't stay in Positano while visiting Amalfi Coast, I would take a ferry in to see the town for the day (again book this as far out as you can), then you can avoid the traffic whether you're in a bus, car, or scooter.
+*
