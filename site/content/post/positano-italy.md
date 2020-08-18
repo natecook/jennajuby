@@ -221,11 +221,11 @@ Honorable mentions: [Il Fornillo](https://goo.gl/maps/x9hihbXrAcn2XoYM7), [Da Ga
 * Get a drink at [Franco’s Bar](https://goo.gl/maps/3SuvYVekKLqLJkRVA), this is an event in itself because people get VERY intense about getting there early and snagging a table with a view. I would line up 15-20 minutes before they even open to get a good stop and then take your grand old time and drink the night away!
 * Eat every single meal with a view of the village and sea, there’s no reason not to 
 * Spend the day on a private beach at [Arienzo Beach Club](https://g.page/arienzobeachclub?share), which is only accessible by boat!
-* Take one of the many boat tours available in Positano, Blue Star is a recommended company!
+* Take one of the many boat tours available, [Blue Star](http://www.bluestarpositano.it/english.htm) is a recommended company!
 * Walk down to the pier for amazing photos and walk along the beach, grabbing a drink at one of the many cafe’s and bars along the water.
 * See the beautiful [“Church of Saint Mary of the Assumption”](https://goo.gl/maps/Jeh1afi35Kafp8qh7), which used to be part of a monastery.
 
-Tips & Tricks
+# Tips & Tricks
 
 * Book your accommodations in Positano. There are lots of places to stay in the Amalfi Coast area...Sorrento, Capri, Amalfi, Naples, Ravello, the list goes on. You'll find different reasons people say you should stay in each place, but if you can afford it, stay in Positano. You'll want to spend the bulk of your time here anyway, it's the most quintessential place you are picturing when you think about the Amalfi Coast, and you can take ferries or buses to all the other towns. Trust me, this will make your time here so much less hectic if you just stay in Positano. 
 * The village of Positano is VERY hilly (obviously), but plan on walking up and down stairs constantly and everything taking a lot longer to get to than you anticipate. My advise it to take it slow, stop a lot to window shop or grab a drink.
@@ -233,4 +233,3 @@ Tips & Tricks
 * Make reservations for any dinners or clubs you plan to visit. Positano is really popular and places book out far ahead of time.
 * Get to Franco's bar at least 20 minutes before they open, a line will have already formed, and you want to be as close to the front as possible to get a table with a view!
 * If you don't stay in Positano while visiting Amalfi Coast, I would take a ferry in to see the town for the day (again book this as far out as you can), then you can avoid the traffic whether you're in a bus, car, or scooter.
-*
