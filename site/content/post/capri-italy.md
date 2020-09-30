@@ -142,14 +142,11 @@ gallery:
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Capri/Capri_Blog-73.jpg
     - imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Capri/Capri_Blog-67.jpg
-    - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Capri/Capri_Blog-68.jpg
     - imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Capri/Capri_Blog-70.jpg
+        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Capri/Capri_Blog-67.jpg
     - imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Capri/Capri_Blog-72.jpg
-      size: false
+        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Capri/Capri_Blog-70.jpg
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Capri/Capri_Blog-71.jpg
       size: true
