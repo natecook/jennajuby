@@ -2,7 +2,7 @@
 title: 'Capri, Italy'
 date: 2020-09-30T01:30:00.000Z
 description: this is intro blurb
-image: /img/cali-blog.jpg
+image: /img/capri_blog-71.jpg
 gallery:
   photos:
     - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Capri/Capri_Blog-7.jpg'
