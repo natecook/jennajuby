@@ -186,13 +186,15 @@ gallery:
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Capri/Capri_Blog-67.jpg
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Capri/Capri_Blog-70.jpg
-    - imagedescription: The marina in Capri.
-      imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Capri/Capri_Blog-71.jpg
-      size: true
+    - imagenew: /img/capri_blog-75.jpg
+      size: false
     - imagedescription: 'A look up at Capri from the marina. '
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Capri/Capri_Blog-74.jpg
+      size: false
+    - imagedescription: The marina in Capri.
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Capri/Capri_Blog-71.jpg
       size: true
 ---
 this is the body
