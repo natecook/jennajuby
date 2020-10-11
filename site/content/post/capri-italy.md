@@ -1,7 +1,12 @@
 ---
 title: 'Capri, Italy'
 date: 2020-09-30T01:30:00.000Z
-description: this is intro blurb
+description: >-
+  Beautiful Capri was the second place we explored while in the Amalfi Coast
+  area! I was more excited about Capri than maybe anywhere else while planning
+  our trip to Italy. Thankfully, this little island lived up to all my
+  expectations, even with the rainy day we had there, which is just a testament
+  to how special this place is.
 image: /img/capri_blog-71.jpg
 gallery:
   photos:
@@ -197,14 +202,14 @@ gallery:
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Capri/Capri_Blog-71.jpg
       size: true
 ---
-Beautiful Capri was second place we explored while in the Amalfi Coast area! I was more excited about Capri than maybe anywhere else while planning our trip to Italy. Thankfully, this little island lived up to all my expectations, even with the rainy day we had, which is just a testament to how special this place is. Every store front is pristine, and looks like it was staged for a photo shoot. There were flowers EVERYWHERE, just adorning this entire island. Even the little details of Capri, like the directional signs on the foot paths were hand painted ceramic. The details of Capri were so detailed and completely gorgeous, and it is so clear why this island has quite the reputation.  Capri has been the backdrop of so many books and movies...not to mention the home of celebrity vacation houses and various helicopter landings. All that to say, Capri was straight out of a story book and I hope that comes through in all my photos because they were so fun to take and edit!
+Beautiful Capri was the second place we explored while in the Amalfi Coast area! I was more excited about Capri than maybe anywhere else while planning our trip to Italy. Thankfully, this little island lived up to all my expectations, even with the rainy day we had there, which is just a testament to how special this place is. Every store front is pristine, and looks like it was staged for a photo shoot. There are flowers EVERYWHERE, just adorning this entire island. Even the little details of Capri, like the directional signs on the foot paths were hand painted ceramic. It's obvious to me why this island has such a reputation! Capri has been the backdrop of so many books and movies...not to mention the location of celebrity vacation homes and various helicopter landings. All this to say, Capri was straight out of a story book and I hope that comes through in all my photos because they were so fun to take and edit!
 
-Below I’ll list all the things we did on the island and food recommendations, I hope we will all be traveling to this beautiful place soon once the world of covid has passed.
+Below I’ll list all the things we did on the island and my food recommendations.  I hope we will all be traveling to this beautiful place soon once the world of covid has passed!
 
 **Activities** 
 
-* Explore Capri town, the iconic center of the island, full of beautiful restaurants and shops, and Piazza Umberto to grab an aperitivo. It’s small and I recommend seeing every inch of it! If you do nothing else here, have gelato at [Buonocore Gelateria](https://goo.gl/maps/xRnEsSbLN6ynzt3U8), hands down the best gelato we had in Italy!
-* Go to [Villa San Michele](https://goo.gl/maps/MTSanmyraHcJt8dn8), the former dream home of a Swedish doctor in the late 1800’s. It’s built at high elevation with multiple levels, giving it incredible views of the ocean and island. The villa also has a beautiful garden, a cafe, and stunning art throughout. 
+* Explore Capri town, the iconic center of the island, full of beautiful restaurants and shops, and Piazza Umberto to grab an aperitivo at. It’s small, so there is no excuse not to see every inch of it! And if you do nothing else here, have gelato at [Buonocore Gelateria](https://goo.gl/maps/xRnEsSbLN6ynzt3U8), hands down the best gelato we had in Italy!
+* Go to [Villa San Michele](https://goo.gl/maps/MTSanmyraHcJt8dn8), the former dream home of a Swedish doctor in the late 1800’s. It’s built on the cliff side in Anacapri with multiple levels, giving it incredible views of the ocean and island. The villa also has a beautiful garden, a cafe, and stunning artwork throughout. 
 * See the view at [Belvedere Tragara](https://goo.gl/maps/FinZEomQaeSkrx4y6), an observation deck not too far from the center of Capri town.
 * Walk around Anacapri, shop at the antique shops, ride the chairlift to Monte Solaro, walk through Piazza Vittoria.
 * Walk down the very steep winding path to the Faraglioni rocks, eat at [Da Luigi ai Faraglioni](https://goo.gl/maps/dni3NmmPqDHi7UFo8), a beach club, and stay for the afternoon to sun on the rocks. Take the boat back to town instead of going back up path you walked down (we walked back up...it was...rough).
