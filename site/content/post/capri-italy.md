@@ -197,4 +197,31 @@ gallery:
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Capri/Capri_Blog-71.jpg
       size: true
 ---
-this is the body
+Beautiful Capri was second place we explored while in the Amalfi Coast area! I was more excited about Capri than maybe anywhere else while planning our trip to Italy. Thankfully, this little island lived up to all my expectations, even with the rainy day we had, which is just a testament to how special this place is. Every store front is pristine, and looks like it was staged for a photo shoot. There were flowers EVERYWHERE, just adorning this entire island. Even the little details of Capri, like the directional signs on the foot paths were hand painted ceramic. The details of Capri were so detailed and completely gorgeous, and it is so clear why this island has quite the reputation.  Capri has been the backdrop of so many books and movies...not to mention the home of celebrity vacation houses and various helicopter landings. All that to say, Capri was straight out of a story book and I hope that comes through in all my photos because they were so fun to take and edit!
+
+
+
+Below I’ll list all the things we did on the island and food recommendations, I hope we will all be traveling to this beautiful place soon once the world of covid has passed.
+
+**Activities** 
+
+* Explore Capri town, the iconic center of the island, full of beautiful restaurants and shops, and Piazza Umberto to grab an aperitivo. It’s small and I recommend seeing every inch of it! If you do nothing else here, have gelato at Buonocore Gelateria, hands down the best gelato we had in Italy!
+* Go to Villa San Michele, the former dream home of a Swedish doctor in the late 1800’s. It’s built at high elevation with multiple levels, giving it incredible views of the ocean and island. The villa also has a beautiful garden, a cafe, and stunning art throughout. 
+* See the view at Belvedere Tragara, an observation deck not too far from the center of Capri town.
+* Walk around Anacapri, shop at the antique shops, ride the chairlift to Monte Solaro, walk through Piazza Vittoria.
+* Walk down the very steep winding path to the Faraglioni rocks, eat at Da Luigi ai Faraglioni, a beach club, and stay for the afternoon to sun on the rocks. Take the boat back to town instead of going back up path you walked down (we walked back up...it was...rough).
+* Stroll around the Gardens of Augustus, a short walk from the center of Capri town. It’s a small but stunning garden with views of the faraglioni rocks and a must see!
+* Take a walk to the stunning view and ruins at Villa Jovis, a roman palace built by Emperor Tiberius.
+* Take a boat ride to see the Blue Grotto, a must do while in Capri! There are lots of different boat companies that will take you out there, the one we booked (if it hadn’t gotten rained out) was a smaller boat with less people, so it would feel less crowded and more personal.
+
+**Eats & Treats**
+
+Breakfast: [Grand Hotel Quisisana](https://goo.gl/maps/iK7eN5bwsfwg74gTA)
+
+Lunch: [Da Luigi ai Faraglioni](https://goo.gl/maps/dni3NmmPqDHi7UFo8)
+
+Dinner: [Le Grottelle](https://goo.gl/maps/hqrqnp3Pu8Lfd7A4A)
+
+Drinks: [La Palette](https://goo.gl/maps/zckk5dgDaPsqDFPr9)
+
+Dessert: [Buonocore Gelateria](https://goo.gl/maps/R9S7TSb4yHuMTSgE8)
