@@ -2,11 +2,11 @@
 title: 'Capri, Italy'
 date: 2020-09-30T01:30:00.000Z
 description: >-
-  Beautiful Capri was the second place we explored while in the Amalfi Coast
-  area! I was more excited about Capri than maybe anywhere else while planning
-  our trip to Italy. Thankfully, this little island lived up to all my
-  expectations, even with the rainy day we had there, which is just a testament
-  to how special this place is.
+  The beautiful island of Capri was the second place we explored while in the
+  Amalfi Coast area! I was more excited about Capri than maybe anywhere else
+  while planning our trip to Italy. Thankfully, this little island lived up to
+  all my expectations, even with the rainy day we had there, which is just a
+  testament to how special this place is.
 image: /img/capri_blog-71.jpg
 gallery:
   photos:
