@@ -1,6 +1,6 @@
 ---
 title: 'Florence, Italy'
-date: 2020-07-01T23:00:00.000Z
+date: 2020-10-13T23:00:00.000Z
 description: >-
   Our third stop on our tour through Italy was Florence! We planned to only
   spend 3 days there but had a change of plans due to weather and ended up in
