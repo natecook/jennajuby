@@ -154,27 +154,28 @@ gallery:
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-44.jpg
       size: true
-    - imagedescription: 'The architecture at Antinori was incredible. '
-      imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-45.jpg
-    - imagedescription: 'Antinori winery was built into the side of the hill, it was amazing!'
-      imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-46.jpg
     - imagedescription: Walking into Antinori.
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-47.jpg
-    - imagedescription: Our lunch at Antinori.
+    - imagedescription: 'The architecture at Antinori was incredible. '
       imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-48.jpg
-    - imagedescription: It was delicious and such a pretty place to sit and eat!
-      imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-49.jpg
+        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-45.jpg
     - imagedescription: The patio at Antinori.
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-50.jpg
     - imagedescription: A perfect way to end the day in Tuscany!
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-51.jpg
+      size: false
+    - imagedescription: It was delicious and such a pretty place to sit and eat!
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-49.jpg
+    - imagedescription: 'Antinori winery was built into the side of the hill, it was amazing!'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-46.jpg
+    - imagedescription: Our lunch at Antinori.
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-48.jpg
       size: true
 ---
 While we were in Florence for a few days, we decided to take a day trip out to Chianti, the center of Tuscany wine country. The Chianti region is really close to Florence and depending on which wineries you visit, you could see quite a few in just one day. There are lots of ways to see this region, bus tours and what not, but we decided to rent a car to have flexibility. The drive through this area was so gorgeous, and worth the day out of the city alone!
