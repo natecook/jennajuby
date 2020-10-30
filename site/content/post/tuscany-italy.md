@@ -5,8 +5,8 @@ description: >-
   While we were in Florence for a few days, we decided to take a day trip out to
   Chianti, the center of Tuscany wine region. The Chianti region is really close
   to Florence and depending on which wineries you visit, you could see quite a
-  few in just one day.
-image: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-1.jpg'
+  few in just one day!
+image: /img/tuscany_blog-43.jpg
 gallery:
   photos:
     - imagedescription: The view from Castello di Brolio.
@@ -163,11 +163,11 @@ gallery:
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-51.jpg
       size: true
 ---
-While we were in Florence for a few days, we decided to take a day trip out to Chianti, the center of Tuscany wine region. The Chianti region is really close to Florence and depending on which wineries you visit, you could see quite a few in just one day. There are lots of ways to see this region, bus tours and what not, but we decided to rent a car to have flexibility. The drive through this area was so gorgeous, and worth the day out of the city alone!
+While we were in Florence for a few days, we decided to take a day trip out to Chianti, the center of Tuscany wine country. The Chianti region is really close to Florence and depending on which wineries you visit, you could see quite a few in just one day. There are lots of ways to see this region, bus tours and what not, but we decided to rent a car to have flexibility. The drive through this area was so gorgeous, and worth the day out of the city alone!
 
-The first winery we went to was [Ricasoli](https://ricasoli.com/), the largest winery in the region, which even has a castle on the grounds, “Castello di Brolio”. It’s hundreds of years old and was beautiful to walk around, not to mention the views from there were stunning. We started out by taking a tour of the outside of the castle and then went to the tasting room, the “Enoteca”, to taste some of their famous wine.
+The first winery we went to was [Ricasoli](https://ricasoli.com/), the largest winery in the region, which even has a castle on the grounds, “Castello di Brolio”. It’s hundreds of years old and was beautiful to walk around, not to mention the views from the castle were stunning. We started out by taking a tour of the outside of the castle and then went to the tasting room, the “enoteca”, to taste some of their famous wine.
 
-[Castello di Ama](https://www.castellodiama.com/en/) was the second winery we visited and the one I was most excited to see. It looks like everything you think of when you picture a winery in Tuscany. Stone walls, big wooden doors, ivy covered everything, sweeping views, cyrus trees, and of course, good wine. Instead of a tasting, we got a glass of wine and sat outside to enjoy the beautiful view. It was october by this time and the leaves were starting to change, it was gorgeous. 
+[Castello di Ama](https://www.castellodiama.com/en/) was the second winery we visited and the one I was most excited to see. It looks like everything you think of when you picture a winery in Tuscany. Stonewall buldings, big wooden doors, ivy covered everything, sweeping views, cyrus trees, and of course, good wine. Instead of a tasting, we got a glass of wine and sat outside to enjoy the beautiful view. It was October by this time on our trip and the leaves were starting to change and it was gorgeous!
 
 We ended the day at our third and final stop, [Antinori](https://www.antinori.it/it/tenuta/tenute-antinori/antinori-nel-chianti-classico/), a stunning modern winery that is nothing short of an architectural marvel. We walked all around the grounds and inside the cellar before heading outside to their patio for a late lunch. We tasted a few wines and had an incredible meal, eating outside here was one of the best parts of the day. 
 
