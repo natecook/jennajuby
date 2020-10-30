@@ -13,72 +13,77 @@ gallery:
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-1.jpg
       size: true
-    - imagedescription: Nate with the view of Tuscany behind him.
-      imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-2.jpg
-      size: true
     - imagedescription: Walking into Castello di Brolio.
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-3.jpg
     - imagedescription: Me sitting on the ledge of the Castello di Brolio.
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-4.jpg
+    - imagedescription: Nate with the view of Tuscany behind him.
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-2.jpg
+      size: true
     - imagedescription: 'Ricasoli winery, at the Castello di Brolio, view of the gardens below.'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-5.jpg
     - imagedescription: Walking into Castello di Brolio for our first tour.
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-6.jpg
+      size: false
+    - imagedescription: Castello di Brolio.
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-11.jpg
+      size: true
     - imagedescription: Outside the beautiful grounds at Castello di Brolio.
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-7.jpg
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-8.jpg
+      size: false
+    - imagedescription: Castello di Brolio.
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-12.jpg
+      size: true
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-9.jpg
     - imagedescription: View of the gardens at Castello di Brolio.
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-10.jpg
-    - imagedescription: Castello di Brolio.
+      size: false
+    - imagedescription: View of the vineyards from Castello di Brolio.
       imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-11.jpg
-      size: true
-    - imagedescription: Castello di Brolio.
-      imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-12.jpg
+        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-19.jpg
       size: true
     - imagedescription: ''
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-13.jpg
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-14.jpg
-    - imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-15.jpg
-    - imagedescription: Castello di Brolio.
-      imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-16.jpg
-    - imagedescription: Castello di Brolio.
-      imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-17.jpg
-    - imagedescription: Castello di Brolio.
-      imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-18.jpg
-    - imagedescription: View of the vineyards from Castello di Brolio.
-      imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-19.jpg
-      size: true
-    - imagedescription: Castello di Brolio.
-      imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-20.jpg
-    - imagedescription: Castello di Brolio.
-      imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-21.jpg
+      size: false
     - imagedescription: Gardens at Castello di Brolio.
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-22.jpg
       size: true
     - imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-15.jpg
+      size: false
+    - imagedescription: Castello di Brolio.
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-16.jpg
+      size: false
+    - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-23.jpg
+      size: true
+    - imagedescription: Castello di Brolio.
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-17.jpg
+    - imagedescription: Castello di Brolio.
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-21.jpg
+      size: false
+    - imagedescription: Castello di Brolio.
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-18.jpg
       size: true
     - imagedescription: 'Castello di Ama, my favorite winery we went to.'
       imagenew: >-
@@ -87,54 +92,63 @@ gallery:
     - imagedescription: The path leading to the entrance of Castello di Ama.
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-25.jpg
-    - imagedescription: The grounds at Castello di Ama.
-      imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-26.jpg
-    - imagedescription: The back patio at Castello di Ama.
-      imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-27.jpg
-    - imagedescription: Entering the wine tasting room at Castello di Ama.
-      imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-28.jpg
-    - imagedescription: The grounds at Castello di Ama.
-      imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-29.jpg
-    - imagedescription: The gorgeous Castello di Ama.
-      imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-30.jpg
-    - imagedescription: The ivy on this building was so beautiful!
-      imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-31.jpg
-    - imagedescription: The ivy! The ivy!
-      imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-32.jpg
-    - imagedescription: The back patio at Castello di Ama.
-      imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-33.jpg
-    - imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-34.jpg
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-35.jpg
-    - imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-36.jpg
-    - imagedescription: I could have taken photos here all day!
-      imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-37.jpg
-    - imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-38.jpg
-    - imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-39.jpg
-    - imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-40.jpg
-    - imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-41.jpg
-      size: true
-    - imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-42.jpg
-      size: true
     - imagedescription: One of my favorite moments of the trip.
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-43.jpg
+      size: true
+    - imagedescription: The back patio at Castello di Ama.
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-27.jpg
+      size: false
+    - imagedescription: The grounds at Castello di Ama.
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-26.jpg
+      size: false
+    - imagedescription: Entering the wine tasting room at Castello di Ama.
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-28.jpg
+      size: true
+    - imagedescription: The gorgeous Castello di Ama.
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-30.jpg
+      size: false
+    - imagedescription: The ivy! The ivy!
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-32.jpg
+      size: false
+    - imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-40.jpg
+      size: true
+    - imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-36.jpg
+      size: false
+    - imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-34.jpg
+      size: false
+    - imagedescription: The ivy on this building was so beautiful!
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-31.jpg
+      size: false
+    - imagedescription: I could have taken photos here all day!
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-37.jpg
+    - imagedescription: The grounds at Castello di Ama.
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-29.jpg
+      size: false
+    - imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-38.jpg
+      size: false
+    - imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-41.jpg
+      size: false
+    - imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-39.jpg
+      size: false
+    - imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Tuscany/Tuscany_Blog-42.jpg
       size: true
     - imagedescription: 'Antinori, the third winery of the day!'
       imagenew: >-
