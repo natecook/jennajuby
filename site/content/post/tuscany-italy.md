@@ -6,7 +6,7 @@ description: >-
   Chianti, the center of Tuscany wine region. The Chianti region is really close
   to Florence and depending on which wineries you visit, you could see quite a
   few in just one day!
-image: /img/tuscany_blog-43.jpg
+image: /img/coverphototuscanyblog.jpg
 gallery:
   photos:
     - imagedescription: The view from Castello di Brolio.
