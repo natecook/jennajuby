@@ -3,6 +3,15 @@ heading: Travel Photography
 description: List of places we've loved and great things to see at each place.
 intro:
   blurbs:
+    - image: /img/tuscany_blog-43.jpg
+      text: 'Tuscany, Italy'
+      url: /post/tuscany-italy/
+    - image: /img/florence_blog-16.jpg
+      text: 'Florence, Italy'
+      url: /post/florence-italy/
+    - image: /img/capri_blog-71.jpg
+      text: 'Capri, Italy'
+      url: /post/capri-italy/
     - image: /img/positano_blog-8.jpg
       text: 'Positano, Italy'
       url: /post/positano-italy/
