@@ -9,17 +9,17 @@ image: >-
 ---
 I've been to the beautiful city of Charleston South Carolina over 20 times and needless to say I'm yet to get sick of it! We started going when I was around 9 years old, and for the last few years I've gone once in the spring and once in the summer. This particular post is from a girls trip I took this past April with my mom, sister, and sister-in-law. In March and April, Charleston puts on home and garden tours, which are special peaks inside the hidden gems of the city. The tours are filled with stunning historic homes and gardens and I highly recommend it! Not to mention the spring time is my favorite season in Charleston, it's always mid 70's, sunny, and not humid (like it is in the summer). The flowers are in bloom and they match the pastel homes that line the cobblestone streets. It really is such a unique place in the world...the perfect combination of beautiful old historic homes, peaceful beaches, and also boasts some of the best food in the country. Charleston is an unexpected foodie city and the amount of good restaurants in such a small place is astounding! When my family first started taking trips there, there wasn't the food scene that there is now. I don't know what sparked it, but in the last 6-8 years new restaurants and bars have sprung up downtown and we are so glad they did! My food and activity list might be a little more on the "classic" Charleston side, if you will, because these are the things I have loved to do before Charleston was so trendy. With that said, you might find someone else's to eat or to do list a tad cooler than mine but the classics are tried and true! Also, I might add that I get more people asking me what to do, see, and eat in Charleston than any other place I've been. So this post is waaaay over do, but I will say, it's given me time to perfect it! Here's my go to places and things : )
 
-* Coffee: [Second State Coffee](https://www.instagram.com/secondstatecoffee/)
-* Doughnuts: [Glazed Gourmet](https://www.instagram.com/glazedgourmet/?hl=en)
-* Breakfast: [The Harbinger Cafe & Bakery](https://www.instagram.com/theharbingercafe/), [Hominy Grill](http://hominygrill.com/), [Miller's All Day](https://www.instagram.com/millersallday/)
+* Coffee: [Second State Coffee](https://www.instagram.com/secondstatecoffee/), [Harken Cafe](https://goo.gl/maps/EETpo1yQxTvtd9gr8)
+* Pastries: [Glazed Gourmet](https://www.instagram.com/glazedgourmet/?hl=en), [Callie's Hot Little Biscuit](https://goo.gl/maps/5c48WVSx6UY1aTFf7), [La Pâtisserie](https://goo.gl/maps/dQ3UJeGVuvebxafC7)
+* Breakfast: [The Harbinger Cafe & Bakery](https://www.instagram.com/theharbingercafe/), [Miller's All Day](https://www.instagram.com/millersallday/)
 * Brunch: [The Dewberry](https://www.instagram.com/thedewberrycharleston/?hl=en) and [Butcher & Bee](<Butcher & Bee>)
 * Lunch: [Basic Kitchen](https://www.instagram.com/basic_kitchen/), [Palmetto Cafe](https://www.instagram.com/explore/locations/3103278/palmetto-cafe/?hl=en) and [82 Queen](https://www.instagram.com/explore/locations/1112508/82-queen/?hl=en) (patio)
-* Dinner: [Cannon Green](https://www.instagram.com/cannongreenchs/?hl=en) 
+* Dinner: [Husk](https://goo.gl/maps/sERC1tRzdhGhmUGXA)
 * Oysters: [The Darling](https://www.instagram.com/darling_oyster_bar/?hl=en)
-* Drinks: [Gin Joint](https://www.instagram.com/gin_joint/?hl=en)
+* Drinks: [Gin Joint](https://www.instagram.com/gin_joint/?hl=en), [Camellias](https://goo.gl/maps/JzyjF3XUefmVRuNa7), [The Rooftop Bar at The Vendue](https://goo.gl/maps/NQ7ZgrErRZHzMRdw6), [Fiat Lux](https://goo.gl/maps/4ZTHSzCEpidsCDFr8)
 * Dessert: [Jeni's Splendid Ice Creams](https://www.instagram.com/jenisicecreams/?hl=en)
 
-Honorable mentions...Poogan's Smokehouse, Husk, City Lights Coffee, The Rise, The Ordinary, Felix Cocktails et Cuisine, One Broad Street, S.N.O.B.
+Honorable mentions...Poogan's Smokehouse, City Lights Coffee, The Rise, The Ordinary, Felix Cocktails et Cuisine, One Broad Street, S.N.O.B.
 
 **Fun Things To Do**
 
