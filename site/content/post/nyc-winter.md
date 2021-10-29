@@ -81,8 +81,8 @@ Brunch: [Sadelle’s](https://www.sadelles.com/), [The Fat Radish](https://www.i
 
 Lunch: [Keste](https://www.instagram.com/kestepizza/), [Dig Inn](https://www.instagram.com/diginn/)
 
-Dinner: [Freemans](https://www.instagram.com/freemansrestaurant/), [ABC Kitchen](http://www.abchome.com/dine/abc-kitchen/), [Tiny’s and The Bar Upstairs](https://www.instagram.com/tinysnyc/), [The Spaniard](https://www.instagram.com/thespaniardnyc/), [Jacob’s Pickles](https://www.instagram.com/jacobspickles/), [Upland](https://www.instagram.com/upland_nyc/), [Rubirosa](https://www.instagram.com/rubirosa_nyc/)
+Dinner: [Freemans](https://www.instagram.com/freemansrestaurant/), [ABC Kitchen](http://www.abchome.com/dine/abc-kitchen/), [Tiny’s and The Bar Upstairs](https://www.instagram.com/tinysnyc/), [The Spaniard](https://www.instagram.com/thespaniardnyc/), [Jacob’s Pickles](https://www.instagram.com/jacobspickles/), [Upland](https://www.instagram.com/upland_nyc/), [Rubirosa](https://www.instagram.com/rubirosa_nyc/), [Carbone](https://goo.gl/maps/Az1vHCcRyde1hyXu8), [Lucali](https://goo.gl/maps/QM98EP7hXMXM5CwX6)
 
-Desserts: [Serendipity 3](https://www.instagram.com/serendipity3nyc/)
+Desserts: [Serendipity 3](https://www.instagram.com/serendipity3nyc/), [Martha's Country Bakery](https://goo.gl/maps/A8wyVzaKk4H9Fsb68)
 
 Speakeasies: [Attaboy](https://www.instagram.com/attaboy134/), [Dear Irving](https://www.instagram.com/dearirving/), [Nitecap](https://www.instagram.com/nitecapnyc/), [Little Branch](https://www.google.com/maps/place/Little+Branch/@40.730122,-74.0072337,17z/data=!3m1!4b1!4m5!3m4!1s0x89c25992e9f28e8d:0xe297f8f503425e5c!8m2!3d40.730118!4d-74.005045), [Raines Law Room](https://www.instagram.com/raineslawroom/), [Please Don’t Tell](https://www.worldsbestbars.com/bar/new-york-city/lower-east-manhattan/pdt-please-dont-tell/), [Death & Company](https://www.instagram.com/deathandcompany/), [The Backroom](https://www.instagram.com/explore/locations/219737435/the-backroom/)
