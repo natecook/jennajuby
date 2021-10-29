@@ -388,21 +388,21 @@ _**If you're feeling fancy...**_
 
 ## **Eats & Treats**
 
-**Coffee**: [Cafe Grumpy](https://www.google.com/maps/place/Caf%C3%A9+Grumpy/@40.7426,-74.0005864,17z/data=!3m1!4b1!4m5!3m4!1s0x89c259bb802d1eed:0x6a1373199661cb33!8m2!3d40.7426!4d-73.9983977), [Stumptown](https://www.google.com/maps/place/Stumptown+Coffee+Roasters/@40.7328281,-74.0001272,17z/data=!3m1!4b1!4m5!3m4!1s0x89c25996d46ccfed:0x3034ad801dc5fcb3!8m2!3d40.7328281!4d-73.9979385) (W 8th)
+**Coffee**: [Cafe Grumpy](https://www.google.com/maps/place/Caf%C3%A9+Grumpy/@40.7426,-74.0005864,17z/data=!3m1!4b1!4m5!3m4!1s0x89c259bb802d1eed:0x6a1373199661cb33!8m2!3d40.7426!4d-73.9983977) (Chelsea), [Stumptown](https://www.google.com/maps/place/Stumptown+Coffee+Roasters/@40.7328281,-74.0001272,17z/data=!3m1!4b1!4m5!3m4!1s0x89c25996d46ccfed:0x3034ad801dc5fcb3!8m2!3d40.7328281!4d-73.9979385) (W 8th), [The Elk](https://goo.gl/maps/KVXecUaoV4aavVry7), [Joe Coffee](https://goo.gl/maps/sdRnc8ysgNTjXnGv8) (Waverly Place), [Ralph's Coffee](https://goo.gl/maps/TnfXmCs3BpVmcEvC8), [Black Press Coffee](https://goo.gl/maps/K4cuEKtnHFAXhcgc7)
 
-**Bakery**: [Levain Bakery](https://www.instagram.com/levainbakery/), [Chip](https://www.instagram.com/chipnewyorkcity/), [Dominique Ansel Bakery](https://www.google.com/maps/place/Dominique+Ansel+Bakery/@40.725161,-74.0051508,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2598c5a8e423f:0x501f1a0240e2f39a!8m2!3d40.725161!4d-74.0029621)
+**Bakery**: [Aux Merveilleux de Fred](https://goo.gl/maps/QaLRe5yPGmJxiEZq5), [Levain Bakery](https://www.instagram.com/levainbakery/), [Chip](https://www.instagram.com/chipnewyorkcity/), [Dominique Ansel Bakery](https://www.google.com/maps/place/Dominique+Ansel+Bakery/@40.725161,-74.0051508,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2598c5a8e423f:0x501f1a0240e2f39a!8m2!3d40.725161!4d-74.0029621), [Sogno Toscano](https://goo.gl/maps/zySA9TDwX3jxq5di9)
 
-**Breakfast**: [Buvette](https://www.instagram.com/buvettenyc/), [Black Seed Bagel](https://www.instagram.com/blackseedbagels/)
+**Breakfast**: [Buvette](https://www.instagram.com/buvettenyc/), [Black Seed Bagel](https://www.instagram.com/blackseedbagels/), [Sant Ambroeus](https://g.page/sant-ambroeus-west-village?share) (any location)
 
-**Brunch**: [Maman](https://www.instagram.com/_mamannyc_/) (Tribeca, Soho, Greenpoint), [Jack's Wife Freda](https://www.instagram.com/jackswifefreda/), [Fairfax](https://www.instagram.com/fairfaxnyc/), [Rabbithole](http://www.rabbitholerestaurant.com/)
+**Brunch**: [Little Owl](https://g.page/littleowlnyc?share), [Jack's Wife Freda](https://www.instagram.com/jackswifefreda/), [Fairfax](https://www.instagram.com/fairfaxnyc/), [Rabbithole](http://www.rabbitholerestaurant.com/), [Tartine](https://goo.gl/maps/Gt2ugLtDXCe3SeJ5A)
 
 **Lunch**: [Prince St. Pizza](https://www.instagram.com/psp_nyc/), [Le Botaniste](http://lebotaniste.us/), [Ruby's Cafe](http://www.rubyscafe.com/)
 
-**Pre-dinner drinks**: [The Boathouse Outdoor Bar](https://www.google.com/maps/place/The+Boathouse+Outdoor+Bar/@40.7744115,-73.9708227,17.68z/data=!4m12!1m6!3m5!1s0x89c2598e7111c53f:0x52f80ad77c5d5a84!2sSadelle's!8m2!3d40.7262999!4d-74.0002541!3m4!1s0x89c25892fa680723:0x5b83a09e9d2de7d9!8m2!3d40.7750052!4d-73.9687948), [Vin Sur Vingt](https://www.google.com/maps/place/Vin+Sur+Vingt+Wine+Bar/@40.7848882,-73.9749876,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2588516f4b857:0x8566e52aa374f15e!8m2!3d40.7848882!4d-73.9727989) (W 84th)
+**Pre-dinner drinks**: [The Boathouse Outdoor Bar](https://www.google.com/maps/place/The+Boathouse+Outdoor+Bar/@40.7744115,-73.9708227,17.68z/data=!4m12!1m6!3m5!1s0x89c2598e7111c53f:0x52f80ad77c5d5a84!2sSadelle's!8m2!3d40.7262999!4d-74.0002541!3m4!1s0x89c25892fa680723:0x5b83a09e9d2de7d9!8m2!3d40.7750052!4d-73.9687948), [Vin Sur Vingt](https://www.google.com/maps/place/Vin+Sur+Vingt+Wine+Bar/@40.7848882,-73.9749876,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2588516f4b857:0x8566e52aa374f15e!8m2!3d40.7848882!4d-73.9727989) (W 84th), [St. Tropez](https://g.page/sttropezwinebar?share), [Bar Pisellino](https://goo.gl/maps/qqcEh6Wast7z7Br3A)
 
-**Dinner**: [Dante](https://www.instagram.com/dantenewyorkcity/), [Bar Sardine](https://www.barsardinenyc.com/), [Emily](https://www.instagram.com/pizzalovesemily/) (Downing St.)
+**Dinner**: [Dante](https://www.instagram.com/dantenewyorkcity/) (either location), [Emily](https://www.instagram.com/pizzalovesemily/) (Downing St.), [St. Tropez](https://g.page/sttropezwinebar?share), [Petite Boucherie](https://goo.gl/maps/6HpRoTLM8WaLEG716)
 
-**After-dinner drinks**: [Dear Irving](https://www.instagram.com/dearirving/) (Gramercy), [Little Branch](https://www.google.com/maps/place/Little+Branch/@40.730118,-74.0072337,17z/data=!3m1!4b1!4m5!3m4!1s0x89c25992e9f28e8d:0xe297f8f503425e5c!8m2!3d40.730118!4d-74.005045)
+**After-dinner drinks**: [Dear Irving](https://www.instagram.com/dearirving/) (Gramercy), [Little Branch](https://www.google.com/maps/place/Little+Branch/@40.730118,-74.0072337,17z/data=!3m1!4b1!4m5!3m4!1s0x89c25992e9f28e8d:0xe297f8f503425e5c!8m2!3d40.730118!4d-74.005045), [Employees Only](https://goo.gl/maps/K52tWNPeLCVAdukC8)
 
 **Dessert**: [Cafe Lalo](https://www.google.com/maps/place/Cafe+Lalo/@40.7859812,-73.9789153,17z/data=!3m1!4b1!4m5!3m4!1s0x89c25885d136b767:0x1692e5aaf7245c87!8m2!3d40.7859812!4d-73.9767266), [Blue Stripes Cacao Shop](https://www.instagram.com/bluestripescacao/)
 
