@@ -350,7 +350,7 @@ gallery:
         https://djh82r8xhqebh.cloudfront.net/uploads/2019/03/NYC+Autumn+2018/NYCAutumn-62.jpg
       size: true
 ---
-**_"Don't you love_** [**_New York_**](https://www.youtube.com/watch?v=vViMeAkOsv8) **_in the fall? It makes me want to buy school supplies. I would send you a bouquet of newly sharpened pencils if I knew your name and address."_** 
+_**"Don't you love**_ [_**New York**_](https://www.youtube.com/watch?v=vViMeAkOsv8) _**in the fall? It makes me want to buy school supplies. I would send you a bouquet of newly sharpened pencils if I knew your name and address."**_ 
 
 New York City in the fall. Period. This is a sentence that says a million things even though it is, in fact...a fragment. Because there is no place like NYC in autumn, it is perfection. It’s like Paris in the spring time, and Greece in the middle of summer. It sounds like crunching leaves under your boots, and feels like the coziest scarf across your cheek...it tastes like a warm cup of coffee held with both hands, and it smells like a new book. It feels like shopping for school supplies and your mom baking you a pumpkin pie. If you only ever visit New York City once in your life, this is it.
 
@@ -362,11 +362,11 @@ Most people think that peak fall foliage in NY is in the middle of October, like
 
 **Where To Stay**
 
-_**If you're on a budget...**_
+**_If you're on a budget..._**
 
 * I’m not going to sugarcoat this for you, October and November are two of the most expensive months to visit NYC. If you’re looking to save some money, _book an airbnb_ on the Upper West Side or Upper East Side. These two neighborhoods in Manhattan are affordable and BONUS, the UWS and UES border Central Park so they are the perfect location for fall! And if you’re looking for the very cheapest option in NYC, consider an airbnb in Brooklyn or Queens. Both these boroughs are enormous (3-4 times the size of Manhattan) so make sure you research the neighborhood you’ll be in and get as close to a train station as possible for easy travel!
 
-**_If you're feeling fancy..._**
+_**If you're feeling fancy...**_
 
 * If money isn’t an issue then my favorite neighborhoods to suggest for a fall trip would be the West Village, Upper West Side, and Upper East Side. You’ll find the most variety (and fanciest!) of hotels on the UES. In contrast, the West Village is full of beautiful boutique hotels that are [downright dreamy](https://www.thegreenwichhotel.com/). And although the Upper West Side doesn’t have a lot of hotel options, there are beautiful penthouses and homes to rent that will make you feel like you're in "You've Got Mail".  Obviously if you’re not going full on baller status, just look for a reasonably priced hotel or airbnb in these neighborhoods, there are so many options!
 
@@ -400,7 +400,7 @@ _**If you're on a budget...**_
 
 **Pre-dinner drinks**: [The Boathouse Outdoor Bar](https://www.google.com/maps/place/The+Boathouse+Outdoor+Bar/@40.7744115,-73.9708227,17.68z/data=!4m12!1m6!3m5!1s0x89c2598e7111c53f:0x52f80ad77c5d5a84!2sSadelle's!8m2!3d40.7262999!4d-74.0002541!3m4!1s0x89c25892fa680723:0x5b83a09e9d2de7d9!8m2!3d40.7750052!4d-73.9687948), [Vin Sur Vingt](https://www.google.com/maps/place/Vin+Sur+Vingt+Wine+Bar/@40.7848882,-73.9749876,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2588516f4b857:0x8566e52aa374f15e!8m2!3d40.7848882!4d-73.9727989) (W 84th), [St. Tropez](https://g.page/sttropezwinebar?share), [Bar Pisellino](https://goo.gl/maps/qqcEh6Wast7z7Br3A)
 
-**Dinner**: [Dante](https://www.instagram.com/dantenewyorkcity/) (either location), [Emily](https://www.instagram.com/pizzalovesemily/) (Downing St.), [St. Tropez](https://g.page/sttropezwinebar?share)
+**Dinner**: [Dante](https://www.instagram.com/dantenewyorkcity/) (either location), [Emily](https://www.instagram.com/pizzalovesemily/) (Downing St.), [St. Tropez](https://g.page/sttropezwinebar?share), [Petite Boucherie](https://goo.gl/maps/6HpRoTLM8WaLEG716)
 
 **After-dinner drinks**: [Dear Irving](https://www.instagram.com/dearirving/) (Gramercy), [Little Branch](https://www.google.com/maps/place/Little+Branch/@40.730118,-74.0072337,17z/data=!3m1!4b1!4m5!3m4!1s0x89c25992e9f28e8d:0xe297f8f503425e5c!8m2!3d40.730118!4d-74.005045), [Employees Only](https://goo.gl/maps/K52tWNPeLCVAdukC8)
 
