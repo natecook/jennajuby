@@ -388,7 +388,7 @@ _**If you're feeling fancy...**_
 
 ## **Eats & Treats**
 
-**Coffee**: [Cafe Grumpy](https://www.google.com/maps/place/Caf%C3%A9+Grumpy/@40.7426,-74.0005864,17z/data=!3m1!4b1!4m5!3m4!1s0x89c259bb802d1eed:0x6a1373199661cb33!8m2!3d40.7426!4d-73.9983977) (Chelsea), [Stumptown](https://www.google.com/maps/place/Stumptown+Coffee+Roasters/@40.7328281,-74.0001272,17z/data=!3m1!4b1!4m5!3m4!1s0x89c25996d46ccfed:0x3034ad801dc5fcb3!8m2!3d40.7328281!4d-73.9979385) (W 8th), [The Elk](https://goo.gl/maps/KVXecUaoV4aavVry7), [Joe Coffee](https://goo.gl/maps/sdRnc8ysgNTjXnGv8) (Waverly Place)
+**Coffee**: [Cafe Grumpy](https://www.google.com/maps/place/Caf%C3%A9+Grumpy/@40.7426,-74.0005864,17z/data=!3m1!4b1!4m5!3m4!1s0x89c259bb802d1eed:0x6a1373199661cb33!8m2!3d40.7426!4d-73.9983977) (Chelsea), [Stumptown](https://www.google.com/maps/place/Stumptown+Coffee+Roasters/@40.7328281,-74.0001272,17z/data=!3m1!4b1!4m5!3m4!1s0x89c25996d46ccfed:0x3034ad801dc5fcb3!8m2!3d40.7328281!4d-73.9979385) (W 8th), [The Elk](https://goo.gl/maps/KVXecUaoV4aavVry7), [Joe Coffee](https://goo.gl/maps/sdRnc8ysgNTjXnGv8) (Waverly Place), [Ralph's Coffee](https://goo.gl/maps/TnfXmCs3BpVmcEvC8), [Black Press Coffee](https://goo.gl/maps/K4cuEKtnHFAXhcgc7)
 
 **Bakery**: [Aux Merveilleux de Fred](https://goo.gl/maps/QaLRe5yPGmJxiEZq5), [Levain Bakery](https://www.instagram.com/levainbakery/), [Chip](https://www.instagram.com/chipnewyorkcity/), [Dominique Ansel Bakery](https://www.google.com/maps/place/Dominique+Ansel+Bakery/@40.725161,-74.0051508,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2598c5a8e423f:0x501f1a0240e2f39a!8m2!3d40.725161!4d-74.0029621), [Sogno Toscano](https://goo.gl/maps/zySA9TDwX3jxq5di9)
 
