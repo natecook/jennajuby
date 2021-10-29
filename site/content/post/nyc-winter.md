@@ -81,7 +81,7 @@ Brunch: [Sadelle’s](https://www.sadelles.com/), [The Fat Radish](https://www.i
 
 Lunch: [Keste](https://www.instagram.com/kestepizza/), [Dig Inn](https://www.instagram.com/diginn/)
 
-Dinner: [Freemans](https://www.instagram.com/freemansrestaurant/), [ABC Kitchen](http://www.abchome.com/dine/abc-kitchen/), [Tiny’s and The Bar Upstairs](https://www.instagram.com/tinysnyc/), [The Spaniard](https://www.instagram.com/thespaniardnyc/), [Jacob’s Pickles](https://www.instagram.com/jacobspickles/), [Upland](https://www.instagram.com/upland_nyc/), [Rubirosa](https://www.instagram.com/rubirosa_nyc/), [Carbone](https://goo.gl/maps/Az1vHCcRyde1hyXu8), [Lucali](https://goo.gl/maps/QM98EP7hXMXM5CwX6)
+Dinner: [Freemans](https://www.instagram.com/freemansrestaurant/), [ABC Kitchen](http://www.abchome.com/dine/abc-kitchen/), [Tiny’s and The Bar Upstairs](https://www.instagram.com/tinysnyc/), [The Spaniard](https://www.instagram.com/thespaniardnyc/), [Jacob’s Pickles](https://www.instagram.com/jacobspickles/), [Upland](https://www.instagram.com/upland_nyc/), [Rubirosa](https://www.instagram.com/rubirosa_nyc/), [Carbone](https://goo.gl/maps/Az1vHCcRyde1hyXu8), [Lucali](https://goo.gl/maps/QM98EP7hXMXM5CwX6), [Asset](https://goo.gl/maps/Cibi6nATQeVefGwe7)
 
 Desserts: [Serendipity 3](https://www.instagram.com/serendipity3nyc/), [Martha's Country Bakery](https://goo.gl/maps/A8wyVzaKk4H9Fsb68)
 
