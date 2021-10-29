@@ -77,11 +77,11 @@ Coffee: [Irving Farm Coffee Roasters](https://www.instagram.com/irvingfarm/), [I
 
 Breakfast: [Clinton St. Baking Company](https://www.instagram.com/clintonstbakingco/), [Empire Diner](https://www.instagram.com/empire_diner/), [Russ & Daughters](https://www.instagram.com/russanddaughters/)
 
-Brunch: [Sadelle’s](https://www.sadelles.com/), [The Fat Radish](https://www.instagram.com/thefatradish/), [Storico](http://storicorestaurant.com/), [abcV](http://www.abchome.com/dine/abcv/), [Sweet Chick](https://www.instagram.com/sweetchicklife/)
+Brunch: [Sadelle’s](https://www.sadelles.com/), [The Fat Radish](https://www.instagram.com/thefatradish/), [Storico](http://storicorestaurant.com/), [abcV](http://www.abchome.com/dine/abcv/), [Sweet Chick](https://www.instagram.com/sweetchicklife/), [The Dutch](https://goo.gl/maps/94id1S7AawnTm4FN7)
 
 Lunch: [Keste](https://www.instagram.com/kestepizza/), [Dig Inn](https://www.instagram.com/diginn/)
 
-Dinner: [Freemans](https://www.instagram.com/freemansrestaurant/), [ABC Kitchen](http://www.abchome.com/dine/abc-kitchen/), [Tiny’s and The Bar Upstairs](https://www.instagram.com/tinysnyc/), [The Spaniard](https://www.instagram.com/thespaniardnyc/), [Jacob’s Pickles](https://www.instagram.com/jacobspickles/), [Upland](https://www.instagram.com/upland_nyc/), [Rubirosa](https://www.instagram.com/rubirosa_nyc/), [Carbone](https://goo.gl/maps/Az1vHCcRyde1hyXu8), [Lucali](https://goo.gl/maps/QM98EP7hXMXM5CwX6), [Asset](https://goo.gl/maps/Cibi6nATQeVefGwe7)
+Dinner: [Freemans](https://www.instagram.com/freemansrestaurant/), [ABC Kitchen](http://www.abchome.com/dine/abc-kitchen/), [Tiny’s and The Bar Upstairs](https://www.instagram.com/tinysnyc/), [The Spaniard](https://www.instagram.com/thespaniardnyc/), [Jacob’s Pickles](https://www.instagram.com/jacobspickles/), [Upland](https://www.instagram.com/upland_nyc/), [Rubirosa](https://www.instagram.com/rubirosa_nyc/), [Carbone](https://goo.gl/maps/Az1vHCcRyde1hyXu8), [Lucali](https://goo.gl/maps/QM98EP7hXMXM5CwX6), [Asset](https://goo.gl/maps/Cibi6nATQeVefGwe7), [Dirty French](https://goo.gl/maps/WB11wcFs5xUK6o6B6)
 
 Desserts: [Serendipity 3](https://www.instagram.com/serendipity3nyc/), [Martha's Country Bakery](https://goo.gl/maps/A8wyVzaKk4H9Fsb68)
 
