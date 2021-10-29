@@ -77,7 +77,7 @@ Coffee: [Irving Farm Coffee Roasters](https://www.instagram.com/irvingfarm/), [I
 
 Breakfast: [Clinton St. Baking Company](https://www.instagram.com/clintonstbakingco/), [Empire Diner](https://www.instagram.com/empire_diner/), [Russ & Daughters](https://www.instagram.com/russanddaughters/)
 
-Brunch: [Sadelle’s](https://www.sadelles.com/), [The Fat Radish](https://www.instagram.com/thefatradish/), [Storico](http://storicorestaurant.com/), [abcV](http://www.abchome.com/dine/abcv/), [Sweet Chick](https://www.instagram.com/sweetchicklife/), [The Dutch](https://goo.gl/maps/94id1S7AawnTm4FN7)
+Brunch: [Sadelle’s](https://www.sadelles.com/), [Storico](http://storicorestaurant.com/), [abcV](http://www.abchome.com/dine/abcv/), [Sweet Chick](https://www.instagram.com/sweetchicklife/), [The Dutch](https://goo.gl/maps/94id1S7AawnTm4FN7)
 
 Lunch: [Keste](https://www.instagram.com/kestepizza/), [Dig Inn](https://www.instagram.com/diginn/)
 
