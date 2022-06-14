@@ -2,11 +2,10 @@
 title: 'Cinque Terre, Italy'
 date: 2022-06-14T23:17:19.359Z
 description: This is the intro blurb
-image: /img/cali-blog.jpg
+image: https://djh82r8xhqebh.cloudfront.net/uploads/2020/cinque-terre/IMG_3792.jpg
 gallery:
   photos:
-    - imagedescription: image description
-      imagenew: /img/capri_blog-71.jpg
-      size: true
+    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/cinque-terre/IMG_3792.jpg'
+    - imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2020/cinque-terre/IMG_3792.jpg'
 ---
 this is body copy
