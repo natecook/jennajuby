@@ -16,9 +16,9 @@ gallery:
     - imagedescription: Riomaggiore
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Cinque+Terre/Cinque+Terre+Blog/CinqueTerreBlog-3.jpg
-    - imagedescription: Riomaggiore
+    - imagedescription: Monterosso
       imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Cinque+Terre/Cinque+Terre+Blog/CinqueTerreBlog-4.jpg
+        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Cinque+Terre/Cinque+Terre+Blog/CinqueTerreBlog-8.jpg
     - imagedescription: Monterosso
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Cinque+Terre/Cinque+Terre+Blog/CinqueTerreBlog-6.jpg
@@ -26,9 +26,7 @@ gallery:
     - imagedescription: Riomaggiore
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Cinque+Terre/Cinque+Terre+Blog/CinqueTerreBlog-7.jpg
-    - imagedescription: Monterosso
-      imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2020/Cinque+Terre/Cinque+Terre+Blog/CinqueTerreBlog-8.jpg
+      size: true
     - imagedescription: View from Riomaggiore
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Cinque+Terre/Cinque+Terre+Blog/CinqueTerreBlog-2.jpg
