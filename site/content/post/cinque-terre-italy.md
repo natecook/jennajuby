@@ -81,4 +81,48 @@ There are 5 villages that make up Cinque Terre, hence the name, and we stopped a
 
 Although we were only there a short time, we spent the entire time eating. Really. We did nothing else but walk and eat and people watch. Originally I had made a 4 day itinerary for Cinque Terre so I'm going to go ahead and list some of the restaurants here even though we only got to a few of them. 
 
-Eats & Treats
+_Monterosso_
+
+_Eats & Treats_
+
+Bakery: Fornaio Di Monterosso
+
+Lunch: La Pia
+
+Dinner: L’Ancora della Tortuga
+
+Drinks: Torre Aurora, Enoteca Internazionale
+
+Activities: Rent a chair on the beach for the day, shop around the town, take a ferry from town to town to see a view of the towns from the water.
+
+
+
+_Vernazza_
+
+_Eats & Treats_
+
+Cafe: Il Pirata
+
+Lunch: Lunch box
+
+Dinner: Belforte, La Torre, Gambero Rosso
+
+Drinks: Ananasso Bar
+
+Gelato: Gelateria Vernazza, Gelateria Il Porticciolo
+
+Activities: Take a 20 min hike towards Monterosso for a picture perfect view, cliff jump down by the beach, walk around Piazza Marconi, see Church of Santa Margherita, and climp to the top of Doria Castle for a great view.
+
+
+
+Riomaggiore
+
+Lunch: Tutti Fritti, Il Pescato Cucinato
+
+Drinks: Bar e Vini a Pié de Ma
+
+Dinner: Fuori Rotta
+
+Activities: See the iconic view of town down by the water to the left, go for a swim and cliff jump by the harbor. 
+
+Honorable mentions: Nessun Dorma and Dal Billy in Manarola, Alberto Gelateria in Corniglia
