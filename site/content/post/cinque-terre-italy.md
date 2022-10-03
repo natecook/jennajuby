@@ -61,7 +61,7 @@ gallery:
     - imagedescription: Vernazza
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Cinque+Terre/Cinque+Terre+Blog/CinqueTerreBlog-21.jpg
-    - imagedescription: Vernazza
+    - imagedescription: Gelato from Gelateria Vernazza
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Cinque+Terre/Cinque+Terre+Blog/CinqueTerreBlog-22.jpg
     - imagedescription: Vernazza
@@ -71,7 +71,8 @@ gallery:
     - imagedescription: Vernazza
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Cinque+Terre/Cinque+Terre+Blog/CinqueTerreBlog-23.jpg
-    - imagenew: >-
+    - imagedescription: Riomaggior
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Cinque+Terre/Cinque+Terre+Blog/CinqueTerreBlog-24.jpg
     - imagedescription: Vernazza
       imagenew: >-
@@ -90,7 +91,8 @@ gallery:
     - imagedescription: Vernazza
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Cinque+Terre/Cinque+Terre+Blog/CinqueTerreBlog-27.jpg
-    - imagenew: >-
+    - imagedescription: Riomaggiore
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Cinque+Terre/Cinque+Terre+Blog/CinqueTerreBlog-28.jpg
       size: false
     - imagedescription: Monterosso
