@@ -81,48 +81,54 @@ There are 5 villages that make up Cinque Terre, hence the name, and we stopped a
 
 Although we were only there a short time, we spent the entire time eating. Really. We did nothing else but walk and eat and people watch. Originally I had made a 4 day itinerary for Cinque Terre so I'm going to go ahead and list some of the restaurants here even though we only got to a few of them. 
 
-_Monterosso_
+**Monterosso**
 
 _Eats & Treats_
 
-Bakery: Fornaio Di Monterosso
+Bakery: [Fornaio Di Monterosso](https://goo.gl/maps/VWzpo3qvuDvySdSH7)
 
-Lunch: La Pia
+Lunch: [La Pia](https://g.page/lapiamonterosso?share)
 
-Dinner: L’Ancora della Tortuga
+Dinner: [L’Ancora della Tortuga](https://goo.gl/maps/jYTvWTngMxHidjqi6)
 
-Drinks: Torre Aurora, Enoteca Internazionale
+Drinks: [Torre Aurora](https://goo.gl/maps/BQZgjN7GFrxAzcrd8), [Enoteca Internazionale](https://goo.gl/maps/oFQj2PYcrDZS7qNMA)
 
-Activities: Rent a chair on the beach for the day, shop around the town, take a ferry from town to town to see a view of the towns from the water.
+* Activities: Rent a chair on the beach for the day, shop around the town, take a ferry from town to town to see a view of the towns from the water.
 
 
 
-_Vernazza_
+**Vernazza**
 
 _Eats & Treats_
 
-Cafe: Il Pirata
+Cafe: [Il Pirata](https://goo.gl/maps/hcTMaABEJoaPhCHq9)
 
-Lunch: Lunch box
+Lunch: [Lunch Box](https://goo.gl/maps/xhaeTpsg5FGLeDxK8)
 
-Dinner: Belforte, La Torre, Gambero Rosso
+Dinner: [Belforte](https://goo.gl/maps/oeier5DQRgh5VwtY9), [La Torre](https://g.page/ristorantelatorrevernazza?share), [Il Gambero Rosso](https://goo.gl/maps/kowGJ8SNcJrFrAnn7)
 
-Drinks: Ananasso Bar
+Drinks: [Ananasso Bar](https://goo.gl/maps/q636dHJ8byTE7KEq7)
 
-Gelato: Gelateria Vernazza, Gelateria Il Porticciolo
+Gelato: [Gelateria Vernazza](https://goo.gl/maps/9daHE4AAqrTsBr6Q7), [Gelateria Il Porticciolo](https://goo.gl/maps/xtBKmcWHzMHp77Rr7)
 
-Activities: Take a 20 min hike towards Monterosso for a picture perfect view, cliff jump down by the beach, walk around Piazza Marconi, see Church of Santa Margherita, and climp to the top of Doria Castle for a great view.
+* Activities: Take a 20 min hike towards Monterosso for a picture perfect view, cliff jump down by the beach, walk around Piazza Marconi, see Church of Santa Margherita, and climp to the top of Doria Castle for a great view.
 
 
 
-Riomaggiore
+**Riomaggiore**
 
-Lunch: Tutti Fritti, Il Pescato Cucinato
+_Eats & Treats_
 
-Drinks: Bar e Vini a Pié de Ma
+Lunch: [Tutti Fritti](https://goo.gl/maps/v5zdhp5AaqY1q7Gn9), [Il Pescato Cucinato](https://goo.gl/maps/d7NJ6E6w73pwAJcu7)
 
-Dinner: Fuori Rotta
+Drinks: [Bar e Vini a Pié de Ma](https://g.page/apiedemariomaggiore?share)
 
-Activities: See the iconic view of town down by the water to the left, go for a swim and cliff jump by the harbor. 
+Dinner: [Fuori Rotta](https://goo.gl/maps/G8pi6mCjk46yAQGC9)
 
-Honorable mentions: Nessun Dorma and Dal Billy in Manarola, Alberto Gelateria in Corniglia
+* Activities: See the iconic view of town down by the water to the left, go for a swim and cliff jump by the harbor. 
+
+_Honorable mentions..._
+
+**Manarola**: Food at [Nessun Dorma](https://g.page/nessundormacinqueterre?share) and [Trattoria dal Billy](https://goo.gl/maps/1JTiSWp5F4PP6jjm8), swim around the rocks in the natural swimming pool, go to the vineyard above the village that has amazing views
+
+**Corniglia**: Get gelato at [Alberto Gelateria](https://g.page/alberto-gelateria?share), see the beautiful views on your hike from here to Vernazza.
