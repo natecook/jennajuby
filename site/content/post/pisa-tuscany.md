@@ -4,8 +4,7 @@ date: 2022-06-14T23:17:19.359Z
 description: >-
   With a few unexpected free days in Italy before we left, we decided to make a
   day trip to Pisa and then stay a few nights in Tuscany!
-image: >-
-  https://djh82r8xhqebh.cloudfront.net/uploads/2020/Pisa%26Tuscany/Pisa%26Tuscany_Blog-1.jpg
+image: /img/pisa-tuscany_blog-11.jpg
 gallery:
   photos:
     - imagedescription: The leaning tower of Pisa
