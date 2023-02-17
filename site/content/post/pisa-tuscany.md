@@ -40,7 +40,7 @@ gallery:
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Pisa%26Tuscany/Pisa%26Tuscany_Blog-8.jpg
       size: false
-    - imagedescription: winery
+    - imagedescription: Tenuta di Capezzana winery
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Pisa%26Tuscany/Pisa%26Tuscany_Blog-9.jpg
       size: false
