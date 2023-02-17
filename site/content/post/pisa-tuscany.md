@@ -76,11 +76,11 @@ gallery:
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Pisa%26Tuscany/Pisa%26Tuscany_Blog-10.jpg
       size: false
-    - imagedescription: I couldn't stop taking photos of those view of Tuscany!
+    - imagedescription: I couldn't stop taking photos of those views of Tuscany!
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Pisa%26Tuscany/Pisa%26Tuscany_Blog-18.jpg
       size: true
-    - imagedescription: image description
+    - imagedescription: ''
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2020/Pisa%26Tuscany/Pisa%26Tuscany_Blog-17.jpg
       size: false
