@@ -14,114 +14,179 @@ description: >-
   darling coastal town with all the sail boat, lobster roll, and New England
   vibes you have ever wanted. We went for a long weekend and below I'll list my
   favorite activities and restaurants that we enjoyed during our time there. 
-image: https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-1.jpg
+image: >-
+  https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-1.jpg
 gallery:
   photos:
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-1.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-1.jpg
+      size: true
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-2.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-2.jpg
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-3.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-3.jpg
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-4.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-4.jpg
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-5.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-5.jpg
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-6.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-6.jpg
+      size: true
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-7.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-7.jpg
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-8.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-8.jpg
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-9.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-9.jpg
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-10.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-10.jpg
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-11.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-11.jpg
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-12.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-12.jpg
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-13.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-13.jpg
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-14.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-14.jpg
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-15.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-15.jpg
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-16.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-16.jpg
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-17.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-17.jpg
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-18.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-18.jpg
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-19.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-19.jpg
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-20.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-20.jpg
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-21.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-21.jpg
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-22.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-22.jpg
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-23.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-23.jpg
+      size: true
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-24.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-24.jpg
+      size: true
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-25.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-25.jpg
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-26.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-26.jpg
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-27.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-27.jpg
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-28.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-28.jpg
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-29.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-29.jpg
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-30.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-30.jpg
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-31.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-31.jpg
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-32.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-32.jpg
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-33.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-33.jpg
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-34.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-34.jpg
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-35.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-35.jpg
+      size: true
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-36.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-36.jpg
+      size: true
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-37.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-37.jpg
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-38.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-38.jpg
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-39.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-39.jpg
+      size: true
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-40.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-40.jpg
+      size: true
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-41.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-41.jpg
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-42.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-42.jpg
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-43.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-43.jpg
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-44.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-44.jpg
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-45.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-45.jpg
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-46.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-46.jpg
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-47.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-47.jpg
+      size: true
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-48.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-48.jpg
+      size: true
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-49.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-49.jpg
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-50.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-50.jpg
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-51.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-51.jpg
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-52.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-53.jpg
     - imagedescription: Newport Rhode Island
-      imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-53.jpg'
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-52.jpg
+      size: true
 ---
 
