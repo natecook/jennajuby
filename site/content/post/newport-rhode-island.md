@@ -210,3 +210,5 @@ Drinks: [The Garden at The Vanderbilt](https://aubergeresorts.com/vanderbilt/din
 Dessert: [Sticks & Cones](https://goo.gl/maps/eR4i9Dy1zSKAvmuT6), [Cold Fusion Gelato](https://goo.gl/maps/8nWGX4NtYcfUr6u2A), [Kaffeology](https://goo.gl/maps/FRoayaisbVUpz3Qw5), [Clementine's Homemade Ice Cream](https://goo.gl/maps/1YGgaVZJcXt9vsMi8), [Frosty Freez](https://goo.gl/maps/U324Dgvu9VEyyoTY7)
 
 Lobster Rolls: [Knot Norms](https://goo.gl/maps/FKB4wB54K19hGgtd9), [Anthony's Seafood](https://goo.gl/maps/bQvk8xzzWv83tMZ38), [The Lobster Bar](https://goo.gl/maps/bJAFcSXTHKSrwm2k9), [The Newport Lobster Shack](https://goo.gl/maps/vXG54EgvUTgNXvVT7), [Flo's Clam Shack](https://goo.gl/maps/nzcbFkubS89Y9HNP9)
+
+**Activities**
