@@ -143,24 +143,24 @@ gallery:
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-42.jpg
       size: false
-    - imagedescription: ''
+    - imagedescription: The inside of the mansion
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-43.jpg
-    - imagedescription: Newport Rhode Island
+    - imagedescription: ''
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-44.jpg
-    - imagedescription: Newport Rhode Island
+    - imagedescription: ''
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-46.jpg
       size: false
-    - imagedescription: Newport Rhode Island
+    - imagedescription: ''
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-48.jpg
       size: true
-    - imagedescription: Newport Rhode Island
+    - imagedescription: We spent the afternoon at Gooseberry Beach
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-32.jpg
-    - imagedescription: Newport Rhode Island
+    - imagedescription: Gooseberry beach was perfect for kids
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-31.jpg
       size: false
