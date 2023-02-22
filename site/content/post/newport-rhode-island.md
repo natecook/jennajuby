@@ -212,3 +212,15 @@ Dessert: [Sticks & Cones](https://goo.gl/maps/eR4i9Dy1zSKAvmuT6), [Cold Fusion G
 Lobster Rolls: [Knot Norms](https://goo.gl/maps/FKB4wB54K19hGgtd9), [Anthony's Seafood](https://goo.gl/maps/bQvk8xzzWv83tMZ38), [The Lobster Bar](https://goo.gl/maps/bJAFcSXTHKSrwm2k9), [The Newport Lobster Shack](https://goo.gl/maps/vXG54EgvUTgNXvVT7), [Flo's Clam Shack](https://goo.gl/maps/nzcbFkubS89Y9HNP9)
 
 **Activities**
+
+The famous Cliff Walk should be at the top of everyone's list when visiting! It is a hike/walk along the coast that has beautiful views of the shoreline and really cool views of the mansions Newport is famous for from the Gilded Age. 
+
+Spend time at Castle Hill Inn. This is an activity worth your whole afternoon. First get a drink at their outdoor bar and grab a seat in their famous adirondack chairs (first some first serve) and watch the boats go by. Make sure while your'e there to take a short walk down to the Castle Hill Lighthouse. And last but not least, make sure to make a reservation at "The Lawn at Castle Inn" for your sunset dinner. You can easily spend a few hours here, it's so relaxing and the views are unbeatable!
+
+If you're visiting in the summer you have to do a beach day at one of Newport's many beaches. We enjoyed Gooseberry Beach because it's great if you have young kids since it's a bay with small waves and shallow warm water. But First, Second, and Third Beach are all great- just make sure to get there very early to avoid the crowds and get a parking spot or you may be turned away.
+
+Bowen's Wharf in towntown Newport is a must see, it looks like a wharf out of a storybook and has lots of yummy restaurants along the water famous for their clam chowder and lobster rolls.
+
+Newport is well known for their Gilded Age mansions, they are spectacular and it wouldn't be a trip to Newport without seeing at least one of them. We saw "The Breakers" (summer home of the Vanderbilts) which is the most well known but seeing Marble House (another Vanderbilt summer home) and Rosecliff (from the Great Gatsby) should be just as high on your list!
+
+Would it be a trip to new england without getting on a boat at least once? Book a boat tour on a charter, yacht , or sailboat to see the coast, have a drink, and spot some ocean life!
