@@ -193,7 +193,7 @@ gallery:
 ---
 I am about three years behind on putting up photos from our trips because I had a baby and apparently this is a very time consuming life change. Now that that baby is nearly graduating college, I have some time to upload these photos! First up is Newport Rhode Island, one of our first trips with just the three of us. 
 
-Newport is about a three hour drive from Manhattan and a very popular beach destination on the east coast.  I can't believe this was only our first time with how close it is. It's a darling coastal town with all the sail boat, lobster roll, and New England vibes you have ever wanted. We went for a long weekend and below I'll list my favorite activities and restaurants that we enjoyed during our time there.
+Newport is about a three hour drive from Manhattan and a very popular beach destination on the east coast.  I can't believe this was only our first time with how close it is. It's a darling coastal town with all the sailboat, lobster roll, and New England vibes you have ever wanted. We went for a long weekend and below I'll list my favorite activities and restaurants that we enjoyed during our time there.
 
 **Eats & Treats**
 
@@ -225,12 +225,12 @@ Lobster Rolls: [Knot Norms](https://goo.gl/maps/FKB4wB54K19hGgtd9), [Anthony's S
 
 
 
-* [Bowen's Wharf](https://goo.gl/maps/tuKvTJoNvZspHk1Q9) in town is a must see, it looks like a wharf out of a storybook and has lots of yummy restaurants along the water famous for their clam chowder and lobster rolls.
+* [Bowen's Wharf](https://goo.gl/maps/tuKvTJoNvZspHk1Q9) in town is a must see, it looks like a wharf out of a storybook and has lots of yummy restaurants along the water popular for their clam chowder and lobster rolls.
 
 
 
-* Newport is well known for their [Gilded Age mansions](https://www.newportmansions.org/live-the-drama/?gclid=CjwKCAiAl9efBhAkEiwA4Torik5yGeUL7rtHn_SzJoNHYpgxzHj1F41anMNw1CyDtNKBB7Ha_dKxjRoCZtcQAvD_BwE), they are spectacular and it wouldn't be a trip to Newport without seeing at least one of them. We saw "The Breakers" (summer home of the Vanderbilts) which is the most well known but seeing Marble House (another Vanderbilt summer home) The Elms, and Rosecliff (from the Great Gatsby) should be just as high on your list!
+* Newport is well known for their [Gilded Age mansions](https://www.newportmansions.org/live-the-drama/?gclid=CjwKCAiAl9efBhAkEiwA4Torik5yGeUL7rtHn_SzJoNHYpgxzHj1F41anMNw1CyDtNKBB7Ha_dKxjRoCZtcQAvD_BwE), they are spectacular and it wouldn't be a trip to Newport without seeing at least one of them. We saw "The Breakers" (summer home of the Vanderbilts) which is the most visited but seeing Marble House (another Vanderbilt summer home) The Elms, and/or Rosecliff (from the Great Gatsby) should be just as high on your list!
 
 
 
-* Would it be a trip to New England without getting on a boat at least once? Book a [harbor tour](https://www.discovernewport.org/things-to-do/tours/harbor-tours/#listings) on a charter, yacht , or sailboat to see the coast, have a drink, and spot some ocean life!
+* Would it be a trip to New England without getting on a boat at least once? Book a [harbor tour](https://www.discovernewport.org/things-to-do/tours/harbor-tours/#listings) on a charter, yacht, or sailboat to see the coast, have a drink, and spot some ocean life!
