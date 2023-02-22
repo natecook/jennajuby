@@ -164,29 +164,29 @@ gallery:
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-31.jpg
       size: false
-    - imagedescription: Newport Rhode Island
+    - imagedescription: The water was shallow and warm
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-33.jpg
-    - imagedescription: Newport Rhode Island
+    - imagedescription: ''
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-34.jpg
       size: false
-    - imagedescription: Newport Rhode Island
+    - imagedescription: We went back to the lawn at Castle Hill
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-51.jpg
       size: true
-    - imagedescription: Newport Rhode Island
+    - imagedescription: Castle Hill Inn
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-49.jpg
-    - imagedescription: Newport Rhode Island
+    - imagedescription: Our special place now
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-50.jpg
       size: false
-    - imagedescription: Newport Rhode Island
+    - imagedescription: The Castle Hill Lighthouse
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-52.jpg
       size: true
-    - imagedescription: Newport Rhode Island
+    - imagedescription: ''
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Newport+RI+Blog/NewportRI_blog-53.jpg
       size: true
