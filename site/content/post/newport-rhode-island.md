@@ -197,16 +197,16 @@ Newport is about a three hour drive from Manhattan and a very popular beach dest
 
 **Eats & Treats**
 
-Coffee: The Nitro Bar, Drift Cafe
+Coffee: [The Nitro Bar](https://goo.gl/maps/4Hd34gYHaKG1Eh9v5), [Drift Cafe](https://goo.gl/maps/ZcLyL1Pk3gHfo1rv6)
 
-Breakfast: Cru Cafe, Drift Cafe, Root, Kaffeology, Corner Cafe
+Breakfast: [CRU Cafe](https://goo.gl/maps/hHTWMbJd5j9Koz8E7), [Root](https://goo.gl/maps/sCbox8542dJ84DE38), [Kaffeology](https://goo.gl/maps/FRoayaisbVUpz3Qw5), [Corner Cafe](https://goo.gl/maps/sGbDqBDzTtmnPv1y5)
 
-Brunch/lunch: The Conservatory at The Vanderbilt, The Black Pearl
+Brunch/lunch: [The Conservatory at The Vanderbilt](https://aubergeresorts.com/vanderbilt/dine/), [The Black Pearl](https://goo.gl/maps/rXDRYeBrYpKuA4ML6)
 
-Dinner: Pasta Beach, Giusto, The Lawn at Castle Hill Inn, Bar 'Cino, Newport Vineyards
+Dinner: [Pasta Beach](https://goo.gl/maps/zFg414Zry3UzXbfL8), [Giusto](https://goo.gl/maps/PynRDe4XoDgXpMQk7), [The Lawn at Castle Hill Inn](https://goo.gl/maps/19NXcMZoTssu9vjW7), [Bar 'Cino](https://goo.gl/maps/4EX9Z5mKAhBhRzxa6), [Newport Vineyards](https://goo.gl/maps/RdH73CaWs2xrX77H6)
 
-Drinks: The Garden at The Vanderbilt, ourdoor bar at Castle Hill Inn, Forty 1 Degrees North, Top of Newport Bar + Kitchen
+Drinks: [The Garden at The Vanderbilt](https://aubergeresorts.com/vanderbilt/dine/), [outdoor bar at Castle Hill Inn](https://www.castlehillinn.com/dine/), [Forty 1 Degrees North](https://goo.gl/maps/uR5FRMr3ig5JW5YY6), [Top of Newport Bar + Kitchen](https://goo.gl/maps/EpR6mQPG4A6T1Cf3A)
 
-Dessert: Sticks & Cones, Newport Creamery, Cold Fusion Gelato, Kaffeology, Clementine's Homemade Ice Cream, Frosty Freez
+Dessert: [Sticks & Cones](https://goo.gl/maps/eR4i9Dy1zSKAvmuT6), [Cold Fusion Gelato](https://goo.gl/maps/8nWGX4NtYcfUr6u2A), [Kaffeology](https://goo.gl/maps/FRoayaisbVUpz3Qw5), [Clementine's Homemade Ice Cream](https://goo.gl/maps/1YGgaVZJcXt9vsMi8), [Frosty Freez](https://goo.gl/maps/U324Dgvu9VEyyoTY7)
 
-Lobster Rolls: Knot Norms, Anthony's Seafood, The Lobster Bar, The Newport lobster shack, Flo's Clam Shack
+Lobster Rolls: [Knot Norms](https://goo.gl/maps/FKB4wB54K19hGgtd9), [Anthony's Seafood](https://goo.gl/maps/bQvk8xzzWv83tMZ38), [The Lobster Bar](https://goo.gl/maps/bJAFcSXTHKSrwm2k9), [The Newport Lobster Shack](https://goo.gl/maps/vXG54EgvUTgNXvVT7), [Flo's Clam Shack](https://goo.gl/maps/nzcbFkubS89Y9HNP9)
