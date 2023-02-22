@@ -213,14 +213,24 @@ Lobster Rolls: [Knot Norms](https://goo.gl/maps/FKB4wB54K19hGgtd9), [Anthony's S
 
 **Activities**
 
-The famous Cliff Walk should be at the top of everyone's list when visiting! It is a hike/walk along the coast that has beautiful views of the shoreline and really cool views of the mansions Newport is famous for from the Gilded Age. 
+* The famous [Cliff Walk](https://www.discovernewport.org/things-to-do/cliff-walk/) should be at the top of everyone's list when visiting! It is a hike/walk along the coast that has beautiful views of the shoreline and close up looks at some of the Gilded Age mansions that Newport is well known for.
 
-Spend time at Castle Hill Inn. This is an activity worth your whole afternoon. First get a drink at their outdoor bar and grab a seat in their famous adirondack chairs (first some first serve) and watch the boats go by. Make sure while your'e there to take a short walk down to the Castle Hill Lighthouse. And last but not least, make sure to make a reservation at "The Lawn at Castle Inn" for your sunset dinner. You can easily spend a few hours here, it's so relaxing and the views are unbeatable!
 
-If you're visiting in the summer you have to do a beach day at one of Newport's many beaches. We enjoyed Gooseberry Beach because it's great if you have young kids since it's a bay with small waves and shallow warm water. But First, Second, and Third Beach are all great- just make sure to get there very early to avoid the crowds and get a parking spot or you may be turned away.
 
-Bowen's Wharf in towntown Newport is a must see, it looks like a wharf out of a storybook and has lots of yummy restaurants along the water famous for their clam chowder and lobster rolls.
+* Spend time at [Castle Hill Inn](https://goo.gl/maps/Zcbe4wER1eAWYZvW7). This is an activity worth your whole afternoon. First get a drink at their outdoor bar and grab a seat in their famous adirondack chairs (first some first serve) and watch the boats go by. Make sure while your'e there to take a short walk down to the Castle Hill Lighthouse. And last but not least, make sure to make a reservation at "The Lawn at Castle Inn" for your sunset dinner. You can easily spend a few hours here, it's so relaxing and the views are unbeatable!
 
-Newport is well known for their Gilded Age mansions, they are spectacular and it wouldn't be a trip to Newport without seeing at least one of them. We saw "The Breakers" (summer home of the Vanderbilts) which is the most well known but seeing Marble House (another Vanderbilt summer home) and Rosecliff (from the Great Gatsby) should be just as high on your list!
 
-Would it be a trip to new england without getting on a boat at least once? Book a boat tour on a charter, yacht , or sailboat to see the coast, have a drink, and spot some ocean life!
+
+* If you're visiting in the summer you have to do a beach day at one of Newport's many beaches. We enjoyed [Gooseberry Beach](https://goo.gl/maps/bmDJXP77eYD1Lb5p8) because it's great if you have young kids since it's a bay with small waves and shallow warm water. But [First](https://goo.gl/maps/komGLyZhkgXZjLU17) (Easton), [Second](https://goo.gl/maps/nCLtH2pLY1atavL57) (Sachuest), and [Third Beach](https://goo.gl/maps/x8AmZS5paKuHLb4Z7) are all great- just make sure to get there very early to avoid the crowds and get a parking spot or you may be turned away (it happened to us!). Also be aware of the "red tide", google it to plan accordingly. 
+
+
+
+* [Bowen's Wharf](https://goo.gl/maps/tuKvTJoNvZspHk1Q9) in town is a must see, it looks like a wharf out of a storybook and has lots of yummy restaurants along the water famous for their clam chowder and lobster rolls.
+
+
+
+* Newport is well known for their [Gilded Age mansions](https://www.newportmansions.org/live-the-drama/?gclid=CjwKCAiAl9efBhAkEiwA4Torik5yGeUL7rtHn_SzJoNHYpgxzHj1F41anMNw1CyDtNKBB7Ha_dKxjRoCZtcQAvD_BwE), they are spectacular and it wouldn't be a trip to Newport without seeing at least one of them. We saw "The Breakers" (summer home of the Vanderbilts) which is the most well known but seeing Marble House (another Vanderbilt summer home) The Elms, and Rosecliff (from the Great Gatsby) should be just as high on your list!
+
+
+
+* Would it be a trip to New England without getting on a boat at least once? Book a [harbor tour](https://www.discovernewport.org/things-to-do/tours/harbor-tours/#listings) on a charter, yacht , or sailboat to see the coast, have a drink, and spot some ocean life!
