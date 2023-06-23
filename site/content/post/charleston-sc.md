@@ -18,7 +18,7 @@ I've been to the beautiful city of Charleston South Carolina over 20 times and n
 * Lunch: [Basic Kitchen](https://www.instagram.com/basic_kitchen/), [Palmetto Cafe](https://www.instagram.com/explore/locations/3103278/palmetto-cafe/?hl=en) and [82 Queen](https://www.instagram.com/explore/locations/1112508/82-queen/?hl=en) (patio)
 * Dinner: [Husk](https://goo.gl/maps/sERC1tRzdhGhmUGXA), [Post House](https://goo.gl/maps/qTV1ZkJ6jFGmoCtD9) (Mount Pleasant), [Church and Union](https://goo.gl/maps/9mPbZ83PxGTJGUda9), [Magnolias](https://goo.gl/maps/UsWhcC3fazeGcUgt6), [Circa 1886](https://goo.gl/maps/CvdbS6BpXzp6PixB9), [The Obstinate Daughter](https://goo.gl/maps/aCkfDoXje3ZqbBCk6) (Sullivan's Island), [Sullivan's Fish Camp](https://goo.gl/maps/hqghkBc8HVSfWzG77) (Sullivan's Island)
 * Oysters: [The Darling](https://www.instagram.com/darling_oyster_bar/?hl=en) and [Delaney Oyster House](https://goo.gl/maps/7k5yoS6BGtpwHoST9)
-* Drinks: [Gin Joint](https://www.instagram.com/gin_joint/?hl=en), [Camellias](https://goo.gl/maps/JzyjF3XUefmVRuNa7), [The Rooftop Bar at The Vendue](https://goo.gl/maps/NQ7ZgrErRZHzMRdw6), [Fiat Lux](https://goo.gl/maps/4ZTHSzCEpidsCDFr8)
+* Drinks: [Gin Joint](https://www.instagram.com/gin_joint/?hl=en), [Citrus Club](https://goo.gl/maps/PWdTx8rs5FhCKnVd8), [Camellias](https://goo.gl/maps/JzyjF3XUefmVRuNa7), [The Rooftop Bar at The Vendue](https://goo.gl/maps/NQ7ZgrErRZHzMRdw6), [Fiat Lux](https://goo.gl/maps/4ZTHSzCEpidsCDFr8)
 * Dessert: [Jeni's Splendid Ice Creams](https://www.instagram.com/jenisicecreams/?hl=en) and [Carmella's Cafe and Dessert Bar](https://goo.gl/maps/QBAsf8gcFvjqZwZq8)
 
 Honorable mentions...Poogan's Smokehouse, The Rise, The Ordinary, Felix Cocktails et Cuisine, One Broad Street, S.N.O.B.
