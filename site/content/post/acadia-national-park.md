@@ -9,202 +9,204 @@ description: >-
 image: /img/acadiablog-76.jpg
 gallery:
   photos:
-    - imagedescription: Acadia National Park
+    - imagedescription: >-
+        Downtown Portland Maine, where we stayed for a night on our drive to
+        Acadia from New York
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-1.jpg
       size: false
-    - imagedescription: Acadia National Park
+    - imagedescription: Outlook from Bass Harbor Head Lighthouse
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-2.jpg
-    - imagedescription: Acadia National Park
+    - imagedescription: Outlook from Bass Harbor Head Lighthouse
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-7.jpg
       size: true
-    - imagedescription: Acadia National Park
+    - imagedescription: Outlook from Bass Harbor Head Lighthouse
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-3.jpg
-    - imagedescription: Acadia National Park
+    - imagedescription: Outlook from Bass Harbor Head Lighthouse
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-4.jpg
-    - imagedescription: Acadia National Park
+    - imagedescription: Wonderland Trail
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-8.jpg
       size: true
-    - imagedescription: Acadia National Park
+    - imagedescription: Bass Harbor Head Lighthouse
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-5.jpg
-    - imagedescription: Acadia National Park
+    - imagedescription: Wonderland Trail
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-6.jpg
       size: false
-    - imagedescription: Acadia National Park
+    - imagedescription: Views from Ship Harbor Trail
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-9.jpg
       size: true
-    - imagedescription: Acadia National Park
+    - imagedescription: Ship Harbor Trail
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-14.jpg
       size: true
-    - imagedescription: Acadia National Park
+    - imagedescription: Ship Harbor Trail
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-11.jpg
-    - imagedescription: Acadia National Park
+    - imagedescription: Ship Harbor Trail
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-12.jpg
       size: false
-    - imagedescription: Acadia National Park
+    - imagedescription: Views from Ship Harbor Trail
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-13.jpg
       size: true
-    - imagedescription: Acadia National Park
+    - imagedescription: Views from Ship Harbor Trail
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-10.jpg
       size: true
-    - imagedescription: Acadia National Park
+    - imagedescription: Ship Harbor Trail
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-15.jpg
       size: true
-    - imagedescription: Acadia National Park
+    - imagedescription: Walking into the lobby of Under Canvas
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-16.jpg
       size: true
-    - imagedescription: Acadia National Park
+    - imagedescription: Enjoying the waterfront at the camp grounds
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-19.jpg
       size: false
-    - imagedescription: Acadia National Park
+    - imagedescription: Waterfront at the camp grounds
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-18.jpg
       size: false
-    - imagedescription: Acadia National Park
+    - imagedescription: Waterfront at the camp grounds
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-21.jpg
-    - imagedescription: Acadia National Park
+    - imagedescription: Waterfront at the camp grounds
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-22.jpg
-    - imagedescription: Acadia National Park
+    - imagedescription: The communal area of the campgrounds
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-17.jpg
       size: true
-    - imagedescription: Acadia National Park
+    - imagedescription: Fire pit and smores set up at Under Canvas
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-23.jpg
-    - imagedescription: Acadia National Park
+    - imagedescription: Under Canvas lobby lit up at night
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-24.jpg
-    - imagedescription: Acadia National Park
+    - imagedescription: Dean enjoying our tents porch
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-27.jpg
       size: true
-    - imagedescription: Acadia National Park
+    - imagedescription: Dean enjoying our tents porch
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-25.jpg
-    - imagedescription: Acadia National Park
+    - imagedescription: Dean enjoying our tents porch
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-26.jpg
       size: false
-    - imagedescription: Acadia National Park
+    - imagedescription: View from Cadillac Mountain
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-28.jpg
       size: true
-    - imagedescription: Acadia National Park
+    - imagedescription: View from Cadillac Mountain
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-29.jpg
-    - imagedescription: Acadia National Park
+    - imagedescription: View from Cadillac Mountain
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-30.jpg
-    - imagedescription: Acadia National Park
+    - imagedescription: View from Cadillac Mountain
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-31.jpg
       size: true
-    - imagedescription: Acadia National Park
+    - imagedescription: View from Cadillac Mountain
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-32.jpg
       size: true
-    - imagedescription: Acadia National Park
+    - imagedescription: View from Cadillac Mountain
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-33.jpg
       size: true
-    - imagedescription: Acadia National Park
+    - imagedescription: View from Jordan Pond House
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-35.jpg
-    - imagedescription: Acadia National Park
+    - imagedescription: Jordan Pond House
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-36.jpg
-    - imagedescription: Acadia National Park
+    - imagedescription: Jordan Pond
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-34.jpg
       size: true
-    - imagedescription: Acadia National Park
+    - imagedescription: Jordan Pond Trail
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-37.jpg
-    - imagedescription: Acadia National Park
+    - imagedescription: Jordan Pond Trail
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-39.jpg
-    - imagedescription: Acadia National Park
+    - imagedescription: Jordan Pond Trail
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-40.jpg
-    - imagedescription: Acadia National Park
+    - imagedescription: Jordan Pond Trail
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-43.jpg
-    - imagedescription: Acadia National Park
+    - imagedescription: Jordan Pond Trail
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-41.jpg
       size: true
-    - imagedescription: Acadia National Park
+    - imagedescription: Jordan Pond Trail
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-42.jpg
       size: true
-    - imagedescription: Acadia National Park
+    - imagedescription: Jordan Pond Trail
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-44.jpg
       size: true
-    - imagedescription: Acadia National Park
+    - imagedescription: Our tent at Under Canvas
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-48.jpg
       size: true
-    - imagedescription: Acadia National Park
+    - imagedescription: Under Canvas campground
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-47.jpg
       size: false
-    - imagedescription: Acadia National Park
+    - imagedescription: Dean enjoying the front porch of our tent
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-46.jpg
       size: false
-    - imagedescription: Acadia National Park
+    - imagedescription: Dean enjoying the front porch of our tent
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-45.jpg
       size: true
-    - imagedescription: Acadia National Park
+    - imagedescription: Under Canvas campground
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-49.jpg
-    - imagedescription: Acadia National Park
+    - imagedescription: Waterfront at the campground
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-50.jpg
-    - imagedescription: Acadia National Park
+    - imagedescription: Exploring Bar Harbor
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-51.jpg
       size: false
-    - imagedescription: Acadia National Park
+    - imagedescription: Bar Harbor
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-52.jpg
-    - imagedescription: Acadia National Park
+    - imagedescription: ''
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-53.jpg
-    - imagedescription: Acadia National Park
+    - imagedescription: ''
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-54.jpg
-    - imagedescription: Acadia National Park
+    - imagedescription: Sand Beach
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-61.jpg
       size: true
-    - imagedescription: Acadia National Park
+    - imagedescription: Sand Beach
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-55.jpg
-    - imagedescription: Acadia National Park
+    - imagedescription: Sand Beach
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-56.jpg
-    - imagedescription: Acadia National Park
+    - imagedescription: Sand Beach
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-62.jpg
       size: true
@@ -264,7 +266,7 @@ gallery:
 ---
 In the summer of 2021, we drove 8 hours from NYC to Acadia National Park in Maine to camp with a one year old baby. In hindsight, this sounds like the worst idea but to this day it is one of our favorite trips we've ever taken with Dean.  Acadia is STUNNING. Set on the coast of Maine, it has mountains, forest, coastline, lakes, - everything! And of course there are trails and windy roads that run through it all for you to explore. In additional to all the natural beauty, Mount Desert Island (where Acadia is mostly located) also boasts Bar Harbor- an adorable town you must see while you're in Acadia.
 
-We stayed at Under Canvas, the same "glamping" company we stayed with in Zion National Park a few years ago (and Yellowstone this year). We loved our experience there and the camp ground at Acadia was perfect for kids. The grounds are set on a lake with a small rock beach that was a fun place for Dean to explore in the mornings and evenings when we weren't in the park. They have a full service kitchen and bar, live music, games, and smores in the evenings and virtually anything you could ever need while "camping".  The whole Under Canvas experience was magical to say the least and I highly recommend staying there if you visit Acadia. 
+We stayed at Under Canvas, the same "glamping" company we stayed with in Zion National Park a few years ago (and Yellowstone this year). We loved our experience there and the camp ground at Acadia was perfect for kids. The grounds are waterfront with a small rock beach that was a fun place for Dean to explore in the mornings and evenings when we weren't in the park. They have a full service kitchen and bar, live music, games, and smores in the evenings and virtually anything you could ever need while "camping".  The whole Under Canvas experience was magical to say the least and I highly recommend staying there if you visit Acadia. 
 
 Below I'll list the highlights of the park that we saw...keep in mind we did all the child friendly hikes and look outs so if you're looking for somethings more challenging, I would ask google for recommendations.
 
