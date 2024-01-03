@@ -288,13 +288,13 @@ Eats & Treats
 
 Must Have: [Jordan Pond House Restaurant](https://maps.app.goo.gl/WnTZWJa4aL4MLDno9)
 
-Lobster Rolls: Abel's Lobster, Thurston's Lobster
+Lobster Rolls: [Abel's Lobster](https://maps.app.goo.gl/Br6voTYi2NP94LA67), [Thurston's Lobster Pound](https://maps.app.goo.gl/hajf2LNzePyt8ZD39)
 
-Brunch: Side Street Cafe
+Brunch: [Side Street Cafe](https://maps.app.goo.gl/znKnhY4Wv3DyLv1h9)
 
-Cafe: Lompoc Cafe and Coffee Hound
+Cafe: [Lompoc Cafe](https://maps.app.goo.gl/4bDae5cfXDBZi2j97) and [Coffee Hound](https://maps.app.goo.gl/rFroVhvsq94zvUEW6)
 
-Dessert: Mount Desert Bakery
+Dessert: [Mount Dessert Bakery](https://maps.app.goo.gl/HpcVtyW3GnYb2c1Y8)
 
 
 
