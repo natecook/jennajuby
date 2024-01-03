@@ -3,6 +3,18 @@ heading: Travel Photography
 description: List of places we've loved and great things to see at each place.
 intro:
   blurbs:
+    - image: /img/acadiablog-76.jpg
+      text: Acadia National Park
+      url: /post/acadia-national-park/
+    - image: /img/newportri_blog-6.jpg
+      text: 'Newport, Rhode Island'
+      url: /post/newport-rhode-island/
+    - image: /img/pisa-tuscany_blog-11.jpg
+      text: Pisa & Tuscany
+      url: /post/pisa-tuscany/
+    - image: /img/cinqueterreblog-1.jpg
+      text: 'Cinque Terre, Italy'
+      url: /post/cinque-terre-italy/
     - image: /img/tuscany_blog-43.jpg
       text: 'Tuscany, Italy'
       url: /post/tuscany-italy/
