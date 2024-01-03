@@ -1,7 +1,11 @@
 ---
 title: Acadia National Park
 date: 2024-01-02T22:25:00.597Z
-description: Acadia National Park Description
+description: >-
+  In the summer of 2021, we drove 8 hours from NYC to Acadia National Park in
+  Maine to camp with a one year old baby. In hindsight this sounds like the
+  worst idea but even to this day it is one of our favorite trips we've taken
+  with Dean since he was born.
 image: /img/acadiablog-76.jpg
 gallery:
   photos:
@@ -74,10 +78,10 @@ gallery:
       size: false
     - imagedescription: Acadia National Park
       imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-22.jpg
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-21.jpg
     - imagedescription: Acadia National Park
       imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-21.jpg
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-22.jpg
     - imagedescription: Acadia National Park
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-17.jpg
@@ -123,14 +127,14 @@ gallery:
       size: true
     - imagedescription: Acadia National Park
       imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-34.jpg
-      size: true
-    - imagedescription: Acadia National Park
-      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-35.jpg
     - imagedescription: Acadia National Park
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-36.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-34.jpg
+      size: true
     - imagedescription: Acadia National Park
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-37.jpg
@@ -157,17 +161,19 @@ gallery:
       size: true
     - imagedescription: Acadia National Park
       imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-45.jpg
-    - imagedescription: Acadia National Park
-      imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-46.jpg
-    - imagedescription: Acadia National Park
-      imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-47.jpg
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-48.jpg
       size: true
     - imagedescription: Acadia National Park
       imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-48.jpg
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-47.jpg
+      size: false
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-46.jpg
+      size: false
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-45.jpg
       size: true
     - imagedescription: Acadia National Park
       imagenew: >-
@@ -278,8 +284,6 @@ Activities
 
 \- Honorable mentions...Ocean Path, Kayak Long Pond, and Bike Eagle Lake Loop.
 
-
-
 Eats & Treats
 
 Jordan Pond Restaurant: 
@@ -294,8 +298,6 @@ Coffee Hound
 
 Mount Desert Bakery
 
-
-
 Tips
 
 \- Rent a car, you'll definitely need one to explore the park
@@ -303,5 +305,3 @@ Tips
 \- Reserve a car pass to drive Cadillac Summit Loop
 
 \- Offline download a map of Acadia before the trip so that you can navigate around the park without phone service (because there definitely won't be any)
-
-\-
