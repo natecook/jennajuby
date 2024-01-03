@@ -270,13 +270,13 @@ Acadia National Park is a gorgeous 47,000 acres on the coast of Maine. It's a st
 
 Activities
 
-\- [Jordan Pond Trail](https://maps.app.goo.gl/6chsf7YKcnUiABqv6)
+\- [Jordan Pond Trail](https://maps.app.goo.gl/6chsf7YKcnUiABqv6): This is an easy 3 mile loop around Jordan Pond, it takes about 90 minutes and has gorgeous views the whole time!
 
-\- [Bass Harbor Head Lighthouse](https://maps.app.goo.gl/JRfVGRujk94SeYPr5)
+\- [Bass Harbor Head Lighthouse](https://maps.app.goo.gl/JRfVGRujk94SeYPr5): One of the most photographed lighthouses in all of Maine, you've got to stop to see it and the beautiful surrounding coast
 
-\- [Ship Harbor Trail](https://maps.app.goo.gl/FrAGVkWkVGAQCZVDA) & [Wonderland Trail](https://maps.app.goo.gl/YorvXA7k2WBy6aiW7)
+\- [Ship Harbor Trail](https://maps.app.goo.gl/FrAGVkWkVGAQCZVDA) & [Wonderland Trail](https://maps.app.goo.gl/YorvXA7k2WBy6aiW7): These are two easy trails, right next to each other that you can see right after the lighthouse. Don't skip one, they were both beautiful and unique from each other and worth doing back to back.
 
-\- [Cadillac Summit Road](https://www.nps.gov/thingstodo/drive-cadillac-mountain.htm)
+\- [Cadillac Mountain](https://www.nps.gov/thingstodo/drive-cadillac-mountain.htm): Drive the windy Cadillac Summit Road (don't forget to reserve your permit!) and stop at the many lookouts to see the incredible views. This is a must on every Acadia visitors list!
 
 \- Drive Park Loop Road and stop to see [Thunder Hole](https://maps.app.goo.gl/Kzze863ddHwoweCw6), [Sand Beach](https://maps.app.goo.gl/saDAZsrJHArA3Y9z8), [Otter Cliff Overlook](https://maps.app.goo.gl/TKE9bF5woecUrWTT6)
 
@@ -292,7 +292,7 @@ Lobster Rolls: [Abel's Lobster](https://maps.app.goo.gl/Br6voTYi2NP94LA67), [Thu
 
 Brunch: [Side Street Cafe](https://maps.app.goo.gl/znKnhY4Wv3DyLv1h9)
 
-Cafe: [Lompoc Cafe](https://maps.app.goo.gl/4bDae5cfXDBZi2j97) and [Coffee Hound](https://maps.app.goo.gl/rFroVhvsq94zvUEW6)
+Cafe: [Lompoc Cafe](https://maps.app.goo.gl/4bDae5cfXDBZi2j97), [Coffee Hound](https://maps.app.goo.gl/rFroVhvsq94zvUEW6)
 
 Dessert: [Mount Dessert Bakery](https://maps.app.goo.gl/HpcVtyW3GnYb2c1Y8)
 
@@ -302,6 +302,8 @@ Tips
 
 \- Rent a car, you'll definitely need one to explore the park
 
-\- Reserve a car pass to drive Cadillac Summit Loop
+\- Reserve a car pass to drive Cadillac Summit Loop as soon as you book your trip
 
 \- Offline download a map of Acadia before the trip so that you can navigate around the park without phone service (because there definitely won't be any)
+
+\- If you can, visit in September or early October when the crowds are gone and the weather is the perfect
