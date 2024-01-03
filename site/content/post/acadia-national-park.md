@@ -2,8 +2,7 @@
 title: Acadia National Park
 date: 2024-01-02T22:25:00.597Z
 description: Acadia National Park Description
-image: >-
-  https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-1.jpg
+image: /img/acadiablog-76.jpg
 gallery:
   photos:
     - imagedescription: Acadia National Park
