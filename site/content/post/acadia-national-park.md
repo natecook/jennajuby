@@ -1,9 +1,240 @@
 ---
-title: Acadia National Park
+title: 'Acadia National Park'
 date: 2024-01-02T22:25:00.597Z
+description: >-
+  Acadia National Park Description
+image: >-
+  https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-1.jpg
 gallery:
   photos:
-    - {}
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-1.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-2.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-3.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-4.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-5.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-6.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-7.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-8.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-9.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-10.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-11.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-12.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-13.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-14.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-15.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-16.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-17.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-18.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-19.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-20.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-21.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-22.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-23.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-24.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-25.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-26.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-27.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-28.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-29.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-30.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-31.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-32.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-33.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-34.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-35.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-36.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-37.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-38.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-39.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-40.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-41.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-42.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-43.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-44.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-45.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-46.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-47.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-48.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-49.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-50.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-51.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-52.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-53.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-54.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-55.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-56.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-57.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-58.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-59.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-60.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-61.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-62.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-63.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-64.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-65.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-66.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-67.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-68.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-69.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-70.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-71.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-72.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-73.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-74.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-75.jpg
+    - imagedescription: Acadia National Park
+      imagenew: >-
+        https://https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-76.jpg
 ---
 In the summer of 2021, we drove 8 hours from NYC to Acadia National Park in Maine to camp with a one year old baby. In hindsight this sounds like the worst idea but even to this day it is one of our favorite trips we've taken with Dean since he was born. Acadia is breathtaking and we had such a beautiful trip there together.
 
