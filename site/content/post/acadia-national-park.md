@@ -73,8 +73,6 @@ gallery:
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-18.jpg
       size: false
     - imagedescription: Acadia National Park
-      imagenew: ''
-    - imagedescription: Acadia National Park
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-22.jpg
     - imagedescription: Acadia National Park
