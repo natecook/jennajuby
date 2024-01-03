@@ -270,7 +270,7 @@ Below I'll list the highlights of the park that we saw...keep in mind we did all
 
 **Activities**
 
-* [Jordan Pond Trail](https://maps.app.goo.gl/6chsf7YKcnUiABqv6): This is an easy 3 mile loop around Jordan Pond, it takes about 90 minutes and has gorgeous views the whole time!
+* [Jordan Pond Trail](https://maps.app.goo.gl/6chsf7YKcnUiABqv6): This is an easy 3 mile loop around Jordan Pond, it takes about 90 minutes and has gorgeous views the whole time. End your walk at Jordan Pond House Restaurant and try their famous popovers!
 * [Bass Harbor Head Lighthouse](https://maps.app.goo.gl/JRfVGRujk94SeYPr5): One of the most photographed lighthouses in all of Maine, you've got to stop to see it and the beautiful surrounding coast
 * [Ship Harbor Trail](https://maps.app.goo.gl/FrAGVkWkVGAQCZVDA) & [Wonderland Trail](https://maps.app.goo.gl/YorvXA7k2WBy6aiW7): These are two easy trails, right next to each other that you can see right after the lighthouse. Don't skip one, they were both beautiful and unique from each other and worth doing back to back.
 * [Cadillac Mountain](https://www.nps.gov/thingstodo/drive-cadillac-mountain.htm): Drive the windy Cadillac Summit Road (don't forget to reserve your permit!) and stop at the many lookouts to see the incredible views. This is a must on every Acadia visitors list!
@@ -284,7 +284,7 @@ Must Have: [Jordan Pond House Restaurant](https://maps.app.goo.gl/WnTZWJa4aL4MLD
 
 Lobster Rolls: [Abel's Lobster](https://maps.app.goo.gl/Br6voTYi2NP94LA67), [Thurston's Lobster Pound](https://maps.app.goo.gl/hajf2LNzePyt8ZD39)
 
-Brunch: [Side Street Cafe](https://maps.app.goo.gl/znKnhY4Wv3DyLv1h9)
+Any meal: [Side Street Cafe](https://maps.app.goo.gl/znKnhY4Wv3DyLv1h9)
 
 Cafe: [Lompoc Cafe](https://maps.app.goo.gl/4bDae5cfXDBZi2j97), [Coffee Hound](https://maps.app.goo.gl/rFroVhvsq94zvUEW6)
 
@@ -292,10 +292,10 @@ Dessert: [Mount Dessert Bakery](https://maps.app.goo.gl/HpcVtyW3GnYb2c1Y8)
 
 **Tips**
 
-\- Rent a car, you'll definitely need one to explore the park
+\- Rent a car if you fly to Maine, you'll definitely need one to explore the park
 
-\- Reserve a car pass to drive Cadillac Summit Loop as soon as you book your trip
+\- Reserve a car pass to drive Cadillac Summit Road as soon as you book your trip, they are cheap but spots fill up fast
 
-\- Offline download a map of Acadia before the trip so that you can navigate around the park without phone service (because there definitely won't be any)
+\- Download an offline map of Acadia on google maps before the trip so that you can navigate around the park without phone service (because there definitely won't be any)
 
 \- If you can, visit in September or early October when the crowds are gone and the weather is the perfect
