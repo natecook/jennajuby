@@ -210,56 +210,56 @@ gallery:
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-62.jpg
       size: true
-    - imagedescription: Acadia National Park
+    - imagedescription: Sand Beach
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-59.jpg
-    - imagedescription: Acadia National Park
+    - imagedescription: Otter Cliff Lookout
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-60.jpg
       size: false
-    - imagedescription: Acadia National Park
+    - imagedescription: Sand Beach
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-57.jpg
       size: true
-    - imagedescription: Acadia National Park
+    - imagedescription: Otter Cliff Lookout
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-63.jpg
-    - imagedescription: Acadia National Park
+    - imagedescription: Abel's Lobster
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-65.jpg
-    - imagedescription: Acadia National Park
+    - imagedescription: Abel's Lobter
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-66.jpg
-    - imagedescription: Acadia National Park
+    - imagedescription: Blueberry pie was everywhere in Maine!
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-67.jpg
-    - imagedescription: Acadia National Park
+    - imagedescription: Making s'mores at Under Canvas
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-69.jpg
       size: false
-    - imagedescription: Acadia National Park
+    - imagedescription: Making s'mores at Under Canvas
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-70.jpg
       size: false
-    - imagedescription: Acadia National Park
+    - imagedescription: Making s'mores at Under Canvas
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-71.jpg
       size: false
-    - imagedescription: Acadia National Park
+    - imagedescription: Making s'mores at Under Canvas
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-68.jpg
-    - imagedescription: Acadia National Park
+    - imagedescription: Enjoying the waterfront at Under Canvas
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-72.jpg
       size: true
-    - imagedescription: Acadia National Park
+    - imagedescription: Enjoying the waterfront at Under Canvas
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-73.jpg
-    - imagedescription: Acadia National Park
+    - imagedescription: Enjoying the waterfront at Under Canvas
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-75.jpg
       size: false
-    - imagedescription: Acadia National Park
+    - imagedescription: Enjoying the waterfront at Under Canvas
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-76.jpg
       size: true
