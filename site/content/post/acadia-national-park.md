@@ -270,11 +270,11 @@ Acadia National Park is a gorgeous 47,000 acres on the coast of Maine. It's a st
 
 Activities
 
-\- Jordan Pond
+\- [Jordan Pond Trail](https://maps.app.goo.gl/6chsf7YKcnUiABqv6)
 
-\- Bass Harbor Head Lighthouse
+\- [Bass Harbor Head Lighthouse](https://maps.app.goo.gl/JRfVGRujk94SeYPr5)
 
-\- Ship Harbor Trail & Wonderland Trail
+\- [Ship Harbor Trail](https://maps.app.goo.gl/FrAGVkWkVGAQCZVDA) & [Wonderland Trail](https://maps.app.goo.gl/YorvXA7k2WBy6aiW7)
 
 \- Cadillac Summit Road
 
@@ -282,21 +282,21 @@ Activities
 
 \- Explore Bar Harbor
 
-\- Honorable mentions...Ocean Path, Kayak Long Pond, and Bike Eagle Lake Loop.
+\- Honorable mentions...Ocean Path, Kayak Long Pond, and Bike Eagle Lake Loop
 
 Eats & Treats
 
-Jordan Pond Restaurant: 
+Must Have: [Jordan Pond House Restaurant](https://maps.app.goo.gl/WnTZWJa4aL4MLDno9)
 
-Lobster Rolls: Abel's Lobster, Thurstons's Lobster
+Lobster Rolls: Abel's Lobster, Thurston's Lobster
 
-Side Street Cafe: 
+Brunch: Side Street Cafe
 
-Lompoc Cafe: 
+Cafe: Lompoc Cafe and Coffee Hound
 
-Coffee Hound
+Dessert: Mount Desert Bakery
 
-Mount Desert Bakery
+
 
 Tips
 
