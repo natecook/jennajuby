@@ -276,13 +276,13 @@ Activities
 
 \- [Ship Harbor Trail](https://maps.app.goo.gl/FrAGVkWkVGAQCZVDA) & [Wonderland Trail](https://maps.app.goo.gl/YorvXA7k2WBy6aiW7)
 
-\- Cadillac Summit Road
+\- [Cadillac Summit Road](https://www.nps.gov/thingstodo/drive-cadillac-mountain.htm)
 
-\- Drive Park Loop Road and stop to see Thunder Hole, Sand Beach, Otter Cliff
+\- Drive Park Loop Road and stop to see [Thunder Hole](https://maps.app.goo.gl/Kzze863ddHwoweCw6), [Sand Beach](https://maps.app.goo.gl/saDAZsrJHArA3Y9z8), [Otter Cliff Overlook](https://maps.app.goo.gl/TKE9bF5woecUrWTT6)
 
-\- Explore Bar Harbor
+\- Explore [Bar Harbor](https://www.visitbarharbor.com/)
 
-\- Honorable mentions...Ocean Path, Kayak Long Pond, and Bike Eagle Lake Loop
+\- Honorable mentions...[Ocean Path](https://maps.app.goo.gl/3uf1FudARuYHXYy37), [Kayak Long Pond](https://www.nps.gov/thingstodo/paddle-long-pond.htm), and [Bike Eagle Lake Loop](https://www.mtbproject.com/trail/7029308/around-the-lake-eagle-lake-carriage-road)
 
 Eats & Treats
 
