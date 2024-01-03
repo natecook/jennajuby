@@ -262,29 +262,23 @@ gallery:
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Acadia-National-Park/AcadiaBlog-76.jpg
       size: true
 ---
-In the summer of 2021, we drove 8 hours from NYC to Acadia National Park in Maine to camp with a one year old baby. In hindsight, this sounds like the worst idea but to this day it is one of our favorite trips we've ever taken with Dean.  Acadia is STUNNING. Set on the coast of Maine, it has mountains, forest, coastline, lakes, - everything! And of course there are trails that and windy roads that run through it all for you to explore. In additional to all the natural beauty, Mount Desert Island (where Acadia is mostly located) also baosts Bar Harbor- an place and a must see while you're in Acadia.
+In the summer of 2021, we drove 8 hours from NYC to Acadia National Park in Maine to camp with a one year old baby. In hindsight, this sounds like the worst idea but to this day it is one of our favorite trips we've ever taken with Dean.  Acadia is STUNNING. Set on the coast of Maine, it has mountains, forest, coastline, lakes, - everything! And of course there are trails and windy roads that run through it all for you to explore. In additional to all the natural beauty, Mount Desert Island (where Acadia is mostly located) also boasts Bar Harbor- an adorable town you must see while you're in Acadia.
 
-We stayed at Under Canvas, the same "glamping" company we stayed with in Zion National Park a few years ago (and Yellowstone this year). We loved our experience there and the camp ground at Acadia was perfect for kids. The grounds are set on a lake with a small rock beach that was a fun place for Dean to explore in the mornings and evenings when we weren't in the park. They also set up a smores stations in the evenings, had live music, as well as a fully stocked kitchen and bar which made things so relaxing after a long day exploring the park. The whole Under Canvas experience was magical to say the least and I highly recommend staying there if you visit Acadia.
+We stayed at Under Canvas, the same "glamping" company we stayed with in Zion National Park a few years ago (and Yellowstone this year). We loved our experience there and the camp ground at Acadia was perfect for kids. The grounds are set on a lake with a small rock beach that was a fun place for Dean to explore in the mornings and evenings when we weren't in the park. They have a full service kitchen and bar, live music, games, and smores in the evenings and virtually anything you could ever need while "camping".  The whole Under Canvas experience was magical to say the least and I highly recommend staying there if you visit Acadia. 
 
-Acadia National Park is a gorgeous 47,000 acres on the coast of Maine. It's a stunning mixture of mountains, forest, coastline, lakes, and trails that run through them all. Most of the park is on Mount Desert Island and also on the island is the town of Bar Harbor. Bar Harbor is an adorable place and a must see while you're in Acadia. Below I'll list the highlights of the park that we saw...keep in mind we did all the child friendly hikes and look outs so if you're looking for somethings more challenging, I would ask google for recs.
+Below I'll list the highlights of the park that we saw...keep in mind we did all the child friendly hikes and look outs so if you're looking for somethings more challenging, I would ask google for recommendations.
 
-Activities
+**Activities**
 
-\- [Jordan Pond Trail](https://maps.app.goo.gl/6chsf7YKcnUiABqv6): This is an easy 3 mile loop around Jordan Pond, it takes about 90 minutes and has gorgeous views the whole time!
+* [Jordan Pond Trail](https://maps.app.goo.gl/6chsf7YKcnUiABqv6): This is an easy 3 mile loop around Jordan Pond, it takes about 90 minutes and has gorgeous views the whole time!
+* [Bass Harbor Head Lighthouse](https://maps.app.goo.gl/JRfVGRujk94SeYPr5): One of the most photographed lighthouses in all of Maine, you've got to stop to see it and the beautiful surrounding coast
+* [Ship Harbor Trail](https://maps.app.goo.gl/FrAGVkWkVGAQCZVDA) & [Wonderland Trail](https://maps.app.goo.gl/YorvXA7k2WBy6aiW7): These are two easy trails, right next to each other that you can see right after the lighthouse. Don't skip one, they were both beautiful and unique from each other and worth doing back to back.
+* [Cadillac Mountain](https://www.nps.gov/thingstodo/drive-cadillac-mountain.htm): Drive the windy Cadillac Summit Road (don't forget to reserve your permit!) and stop at the many lookouts to see the incredible views. This is a must on every Acadia visitors list!
+* Drive Park Loop Road and stop to see [Thunder Hole](https://maps.app.goo.gl/Kzze863ddHwoweCw6), [Sand Beach](https://maps.app.goo.gl/saDAZsrJHArA3Y9z8), [Otter Cliff Overlook](https://maps.app.goo.gl/TKE9bF5woecUrWTT6)
+* Explore [Bar Harbor](https://www.visitbarharbor.com/)
+* Honorable mentions...[Ocean Path](https://maps.app.goo.gl/3uf1FudARuYHXYy37), [Kayak Long Pond](https://www.nps.gov/thingstodo/paddle-long-pond.htm), and [Bike Eagle Lake Loop](https://www.mtbproject.com/trail/7029308/around-the-lake-eagle-lake-carriage-road)
 
-\- [Bass Harbor Head Lighthouse](https://maps.app.goo.gl/JRfVGRujk94SeYPr5): One of the most photographed lighthouses in all of Maine, you've got to stop to see it and the beautiful surrounding coast
-
-\- [Ship Harbor Trail](https://maps.app.goo.gl/FrAGVkWkVGAQCZVDA) & [Wonderland Trail](https://maps.app.goo.gl/YorvXA7k2WBy6aiW7): These are two easy trails, right next to each other that you can see right after the lighthouse. Don't skip one, they were both beautiful and unique from each other and worth doing back to back.
-
-\- [Cadillac Mountain](https://www.nps.gov/thingstodo/drive-cadillac-mountain.htm): Drive the windy Cadillac Summit Road (don't forget to reserve your permit!) and stop at the many lookouts to see the incredible views. This is a must on every Acadia visitors list!
-
-\- Drive Park Loop Road and stop to see [Thunder Hole](https://maps.app.goo.gl/Kzze863ddHwoweCw6), [Sand Beach](https://maps.app.goo.gl/saDAZsrJHArA3Y9z8), [Otter Cliff Overlook](https://maps.app.goo.gl/TKE9bF5woecUrWTT6)
-
-\- Explore [Bar Harbor](https://www.visitbarharbor.com/)
-
-\- Honorable mentions...[Ocean Path](https://maps.app.goo.gl/3uf1FudARuYHXYy37), [Kayak Long Pond](https://www.nps.gov/thingstodo/paddle-long-pond.htm), and [Bike Eagle Lake Loop](https://www.mtbproject.com/trail/7029308/around-the-lake-eagle-lake-carriage-road)
-
-Eats & Treats
+**Eats & Treats**
 
 Must Have: [Jordan Pond House Restaurant](https://maps.app.goo.gl/WnTZWJa4aL4MLDno9)
 
@@ -296,7 +290,7 @@ Cafe: [Lompoc Cafe](https://maps.app.goo.gl/4bDae5cfXDBZi2j97), [Coffee Hound](h
 
 Dessert: [Mount Dessert Bakery](https://maps.app.goo.gl/HpcVtyW3GnYb2c1Y8)
 
-Tips
+**Tips**
 
 \- Rent a car, you'll definitely need one to explore the park
 
