@@ -2,12 +2,14 @@
 title: Philadelphia
 date: 2024-01-08T20:26:48.687Z
 description: intro blurb
-image: 'https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-1.jpg'
+image: >-
+  https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-1.jpg
 gallery:
   photos:
     - imagedescription: Philly description
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-1.jpg
+      size: true
     - imagedescription: Philly description
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-2.jpg
@@ -35,6 +37,7 @@ gallery:
     - imagedescription: Philly description
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-10.jpg
+      size: true
     - imagedescription: Philly description
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-11.jpg
@@ -44,6 +47,7 @@ gallery:
     - imagedescription: Philly description
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-13.jpg
+      size: true
     - imagedescription: Philly description
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-14.jpg
@@ -143,6 +147,5 @@ gallery:
     - imagedescription: Philly description
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-46.jpg
-    
 ---
 body copy
