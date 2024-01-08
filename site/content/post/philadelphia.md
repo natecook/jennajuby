@@ -90,6 +90,7 @@ gallery:
     - imagedescription: Philly description
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-27.jpg
+      size: true
     - imagedescription: Philly description
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-28.jpg
@@ -108,6 +109,7 @@ gallery:
     - imagedescription: Philly description
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-33.jpg
+      size: true
     - imagedescription: Philly description
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-34.jpg
@@ -129,6 +131,7 @@ gallery:
     - imagedescription: Philly description
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-40.jpg
+      size: true
     - imagedescription: Philly description
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-41.jpg
