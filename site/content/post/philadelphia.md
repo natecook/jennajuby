@@ -109,51 +109,51 @@ gallery:
     - imagedescription: Rocky Statue
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-31.jpg
-    - imagedescription: 'The steps at the Philadephia Museum of Art, aka the Rocky steps'
+    - imagedescription: 'The steps at the Philadelphia Museum of Art, aka the Rocky steps'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-32.jpg
-    - imagedescription: Philly description
+    - imagedescription: View from the top of the steps
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-33.jpg
       size: true
-    - imagedescription: Philly description
+    - imagedescription: Picnic in Rittenhouse Square
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-34.jpg
-    - imagedescription: Philly description
+    - imagedescription: Picnic in Rittenhouse Square
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-35.jpg
-    - imagedescription: Philly description
+    - imagedescription: Lunch at Sonny's
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-36.jpg
-    - imagedescription: Philly description
+    - imagedescription: Menagerie Coffee
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-37.jpg
-    - imagedescription: Philly description
+    - imagedescription: South 3rd St. on the way to Three Bears Park
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-38.jpg
-    - imagedescription: Philly description
+    - imagedescription: South 3rd St. on the way to Three Bears Park
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-39.jpg
-    - imagedescription: Philly description
+    - imagedescription: South 3rd St. on the way to Three Bears Park
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-40.jpg
       size: true
-    - imagedescription: Philly description
+    - imagedescription: South 3rd St. on the way to Three Bears Park
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-41.jpg
-    - imagedescription: Philly description
+    - imagedescription: Playing at Three Bears Park
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-42.jpg
-    - imagedescription: Philly description
+    - imagedescription: South 3rd St.
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-43.jpg
-    - imagedescription: Philly description
+    - imagedescription: South 3rd St.
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-44.jpg
-    - imagedescription: Philly description
+    - imagedescription: The famous "LOVE" sign!
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-45.jpg
-    - imagedescription: Philly description
+    - imagedescription: ''
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-46.jpg
 ---
