@@ -159,7 +159,7 @@ gallery:
 ---
 During summer of 2021 we did lots of domestic travel, particularly to places within driving distance because it was our first time owning a car in New York City! Owning a car in the city lasted only as long as it took for everyone to rush back to new york after the pandemic. So, we enjoyed having a car for about a year and a half and it was perfect timing to explore the northeast with a baby in tow. Philly was top of our list, and the first time either of us had been there in over a decade, and our first time together. We spent a weekend there in early October and it was beautiful with the fall foliage! Here are my list of Philly recommendations :)
 
-Eats & Treats
+**Eats & Treats**
 
 Coffee: Menagerie Coffee, Old City Coffee, Ultimo Coffee, Brown Street Coffee
 
@@ -173,8 +173,18 @@ Lunch: El Merkury, Juno, The Bourse Food Hall, Famous 4th Street Delicatessen
 
 Dinner: Vetri Cucina, Pizzeria Stella, Forsythia, Bud & Marilyn's, Parc
 
-Drinks
-
 Cheesesteak: Sonny's, Dalessandro's, Woodrows, John's Roast Pork
 
-Honorable mentions:
+**Activities**
+
+* Explore Old City
+* See Quince St. and Elfreth's Alley, two of cutest streets in the city
+* Liberty Bell and Independence Hall
+* Eat a cheesesteak, duh.
+* City Hall and Love Sign
+* Rittenhouse Square, have a picnic lunch or eat at one of the many cafe's surrounding the square
+* Museums: Rodin Museum, Barnes Foundation, Please Touch Museum (Children's Museum)
+* Magic Gardens, such a unique indoor/outdoor art gallery, don't leave without experiencing it
+* Walk Benjamin Franklin Parkway, see Rocky steps and statue
+* See Boathouse Row
+* Washington Square
