@@ -185,6 +185,6 @@ Cheesesteak: Sonny's, Dalessandro's, Woodrows, John's Roast Pork
 * Rittenhouse Square, have a picnic lunch or eat at one of the many cafe's surrounding the square
 * Museums: Rodin Museum, Barnes Foundation, Please Touch Museum (Children's Museum)
 * Magic Gardens, such a unique indoor/outdoor art gallery, don't leave without experiencing it
-* Walk Benjamin Franklin Parkway, see Rocky steps and statue
+* Walk Benjamin Franklin Parkway, see the Rocky steps and statue
 * See Boathouse Row
 * Washington Square
