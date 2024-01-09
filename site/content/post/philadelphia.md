@@ -180,7 +180,7 @@ Dessert: [Franklin Ice Cream Bar](https://maps.app.goo.gl/H2aYL7tP5jRcmvoj6)
 **Activities**
 
 * Explore Old City
-* See Quince St. and Elfreth's Alley, two of cutest streets in the city
+* See Quince St. and Elfreth's Alley, two of the cutest streets in the city
 * Liberty Bell and Independence Hall
 * Eat a cheesesteak, duh.
 * City Hall and Love Sign
