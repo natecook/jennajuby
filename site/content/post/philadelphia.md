@@ -158,3 +158,23 @@ gallery:
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-46.jpg
 ---
 During summer of 2021 we did lots of domestic travel, particularly to places within driving distance because it was our first time owning a car in New York City! Owning a car in the city lasted only as long as it took for everyone to rush back to new york after the pandemic. So, we enjoyed having a car for about a year and a half and it was perfect timing to explore the northeast with a baby in tow. Philly was top of our list, and the first time either of us had been there in over a decade, and our first time together. We spent a weekend there in early October and it was beautiful with the fall foliage! Here are my list of Philly recommendations :)
+
+Eats & Treats
+
+Coffee: Menagerie Coffee, Old City Coffee, Ultimo Coffee, Brown Street Coffee
+
+Bakery: J'aime French Bakery, K'Far Cafe, Oui, ICI Macarons & Cafe
+
+Breakfast: Middle Child, FRIEDA
+
+Brunch: Walnut Street Cafe, Alma del Mar
+
+Lunch: El Merkury, Juno, The Bourse Food Hall, Famous 4th Street Delicatessen
+
+Dinner: Vetri Cucina, Pizzeria Stella, Forsythia, Bud & Marilyn's, Parc
+
+Drinks
+
+Cheesesteak: Sonny's, Dalessandro's, Woodrows, John's Roast Pork
+
+Honorable mentions:
