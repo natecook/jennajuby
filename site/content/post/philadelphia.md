@@ -9,107 +9,107 @@ description: >-
 image: /img/phillyblog-40.jpg
 gallery:
   photos:
-    - imagedescription: Philly description
+    - imagedescription: Signer's Garden in front of Library Hall
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-1.jpg
       size: true
-    - imagedescription: Philly description
+    - imagedescription: Signer's Garden in front of Library Hall
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-2.jpg
-    - imagedescription: Philly description
+    - imagedescription: Independence Hall
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-3.jpg
-    - imagedescription: Philly description
+    - imagedescription: '"The Bank Building"'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-4.jpg
-    - imagedescription: Philly description
+    - imagedescription: Franklin Ice Cream Bar
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-5.jpg
-    - imagedescription: Philly description
+    - imagedescription: ''
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-6.jpg
-    - imagedescription: Philly description
+    - imagedescription: '"First Bank of the United States"'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-7.jpg
-    - imagedescription: Philly description
+    - imagedescription: Dean on the steps of the First Bank
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-8.jpg
-    - imagedescription: Philly description
+    - imagedescription: ''
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-9.jpg
-    - imagedescription: Philly description
+    - imagedescription: ''
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-10.jpg
       size: true
-    - imagedescription: Philly description
+    - imagedescription: 18th Century Garden
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-11.jpg
-    - imagedescription: Philly description
+    - imagedescription: 'Neighborhood around Quince, Irving, and Latimer St.'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-12.jpg
-    - imagedescription: Philly description
+    - imagedescription: 'Neighborhood around Quince, Irving, and Latimer St.'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-13.jpg
       size: true
-    - imagedescription: Philly description
+    - imagedescription: 'Neighborhood around Quince, Irving, and Latimer St.'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-14.jpg
-    - imagedescription: Philly description
+    - imagedescription: 'Neighborhood around Quince, Irving, and Latimer St.'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-20.jpg
-    - imagedescription: Philly description
+    - imagedescription: 'Neighborhood around Quince, Irving, and Latimer St.'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-21.jpg
-    - imagedescription: Philly description
+    - imagedescription: 'Neighborhood around Quince, Irving, and Latimer St.'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-15.jpg
-    - imagedescription: Philly description
+    - imagedescription: 'Neighborhood around Quince, Irving, and Latimer St.'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-16.jpg
-    - imagedescription: Philly description
+    - imagedescription: 'Neighborhood around Quince, Irving, and Latimer St.'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-22.jpg
-    - imagedescription: Philly description
+    - imagedescription: 'Neighborhood around Quince, Irving, and Latimer St.'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-23.jpg
-    - imagedescription: Philly description
+    - imagedescription: 'Neighborhood around Quince, Irving, and Latimer St.'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-17.jpg
-    - imagedescription: Philly description
+    - imagedescription: 'Neighborhood around Quince, Irving, and Latimer St.'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-25.jpg
-    - imagedescription: Philly description
+    - imagedescription: 'Neighborhood around Quince, Irving, and Latimer St.'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-18.jpg
       size: false
-    - imagedescription: Philly description
+    - imagedescription: 'Neighborhood around Quince, Irving, and Latimer St.'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-19.jpg
-    - imagedescription: Philly description
+    - imagedescription: 'Neighborhood around Quince, Irving, and Latimer St.'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-24.jpg
       size: false
-    - imagedescription: Philly description
+    - imagedescription: Rittenhouse Square
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-27.jpg
       size: true
-    - imagedescription: Philly description
+    - imagedescription: Rittenhouse Square
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-28.jpg
-    - imagedescription: Philly description
+    - imagedescription: Rittenhouse Square
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-26.jpg
       size: false
-    - imagedescription: Philly description
+    - imagedescription: Rittenhouse Square
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-29.jpg
-    - imagedescription: Philly description
+    - imagedescription: Philadelphia City Hall
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-30.jpg
-    - imagedescription: Philly description
+    - imagedescription: Rocky Statue
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-31.jpg
-    - imagedescription: Philly description
+    - imagedescription: 'The steps at the Philadephia Museum of Art, aka the Rocky steps'
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-32.jpg
     - imagedescription: Philly description
@@ -174,6 +174,8 @@ Lunch: [El Merkury](https://maps.app.goo.gl/wX7rAzJFkdardVsm9), [Juno](https://m
 Dinner: [Pizzeria Stella](https://maps.app.goo.gl/L3B3hgPuGmkS8w4G9), [Vetri Cucina](https://maps.app.goo.gl/XmzGGHnsyKRUYPNx5), [Forsythia](https://maps.app.goo.gl/M8HQzBY12Q8iMqYc7), [Bud & Marilyn's](https://maps.app.goo.gl/T9yxnvbnCqwiohmg7), [Parc](https://maps.app.goo.gl/ijjUNwhEgwp8PYc36)
 
 Cheesesteak: [Sonny's](https://maps.app.goo.gl/FwAsLJEWEL2EeLM57), [Dalessandro's](https://maps.app.goo.gl/PxAQpiNbrRXFhnL1A), [Woodrow's](https://maps.app.goo.gl/mu9NbvHFB4SqNphj8), [John's Roast Pork](https://maps.app.goo.gl/qWgt227moniV88aQA)
+
+Dessert: [Franklin Ice Cream Bar](https://maps.app.goo.gl/H2aYL7tP5jRcmvoj6)
 
 **Activities**
 
