@@ -161,7 +161,7 @@ During summer of 2021 we did lots of domestic travel, particularly to places wit
 
 **Eats & Treats**
 
-Coffee: [Menagerie Coffee](https://maps.app.goo.gl/4Q8FkrhujNMKLgQ69), [Old City Coffee](https://maps.app.goo.gl/PY4M7kpR14o3RttM6), [Ultimo Coffee](https://maps.app.goo.gl/PY4M7kpR14o3RttM6), [Brown Street Coffee](https://maps.app.goo.gl/G1GH9TPSH5FLgGAj9)
+Coffee: [Menagerie Coffee](https://maps.app.goo.gl/4Q8FkrhujNMKLgQ69), [Old City Coffee](https://maps.app.goo.gl/PY4M7kpR14o3RttM6), [Ultimo Coffee](https://maps.app.goo.gl/pbFqenKM7vVSxhgQA), [Brown Street Coffee](https://maps.app.goo.gl/G1GH9TPSH5FLgGAj9)
 
 Bakery: [J'aime French Bakery](https://maps.app.goo.gl/m96ahu8oqg7C8Ju7A), [K'Far Cafe](https://maps.app.goo.gl/t2L1ZcFU5p4QPj3BA), [Oui](https://maps.app.goo.gl/jKXJQKBKtWRRZPaS6), [ICI Macarons & Cafe](https://maps.app.goo.gl/edFLb2FzeDUwWvNp9)
 
@@ -180,7 +180,7 @@ Dessert: [Franklin Ice Cream Bar](https://maps.app.goo.gl/H2aYL7tP5jRcmvoj6)
 **Activities**
 
 * Explore Old City
-* See Quince St. and Elfreth's Alley, two of cutest streets in the city
+* See Quince St. and Elfreth's Alley, two of the cutest streets in the city
 * Liberty Bell and Independence Hall
 * Eat a cheesesteak, duh.
 * City Hall and Love Sign
