@@ -1,9 +1,12 @@
 ---
-title: Philadelphia
+title: 'Philadelphia, PA'
 date: 2024-01-08T20:26:48.687Z
-description: intro blurb
-image: >-
-  https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-1.jpg
+description: >-
+  During summer of 2021 we did lots of domestic travel, particularly to places
+  within driving distance because it was our first time owning a car in New York
+  City! Philly was top of our list, and the first time either of us had been
+  there in over a decade.
+image: /img/phillyblog-40.jpg
 gallery:
   photos:
     - imagedescription: Philly description
@@ -53,25 +56,16 @@ gallery:
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-14.jpg
     - imagedescription: Philly description
       imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-15.jpg
-    - imagedescription: Philly description
-      imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-16.jpg
-    - imagedescription: Philly description
-      imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-17.jpg
-    - imagedescription: Philly description
-      imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-18.jpg
-    - imagedescription: Philly description
-      imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-19.jpg
-    - imagedescription: Philly description
-      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-20.jpg
     - imagedescription: Philly description
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-21.jpg
+    - imagedescription: Philly description
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-15.jpg
+    - imagedescription: Philly description
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-16.jpg
     - imagedescription: Philly description
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-22.jpg
@@ -80,13 +74,21 @@ gallery:
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-23.jpg
     - imagedescription: Philly description
       imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-24.jpg
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-17.jpg
     - imagedescription: Philly description
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-25.jpg
     - imagedescription: Philly description
       imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-26.jpg
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-18.jpg
+      size: false
+    - imagedescription: Philly description
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-19.jpg
+    - imagedescription: Philly description
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-24.jpg
+      size: false
     - imagedescription: Philly description
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-27.jpg
@@ -94,6 +96,10 @@ gallery:
     - imagedescription: Philly description
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-28.jpg
+    - imagedescription: Philly description
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-26.jpg
+      size: false
     - imagedescription: Philly description
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-29.jpg
@@ -151,4 +157,4 @@ gallery:
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2021/Philly+Blog+2/PhillyBlog-46.jpg
 ---
-body copy
+During summer of 2021 we did lots of domestic travel, particularly to places within driving distance because it was our first time owning a car in New York City! Owning a car in the city lasted only as long as it took for everyone to rush back to new york after the pandemic. So, we enjoyed having a car for about a year and a half and it was perfect timing to explore the northeast with a baby in tow. Philly was top of our list, and the first time either of us had been there in over a decade, and our first time together. We spent a weekend there in early October and it was beautiful with the fall foliage! Here are my list of Philly recommendations :)
