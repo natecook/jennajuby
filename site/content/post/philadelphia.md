@@ -161,19 +161,19 @@ During summer of 2021 we did lots of domestic travel, particularly to places wit
 
 **Eats & Treats**
 
-Coffee: Menagerie Coffee, Old City Coffee, Ultimo Coffee, Brown Street Coffee
+Coffee: [Menagerie Coffee](https://maps.app.goo.gl/4Q8FkrhujNMKLgQ69), [Old City Coffee](https://maps.app.goo.gl/PY4M7kpR14o3RttM6), [Ultimo Coffee](https://maps.app.goo.gl/PY4M7kpR14o3RttM6), [Brown Street Coffee](https://maps.app.goo.gl/G1GH9TPSH5FLgGAj9)
 
-Bakery: J'aime French Bakery, K'Far Cafe, Oui, ICI Macarons & Cafe
+Bakery: [J'aime French Bakery](https://maps.app.goo.gl/m96ahu8oqg7C8Ju7A), [K'Far Cafe](https://maps.app.goo.gl/t2L1ZcFU5p4QPj3BA), [Oui](https://maps.app.goo.gl/jKXJQKBKtWRRZPaS6), [ICI Macarons & Cafe](https://maps.app.goo.gl/edFLb2FzeDUwWvNp9)
 
-Breakfast: Middle Child, FRIEDA
+Breakfast: [Middle Child](https://maps.app.goo.gl/YSqUZV1MJNEUYVhx7), [FRIEDA](https://maps.app.goo.gl/w8iSgXAo4eeM72zU7)
 
-Brunch: Walnut Street Cafe, Alma del Mar
+Brunch: [Walnut Street Cafe](https://maps.app.goo.gl/BvkcNCVxTScKMEEa9), [Alma del Mar](https://maps.app.goo.gl/rJfps1dpohkc8fa38)
 
-Lunch: El Merkury, Juno, The Bourse Food Hall, Famous 4th Street Delicatessen
+Lunch: [El Merkury](https://maps.app.goo.gl/wX7rAzJFkdardVsm9), [Juno](https://maps.app.goo.gl/aWgXdoneJufa8WW7A), [The Bourse Food Hall](https://maps.app.goo.gl/Sx6cpgRDZ9TftkADA), [Famous 4th Street Delicatessen](https://maps.app.goo.gl/diE68p6o5rDoMxhn6)
 
-Dinner: Vetri Cucina, Pizzeria Stella, Forsythia, Bud & Marilyn's, Parc
+Dinner: [Pizzeria Stella](https://maps.app.goo.gl/L3B3hgPuGmkS8w4G9), [Vetri Cucina](https://maps.app.goo.gl/XmzGGHnsyKRUYPNx5), [Forsythia](https://maps.app.goo.gl/M8HQzBY12Q8iMqYc7), [Bud & Marilyn's](https://maps.app.goo.gl/T9yxnvbnCqwiohmg7), [Parc](https://maps.app.goo.gl/ijjUNwhEgwp8PYc36)
 
-Cheesesteak: Sonny's, Dalessandro's, Woodrows, John's Roast Pork
+Cheesesteak: [Sonny's](https://maps.app.goo.gl/FwAsLJEWEL2EeLM57), [Dalessandro's](https://maps.app.goo.gl/PxAQpiNbrRXFhnL1A), [Woodrow's](https://maps.app.goo.gl/mu9NbvHFB4SqNphj8), [John's Roast Pork](https://maps.app.goo.gl/qWgt227moniV88aQA)
 
 **Activities**
 
