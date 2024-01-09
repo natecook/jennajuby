@@ -161,7 +161,7 @@ During summer of 2021 we did lots of domestic travel, particularly to places wit
 
 **Eats & Treats**
 
-Coffee: [Menagerie Coffee](https://maps.app.goo.gl/4Q8FkrhujNMKLgQ69), [Old City Coffee](https://maps.app.goo.gl/PY4M7kpR14o3RttM6), [Ultimo Coffee](https://maps.app.goo.gl/PY4M7kpR14o3RttM6), [Brown Street Coffee](https://maps.app.goo.gl/G1GH9TPSH5FLgGAj9)
+Coffee: [Menagerie Coffee](https://maps.app.goo.gl/4Q8FkrhujNMKLgQ69), [Old City Coffee](https://maps.app.goo.gl/PY4M7kpR14o3RttM6), [Ultimo Coffee](https://maps.app.goo.gl/pbFqenKM7vVSxhgQA), [Brown Street Coffee](https://maps.app.goo.gl/G1GH9TPSH5FLgGAj9)
 
 Bakery: [J'aime French Bakery](https://maps.app.goo.gl/m96ahu8oqg7C8Ju7A), [K'Far Cafe](https://maps.app.goo.gl/t2L1ZcFU5p4QPj3BA), [Oui](https://maps.app.goo.gl/jKXJQKBKtWRRZPaS6), [ICI Macarons & Cafe](https://maps.app.goo.gl/edFLb2FzeDUwWvNp9)
 
