@@ -7,12 +7,8 @@ gallery:
   photos:
     - imagedescription: Cabo
       imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Cabo+Blog/CaboBlog-1.jpg
-      size: false
-    - imagedescription: Cabo
-      imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Cabo+Blog/CaboBlog-2.jpg
-      size: false
+        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Cabo+Blog/CaboBlog-8.jpg
+      size: true
     - imagedescription: Cabo
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Cabo+Blog/CaboBlog-3.jpg
@@ -27,16 +23,24 @@ gallery:
       size: true
     - imagedescription: Cabo
       imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Cabo+Blog/CaboBlog-6.jpg
-      size: true
+        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Cabo+Blog/CaboBlog-1.jpg
+      size: false
+    - imagedescription: Cabo
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Cabo+Blog/CaboBlog-2.jpg
+      size: false
     - imagedescription: Cabo
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Cabo+Blog/CaboBlog-7.jpg
       size: true
     - imagedescription: Cabo
       imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Cabo+Blog/CaboBlog-8.jpg
-      size: true
+        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Cabo+Blog/CaboBlog-12.jpg
+      size: false
+    - imagedescription: Cabo
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Cabo+Blog/CaboBlog-13.jpg
+      size: false
     - imagedescription: Cabo
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Cabo+Blog/CaboBlog-9.jpg
@@ -51,19 +55,11 @@ gallery:
       size: false
     - imagedescription: Cabo
       imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Cabo+Blog/CaboBlog-12.jpg
-      size: false
-    - imagedescription: Cabo
-      imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Cabo+Blog/CaboBlog-13.jpg
-      size: false
-    - imagedescription: Cabo
-      imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Cabo+Blog/CaboBlog-14.jpg
+        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Cabo+Blog/CaboBlog-15.jpg
       size: true
     - imagedescription: Cabo
       imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Cabo+Blog/CaboBlog-15.jpg
+        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Cabo+Blog/CaboBlog-14.jpg
       size: true
     - imagedescription: Cabo
       imagenew: >-
@@ -75,31 +71,19 @@ gallery:
       size: false
     - imagedescription: Cabo
       imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Cabo+Blog/CaboBlog-18.jpg
-      size: false
-    - imagedescription: Cabo
-      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Cabo+Blog/CaboBlog-19.jpg
       size: false
     - imagedescription: Cabo
       imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Cabo+Blog/CaboBlog-20.jpg
+        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Cabo+Blog/CaboBlog-18.jpg
       size: false
-    - imagedescription: Cabo
-      imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Cabo+Blog/CaboBlog-21.jpg
-      size: false
-    - imagedescription: Cabo
-      imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Cabo+Blog/CaboBlog-22.jpg
-      size: true
     - imagedescription: Cabo
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Cabo+Blog/CaboBlog-23.jpg
       size: true
     - imagedescription: Cabo
       imagenew: >-
-        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Cabo+Blog/CaboBlog-24.jpg
+        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Cabo+Blog/CaboBlog-21.jpg
       size: false
     - imagedescription: Cabo
       imagenew: >-
@@ -107,7 +91,19 @@ gallery:
       size: false
     - imagedescription: Cabo
       imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Cabo+Blog/CaboBlog-22.jpg
+      size: true
+    - imagedescription: Cabo
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Cabo+Blog/CaboBlog-24.jpg
+      size: false
+    - imagedescription: Cabo
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Cabo+Blog/CaboBlog-26.jpg
+      size: false
+    - imagedescription: Cabo
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Cabo+Blog/CaboBlog-20.jpg
       size: true
     - imagedescription: Cabo
       imagenew: >-
