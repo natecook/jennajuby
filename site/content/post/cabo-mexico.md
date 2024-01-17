@@ -116,3 +116,7 @@ gallery:
 At the beginning of 2022, we were staying in California for six weeks with family over the winter months. We decided to take a quick weekend trip down to Cabo while we were there and it was a beautiful and relaxing three days. I've never been to Cabo but it's only a 2.5 hour flight from Orange County...so easy compared to the long flight we had already taken from New York! Cabo was gorgeous. The beaches were stunning and the resort we stayed at was perfect. We stayed at "The Cape", which is a Thompson Hotel. They have some condo style options which we stayed in and it made it so much easier with Dean to have lots of room (he was only 18 months at the time!) The restaurants at the resort were great and I would have been happy getting room service and eating at their restaurants everyn night but we did venture out a bit too. With that said, we didn't do a lot of exploring, as we were mostly there to relax but what we did do and where we stayed, I loved. I'll list those places and a few more below!
 
 Resort: The Cape, A Thompson Hotel
+
+Beaches: Santa Maria Beach, Playa Palmilla, Chileno Bay Public Beach, El Medano Beach, Lovers Beach
+
+Food: Flora Farms, Acre Resort, Taqueria Rossy, The Ledge at The Cape, Manta at The Cape, The Rooftop at The Cape
