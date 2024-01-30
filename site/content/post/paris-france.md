@@ -2,7 +2,7 @@
 title: 'Paris, France 2022'
 date: 2024-01-30T01:41:29.464Z
 description: intro blurb
-image: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-5.jpg'
+image: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-36.jpg'
 gallery:
   photos:
     - imagedescription: Paris
