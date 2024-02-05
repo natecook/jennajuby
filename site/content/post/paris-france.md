@@ -133,8 +133,6 @@ Dessert: La Glacier Farmers,
 
 Honorable mentions: Allard, 
 
+Activities 
 
-
-
-
-We stayed close to the beautiful Luxembourg Gardens and spent a lot of time there when we had Dean with us. They have a playground, carousel, pony riding, mini boat sailing, ice cream, a cafe for lunch...basically a family's dream spot!
+\- Luxembourg Gardens and spent a lot of time there when we had Dean with us. They have a playground, carousel, pony riding, mini boat sailing, ice cream, a cafe for lunch...basically a family's dream spot!
