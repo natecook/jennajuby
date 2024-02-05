@@ -1,7 +1,9 @@
 ---
-title: 'Paris, France 2022'
+title: 'Paris, France'
 date: 2024-01-30T01:41:29.464Z
-description: intro blurb
+description: >-
+  The summer of 2022 we took Dean on his first trip to Paris! We only spent a
+  short time there before heading off to Spain but as always...Paris delivered.
 image: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-36.jpg'
 gallery:
   photos:
@@ -111,4 +113,8 @@ gallery:
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-34.jpg
       size: true
 ---
-body copy
+The summer of 2022 we took Dean on his first trip to Paris! We only spent a short time there before heading off to Spain but as always...Paris delivered. We were a little nervous the city of lights wouldn't be quite as "light" with a 2 year old in tow but somehow it was. Paris is similar to New York in a lot of ways, which made our time there so easy and relaxing. Dean has only ever known life in a city and we explored Paris with him as easy as we live our day to day in New York. We started everyday stopping for a pastry and some coffee first and then head straight to the garden, park, or playground of the day. On this trip we also brought our babysitter so we got to go out while Dean napped at the airbnb in the afternoons and in the evenings when he went to bed. It was great to have help with us when Dean was this age because he slept so much and instead of being stuck inside we got to take that time to explore the city just the two of us. It was a wonderful three days and just writing this I am dying to go back! Below I'll list the things we did and the places we ate on this short stop over in Paris :)
+
+Eats & Treats
+
+We stayed close to the beautiful Luxembourg Gardens and spent a lot of time there when we had Dean with us. They have a playground, carousel, pony riding, mini boat sailing, ice cream, a cafe for lunch...basically a family's dream spot!
