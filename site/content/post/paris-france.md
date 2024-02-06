@@ -5,7 +5,7 @@ description: >-
   During the summer of 2022 we took Dean on his first trip to Paris! We were
   only there for a short time before heading off to Spain but as always...Paris
   delivered.
-image: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-36.jpg'
+image: /img/parisblog-38.jpg
 gallery:
   photos:
     - imagedescription: Dean and I in Luxembourg Gardens
