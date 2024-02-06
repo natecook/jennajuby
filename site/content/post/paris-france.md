@@ -7,108 +7,108 @@ description: >-
 image: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-36.jpg'
 gallery:
   photos:
-    - imagedescription: Paris
+    - imagedescription: Dean and I in Luxembourg Gardens
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-3.jpg
       size: true
-    - imagedescription: Paris
+    - imagedescription: Luxembourg Gardens
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-2.jpg
       size: false
-    - imagedescription: Paris
+    - imagedescription: Luxembourg Gardens
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-4.jpg
       size: false
-    - imagedescription: Paris
+    - imagedescription: An intersection in the 7th
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-1.jpg
       size: true
-    - imagedescription: Paris
+    - imagedescription: Getting our first croissant of the day
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-5.jpg
       size: false
-    - imagedescription: Paris
+    - imagedescription: ''
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-10.jpg
-    - imagedescription: Paris
+    - imagedescription: The carousel in the Tuileries
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-8.jpg
       size: false
-    - imagedescription: Paris
+    - imagedescription: The carousel in the Tuileries
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-7.jpg
       size: false
-    - imagedescription: Paris
+    - imagedescription: Walking in the 7th
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-9.jpg
       size: true
-    - imagedescription: Paris
+    - imagedescription: Lunch at La Fountaine de Mars
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-11.jpg
       size: false
-    - imagedescription: Paris
+    - imagedescription: La Fountaine de Mars
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-13.jpg
-    - imagedescription: Paris
+    - imagedescription: La Fountaine de Mars
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-14.jpg
       size: false
-    - imagedescription: Paris
+    - imagedescription: La Fountaine de Mars
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-12.jpg
-    - imagedescription: Paris
+    - imagedescription: ''
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-16.jpg
       size: true
-    - imagedescription: Paris
+    - imagedescription: View inside Champ-de-Mars
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-17.jpg
-    - imagedescription: Paris
+    - imagedescription: ''
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-15.jpg
       size: false
-    - imagedescription: Paris
+    - imagedescription: Breakfast at Café de Flore
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-18.jpg
       size: false
-    - imagedescription: Paris
+    - imagedescription: Café de Flore
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-19.jpg
-    - imagedescription: Paris
+    - imagedescription: Luxembourg Gardens
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-20.jpg
       size: true
-    - imagedescription: Paris
+    - imagedescription: Luxembourg Gardens
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-21.jpg
       size: false
-    - imagedescription: Paris
+    - imagedescription: ''
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-24.jpg
-    - imagedescription: Paris
+    - imagedescription: Lunch at Café du Trocadéro
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-23.jpg
-    - imagedescription: Paris
+    - imagedescription: ''
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-22.jpg
-    - imagedescription: Paris
+    - imagedescription: Palais-Royal Garden
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-28.jpg
       size: true
-    - imagedescription: Paris
+    - imagedescription: Trocadéro Gardens
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-26.jpg
       size: false
-    - imagedescription: Paris
+    - imagedescription: Palais-Royal Garden
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-29.jpg
-    - imagedescription: Paris
+    - imagedescription: The Lourve Pyramid
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-27.jpg
-    - imagedescription: Paris
+    - imagedescription: ''
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-31.jpg
-    - imagedescription: Paris
+    - imagedescription: ''
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-34.jpg
       size: true
