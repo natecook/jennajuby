@@ -61,7 +61,7 @@ gallery:
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-16.jpg
       size: true
-    - imagedescription: View inside Champ-de-Mars
+    - imagedescription: View from inside Champ-de-Mars
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-17.jpg
     - imagedescription: ''
