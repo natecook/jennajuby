@@ -121,18 +121,22 @@ Coffee: Noir, Certified Cafe
 
 Pastry: Des Gateaux et du Pain Claire Damon, Maison Galland
 
-Breakfast: Cafe de Flore
+Breakfast: Coutume, Treize Bakery, Cafe de Flore
 
-Lunch: Cafe du Trocadero
+Lunch: Fountaine De Mars, Le Petite Varenne, Cafe du Trocadero
 
-Dinner: Les Deux Magots
+Dinner: Les Deux Magots, Allard
 
-Drinks: La Grande Cremerie
+Drinks: La Grande Cremerie, Perscription Cocktail Club
 
-Dessert: La Glacier Farmers, 
-
-Honorable mentions: Allard, 
+Dessert: Le Bac a Glaces, La Glacier Farmers
 
 Activities 
 
 \- Luxembourg Gardens and spent a lot of time there when we had Dean with us. They have a playground, carousel, pony riding, mini boat sailing, ice cream, a cafe for lunch...basically a family's dream spot!
+
+\- Tuileries Gardens
+
+\- Trocadero Gardens
+
+\- Jardin du Palais Royal
