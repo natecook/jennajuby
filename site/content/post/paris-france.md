@@ -117,19 +117,19 @@ The summer of 2022 we took Dean on his first trip to Paris! We only spent a shor
 
 Eats & Treats
 
-Coffee: Noir, Certified Cafe
+Coffee: [Noir](https://maps.app.goo.gl/4J3ps65Vj3Fc3sBY7), [Certified Café](https://maps.app.goo.gl/VUn6LvfiWs8UoaQA6)
 
-Pastry: Des Gateaux et du Pain Claire Damon, Maison Galland
+Pastry: [Des Gaâteaux et du Pain Claire Damon](https://maps.app.goo.gl/BUk9y53YzzSm9k6o6), [Boulangerie Poilâne](https://maps.app.goo.gl/SCTWrgpVZbJKeLEd9)
 
-Breakfast: Coutume, Treize Bakery, Cafe de Flore
+Breakfast: [Coutume](https://maps.app.goo.gl/KSdMqZgeQV9FCkoLA), [Treize Bakery](https://maps.app.goo.gl/q8Hnj2KBmzw9htw18), [Café de Flore](https://maps.app.goo.gl/pY1e214QNZDW3hg46)
 
-Lunch: Fountaine De Mars, Le Petite Varenne, Cafe du Trocadero
+Lunch: [La Fountaine de Mars](https://maps.app.goo.gl/xFWss9wmZjVBDhp56), [Le Petit Varenne](https://maps.app.goo.gl/zur9A6skRwpXDBT39), [Café du Trocadéro](https://maps.app.goo.gl/Br9LoT8hv9FY9xPu6)
 
-Dinner: Les Deux Magots, Allard
+Dinner: [Les Deux Magots](https://maps.app.goo.gl/rKr8wxGuUGvtCBye8), [Allard](https://maps.app.goo.gl/haCpwbAGke3Dffp66)
 
-Drinks: La Grande Cremerie, Perscription Cocktail Club
+Drinks: [La Grande Crèmerie](https://maps.app.goo.gl/w2UjYqiNMVunjsHX8), [Perscription Cocktail Club](https://maps.app.goo.gl/EWAbEhyebHHKCars5)
 
-Dessert: Le Bac a Glaces, La Glacier Farmers
+Dessert: [Le Bac à Glaces](https://maps.app.goo.gl/dx4K6rCnKkJWooGm7), [Le Glacier Farmers](https://maps.app.goo.gl/zFEPhnSZNhQJ5n3k8)
 
 Activities 
 
