@@ -135,8 +135,8 @@ Dessert: [Le Bac à Glaces](https://maps.app.goo.gl/dx4K6rCnKkJWooGm7), [Le Glac
 
 \- [Luxembourg Gardens](https://maps.app.goo.gl/9x6BRUKptKbwfvAz8), we spent a lot of time there when we had Dean with us because we stayed near by. They have a playground, carousel, pony riding, mini boat sailing, ice cream, a cafe for lunch...basically a family's dream spot! Apart from those things it's just a beautiful spot to walk around and admire all the gardens. There's lot of places to sit and relax and take in the gorgeous surroundings. 
 
-\- [Tuileries Gardens](https://maps.app.goo.gl/kVomiihDEGRwqdhd8), another great spot for adults and kiddos alike...lots of room to run, a carousel, playground, mini trampolines, lots of spots to stop for coffee or ice cream, and in the summers a 
+\- [Tuileries Gardens](https://maps.app.goo.gl/kVomiihDEGRwqdhd8), another great spot for adults and kiddos alike...lots of room to run, a carousel, playground, mini trampolines, lots of spots to stop for coffee or ice cream, and in the summers a small amusement rides for kids. The gardens lay in the shadow of the Louvre and the backdrop of the museum with the flowers and walkways in front of it are stunning. 
 
-\- [Trocadero Gardens](https://maps.app.goo.gl/mzaDpXiJN53G1P8e9)
+\- [Trocadero Gardens](https://maps.app.goo.gl/mzaDpXiJN53G1P8e9), this place is more touristy but it has an awesome view of the Eiffel tower and the city behind it. It's defintely worth seeing if you haven't yet!
 
-\- [Palais Royal Garden](https://maps.app.goo.gl/zexvRkzu6hfUMTbR6)
+\- [Palais Royal Garden](https://maps.app.goo.gl/zexvRkzu6hfUMTbR6), another adorable garden to explore, stop to see the art, flowers, fountaines and grab a coffee or afternoon spritz at one of the cafes looking onto the gardens.
