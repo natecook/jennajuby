@@ -1,65 +1,145 @@
 ---
 title: 'Paris, France'
-date: Thu, 19 Jul 2018 20:08:17 +0000
-draft: false
+date: 2024-01-30T01:41:29.464Z
 description: >-
-  Anyone who knows me knows that Paris is one of my favorite places in the entire world and I will jump at any opportunity to go!
-image: https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-35.jpg
+  During the summer of 2022 we took Dean on his first trip to Paris! We were
+  only there for a short time before heading off to Spain but as always...Paris
+  delivered.
+image: /img/parisblog-38.jpg
+gallery:
+  photos:
+    - imagedescription: Dean and I in Luxembourg Gardens
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-3.jpg
+      size: true
+    - imagedescription: Luxembourg Gardens
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-2.jpg
+      size: false
+    - imagedescription: Luxembourg Gardens
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-4.jpg
+      size: false
+    - imagedescription: An intersection in the 7th
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-1.jpg
+      size: true
+    - imagedescription: Getting our first croissant of the day
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-5.jpg
+      size: false
+    - imagedescription: ''
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-10.jpg
+    - imagedescription: The carousel in the Tuileries
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-8.jpg
+      size: false
+    - imagedescription: The carousel in the Tuileries
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-7.jpg
+      size: false
+    - imagedescription: Walking in the 7th
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-9.jpg
+      size: true
+    - imagedescription: Lunch at La Fountaine de Mars
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-11.jpg
+      size: false
+    - imagedescription: La Fountaine de Mars
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-13.jpg
+    - imagedescription: La Fountaine de Mars
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-14.jpg
+      size: false
+    - imagedescription: La Fountaine de Mars
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-12.jpg
+    - imagedescription: ''
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-16.jpg
+      size: true
+    - imagedescription: View from inside Champ-de-Mars
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-17.jpg
+    - imagedescription: ''
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-15.jpg
+      size: false
+    - imagedescription: Breakfast at Café de Flore
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-18.jpg
+      size: false
+    - imagedescription: Café de Flore
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-19.jpg
+    - imagedescription: Luxembourg Gardens
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-20.jpg
+      size: true
+    - imagedescription: Luxembourg Gardens
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-21.jpg
+      size: false
+    - imagedescription: ''
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-24.jpg
+    - imagedescription: Lunch at Café du Trocadéro
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-23.jpg
+    - imagedescription: ''
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-22.jpg
+    - imagedescription: Palais-Royal Garden
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-28.jpg
+      size: true
+    - imagedescription: Trocadéro Gardens
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-26.jpg
+      size: false
+    - imagedescription: Palais-Royal Garden
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-29.jpg
+    - imagedescription: The Lourve Pyramid
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-27.jpg
+    - imagedescription: ''
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-31.jpg
+    - imagedescription: ''
+      imagenew: >-
+        https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-34.jpg
+      size: true
 ---
+During the summer of 2022 we took Dean on his first trip to Paris! We were only there for a short time before heading off to Spain but as always...Paris delivered. At first we were a little nervous the city of lights wouldn't be quite as "light" with a 2 year old in tow but somehow it was. Paris is pretty similar to New York in a lot of ways, which made our time there relatively relaxing. Dean has only ever known life in a city and the rhythm of our days was much the same as being at home, so we hit the ground running as soon as we landed!  We started everyday stopping for a pastry and some coffee and then head straight to the garden, park, or playground of the day. On this trip we also brought our babysitter so we got to go out while Dean napped at the airbnb in the afternoons and in the evenings when he went to bed. It was great to have help with us when Dean was this age because he slept so much and instead of being stuck inside we got to take that time to explore the city just the two of us. It was a wonderful three days and just writing this I am dying to go back! 
 
-Anyone who knows me knows that Paris is one of my favorite places in the entire world and I will jump at any opportunity to go! This spring, our friends Kate and Sam, needed to renew their visa (they're Australian), and decided to do it in Paris, and Nate and I, plus Haley and Ryan, joined them! Our little crew explored the city for the first couple days together. And then Nate and I met up with our friends Kayleigh and Josh, who happened to be in Paris at the same time! It was really fun getting to explore a city I love with friends, and it made the experience that much sweeter. The last few days of the trip (we were only there a week), was just Nate and I, and we took a day trip to Versailles. Our week was full of a lot of food, and a lot of exploring. I loved every minute of it and can't wait to go back to Paris again, because we all know I can't stay away. Also, I beat my record of croissants (last time I had 17 in 5 days) and this trip I had 22 in 7 days. NOOOOT bad.
-
-Here are the places I recommend to eat/drink/be merry, things to do, and where to stay! Of course that's followed by a hundred or so of my favorite photos from the trip. Also, here's a link to one of the posts I wrote about Paris last time we went, with a list of [tips and tricks](https://jennajuby.com/post/paris-part-1/) on traveling there!
-
-**Where To Stay**
-
-This is the question I get asked most about traveling to Paris. It's a big city and every arrondissement is so different, it's hard to pick. My recommendation is to stay in an airbnb (we did this and loved it). We also spent the second half of our week in a hotel, which was nice to be pampered a little bit too. Here is my list of preferred districts to stay, in order of preference, including my preferred neighborhood within that district.
-
-**6**: St. Germain- This is my favorite district, and I think the prettiest. It's full of gardens, beautiful cafes, high end shops, and clean sidewalks. I love it.
-
-**7**: Invalides: This is like St. Germains more quiet younger brother. It's clean and quiet, but weirdly close to all the action for being so chill. Right next to the Eiffel Tower and easy train stations but low key and pretty.
-
-**3/4**: Le Marais- This is where all the fun restaurants and shops are, in the middle of all the action, but also far enough away from really touristy stuff that it feels more local. This neighborhood definitely has the best places to eat, but is also easy to get to from 6.
-
-**1/2**: Anywhere in here will be mostly quiet and classy, there are a lot of high hiiiigh end shops, but not much night life. This is a very clean district and is close to the Tuileries gardens and the Louvre. We stayed in 2 the first time we visited Paris and it was pretty convenient and pleasant!
+We stayed in the 7th arrondissement so a lot of my recommendations are in this area as well as the 6th. This is definitely not a comprehensive list of where to eat or what to do in Paris but they are the places we enjoyed on our short trip there this time!
 
 **Eats & Treats**
 
-Coffee: [Honor](https://www.instagram.com/honorcafe/), [Ob-La-Di Cafe](https://www.instagram.com/obladicafe/?hl=en), [Cuillier](https://www.instagram.com/cuillierparis/?hl=en), [Coutume](https://www.instagram.com/coutumecafe/?hl=en)
+Coffee: [Noir](https://maps.app.goo.gl/4J3ps65Vj3Fc3sBY7), [Certified Café](https://maps.app.goo.gl/VUn6LvfiWs8UoaQA6)
 
-Bakery: [La Guinguette d’angele](https://www.instagram.com/laguinguettedangele/?hl=en)
+Pastry: [Des Gaâteaux et du Pain Claire Damon](https://maps.app.goo.gl/BUk9y53YzzSm9k6o6), [Boulangerie Poilâne](https://maps.app.goo.gl/SCTWrgpVZbJKeLEd9)
 
-Croissant: [Le Grenier a Pain](http://legrenierapain.com/) and [Tout Autour du Pain](https://www.facebook.com/pages/Tout-Autour-du-Pain/927695087302384)
+Breakfast: [Coutume](https://maps.app.goo.gl/KSdMqZgeQV9FCkoLA), [Treize Bakery](https://maps.app.goo.gl/q8Hnj2KBmzw9htw18), [Café de Flore](https://maps.app.goo.gl/pY1e214QNZDW3hg46)
 
-Macaron: [Pierre Herme](https://www.instagram.com/pierreherme/?hl=en) and [Laduree](https://www.instagram.com/maisonladuree/?hl=en)
+Lunch: [La Fountaine de Mars](https://maps.app.goo.gl/xFWss9wmZjVBDhp56), [Le Petit Varenne](https://maps.app.goo.gl/zur9A6skRwpXDBT39), [Café du Trocadéro](https://maps.app.goo.gl/Br9LoT8hv9FY9xPu6)
 
-Breakfast: [Marcelle](https://www.instagram.com/restaurant_marcelle/?hl=en) and [Passager](https://www.instagram.com/passager_cafe/?hl=en)
+Dinner: [Les Deux Magots](https://maps.app.goo.gl/rKr8wxGuUGvtCBye8), [Allard](https://maps.app.goo.gl/haCpwbAGke3Dffp66)
 
-Brunch: [Cafe De Flore](http://cafedeflore.fr/)
+Drinks: [La Grande Crèmerie](https://maps.app.goo.gl/w2UjYqiNMVunjsHX8), [Perscription Cocktail Club](https://maps.app.goo.gl/EWAbEhyebHHKCars5)
 
-Crepe: [Brutus](https://www.instagram.com/brutus_paris/) and [La Creperie de Josselin](https://www.google.com/maps/place/La+Cr%C3%AAperie+de+Josselin/@48.841703,2.3232243,17z/data=!3m1!4b1!4m5!3m4!1s0x47e671cc0a8a9235:0xf280f216bb7c8d28!8m2!3d48.841703!4d2.325413)
+Dessert: [Le Bac à Glaces](https://maps.app.goo.gl/dx4K6rCnKkJWooGm7), [Le Glacier Farmers](https://maps.app.goo.gl/zFEPhnSZNhQJ5n3k8)
 
-Lunch: [Pink Mamma](https://www.instagram.com/explore/tags/pinkmamma/), picnic on the Seine
+**Activities** 
 
-Afternoon wine: [La Maison Rose](https://www.instagram.com/explore/locations/125124958207068/la-maison-rose/), [Hotel De Crillon](https://www.instagram.com/rwcrillon/) courtyard, [Hotel Grand Amour](https://www.instagram.com/explore/tags/hotelgrandamour/) courtyard
+\- [Luxembourg Gardens](https://maps.app.goo.gl/9x6BRUKptKbwfvAz8), we spent a lot of time here when we had Dean with us since we stayed nearby. They have a playground, carousel, pony riding, mini boat sailing, ice cream, and a few cafes to stop at for lunch. Apart from those things it's just a beautiful spot to walk around and admire the gardens. There's lots of places to sit and relax and take in this gorgeous place!
 
-Dinner: [Ferdi](https://www.instagram.com/ferdirestaurant/), [Carbon](https://www.instagram.com/carbon_paris/), [Les Philosophes](https://www.instagram.com/explore/locations/340222/les-philosophes/), [Poulette](https://www.instagram.com/pouletterestaurant/), [Les Ombres](https://www.instagram.com/explore/locations/217214915/les-ombres/)
+\- [Tuileries Gardens](https://maps.app.goo.gl/kVomiihDEGRwqdhd8), another great spot for adults and kiddos alike...lots of room to run, a carousel, playground, mini trampolines, lots of spots to stop for coffee or ice cream...and in the summers a small amusement park for kids. The gardens lay in the shadow of the Louvre and the backdrop of the museum with the flowers and walkways in front of it are stunning. With or without kids, this is an idyllic spot to wander.
 
-Dessert: [Scoop Me A Cookie](https://www.instagram.com/scoopmeacookie/), street cart crepe, any cute outdoor cafe with a dessert menu!
+\- [Trocadero Gardens](https://maps.app.goo.gl/mzaDpXiJN53G1P8e9), this place is more touristy but it has an awesome view of the Eiffel tower and the city behind it. It's defintely worth seeing if you haven't yet!
 
-Evening Drinks: [Au Rocher de Cancale](https://www.instagram.com/explore/tags/aurocherdecancale/), [Bisou.](https://www.instagram.com/bar_bisou/), take a bottle of wine to the Eiffel tower!
-
-**Things To Do**
-
-Here's my [original list](https://jennajuby.com/post/paris-part-2/) of activities in Paris that I wrote a few years ago that I still stand by but I'll list some new ones that we did on this trip below
-
-- Walk to the top of the Arc De Triomphe, get tickets online in advance and skip the line, there's an amazing view at the top and it doesn't take long to walk up!
-- Walk along the Seine Canal, check out the street vendors, find yourself some old books or antiques to take home!
-- Take a day trip to see Versaille, get "skip the line" tickets, or else you could be waiting outside for hours just to get inside. Go early, right when it opens, and plan on spending more of your day in the gardens than in the house. Plan on most of the day here and get lunch at the cafe, grab some ice cream, and rent a row boat too! It's all so beautiful!
-- Head to Le Palais Royal early in the morning before the courtyard is too crowded...and make sure to walk around the beautiful garden there too and see all the shops and cafes along the palais.
-- Explore the non touristy parts of Montmartre, away from the crowds it is the most beautiful little neighborhood with charming old homes including Van Goghs!
-- See the Musee National Gustave Moreau, a smaller less intimidating way to see Parisian paintings
-- Ride a carousel in the Tuileries
-- Run or take a walk in the early mornings, I love seeing cities this way, the sun rising and people just waking up, it's a great way to see a city
-- Spend every morning with an espresso and croissant and every evening with a glass of wine and dessert, at a cafe, people watching. There is nothing better than this.<br><br>
-<div class="flex-ns mhn2-ns mb3"> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-1.jpg)</div> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-2.jpg)</div> </div> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-4.jpg) <div class="flex-ns mhn2-ns mb3"> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-3.jpg)</div> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-5.jpg)</div> </div> <div class="flex-ns mhn2-ns mb3"> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-7.jpg)</div> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-6.jpg)</div> </div> <div class="flex-ns mhn2-ns mb3"> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-9.jpg)</div> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-11.jpg)</div> </div> <div class="flex-ns mhn2-ns mb3"> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-8.jpg)</div> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-10.jpg)</div> </div> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-12.jpg) <div class="flex-ns mhn2-ns mb3"> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-13.jpg)</div> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-14.jpg)</div> </div> <div class="flex-ns mhn2-ns mb3"> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-15.jpg)</div> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-45.jpg)</div> </div> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-19.jpg) ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-18.jpg) <div class="flex-ns mhn2-ns mb3"> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-16.jpg)</div> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-17.jpg)</div> </div> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-20.jpg) <div class="flex-ns mhn2-ns mb3"> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-21.jpg)</div> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-23.jpg)</div> </div> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-22.jpg) <div class="flex-ns mhn2-ns mb3"> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-25.jpg)</div> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-26.jpg)</div> </div> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-27.jpg) <div class="flex-ns mhn2-ns mb3"> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-58.jpg)</div> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-28.jpg)</div> </div> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-35.jpg) <div class="flex-ns mhn2-ns mb3"> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-29.jpg)</div> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-46.jpg)</div> </div> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-33.jpg) <div class="flex-ns mhn2-ns mb3"> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-31.jpg)</div> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-30.jpg)</div> </div> <div class="flex-ns mhn2-ns mb3"> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-32.jpg)</div> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-34.jpg)</div> </div> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-88.jpg) <div class="flex-ns mhn2-ns mb3"> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-38.jpg)</div> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-39.jpg)</div> </div> <div class="flex-ns mhn2-ns mb3"> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-42.jpg)</div> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-40.jpg)</div> </div> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-41.jpg) <div class="flex-ns mhn2-ns mb3"> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-36.jpg)</div> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-43.jpg)</div> </div> <div class="flex-ns mhn2-ns mb3"> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-44.jpg)</div> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-124.jpg)</div> </div> <div class="flex-ns mhn2-ns mb3"> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-47.jpg)</div> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-48.jpg)</div> </div> <div class="flex-ns mhn2-ns mb3"> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-50.jpg)</div> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-51.jpg)</div> </div> <div class="flex-ns mhn2-ns mb3"> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-52.jpg)</div> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-56.jpg)</div> </div> <div class="flex-ns mhn2-ns mb3"> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-53.jpg)</div> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-49.jpg)</div> </div> <div class="flex-ns mhn2-ns mb3"> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-54.jpg)</div> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-55.jpg)</div> </div> <div class="flex-ns mhn2-ns mb3"> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-37.jpg)</div> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-24.jpg)</div> </div> <div class="flex-ns mhn2-ns mb3"> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-59.jpg)</div> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-60.jpg)</div> </div> <div class="flex-ns mhn2-ns mb3"> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-62.jpg)</div> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-61.jpg)</div> </div> <div class="flex-ns mhn2-ns mb3"> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-64.jpg)</div> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-65.jpg)</div> </div> <div class="flex-ns mhn2-ns mb3"> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-67.jpg)</div> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-66.jpg)</div> </div> <div class="flex-ns mhn2-ns mb3"> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-69.jpg)</div> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-68.jpg)</div> </div> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-70.jpg) <div class="flex-ns mhn2-ns mb3"> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-71.jpg)</div> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-72.jpg)</div> </div> <div class="flex-ns mhn2-ns mb3"> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-73.jpg)</div> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-78.jpg)</div> </div> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-75.jpg) <div class="flex-ns mhn2-ns mb3"> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-74.jpg)</div> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-76.jpg)</div> </div> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-77.jpg) ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-81.jpg) ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-79.jpg) <div class="flex-ns mhn2-ns mb3"> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-80.jpg)</div> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-83.jpg)</div> </div> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-82.jpg) <div class="flex-ns mhn2-ns mb3"> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-85.jpg)</div> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-86.jpg)</div> </div> <div class="flex-ns mhn2-ns mb3"> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-84.jpg)</div> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-87.jpg)</div> </div> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-94.jpg) <div class="flex-ns mhn2-ns mb3"> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-93.jpg)</div> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-91.jpg)</div> </div> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-92.jpg) <div class="flex-ns mhn2-ns mb3"> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-90.jpg)</div> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-95.jpg)</div> </div> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-98.jpg) <div class="flex-ns mhn2-ns mb3"> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-96.jpg)</div> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-97.jpg)</div> </div> <div class="flex-ns mhn2-ns mb3"> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-100.jpg)</div> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-99.jpg)</div> </div> <div class="flex-ns mhn2-ns mb3"> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-101.jpg)</div> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-103.jpg)</div> </div> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-102.jpg) ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-57.jpg) ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-119.jpg) ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-114.jpg) <div class="flex-ns mhn2-ns mb3"> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-104.jpg)</div> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-121.jpg)</div> </div> <div class="flex-ns mhn2-ns mb3"> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-113.jpg)</div> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-109.jpg)</div> </div> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-105.jpg) <div class="flex-ns mhn2-ns mb3"> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-118.jpg)</div> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-117.jpg)</div> </div> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-106.jpg) <div class="flex-ns mhn2-ns mb3"> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-120.jpg)</div> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-111.jpg)</div> </div> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-115.jpg) <div class="flex-ns mhn2-ns mb3"> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-116.jpg)</div> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-112.jpg)</div> </div> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-122.jpg) <div class="flex-ns mhn2-ns mb3"> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-110.jpg)</div> <div class="ph2-ns w-50-ns"> ![](https://djh82r8xhqebh.cloudfront.net/uploads/2018/07/Paris_Blog-123.jpg)</div> </div>
+\- [Palais Royal Garden](https://maps.app.goo.gl/zexvRkzu6hfUMTbR6), another adorable garden to explore, stop to see the art, flowers, fountains and grab a coffee or afternoon spritz at one of the cafes looking onto the gardens.
