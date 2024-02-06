@@ -2,8 +2,9 @@
 title: 'Paris, France'
 date: 2024-01-30T01:41:29.464Z
 description: >-
-  The summer of 2022 we took Dean on his first trip to Paris! We only spent a
-  short time there before heading off to Spain but as always...Paris delivered.
+  During the summer of 2022 we took Dean on his first trip to Paris! We were
+  only there for a short time before heading off to Spain but as always...Paris
+  delivered.
 image: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-36.jpg'
 gallery:
   photos:
@@ -113,7 +114,9 @@ gallery:
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Paris+Blog/ParisBlog-34.jpg
       size: true
 ---
-The summer of 2022 we took Dean on his first trip to Paris! We only spent a short time there before heading off to Spain but as always...Paris delivered. We were a little nervous the city of lights wouldn't be quite as "light" with a 2 year old in tow but somehow it was. Paris is similar to New York in a lot of ways, which made our time there so easy and relaxing. Dean has only ever known life in a city and we explored Paris with him as easy as we live our day to day in New York. We started everyday stopping for a pastry and some coffee first and then head straight to the garden, park, or playground of the day. On this trip we also brought our babysitter so we got to go out while Dean napped at the airbnb in the afternoons and in the evenings when he went to bed. It was great to have help with us when Dean was this age because he slept so much and instead of being stuck inside we got to take that time to explore the city just the two of us. It was a wonderful three days and just writing this I am dying to go back! We stayed in the 7th arrondissement so a lot of my recommendations are in this area and the 6th right next to it. This is definitely not a comprehensive list of where to eat or what to do in Paris but they are the places we enjoyed on our short trip there this time!
+During the summer of 2022 we took Dean on his first trip to Paris! We were only there for a short time before heading off to Spain but as always...Paris delivered. At first we were a little nervous the city of lights wouldn't be quite as "light" with a 2 year old in tow but somehow it was. Paris is pretty similar to New York in a lot of ways, which made our time there relatively relaxing. Dean has only ever known life in a city and the rhythm of our days was much the same as being at home, so we hit the ground running as soon as we landed!  We started everyday stopping for a pastry and some coffee and then head straight to the garden, park, or playground of the day. On this trip we also brought our babysitter so we got to go out while Dean napped at the airbnb in the afternoons and in the evenings when he went to bed. It was great to have help with us when Dean was this age because he slept so much and instead of being stuck inside we got to take that time to explore the city just the two of us. It was a wonderful three days and just writing this I am dying to go back! 
+
+We stayed in the 7th arrondissement so a lot of my recommendations are in this area as well as the 6th. This is definitely not a comprehensive list of where to eat or what to do in Paris but they are the places we enjoyed on our short trip there this time!
 
 **Eats & Treats**
 
