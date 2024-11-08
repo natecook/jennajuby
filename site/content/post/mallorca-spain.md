@@ -1,133 +1,184 @@
 ---
 title: 'Mallorca, Spain'
 date: 2024-11-06T17:32:46.439Z
-description: Description
+description: >-
+  Two summers ago we spent a few weeks exploring Spain and our first stop of
+  this trip was to the beautiful island of Mallorca!
 image: >-
   https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-6.jpg
 gallery:
   photos:
-    - imagenew: >-
+    - imagedescription: Walking through Santanyi
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-1.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Walking through Santanyi
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-2.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Walking through Santanyi
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-3.jpg
-    - imagenew: >-
+    - imagedescription: Walking through Santanyi
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-4.jpg
-    - imagenew: >-
+    - imagedescription: Cala Llambards
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-6.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Cala Llambards
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-5.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Cala Llambards
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-7.jpg
-    - imagenew: >-
+    - imagedescription: Cala Llambards
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-15.jpg
-    - imagenew: >-
+    - imagedescription: Cala Llambards
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-8.jpg
-    - imagenew: >-
+    - imagedescription: Cala Llambards
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-9.jpg
-    - imagenew: >-
+    - imagedescription: Cala Llambards
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-17.jpg
-    - imagenew: >-
+    - imagedescription: Cala Llambards
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-10.jpg
-    - imagenew: >-
+    - imagedescription: Cala Llambards
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-13.jpg
-    - imagenew: >-
+    - imagedescription: Cala Llambards
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-12.jpg
-    - imagenew: >-
+    - imagedescription: Cala Llambards
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-11.jpg
-    - imagenew: >-
+    - imagedescription: Cala Llambards
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-14.jpg
-    - imagenew: >-
+    - imagedescription: Cala Llambards
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-16.jpg
-    - imagenew: >-
+    - imagedescription: Cala Llambards
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-19.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: Cala Llambards
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-18.jpg
-    - imagenew: >-
+    - imagedescription: Our airbnb in Santanyi
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-20.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Our airbnb in Santanyi
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-21.jpg
-    - imagenew: >-
+    - imagedescription: Our airbnb in Santanyi
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-43.jpg
-    - imagenew: >-
+    - imagedescription: The town of Deià
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-23.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: The town of Deià
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-24.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: The town of Deia
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-25.jpg
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-26.jpg
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-27.jpg
-    - imagenew: >-
+    - imagedescription: The town of Deià
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-28.jpg
-    - imagenew: >-
+    - imagedescription: The town of Deià
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-29.jpg
-    - imagenew: >-
+    - imagedescription: The town of Deià
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-30.jpg
-    - imagenew: >-
+    - imagedescription: The town of Deià
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-31.jpg
-    - imagenew: >-
+    - imagedescription: The town of Deià
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-32.jpg
-    - imagenew: >-
+    - imagedescription: The town of Deià
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-33.jpg
-    - imagenew: >-
+    - imagedescription: Walking the grounds of La Residencia Hotel in Deià
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-34.jpg
-    - imagenew: >-
+    - imagedescription: Walking the grounds of La Residencia Hotel in Deià
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-35.jpg
-    - imagenew: >-
+    - imagedescription: Walking the grounds of La Residencia Hotel in Deià
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-36.jpg
-    - imagenew: >-
+    - imagedescription: Walking the grounds of La Residencia Hotel in Deià
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-38.jpg
-    - imagenew: >-
+    - imagedescription: Walking the grounds of La Residencia Hotel in Deià
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-37.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: Walking the grounds of La Residencia Hotel in Deià
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-39.jpg
-    - imagenew: >-
+    - imagedescription: Walking the grounds of La Residencia Hotel in Deià
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-40.jpg
-    - imagenew: >-
+    - imagedescription: Restaurante Miró in Deià
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-41.jpg
-    - imagenew: >-
+    - imagedescription: Restaurante Miró in Deià
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-42.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: S’Amarador beach
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-51.jpg
       size: true
-    - imagenew: >-
+    - imagedescription: S’Amarador beach
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-45.jpg
       size: false
-    - imagenew: >-
+    - imagedescription: S’Amarador beach
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-47.jpg
-    - imagenew: >-
+    - imagedescription: S’Amarador beach
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-46.jpg
-    - imagenew: >-
+    - imagedescription: S’Amarador beach
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-48.jpg
-    - imagenew: >-
+    - imagedescription: S’Amarador beach
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-49.jpg
-    - imagenew: >-
+    - imagedescription: S’Amarador beach
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-50.jpg
       size: false
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-52.jpg
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-53.jpg
-    - imagenew: >-
+    - imagedescription: Enjoying the city of Palma
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-54.jpg
-    - imagenew: >-
+    - imagedescription: Enjoying the city of Palma
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-56.jpg
       size: false
-    - imagenew: ''
-    - imagenew: >-
+    - imagedescription: Enjoying the city of Palma
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-57.jpg
       size: true
     - imagenew: >-
@@ -158,6 +209,8 @@ gallery:
     - imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-65.jpg
 ---
+Two summers ago we spent a few weeks exploring Spain and our first stop of this trip was to the beautiful island of Mallorca. We stayed in Santanyi at an airbnb (find the listing [here](https://www.airbnb.com/rooms/42501458?guests=1&adults=1&s=67&unique_share_id=4047bda6-f215-4d9d-b3e0-83a2f6dc089b)) with our friends for just under a week. Santanyi seemed like a good location that was not too far from the main city of Palma, close to the most popular beaches, and only an hour or so from Deia, a destination village and must see when visiting the island. We spent most of our trip at various beaches and by our airbnb pool but we also managed to have a whole day in Deia, and an evening dinner sans children in Palma. The trip was a perfect mix of relaxing and exploring and definitely a place I would like to visit again! Below are some of my suggested activities and beaches if you’re planning a trip to Mallorca as well restaurant and bakery recommendations from different towns around the island. Enjoy!
+
 **Activities**
 
 * Explore the town of Palma, the biggest on the island. Don’t miss the Palma Cathedral, La Rambla, and most of all the amazing restaurants, shops, and adorable streets like Passeig del born.
