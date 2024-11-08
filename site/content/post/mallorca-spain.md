@@ -224,7 +224,7 @@ Two summers ago we spent a few weeks exploring Spain and our first stop of this 
 
 **Activities**
 
-* Explore the town of Palma, the biggest on the island. Don’t miss the Palma Cathedral, La Rambla, and most of all the amazing restaurants, shops, and adorable streets like Passeig del born.
+* Explore the town of Palma, the biggest on the island. Don’t miss the Palma Cathedral, La Rambla, and most of all the amazing restaurants, shops, and adorable streets like Passeig del born
 * Spend a day in Deia, the most beautiful and picturesque town on the island
 * Relax at a beach club for the day, we went to "Gran Folies"
 * See Alcúdia, the islands oldest town
@@ -232,11 +232,11 @@ Two summers ago we spent a few weeks exploring Spain and our first stop of this 
 * Go on one of the many hikes in the Serra de Tramuntana
 * Explore the Jardines de Marivent, the royal family’s summer home
 * Go to the Son Marroig, a countryside estate turned museum with sweeping views and gardens
-* See the town of Santanyi, and visit their famous markets on wednesdays and saturdays
+* See the town of Santanyi, and visit their markets on wednesdays and saturdays
 
 **Beaches**
 
-* Cala Llambards, a small beautiful beach with shallow clear water, and stunning scenery all around. It’s great for families because it’s an organized beach where you can rent chairs/umbrellas, enjoy the beach bar with snacks and drinks, and has paid parking close by.  
+* Cala Llambards, a small beautiful beach with shallow clear water, and stunning scenery all around. It’s great for families because it’s an organized beach where you can rent chairs/umbrellas, enjoy the beach bar with snacks and drinks, and it has paid parking close by.  
 * Cala Mondrago, a beautiful beach in a nature reserve, with turquoise water and surrounded by trees. Although it’s raw and unspoiled it does have all the amenities of an organized beach as well. 
 * S’Amarador beach, a great spot with clear shallow water and small waves. It’s close to Cala Mondrago and similar but bigger and has more sand. It has umbrellas and chairs to rent with parking not too far away. 
 * Cala Torta, a gorgeous beach on the far east side of the island.  The road there is a bit rough and it doesn’t have any of the amenities of an organized beach but it’s untouched and raw, and much less busy than the beaches on the other side of the island. 
