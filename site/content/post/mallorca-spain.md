@@ -91,9 +91,11 @@ gallery:
     - imagedescription: The town of Deia
       imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-25.jpg
-    - imagenew: >-
+    - imagedescription: de moniö
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-26.jpg
-    - imagenew: >-
+    - imagedescription: de moniö
+      imagenew: >-
         https://djh82r8xhqebh.cloudfront.net/uploads/2022/Mallorca+Blog/Mallorca+Blog/MallorcaBlog-27.jpg
     - imagedescription: The town of Deià
       imagenew: >-
@@ -234,8 +236,8 @@ Two summers ago we spent a few weeks exploring Spain and our first stop of this 
 
 **Beaches**
 
-* Cala Llambards- a small beautiful beach with shallow clear water, and stunning scenery all around. It’s great for families because it’s an organized beach where you can rent chairs/umbrellas, enjoy the beach bar with snacks and drinks, and has paid parking close by.  
-* Cala Mondrago- a beautiful beach in a nature reserve, with turquoise water and surrounded by trees. Although it’s raw and unspoiled it does have all the amenities of an organized beach as well. 
+* Cala Llambards, a small beautiful beach with shallow clear water, and stunning scenery all around. It’s great for families because it’s an organized beach where you can rent chairs/umbrellas, enjoy the beach bar with snacks and drinks, and has paid parking close by.  
+* Cala Mondrago, a beautiful beach in a nature reserve, with turquoise water and surrounded by trees. Although it’s raw and unspoiled it does have all the amenities of an organized beach as well. 
 * S’Amarador beach, a great spot with clear shallow water and small waves. It’s close to Cala Mondrago and similar but bigger and has more sand. It has umbrellas and chairs to rent with parking not too far away. 
 * Cala Torta, a gorgeous beach on the far east side of the island.  The road there is a bit rough and it doesn’t have any of the amenities of an organized beach but it’s untouched and raw, and much less busy than the beaches on the other side of the island. 
 
@@ -251,6 +253,7 @@ _Deia_
 
 * El Olivio
 * Ca’s Patró March
+* de moniö (cafe)
 * Restaurante Xelini Deià
 * Restaurante Miró
 * Restaurant Nama
