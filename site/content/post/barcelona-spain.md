@@ -1,8 +1,7 @@
 ---
 title: 'Barcelona, Spain'
 date: 2024-11-13T17:28:28.567Z
-description: >-
-  Description
+description: Description
 image: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-1.jpg'
 gallery:
   photos:
@@ -12,6 +11,7 @@ gallery:
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-2.jpg'
     - imagedescription: description
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-3.jpg'
+      size: true
     - imagedescription: description
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-4.jpg'
     - imagedescription: description
@@ -22,14 +22,17 @@ gallery:
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-7.jpg'
     - imagedescription: description
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-8.jpg'
+      size: true
     - imagedescription: description
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-9.jpg'
+      size: true
     - imagedescription: description
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-10.jpg'
     - imagedescription: description
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-11.jpg'
     - imagedescription: description
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-12.jpg'
+      size: true
     - imagedescription: description
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-13.jpg'
     - imagedescription: description
@@ -42,10 +45,13 @@ gallery:
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-17.jpg'
     - imagedescription: description
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-18.jpg'
+      size: false
     - imagedescription: description
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-19.jpg'
+      size: true
     - imagedescription: description
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-20.jpg'
+      size: true
     - imagedescription: description
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-21.jpg'
     - imagedescription: description
@@ -60,6 +66,7 @@ gallery:
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-26.jpg'
     - imagedescription: description
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-27.jpg'
+      size: true
     - imagedescription: description
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-28.jpg'
     - imagedescription: description
