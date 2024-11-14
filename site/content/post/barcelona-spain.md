@@ -107,8 +107,6 @@ gallery:
 * **Bistrot Levante**, a cute wine bar with great apps, sitting in a charming little plaza in the gothic quarter
 * **Fismuler**, a fun trendy place to get dinner, reservations recommended 
 
-
-
 Here’s a list of spanish food, known in barcelona specifically, to try while you're in the region!
 
 * bombas, pa am tomaquet, mato, fideua, escalivada, croquettes, cod fish, crema catalana, spanish omelette/tortilla, calcots, manchengo cheese, churros, and cava.
