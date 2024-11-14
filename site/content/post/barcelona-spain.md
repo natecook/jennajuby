@@ -88,7 +88,7 @@ gallery:
     - imagedescription: description
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-34.jpg'
 ---
-Activities
+**Activities**
 
 * Explore some of Gaudi’s most famous works of architecture around the city…Sagrada Familia, Casa Batlló, Casa Mila, Park Guell, Casa Vicens and many more. These were the places of his we visited and were truly the gem of Barcelona. No trip is complete without seeing these gorgeous works of art!
 * Walk down the lively La Rambla, a tree lined pedestrian street filled with shops, restaurants, musicians, and art.  La Rambla sits in the heart of the city and goes on for over a kilometer, and a must see when visiting Barcelona. Don’t forget to walk the wooden walkway of the Rambla De Mar, the continuation of La Rambla once it reaches the coast.
@@ -97,21 +97,15 @@ Activities
 * See my favorite part of any European city, the plazas…in Barcelona the Plaça Reial and Placa De Catalunya are the ones to see.
 * Explore the gothic quarter of old town Barcelona, where you can step back in time and also see the Cathedral de Barcelona. This was also the neighborhood we stayed in a my preferenced place to walk around the city!
 
-Eats & Treats
+**Eats & Treats**
 
-Buenas Migas for coffee and quick breakfast
-
-Right Side Coffee Bar for great coffee in the gothic quarter
-
-Kitchens of St. Catherine, an open market with lots of different food offerings, open all day
-
-Xup, Xup, a seafood restaurant for a ocean side lunch right on the sand
-
-Les Filles Cafe, a beautiful place for lunch or dinner with yummy food and a pretty courtyard seating
-
-Bistrot Levante, a cute wine bar with great apps, sitting in a charming little plaza in the gothic quarter
-
-Fismuler, a fun trendy place to get dinner, reservations recommended 
+* **Right Side Coffee Bar,** for great coffee in the gothic quarter
+* **Buenas Migas,** a good place with lots of locations in the city for coffee and quick breakfast
+* **Kitchens of St. Catherine**, an open market with lots of different food offerings, open all day
+* **Xup, Xup**, a seafood restaurant for a ocean side lunch right on the sand
+* **Les Filles Cafe**, a beautiful place for lunch or dinner with yummy food and a pretty courtyard seating
+* **Bistrot Levante**, a cute wine bar with great apps, sitting in a charming little plaza in the gothic quarter
+* **Fismuler**, a fun trendy place to get dinner, reservations recommended 
 
 
 
