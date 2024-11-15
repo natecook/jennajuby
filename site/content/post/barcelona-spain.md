@@ -4,7 +4,7 @@ date: 2024-11-13T17:28:28.567Z
 description: >-
   After our week in Mallorca, we flew to Barcelona to spend three days exploring
   the city.  Barcelona was so vibrant, colorful, and fun- we loved it!
-image: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-1.jpg'
+image: /img/barcelona-27.jpg
 gallery:
   photos:
     - imagedescription: description
