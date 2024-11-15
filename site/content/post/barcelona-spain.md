@@ -101,16 +101,16 @@ We stayed in the gothic quarter of the city at Hotel Neri and really liked the l
 * Spend time in Ciutadella Park, there's so much to do and see, especially for kids!
 * See the neighborhood of La Barceloneta and sunbath or have a seaside lunch on their famous beaches, Barceloneta Beach and Sant Sebastià Beach. 
 * Wonder the cyprus maze of the beautiful Parc del Laberint d'Horta, a public garden outside the touristy area of the city and tucked away in the quiet Horta-Guinardó neighborhood.
-* See my favorite part of any European city, the plazas…in Barcelona the Plaça Reial and Placa De Catalunya are the ones to see.
-* Explore the gothic quarter of old town Barcelona, where you can step back in time and also see the Cathedral de Barcelona. This was also the neighborhood we stayed in a my preferenced place to walk around the city!
+* See my favorite part of any European city...the plazas! In Barcelona the Plaça Reial and Placa De Catalunya are the ones to see.
+* Explore the gothic quarter of old town Barcelona, where you can step back in time and also see the Cathedral de Barcelona.
 
 **Eats & Treats**
 
 * **Right Side Coffee Bar,** for great coffee in the gothic quarter
 * **Buenas Migas,** a good place with lots of locations in the city for coffee and quick breakfast
 * **Kitchens of St. Catherine**, an open market with lots of different food offerings, open all day
-* **Xup, Xup**, a seafood restaurant for a ocean side lunch right on the sand
-* **Les Filles Cafe**, a beautiful place for lunch or dinner with yummy food and a pretty courtyard seating
+* **Xup, Xup**, a seafood restaurant on the sand of Barceloneta Beach
+* **Les Filles Cafe**, a beautiful place for lunch or dinner with yummy food and pretty courtyard seating
 * **Bistrot Levante**, a cute wine bar with great apps, sitting in a charming little plaza in the gothic quarter
 * **Fismuler**, a fun trendy place to get dinner, reservations recommended 
 * **Terrassa de Vivi**, beautiful rooftop bar with great views of the city
