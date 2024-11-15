@@ -115,6 +115,6 @@ We stayed in the gothic quarter of the city at Hotel Neri and really liked the l
 * **Fismuler**, a fun trendy place to get dinner, reservations recommended 
 * **Terrassa de Vivi**, beautiful rooftop bar with great views of the city
 
-Also, here’s a list of spanish food, known in barcelona specifically, to try while you're in the region!
+_Also, here’s a list of spanish food, known in barcelona specifically, to try while you're in the region!_
 
 * bombas, pa am tomaquet, mato, fideua, escalivada, croquettes, cod fish, crema catalana, spanish omelette/tortilla, calcots, manchengo cheese, churros, and cava.
