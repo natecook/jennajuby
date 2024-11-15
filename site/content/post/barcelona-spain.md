@@ -92,7 +92,7 @@ gallery:
 ---
 After our week in Mallorca, we flew to Barcelona to spend three days exploring the city.  Barcelona was so vibrant, colorful, and fun- we loved it! The food surpassed our expectations and it was a pretty easy city to navigate even with a two year old and stroller in tow. And with Barcelona being on the water, the beach vibe made the city feel like the perfect summer destination, I would not pass it up if you are planning a trip around Spain!
 
-We stayed in the gothic quarter of the city at Hotel Neri and really liked the location.  It was pretty central to everything we wanted to see while in Barcelona and the hotel has a “casa” side which offers rooms that are more like apartments that have a living area and full kitchen as well. I highly recommend Hotel Neri! And with that said, here is my list of recommendations on what to do and where to eat while visiting Barcelona!
+We stayed in the gothic quarter of the city at Hotel Neri and really liked the location.  It was pretty central to everything we wanted to see while in Barcelona and the hotel has a “casa” side which offers rooms that are more like apartments that have a living area and full kitchen as well. I highly recommend Hotel Neri and with that said, here is my list of recommendations on what to do and where to eat while visiting Barcelona!
 
 **Activities**
 
