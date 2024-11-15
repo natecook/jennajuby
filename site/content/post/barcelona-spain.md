@@ -40,31 +40,31 @@ gallery:
     - imagedescription: Plaça Reial
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-12.jpg'
       size: true
-    - imagedescription: description
+    - imagedescription: Casa Batlló
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-19.jpg'
       size: false
-    - imagedescription: description
+    - imagedescription: Casa Batlló
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-15.jpg'
-    - imagedescription: description
+    - imagedescription: Casa Batlló
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-16.jpg'
       size: true
-    - imagedescription: description
+    - imagedescription: Casa Batlló
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-18.jpg'
       size: false
-    - imagedescription: description
+    - imagedescription: Casa Batlló
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-17.jpg'
-    - imagedescription: description
+    - imagedescription: Casa Batlló
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-20.jpg'
       size: true
-    - imagedescription: description
+    - imagedescription: Sagrada Família
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-22.jpg'
-    - imagedescription: description
+    - imagedescription: Sagrada Família
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-23.jpg'
-    - imagedescription: description
+    - imagedescription: Sagrada Família
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-24.jpg'
-    - imagedescription: description
+    - imagedescription: Cathedral of Barcelona
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-26.jpg'
-    - imagedescription: description
+    - imagedescription: View of the city from Park Güell
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-27.jpg'
       size: true
     - imagedescription: description
@@ -72,20 +72,20 @@ gallery:
       size: false
     - imagedescription: description
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-21.jpg'
-    - imagedescription: description
+    - imagedescription: Park Güell
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-32.jpg'
-    - imagedescription: description
+    - imagedescription: Park Güell
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-28.jpg'
       size: false
-    - imagedescription: description
+    - imagedescription: Park Güell
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-29.jpg'
     - imagedescription: description
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-33.jpg'
     - imagedescription: description
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-35.jpg'
-    - imagedescription: description
+    - imagedescription: Park Güell
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-30.jpg'
-    - imagedescription: description
+    - imagedescription: Park Güell
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-31.jpg'
     - imagedescription: description
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-34.jpg'
