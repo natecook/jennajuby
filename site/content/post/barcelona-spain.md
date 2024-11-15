@@ -98,6 +98,7 @@ We stayed in the gothic quarter of the city at Hotel Neri and really liked the l
 
 * Explore some of Gaudi’s most famous works of architecture around the city…Sagrada Familia, Casa Batlló, Casa Mila, Park Guell, Casa Vicens and many more. These were the places of his we visited and were truly the gem of Barcelona. No trip is complete without seeing these gorgeous works of art!
 * Walk down the lively La Rambla, a tree lined pedestrian street filled with shops, restaurants, musicians, and art.  La Rambla sits in the heart of the city and goes on for over a kilometer, and a must see when visiting Barcelona. Don’t forget to walk the wooden walkway of the Rambla De Mar, the continuation of La Rambla once it reaches the coast.
+* Spend time in Ciutadella Park, there's so much to do and see, especially for kids!
 * See the neighborhood of La Barceloneta and sunbath or have a seaside lunch on their famous beaches, Barceloneta Beach and Sant Sebastià Beach. 
 * Wonder the cyprus maze of the beautiful Parc del Laberint d'Horta, a public garden outside the touristy area of the city and tucked away in the quiet Horta-Guinardó neighborhood.
 * See my favorite part of any European city, the plazas…in Barcelona the Plaça Reial and Placa De Catalunya are the ones to see.
