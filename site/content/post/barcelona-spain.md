@@ -7,7 +7,7 @@ description: >-
 image: /img/barcelona-27.jpg
 gallery:
   photos:
-    - imagedescription: The rooftop pool at Hotel Neri.
+    - imagedescription: The rooftop pool at Hotel Neri
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-1.jpg'
     - imagedescription: Plaça Reial
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-13.jpg'
@@ -18,10 +18,10 @@ gallery:
     - imagedescription: Playground inside of Ciutadella Park
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-2.jpg'
       size: false
-    - imagedescription: Walking down the La Rambla.
+    - imagedescription: Walking down the La Rambla
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-8.jpg'
       size: false
-    - imagedescription: Walking around Barcelona.
+    - imagedescription: Walking around Barcelona
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-5.jpg'
     - imagedescription: Ciutadella Park
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-4.jpg'
