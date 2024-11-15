@@ -1,7 +1,9 @@
 ---
 title: 'Barcelona, Spain'
 date: 2024-11-13T17:28:28.567Z
-description: Description
+description: >-
+  After our week in Mallorca, we flew to Barcelona to spend three days exploring
+  the city.  Barcelona was so vibrant, colorful, and fun- we loved it!
 image: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-1.jpg'
 gallery:
   photos:
@@ -88,6 +90,10 @@ gallery:
     - imagedescription: description
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-34.jpg'
 ---
+After our week in Mallorca, we flew to Barcelona to spend three days exploring the city.  Barcelona was so vibrant, colorful, and fun- we loved it! The food surpassed our expectations and it was a pretty easy city to navigate even with a two year old and stroller in tow. And with Barcelona being on the water, the beach vibe made the city feel like the perfect summer destination, I would not pass it up if you are planning a trip around Spain!
+
+We stayed in the gothic quarter of the city at Hotel Neri and really liked the location.  It was pretty central to everything we wanted to see while in Barcelona and the hotel has a “casa” side which offers rooms that are more like apartments that have a living area and full kitchen as well. I highly recommend Hotel Neri! And with that said, here is my list of recommendations on what to do and where to eat while visiting Barcelona!
+
 **Activities**
 
 * Explore some of Gaudi’s most famous works of architecture around the city…Sagrada Familia, Casa Batlló, Casa Mila, Park Guell, Casa Vicens and many more. These were the places of his we visited and were truly the gem of Barcelona. No trip is complete without seeing these gorgeous works of art!
