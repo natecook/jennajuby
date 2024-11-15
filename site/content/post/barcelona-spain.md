@@ -67,10 +67,10 @@ gallery:
     - imagedescription: View of the city from Park Güell
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-27.jpg'
       size: true
-    - imagedescription: description
+    - imagedescription: Lunch at Les Filles Cafè
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-25.jpg'
       size: false
-    - imagedescription: description
+    - imagedescription: Walking around Barcelona
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-21.jpg'
     - imagedescription: Park Güell
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-32.jpg'
@@ -79,7 +79,7 @@ gallery:
       size: false
     - imagedescription: Park Güell
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-29.jpg'
-    - imagedescription: description
+    - imagedescription: Walking around Barcelona
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-33.jpg'
     - imagedescription: description
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-35.jpg'
@@ -87,7 +87,7 @@ gallery:
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-30.jpg'
     - imagedescription: Park Güell
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-31.jpg'
-    - imagedescription: description
+    - imagedescription: Terrassa de Vivi
       imagenew: 'https://djh82r8xhqebh.cloudfront.net/uploads/2022/Barcelona-34.jpg'
 ---
 After our week in Mallorca, we flew to Barcelona to spend three days exploring the city.  Barcelona was so vibrant, colorful, and fun- we loved it! The food surpassed our expectations and it was a pretty easy city to navigate even with a two year old and stroller in tow. And with Barcelona being on the water, the beach vibe made the city feel like the perfect summer destination, I would not pass it up if you are planning a trip around Spain!
@@ -113,6 +113,7 @@ We stayed in the gothic quarter of the city at Hotel Neri and really liked the l
 * **Les Filles Cafe**, a beautiful place for lunch or dinner with yummy food and a pretty courtyard seating
 * **Bistrot Levante**, a cute wine bar with great apps, sitting in a charming little plaza in the gothic quarter
 * **Fismuler**, a fun trendy place to get dinner, reservations recommended 
+* **Terrassa de Vivi**, beautiful rooftop bar with great views of the city
 
 Also, here’s a list of spanish food, known in barcelona specifically, to try while you're in the region!
 
