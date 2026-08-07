@@ -575,10 +575,8 @@
     semver "^5.3.0"
 
 "@babel/runtime@^7.1.2", "@babel/runtime@^7.2.0":
-  version "7.4.2"
-  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.4.2.tgz#f5ab6897320f16decd855eed70b705908a313fe8"
-  dependencies:
-    regenerator-runtime "^0.13.2"
+  version "7.29.7"
+  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.29.7.tgz#12022450c45a4da6d8d8287b18a4ff2ddb23f768"
 
 "@babel/template@7.0.0-beta.44":
   version "7.0.0-beta.44"
